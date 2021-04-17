@@ -1,0 +1,43 @@
+2021-04-16 23:19:31,986: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-16 23:20:01,222: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-16 23:23:14,901: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-16 23:23:41,236: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-16 23:25:49,694: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-16 23:26:17,053: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-17 12:03:46,726: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:04:15,348: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-17 12:04:27,654: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:04:56,400: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-17 12:09:33,951: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:10:02,849: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-17 12:25:52,421: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:25:58,797: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 48, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 324, in scan
+    print(_tab.Debugger.scriptParsed)
+NameError: name '_tab' is not defined
+2021-04-17 12:25:58,800: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-17 12:25:58,803: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:26:05,192: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 48, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 324, in scan
+    print(_tab.Debugger.scriptParsed)
+NameError: name '_tab' is not defined
+2021-04-17 12:26:05,194: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-17 12:26:05,195: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:26:22,310: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:26:51,211: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-17 12:27:33,367: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-17 12:28:01,272: [INFO] Finished chromedevtools (scanner.py:201)
