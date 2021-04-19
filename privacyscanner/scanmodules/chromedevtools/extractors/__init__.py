@@ -17,3 +17,4 @@ from .imprint import ImprintExtractor
 from .hstspreload import HSTSPreloadExtractor
 from .fingerprinting import FingerprintingExtractor
 from .fb_pixel import FacebookPixelExtractor
+from .localstorage import LocalStorageExtractor

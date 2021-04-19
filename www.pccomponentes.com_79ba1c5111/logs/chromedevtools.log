@@ -220,3 +220,95 @@ AttributeError: 'Page' object has no attribute 'request'
 2021-04-19 16:14:16,744: [INFO] Finished chromedevtools (scanner.py:201)
 2021-04-19 16:14:49,597: [INFO] Starting chromedevtools (scanner.py:177)
 2021-04-19 16:15:19,272: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:24:47,094: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:25:27,783: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/localstorage.py", line 20, in extract_information
+    info = javascript_evaluate(self.page.tab, STORAGE_JS);
+NameError: name 'javascript_evaluate' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 49, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/localstorage.py", line 21, in extract_information
+    except JavaScriptError:
+NameError: name 'JavaScriptError' is not defined
+2021-04-19 23:25:27,794: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:25:27,795: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:25:54,145: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:26:24,152: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/localstorage.py", line 21, in extract_information
+    info = javascript_evaluate(self.page.tab, STORAGE_JS);
+NameError: name 'javascript_evaluate' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 49, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/localstorage.py", line 22, in extract_information
+    except JavaScriptError:
+NameError: name 'JavaScriptError' is not defined
+2021-04-19 23:26:24,160: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:26:24,161: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:26:53,900: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:27:23,761: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:29:15,063: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:29:47,646: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:32:17,805: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:32:49,324: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:44:09,020: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:44:37,905: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:45:04,577: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:45:35,050: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 23:48:20,970: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 23:48:52,855: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:09:47,568: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:10:18,189: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:12:26,497: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:12:55,855: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:29:39,902: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:29:51,239: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:30:20,747: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:31:37,700: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:32:08,163: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:35:55,311: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:36:29,741: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:38:06,295: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:38:38,899: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:40:10,554: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:40:40,553: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:43:02,096: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:43:32,121: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:54:02,764: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:54:35,057: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 00:58:10,795: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 00:58:40,091: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 01:00:02,060: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 01:00:34,466: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 01:13:38,583: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 01:14:09,996: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 01:15:38,197: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 01:15:45,603: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 01:16:15,596: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 01:16:40,526: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 01:17:11,701: [INFO] Finished chromedevtools (scanner.py:201)

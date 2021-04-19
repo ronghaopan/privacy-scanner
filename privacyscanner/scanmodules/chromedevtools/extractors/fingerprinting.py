@@ -174,14 +174,12 @@ class FingerprintingExtractor(Extractor):
             self._canvas_image = message['retval']
 
     def _receive_webGL_log(self, message):
-        print(message)
         self._webGL['calls'].append({
             'method': message['name'],
             'arguments': message['arguments']
         })
     
     def _receive_audio_log(self, message):
-        print(message)
         self._audio['calls'].append({
             'method': message['name'],
             'arguments': message['arguments']
