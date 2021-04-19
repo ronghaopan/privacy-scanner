@@ -143,3 +143,80 @@
 2021-04-17 17:09:15,800: [INFO] Finished chromedevtools (scanner.py:201)
 2021-04-17 17:10:22,494: [INFO] Starting chromedevtools (scanner.py:177)
 2021-04-17 17:10:55,756: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 00:52:22,776: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 00:52:52,911: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 10:36:27,348: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 10:37:07,610: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 10:40:56,134: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 10:41:25,584: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 14:24:32,281: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 14:25:01,877: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 14:25:26,099: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 14:25:56,884: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 14:35:53,181: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 14:36:22,086: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 15:46:22,837: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 15:46:52,533: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 48, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/fb_pixel.py", line 16, in extract_information
+    for request in self.page.request.log:
+AttributeError: 'Page' object has no attribute 'request'
+2021-04-19 15:46:52,542: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 15:46:52,543: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 15:47:20,512: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 48, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/fb_pixel.py", line 16, in extract_information
+    for request in self.page.request.log:
+AttributeError: 'Page' object has no attribute 'request'
+2021-04-19 15:47:20,521: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 15:47:20,522: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 15:48:24,971: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 15:48:54,327: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 48, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/fb_pixel.py", line 16, in extract_information
+    for request in self.page.request.log:
+AttributeError: 'Page' object has no attribute 'request'
+2021-04-19 15:48:54,336: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 15:48:54,337: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 15:49:43,149: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 15:50:15,213: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 15:54:34,646: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 15:55:09,404: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 16:02:05,598: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 16:02:35,153: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 16:07:32,348: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 16:08:01,988: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 16:13:46,575: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 16:14:16,744: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-19 16:14:49,597: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-19 16:15:19,272: [INFO] Finished chromedevtools (scanner.py:201)
