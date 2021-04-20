@@ -312,3 +312,302 @@ NameError: name 'JavaScriptError' is not defined
 2021-04-20 01:16:15,596: [INFO] Finished chromedevtools (scanner.py:201)
 2021-04-20 01:16:40,526: [INFO] Starting chromedevtools (scanner.py:177)
 2021-04-20 01:17:11,701: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:08:37,671: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:08:58,652: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:09:28,002: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:31:11,070: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:31:40,971: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:32:00,718: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:32:32,477: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 39, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 40, in javascript_evaluate
+    raise JavaScriptError('{}: {}'.format(error_type, error_description))
+privacyscanner.scanmodules.chromedevtools.utils.JavaScriptError: SyntaxError: SyntaxError: Unexpected token 'return'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 42, in extract_information
+    print(error)
+NameError: name 'error' is not defined
+2021-04-20 23:32:32,486: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:32:32,487: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:33:02,186: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 39, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 40, in javascript_evaluate
+    raise JavaScriptError('{}: {}'.format(error_type, error_description))
+privacyscanner.scanmodules.chromedevtools.utils.JavaScriptError: SyntaxError: SyntaxError: Unexpected token 'return'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 42, in extract_information
+    pass
+NameError: name 'error' is not defined
+2021-04-20 23:33:02,195: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:33:02,196: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:33:31,533: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 39, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 40, in javascript_evaluate
+    raise JavaScriptError('{}: {}'.format(error_type, error_description))
+privacyscanner.scanmodules.chromedevtools.utils.JavaScriptError: SyntaxError: SyntaxError: Unexpected token 'return'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 42, in extract_information
+    pass
+NameError: name 'error' is not defined
+2021-04-20 23:33:31,543: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:33:31,544: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:34:00,454: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 39, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 40, in javascript_evaluate
+    raise JavaScriptError('{}: {}'.format(error_type, error_description))
+privacyscanner.scanmodules.chromedevtools.utils.JavaScriptError: SyntaxError: SyntaxError: Unexpected token 'return'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 42, in extract_information
+    pass
+NameError: name 'error' is not defined
+2021-04-20 23:34:00,465: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:34:11,142: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:34:27,918: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:35:24,224: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:36:41,070: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:37:10,900: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:37:10,910: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:37:10,911: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:38:10,175: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:38:39,822: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:38:39,833: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:38:39,835: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:39:07,795: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:39:07,803: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:39:07,805: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:39:35,890: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:39:35,899: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:39:35,900: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:39:58,965: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:40:28,351: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 43, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:40:28,361: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:40:28,362: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:40:47,971: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:41:18,430: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:42:24,959: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:42:56,436: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:42:56,446: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:42:56,447: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:45:19,945: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:45:59,992: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:46:00,001: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:46:00,002: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:46:28,077: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:46:28,087: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:46:28,088: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:48:21,997: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:48:51,610: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 408, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 573, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/windowfingerprinting.py", line 41, in extract_information
+    info = javascript_evaluate(self.page.tab, GetResult)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/utils.py", line 44, in javascript_evaluate
+    raise RuntimeError('Unexpected response from Chrome: {}'.format(result))
+RuntimeError: Unexpected response from Chrome: {'type': 'undefined'}
+2021-04-20 23:48:51,622: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:48:51,623: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:49:18,457: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:49:50,505: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-20 23:57:24,229: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-20 23:57:53,103: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-21 00:02:55,471: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-21 00:03:23,885: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-21 00:08:56,140: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-21 00:09:25,818: [INFO] Finished chromedevtools (scanner.py:201)
