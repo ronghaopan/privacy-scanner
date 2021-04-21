@@ -8,23 +8,15 @@ GetResult = """
     dict['window.plugins'] = window.plugins;
     dict['window.useragent'] = window.useragent;
     dict['window.language'] = window.language;
-    dict['window.languages'] = window.languages;
     dict['window.cpuclass'] = window.cpuclass;
     dict['window.platform'] = window.platform;
     dict['window.doNotTrack'] = window.doNotTrack;
     dict['window.appName'] = window.appName;
-    dict['window.colorDepth'] = window.colorDepth;
-    dict['window.height'] = window.height;
-    dict['window.width'] = window.width;
     dict['window.localstorage'] = window.localstorage;
     dict['window.sessionstorage'] = window.sessionstorage;
     dict['window.indexDB'] = window.indexDB;
-    dict['window.connection'] = window.connection;
-    dict['window.rtc'] = window.rtc;
-    dict['window.aud'] = window.aud;
-    dict['window.memory'] = window.memory;
-    dict['window.concurrency'] = window.concurrency;
-    dict['window.geolocation'] = window.geolocation; 
+    dict['window.RTCPeerConnection'] = window.rtc;
+    dict['window.AudioContext'] = window.aud; 
     return dict;
 })()
 """.lstrip()

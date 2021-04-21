@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/ronghao/Descargas/privacyscanner-master/venv"
+set -gx VIRTUAL_ENV "/home/ronghao/TFG/privacyscanner-master/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

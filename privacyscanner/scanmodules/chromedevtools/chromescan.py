@@ -139,149 +139,127 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     window.plugins = 0;
     window.useragent = 0;
     window.language = 0;
-    window.languages = 0;
     window.cpuclass = 0;
     window.platform = 0;
     window.doNotTrack = 0;
     window.appName = 0;
-    window.colorDepth = 0;
-    window.height = 0;
-    window.width = 0;
     window.localstorage = 0;
     window.sessionstorage = 0;
     window.indexDB = 0;
-    window.connection = 0;
     window.rtc = 0 ;
     window.aud = 0;
-    window.memory = 0;
-    window.concurrency = 0;
-    window.geolocation = 0; 
 
-    Object.defineProperty(window, "screen", {
-	value: new Proxy(window.screen, {
-    		get: function(target, name) {
-    			console.log("screen property", name, "is read")
-			if (name == "colorDepth") {
-				window.colorDepth++;
-			}
-			else if (name == "height")
-			{
-			    window.height++;
-			}
-			else if (name == "width")
-			{
-			    window.width++;
-			}
-				return target[name];
-    		}
-	    })
-    });
+   Object.defineProperty(window, "AudioContext", (function(_value){
+      return {
+        get: function _get() {
+          window.aud++;  
+          return _value;
+        }
+      };
+    })(window.AudioContext)); 
+   
+   Object.defineProperty(window, "RTCPeerConnection", (function(_value){
+      return {
+        get: function _get() {
+          window.rtc++;  
+          return _value;
+        }
+      };
+    })(window.RTCPeerConnection)); 
 
-    Object.defineProperty(window, "navigator", {
-	value: new Proxy(window.navigator, {
-    		get: function(target, name) {
-    			console.log("navigator property", name, "is read")
-			if (name == "plugins") {
-				window.plugins++;
-			}
-			else if (name == "userAgent")
-			{
-			    window.useragent++;
-			}
-			else if (name == "language")
-    		{
-    		    window.language++;
-    		}
-    		else if (name == "languages")
-    		{
-    		    window.languages++;
-    		}
-    		else if (name == "cpuClass")
-    		{
-                window.cpuclass++;
-    		}
-    		else if (name == "platform")
-    		{
-                window.platform++;
-    		}
-            else if (name == "doNotTrack")
-    		{
-                window.doNotTrack++;
-    		}
-            else if (name == "appName")
-    		{
-                window.appName++;
-    		}
-    		else if (name == "connection")
-    		{
-                window.connection++;
-    		}
-    		else if (name == "deviceMemory")
-    		{
-                window.memory++;
-    		}
-    		else if (name == "hardwareConcurrency")
-    		{
-                window.concurrency++;
-    		}
-    		else if (name == "geolocation")
-    		{
-                window.geolocation++;
-    		}
-    			return target[name];
-    		}
-	    })
-    });
+   Object.defineProperty(window, "indexedDB", (function(_value){
+      return {
+        get: function _get() {
+          window.indexDB++;  
+          return _value;
+        }
+      };
+    })(window.indexedDB));
+
+   Object.defineProperty(window, "sessionStorage", (function(_value){
+      return {
+        get: function _get() {
+          window.sessionstorage++;  
+          return _value;
+        }
+      };
+    })(window.sessionStorage));
+   
+   Object.defineProperty(window, "localStorage", (function(_value){
+      return {
+        get: function _get() {
+          window.localstorage++;  
+          return _value;
+        }
+      };
+    })(window.localStorage));
     
-    Object.defineProperty(window, "localStorage", {
-    	value: new Proxy(window.localStorage, {
-    		get: function(target, name) {
-    			console.log("localStorage property", name, "is read")
-    			window.localstorage++
-    			return target[name];
-    		}
-    	})
-    });
+   Object.defineProperty(window.navigator, "platform", (function(_value){
+      return {
+        get: function _get() {
+          window.platform++;  
+          return _value;
+        }
+      };
+    })(window.navigator.userAgent));
 
-    Object.defineProperty(window, "sessionStorage", {
-    	value: new Proxy(window.sessionStorage, {
-    		get: function(target, name) {
-    			console.log("sessionStorage property", name, "is read")
-    			window.sessionstorage++
-    			return target[name];
-    		}
-    	})
-    });
+    Object.defineProperty(window.navigator, "userAgent", (function(_value){
+      return {
+        get: function _get() {
+          window.useragent++;  
+          return _value;
+        }
+      };
+    })(window.navigator.userAgent));
 
-    Object.defineProperty(window, "indexedDB", {
-    	value: new Proxy(window.indexedDB, {
-    		get: function(target, name) {
-    			console.log("indexedDB property", name, "is read")
-    			window.indexDB++
-    			return target[name];
-    		}
-    	})
-    });
+    Object.defineProperty(window.navigator, "plugins", (function(_value){
+      return {
+        get: function _get() {
+          window.plugins++;  
+          return _value;
+        }
+      };
+    })(window.navigator.plugins));
 
-    Object.defineProperty(window, "RTCPeerConnection", {
-    	value: new Proxy(window.RTCPeerConnection, {
-    		get: function(target, name) {    			
-    			window.rtc++
-    			return target[name];
-    		}
-    	})
-    });
+    Object.defineProperty(window.navigator, "language", (function(_value){
+      return {
+        get: function _get() {
+          window.language++;  
+          return _value;
+        }
+      };
+    })(window.navigator.language));
 
-    Object.defineProperty(window, "AudioContext", {
-    	value: new Proxy(window.AudioContext, {
-    		get: function(target, name) {   			
-    			window.aud++
-    			return target[name];
-    		}
-    	})
-    });
+    Object.defineProperty(window.navigator, "doNotTrack", (function(_value){
+      return {
+        get: function _get() {
+          window.doNotTrack++;  
+          return _value;
+        }
+      };
+    })(window.navigator.doNotTrack));
+
+    Object.defineProperty(window.navigator, "cpuclass", (function(_value){
+      return {
+        get: function _get() {
+          window.cpuclass++;  
+          return _value;
+        }
+      };
+    })(window.navigator.cpuclass));
+    
+    Object.defineProperty(window.navigator, "appName", (function(_value){
+      return {
+        get: function _get() {
+          window.appName++;  
+          return _value;
+        }
+      };
+    })(window.navigator.appName));          
 
     __extra_scripts__
+
+    
 })();
 """.lstrip()
 
