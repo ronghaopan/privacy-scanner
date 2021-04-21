@@ -258,7 +258,6 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     })(window.navigator.appName));          
 
     __extra_scripts__
-
     
 })();
 """.lstrip()

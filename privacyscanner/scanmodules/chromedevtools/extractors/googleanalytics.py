@@ -19,9 +19,9 @@ class GoogleAnalyticsExtractor(Extractor):
                     for query in fb_query: 
                         if pattern.match(query):
                             googleAnalytics['has_trackers'] = True
-                            id = query.split('=')[1]
-                            if id not in googleAnalytics['trackers']:
-                                googleAnalytics['trackers'].append(id)
+                            ids = query.split('=')[1]
+                            if ids not in googleAnalytics['trackers_id']:
+                                googleAnalytics['trackers_id'].append(ids)
                             break
         
         self.result['google_analytics'] = googleAnalytics
