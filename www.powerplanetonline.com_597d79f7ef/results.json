@@ -3,11 +3,11 @@
   "cookies": [
     {
       "domain": "www.powerplanetonline.com",
-      "expires": 2565642398.940756,
+      "expires": 2565644077.16252,
       "httpOnly": true,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 946633890.9407558,
+      "lifetime": 946633891.1625199,
       "name": "cfid",
       "path": "/",
       "priority": "Medium",
@@ -16,15 +16,15 @@
       "secure": true,
       "session": false,
       "size": 40,
-      "value": "89295a09-3166-47bf-84cb-734e35795b95"
+      "value": "af725a26-49b8-49d9-a070-38347ba230b8"
     },
     {
       "domain": "www.powerplanetonline.com",
-      "expires": 2565642398.940938,
+      "expires": 2565644077.162766,
       "httpOnly": true,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 946633890.940938,
+      "lifetime": 946633891.162766,
       "name": "cftoken",
       "path": "/",
       "priority": "Medium",
@@ -37,11 +37,11 @@
     },
     {
       "domain": "www.powerplanetonline.com",
-      "expires": 2565642398.941075,
+      "expires": 2565644077.16293,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 946633890.9410748,
+      "lifetime": 946633891.16293,
       "name": "CFID",
       "path": "/",
       "priority": "Medium",
@@ -50,15 +50,15 @@
       "secure": true,
       "session": false,
       "size": 40,
-      "value": "89295a09-3166-47bf-84cb-734e35795b95"
+      "value": "af725a26-49b8-49d9-a070-38347ba230b8"
     },
     {
       "domain": "www.powerplanetonline.com",
-      "expires": 2565642398.941136,
+      "expires": 2565644077.162987,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 946633890.9411359,
+      "lifetime": 946633891.1629872,
       "name": "CFTOKEN",
       "path": "/",
       "priority": "Medium",
@@ -71,11 +71,11 @@
     },
     {
       "domain": "www.powerplanetonline.com",
-      "expires": 2056319999.941177,
+      "expires": 2056320000.163036,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 437311491.9411769,
+      "lifetime": 437309814.1630361,
       "name": "SOK7",
       "path": "/",
       "priority": "Medium",
@@ -88,11 +88,11 @@
     },
     {
       "domain": "www.powerplanetonline.com",
-      "expires": 2565642400.985928,
+      "expires": 2565644079.271589,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 946633892.985928,
+      "lifetime": 946633893.2715888,
       "name": "LANGUAGEID",
       "path": "/",
       "priority": "Medium",
@@ -105,11 +105,11 @@
     },
     {
       "domain": ".powerplanetonline.com",
-      "expires": 1626791709,
+      "expires": 1626793388,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 7783201,
+      "lifetime": 7783202,
       "name": "_gcl_au",
       "path": "/",
       "priority": "Medium",
@@ -117,19 +117,122 @@
       "secure": false,
       "session": false,
       "size": 31,
-      "value": "1.1.709415769.1619015710"
+      "value": "1.1.693701241.1619017388"
+    },
+    {
+      "domain": ".powerplanetonline.com",
+      "expires": 1626793389,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783203,
+      "name": "_fbp",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 32,
+      "value": "fb.1.1619017389337.786694709"
+    },
+    {
+      "domain": ".powerplanetonline.com",
+      "expires": 1682089389,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079203,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 29,
+      "value": "GA1.2.788959084.1619017389"
+    },
+    {
+      "domain": ".powerplanetonline.com",
+      "expires": 1619103789,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93603,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "value": "GA1.2.271135771.1619017389"
+    },
+    {
+      "domain": ".facebook.com",
+      "expires": 1626793389.453577,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783203.453577042,
+      "name": "fr",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "value": "0RU6cKgGD2cedCxNl..BggD6t...1.0.BggD6t."
+    },
+    {
+      "domain": ".powerplanetonline.com",
+      "expires": 1619017449,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7263,
+      "name": "_gat_UA-25492067-1",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 19,
+      "value": "1"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1619018289.597303,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 8103.597302913666,
+      "name": "test_cookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 29,
+      "value": "CheckForPermission"
     }
   ],
   "cookiestats": {
-    "first_party_long": 7,
-    "first_party_short": 0,
-    "third_party_long": 0,
-    "third_party_short": 0,
-    "trackers": []
+    "first_party_long": 10,
+    "first_party_short": 1,
+    "third_party_long": 1,
+    "third_party_short": 1,
+    "trackers": [
+      "doubleclick.net",
+      "facebook.com"
+    ]
   },
   "facebook_pixel": {
-    "event": [],
-    "facebook_pixel": null
+    "event": [
+      "ev=PageView"
+    ],
+    "facebook_pixel": true
   },
   "failed_requests": [],
   "final_url": "https://www.powerplanetonline.com/",
@@ -145,41 +248,25 @@
       "calls": []
     }
   },
-  "fingerprinting_window": {
-    "window.appName": 0,
-    "window.aud": 1,
-    "window.colorDepth": 2,
-    "window.concurrency": 0,
-    "window.connection": 0,
-    "window.cpuclass": 0,
-    "window.doNotTrack": 0,
-    "window.geolocation": 0,
-    "window.height": 3,
-    "window.indexDB": 0,
-    "window.language": 1,
-    "window.languages": 2,
-    "window.localstorage": 28,
-    "window.memory": 0,
-    "window.platform": 0,
-    "window.plugins": 1,
-    "window.rtc": 0,
-    "window.sessionstorage": 2,
-    "window.useragent": 125,
-    "window.width": 3
-  },
   "google_analytics": {
     "anonymize": {
-      "aip_ineffective": null,
-      "all_set_js": null,
-      "any_set_js": null,
-      "num_requests_aip": 0,
-      "num_requests_no_aip": 0
+      "aip_ineffective": false,
+      "all_set_js": false,
+      "any_set_js": false,
+      "num_requests_aip": 1,
+      "num_requests_no_aip": 1
     },
     "has_ga_js": true,
     "has_ga_object": true,
     "has_gat_object": false,
-    "has_requests": false,
-    "trackers": []
+    "has_requests": true,
+    "trackers": [
+      {
+        "anonymize_ip": false,
+        "name": "gtm2",
+        "tracking_id": "UA-25492067-1"
+      }
+    ]
   },
   "https": {
     "certificate": {
@@ -233,7 +320,20 @@
     "React": null,
     "jQuery": "3.4.1"
   },
-  "local_storage": [],
+  "local_storage": [
+    {
+      "content": "{\"id\":\"60803ead8b071680e3eb9709\"}",
+      "key": "cn_tracker"
+    },
+    {
+      "content": "{\"cartId\":\"crt1\",\"totalQuantity\":0,\"totalPrice\":0,\"products\":[]}",
+      "key": "cn_previous_cart"
+    },
+    {
+      "content": "{}",
+      "key": "cn_previous_entity_info"
+    }
+  ],
   "reachable": true,
   "redirect_chain": [
     "https://www.powerplanetonline.com/"
@@ -527,13 +627,6 @@
       "url": "https://www.powerplanetonline.com/common/js/lcPlugins/Aplazame/aplazame.js"
     },
     {
-      "mime_type": "application/javascript",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://static.zdassets.com/ekr/snippet.js?key=789dafc7-cc20-40bb-ad1d-287b3a276e4a"
-    },
-    {
       "mime_type": "application/x-javascript",
       "sets_cookie": false,
       "status_code": 200,
@@ -562,18 +655,11 @@
       "url": "https://cdn.connectif.cloud/eu3/client-script/3e81d860-00d2-48e5-8b27-a2259d368c34"
     },
     {
-      "mime_type": "application/json",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://ekr.zdassets.com/compose/789dafc7-cc20-40bb-ad1d-287b3a276e4a"
-    },
-    {
       "mime_type": "application/javascript",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://cdn.doofinder.com/media/js/doofinder-fullscreen.7.latest.min.js?_=1619015710141"
+      "url": "https://cdn.doofinder.com/media/js/doofinder-fullscreen.7.latest.min.js?_=1619017388328"
     },
     {
       "mime_type": "image/jpeg",
@@ -713,7 +799,7 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "200",
-      "url": "https://www.powerplanetonline.com/minibasket?nc=nc=855"
+      "url": "https://www.powerplanetonline.com/minibasket?nc=nc=381"
     },
     {
       "mime_type": "image/jpeg",
@@ -856,6 +942,27 @@
       "url": "https://www.powerplanetonline.com/cdnassets/assets/img/icons/high-availability.png"
     },
     {
+      "mime_type": "image/gif",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.facebook.com/tr/?id=410265332698808&ev=PageView&dl=https%3A%2F%2Fwww.powerplanetonline.com%2F&rl=&if=false&ts=1619017389343&sw=800&sh=600&v=2.9.39&r=stable&ec=0&o=30&fbp=fb.1.1619017389337.786694709&it=1619017388098&coo=false&rqm=GET"
+    },
+    {
+      "mime_type": "text/plain",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=140687727&t=pageview&_s=1&dl=https%3A%2F%2Fwww.powerplanetonline.com%2F&ul=es-es&de=UTF-8&dt=Powerplanetonline.com%20%7C%20Tienda%20de%20smartphones%2C%20tablets%20e%20inform%C3%A1tica&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=YEBAAEABAAAAAC~&jid=2052855244&gjid=1281935740&cid=788959084.1619017389&tid=UA-25492067-1&_gid=271135771.1619017389&_r=1&gtm=2wg472WDT4MB6&z=701798462"
+    },
+    {
+      "mime_type": "text/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1013456874/?random=1619017389467&cv=9&fst=1619017389467&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg472&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fwww.powerplanetonline.com%2F&tiba=Powerplanetonline.com%20%7C%20Tienda%20de%20smartphones%2C%20tablets%20e%20inform%C3%A1tica&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+    },
+    {
       "mime_type": "application/json",
       "sets_cookie": false,
       "status_code": 200,
@@ -863,102 +970,53 @@
       "url": "https://eu1-search.doofinder.com/5/options/d53488a1bfc8200b8663785eed02d0c4?www.powerplanetonline.com"
     },
     {
-      "mime_type": "application/javascript",
+      "mime_type": "text/plain",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://static.zdassets.com/web_widget/latest/preload.fc713956383df327ba01.js"
-    },
-    {
-      "mime_type": "application/javascript",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://static.zdassets.com/web_widget/latest/framework.7358ca48d43ed514ac70.chunk.js"
-    },
-    {
-      "mime_type": "application/javascript",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://static.zdassets.com/web_widget/latest/vendors~framework.b1ea516911eb6ecd8755.chunk.js"
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-25492067-1&cid=788959084.1619017389&jid=2052855244&gjid=1281935740&_gid=271135771.1619017389&_u=YEBAAEAAAAAAAC~&z=930801410"
     },
     {
       "mime_type": "application/json",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://powerplanetonline.zendesk.com/embeddable/config"
+      "url": "https://eu3-api.connectif.cloud/integration-type/system/scrippet-notification/3e81d860-00d2-48e5-8b27-a2259d368c34"
     },
     {
-      "mime_type": "application/javascript",
+      "mime_type": "image/gif",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://static.zdassets.com/web_widget/latest/locales/es-es-json.d017079986fa8ee29fb3.chunk.js"
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-25492067-1&cid=788959084.1619017389&jid=2052855244&_u=YEBAAEAAAAAAAC~&z=418295240"
     },
     {
-      "mime_type": "application/javascript",
+      "mime_type": "image/gif",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://static.zdassets.com/web_widget/latest/vendors~lazy/web_widget~messenger.88c46634dcce586eee9e.chunk.js"
+      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-25492067-1&cid=788959084.1619017389&jid=2052855244&_u=YEBAAEAAAAAAAC~&z=418295240"
     },
     {
-      "mime_type": "application/javascript",
+      "mime_type": "image/gif",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://static.zdassets.com/web_widget/latest/vendors~lazy/web_widget.2f80a0c45270ff6aa17e.chunk.js"
+      "url": "https://www.google.com/pagead/1p-user-list/1013456874/?random=1619017389467&cv=9&fst=1619017200000&num=1&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg472&sendb=1&frm=0&url=https%3A%2F%2Fwww.powerplanetonline.com%2F&tiba=Powerplanetonline.com%20%7C%20Tienda%20de%20smartphones%2C%20tablets%20e%20inform%C3%A1tica&async=1&fmt=3&is_vtc=1&random=3480403410&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
     },
     {
-      "mime_type": "application/javascript",
+      "mime_type": "image/gif",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://static.zdassets.com/web_widget/latest/lazy/web_widget.ab90333a43c801cfd35a.chunk.js"
+      "url": "https://www.google.es/pagead/1p-user-list/1013456874/?random=1619017389467&cv=9&fst=1619017200000&num=1&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg472&sendb=1&frm=0&url=https%3A%2F%2Fwww.powerplanetonline.com%2F&tiba=Powerplanetonline.com%20%7C%20Tienda%20de%20smartphones%2C%20tablets%20e%20inform%C3%A1tica&async=1&fmt=3&is_vtc=1&random=3480403410&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
     },
     {
-      "mime_type": "image/jpeg",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "OK",
-      "url": "https://www.powerplanetonline.com/cdnassets/footer-v2/payments_1202.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "OK",
-      "url": "https://www.powerplanetonline.com/cdnassets/_banners/Google_play.webp"
-    },
-    {
-      "mime_type": "image/webp",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "OK",
-      "url": "https://www.powerplanetonline.com/cdnassets/_banners/App_store.webp"
-    },
-    {
-      "mime_type": "image/png",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "OK",
-      "url": "https://www.powerplanetonline.com/cdnassets/_banners/appgallery.png"
-    },
-    {
-      "mime_type": "text/html",
+      "mime_type": "text/plain",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://powerplanetonline.zendesk.com/embeddable_blip?type=pageView&data=eyJjaGFubmVsIjoid2ViX3dpZGdldCIsInBhZ2VWaWV3Ijp7InJlZmVycmVyIjoiaHR0cHM6Ly93d3cucG93ZXJwbGFuZXRvbmxpbmUuY29tLyIsInRpbWUiOjEyNywibG9hZFRpbWUiOjQ2LjA3OTk5OTk5OTk2MDgyLCJuYXZpZ2F0b3JMYW5ndWFnZSI6ImVzLUVTIiwicGFnZVRpdGxlIjoiUG93ZXJwbGFuZXRvbmxpbmUuY29tIHwgVGllbmRhIGRlIHNtYXJ0cGhvbmVzLCB0YWJsZXRzIGUgaW5mb3Jtw6F0aWNhIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjExNCBTYWZhcmkvNTM3LjM2IiwiaXNNb2JpbGUiOmZhbHNlLCJpc1Jlc3BvbnNpdmUiOnRydWUsInZpZXdwb3J0TWV0YSI6IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xIiwiaGVscENlbnRlckRlZHVwIjpmYWxzZX0sImJ1aWQiOiI2ZjVjNzZiYTg1MTYwNTM0ODA2YjlhN2Y5OTAxY2Q0NSIsInN1aWQiOiJiM2Q1YjgxZGUzYjlhNjZiMzY4YmQ2ZGY4MDViYWUxMSIsInZlcnNpb24iOiIyMzdkZjZiMWUiLCJ0aW1lc3RhbXAiOiIyMDIxLTA0LTIxVDE0OjM1OjEyLjgxNloiLCJ1cmwiOiJodHRwczovL3d3dy5wb3dlcnBsYW5ldG9ubGluZS5jb20vIn0%3D"
-    },
-    {
-      "mime_type": "text/css",
-      "sets_cookie": false,
-      "status_code": 304,
-      "status_text": "Not Modified",
-      "url": "https://dfou7ztp2gaz6.cloudfront.net/common/css/bootstrap/3.4.1/bootstrap.min.css"
+      "url": "https://www.facebook.com/tr/"
     }
   ],
   "security_headers": {
@@ -978,25 +1036,33 @@
       "cdn.doofinder.com",
       "connect.facebook.net",
       "dfou7ztp2gaz6.cloudfront.net",
-      "ekr.zdassets.com",
       "eu1-search.doofinder.com",
-      "powerplanetonline.zendesk.com",
-      "static.zdassets.com",
+      "eu3-api.connectif.cloud",
+      "googleads.g.doubleclick.net",
+      "stats.g.doubleclick.net",
+      "www.facebook.com",
       "www.google-analytics.com",
+      "www.google.com",
+      "www.google.es",
       "www.googleadservices.com",
       "www.googletagmanager.com"
     ],
     "num_http_requests": 0,
-    "num_https_requests": 33
+    "num_https_requests": 31
   },
   "tracking": {
-    "num_tracker_cookies": 0,
-    "num_tracker_requests": 14,
+    "num_tracker_cookies": 2,
+    "num_tracker_requests": 16,
     "trackers": [
       "cdn.connectif.cloud",
       "connect.facebook.net",
-      "static.zdassets.com",
+      "eu3-api.connectif.cloud",
+      "googleads.g.doubleclick.net",
+      "stats.g.doubleclick.net",
+      "www.facebook.com",
       "www.google-analytics.com",
+      "www.google.com",
+      "www.google.es",
       "www.googleadservices.com",
       "www.googletagmanager.com"
     ]
