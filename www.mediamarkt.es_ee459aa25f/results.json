@@ -1,0 +1,803 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".mediamarkt.es",
+      "expires": 1621607206.991433,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 2599200.991432905,
+      "name": "__cfduid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": true,
+      "session": false,
+      "size": 51,
+      "value": "da2251157e30f4446d47ad89f080b32d81619015206"
+    },
+    {
+      "domain": "www.mediamarkt.es",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "abhomeab",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 9,
+      "value": "B"
+    },
+    {
+      "domain": ".mediamarkt.es",
+      "expires": 1619018812.643747,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 10806.643747091293,
+      "name": "ts_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "value": "e1cce064-1ef8-40a3-aa51-79285973cd53"
+    },
+    {
+      "domain": ".mediamarkt.es",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_msbps",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 8,
+      "value": "98"
+    },
+    {
+      "domain": "www.mediamarkt.es",
+      "expires": 1620224811.399479,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 1216805.3994789124,
+      "name": "a",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Strict",
+      "secure": true,
+      "session": false,
+      "size": 572,
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im8yc2lnbiJ9.eyJzdWIiOiJjOGZhYjdlZS1kNjc3LTQxY2EtODE1MC01ZDIyNWI1MTQ3YzUiLCJpc3MiOiJtbXNlIiwiaWF0IjoxNjE5MDE1MjExLCJleHAiOjE2MjAyMjQ4MTEsImF1ZCI6IndlYm1vYmlsZSIsInQiOiJ1IiwibyI6MTExOX0.MJxE3u-u_0FOUsqJc_KXTXzTYyIU8g97U_3QlxG2oFGj3YjkGwVzSQoXycWAzMQmC2hz02IZ0lCi_Hn0mMCS3_eP1f-op0HUimiZvplDaMuschu99Bwb74BNVCB-F6O5stboV3dskOqm9rkr6opdTiE01dQTPgtBzjhTjwZk0ldP12pEh6JJbi3gVrOEy2taE6aBGqVjQPK9PLJsBIw7Gsg0YiegfMztMq7sEsuUCDoCVu2ofpAg-a_m3cVjoIWwkVnTUkANIT0CVTjzPnp_95eB0lBjp3CsAq30ntX-qmbTLmZfbXZWcQoo5uFUbM4hgwvNiDW34lfKH05EK9OoCg"
+    },
+    {
+      "domain": "www.mediamarkt.es",
+      "expires": 1620224811.399558,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 1216805.3995580673,
+      "name": "r",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Strict",
+      "secure": true,
+      "session": false,
+      "size": 65,
+      "value": "WGKF8Ng4E63cfd5zwPkdPVxREonE2QD5K89ktSjqifo7ucUw9f9zouTSVB5qtnL1"
+    },
+    {
+      "domain": "www.mediamarkt.es",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "s_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 40,
+      "value": "a34e4eab-d16c-4e49-8613-ef12287e4ec8"
+    },
+    {
+      "domain": "www.mediamarkt.es",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "MC_PS_SESSION_ID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 52,
+      "value": "a34e4eab-d16c-4e49-8613-ef12287e4ec8"
+    },
+    {
+      "domain": "www.mediamarkt.es",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "p_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 40,
+      "value": "a34e4eab-d16c-4e49-8613-ef12287e4ec8"
+    },
+    {
+      "domain": "www.mediamarkt.es",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "MC_PS_USER_ID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 49,
+      "value": "a34e4eab-d16c-4e49-8613-ef12287e4ec8"
+    },
+    {
+      "domain": ".mediamarkt.es",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "t_fpd",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 9,
+      "value": "true"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 3,
+    "first_party_short": 8,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.mediamarkt.es/",
+  "fingerprinting": {
+    "audio": {
+      "calls": []
+    },
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.appName": 0,
+    "window.aud": 1,
+    "window.colorDepth": 0,
+    "window.concurrency": 0,
+    "window.connection": 0,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.geolocation": 0,
+    "window.height": 0,
+    "window.indexDB": 0,
+    "window.language": 3,
+    "window.languages": 0,
+    "window.localstorage": 17,
+    "window.memory": 0,
+    "window.platform": 3,
+    "window.plugins": 0,
+    "window.rtc": 0,
+    "window.sessionstorage": 11,
+    "window.useragent": 10,
+    "window.width": 0
+  },
+  "google_analytics": {
+    "has_ga_js": false,
+    "has_ga_object": false,
+    "has_gat_object": false,
+    "has_requests": false
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "97712ea3831eec43f43c5d2f4d783a6e17a552b3893fe0bd342bbfad68822ce8",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "GeoTrust RSA CA 2018",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1625652000.0,
+      "not_valid_before": 1587333600.0,
+      "serial_number": 17823547136224237637252860100950193792,
+      "subject": {
+        "commonName": "*.mediamarkt.es",
+        "countryName": "DE",
+        "localityName": "Ingolstadt",
+        "organizationName": "Media-Saturn-Holding GmbH",
+        "stateOrProvinceName": "Bayern"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.mediamarkt.es/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/"
+    },
+    {
+      "mime_type": "font/woff2",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/public/fonts/MMHeadlineProWebTT-Regular_subset.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/public/fonts/SourceSansPro-Bold.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/public/fonts/SourceSansPro-Semibold.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/public/fonts/SourceSansPro-Regular.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/public/fonts/MediaMarktPreise.woff2"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/X-oFVhIAACIAhOZP/10a65ffdb149c3c26356717e7ee28994/home-cat-tv.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/X-oFVhIAACMAhOZJ/4beccda5fbb046b6e134bd57af151252/home-cat-smart.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/X-oFVhIAACIAhOZH/2ab6e77734a9fccdce157cdb17fa08b4/home-cat-portatil.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/kmXKAz9Lut56Gw01D8Kaw/9a132842d184fe6a898e11a47efa9783/escoba-dyson.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/19q1POPQdWLOEujJyNVP6x/fbf877f69d3015e1cb4bcc3270186131/pae.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/X-oFVhIAACQAhOZI/f20b51c7a217c7bae7cd5834ffc3e9ff/home-cat-electro.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_83176886/fee_786_587_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/pixelboxx-mss-68371675/mobilecms_x_72_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/pixelboxx-mss-67373880/mobilecms_x_72_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/pixelboxx-mss-81726045/mobilecms_x_72_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_76562503/mobilecms_x_72_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/pixelboxx-mss-66072101/mobilecms_x_72_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/5rJZF9x0McNj2eTMpd9jWp/754cfc32ee7b539b7b1cf73738222a94/0221240_ANIVERSARIO-O-_NuevaWeb_1200x900_v1__1_.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/5rJZF9x0McNj2eTMpd9jWp/754cfc32ee7b539b7b1cf73738222a94/0221240_ANIVERSARIO-O-_NuevaWeb_1200x900_v1__1_.png?q=80&w=896"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/31l4FXo1HV02TDeDkRz96n/8f5843ad624ec401ba272579732dedca/0221232-Sony_BrandDays_NuevaWeb_1200x900_v2.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/3pYTDjNLV4J1B12kKzpqBk/aaeb40ccb6fc4d5482aaff13a62e24e7/0221232-Bosh_BrandDays_NuevaWeb_1200x900_v2.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/3IJmXDxujI2UDWOzMHCntM/ec1bbe3241f794337b7eeb066a52e2b9/0221202_Especial_Clima_NuevaWeb_1200x900ok.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/2TGYzqiBeQAmCyMUS0wZbt/ada35b7905837f8f1138b798c4654228/0121226-Aniversario_NuevaWeb_1200x900_prova5.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/5hKgodcSBBproUPbaVcRb1/2aed52567afe90077a1ce5470aff85f8/0221248-DiaDeLaMadre_NuevaWeb_1200x900px_1-2.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/1ckdKZrbXunPX9sTZjAZ8Q/c80656588109afb67fc08c78871093b6/0221233_WelcomeBonus_NuevaWeb_1200x900_AAFF.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/BORmGZpldYA6byydLQ1Yp/c86e7b6f38e8397ca856d2b293818e14/0221149-MO-BannersWeb-1200x900.png?q=80&w=896&q=1"
+    },
+    {
+      "mime_type": "text/html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/"
+    },
+    {
+      "mime_type": "font/woff2",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/public/fonts/Calibri-Bold-subset.woff2"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/6G0jkd8Zwz4aAwHrP3gPFQ/c1ea3e9b7e6114ce39e1f18b59de15f1/Web_Delivery_HOME_Overview_300x300__V1.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/3C0LVflhQOhVbyjgajqTl0/43d336a7a02cfdb1a27ba214fb8ef555/Garant__aPlus_HOME_Overview_300x300_V1.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/1a0TAVuav3A0m34R6M4x7U/cba737a63f9544547ef300434a59b35f/Reparaciones_HOME_Overview_300x300_V14.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/3teeCcHll9pq4Rf4zZ6o6w/60c0f2add1cf16b5e43837b5e9ad1ced/Revelado_HOME_Overview_300x300.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/3kqIlqqx00e2hxHfdU4lfX/0570b019cb2c5ab25580cbfd92a68a6f/Energ__a_HOME_Overview_300x300_V12.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/Sq95GZnrGI0Yq02Y8Rc8k/0e473d6835cc0e47e22e314c689169ce/PersonalShopper_HOME_Overview_300x300_V13.png?q=80&w=264"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/5oVsfvtTlchuUldfp2Nmzp/2073b1657f55bc7ec19ad90e0c69d197/102051-DJI_NuevaWeb_1200x900_ok__1_.png?q=80&w=711&h=362&fit=fill"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/5RzbUWCXV58DQYEWNzsRqy/ef5a526b1a12b072310773722ab96e8e/102051-Banners-Entretenimiento_XiaomiNote10_1200x900__1__-_copia.png?q=80&w=711&h=362&fit=fill"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/1AwO2N1wUiYtuV7f7xB6sM/48ea872d6965f19738cdab45bc50fdf3/102051-Xiaomi_NuevaWeb_1200x900__1_.png?q=80&w=711&h=362&fit=fill"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cms-images.mmst.eu/osyynfyvlyjc/6rhP48j373gAIzHMo6mVUG/0dfa85d4cc8fa935b8606120f5460970/022124-Nueva_Web_Banner_1200x900_Samsung21_V1_indd__1_.png?q=80&w=711&h=362&fit=fill"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://asset.mediamarkt.es/webmobile-pwa-public-assets-dev/7ff8ec4/b0a1f060c5fedd1c4912_vendors~main.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://asset.mediamarkt.es/webmobile-pwa-public-assets-dev/7ff8ec4/b0a1f060c5fedd1c4912_main.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://asset.mediamarkt.es/webmobile-pwa-public-assets-dev/7ff8ec4/b0a1f060c5fedd1c4912_vendors~app-checkout-CheckoutPage~app-consent-CookieDetailsPage~app-consent-CookieSettingsPage~app-c~64e3369d.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://asset.mediamarkt.es/webmobile-pwa-public-assets-dev/7ff8ec4/b0a1f060c5fedd1c4912_vendors~app-prismic-container-TeaserPreview~app-search-containers-BrandPage~app-search-containers-Ca~0bb8e8f2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://asset.mediamarkt.es/webmobile-pwa-public-assets-dev/7ff8ec4/b0a1f060c5fedd1c4912_app-content-AboutUsPage~app-content-EditorialPage~app-content-LegalPage~app-content-ServicePage~app-~f1fe06ff.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://asset.mediamarkt.es/webmobile-pwa-public-assets-dev/7ff8ec4/b0a1f060c5fedd1c4912_mms-webmobile-home-pages.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KP3D6ZK&l=dataLayerMMS"
+    },
+    {
+      "mime_type": "text/html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/translations/authentication/es"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/setCookie/ts_id/e1cce064-1ef8-40a3-aa51-79285973cd53"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/api/v1/graphql?operationName=GetUser&variables=%7B%7D&extensions=%7B%22pwa%22%3A%7B%22salesLine%22%3A%22Media%22%2C%22country%22%3A%22ES%22%2C%22language%22%3A%22es%22%7D%2C%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22dba96cd3cb12f4ee1f1a0ee13d1dc42264b5eafbcfb0796d3ea4ad8981ccd686%22%7D%7D"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/api/v1/graphql?operationName=GetConsentCategories&variables=%7B%7D&extensions=%7B%22pwa%22%3A%7B%22salesLine%22%3A%22Media%22%2C%22country%22%3A%22ES%22%2C%22language%22%3A%22es%22%2C%22contentful%22%3Atrue%7D%2C%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%229ed21db321a32e0ba2d6c3f9adfc973d1f0c77afe8202108fc4a9424d4af8e36%22%7D%7D"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/api/v1/graphql?operationName=PWAConsentLayer&variables=%7B%7D&extensions=%7B%22pwa%22%3A%7B%22salesLine%22%3A%22Media%22%2C%22country%22%3A%22ES%22%2C%22language%22%3A%22es%22%7D%2C%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22ccbe838fc0a1f97cf5dc33ba4c9589709a169dc9a473464d47495f23847ea3cf%22%7D%7D"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_75698247/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_83176893/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_83329989/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_82969215/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_74861932/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/pixelboxx-mss-60956369/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_83036834/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_83036818/fee_194_131_png"
+    },
+    {
+      "mime_type": "image/webp",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_83376805/fee_194_131_png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KJ48W29&l=dataLayerMMS"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PS5MQFK&l=dataLayerMMS"
+    },
+    {
+      "mime_type": "application/javascript",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T2WGHC7&l=dataLayerMMS"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/setCookie/t_fpd/true"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/setCookie/ts_id/e1cce064-1ef8-40a3-aa51-79285973cd53"
+    },
+    {
+      "mime_type": "application/json",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/setCookie/ts_id/e1cce064-1ef8-40a3-aa51-79285973cd53"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.mediamarkt.es/public/images/500_Media.svg"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": null,
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": null
+  },
+  "site_url": "https://www.mediamarkt.es/",
+  "third_parties": {
+    "fqdns": [
+      "assets.mmsrg.com",
+      "cms-images.mmst.eu",
+      "www.googletagmanager.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 44
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 4,
+    "trackers": [
+      "www.googletagmanager.com"
+    ]
+  }
+}

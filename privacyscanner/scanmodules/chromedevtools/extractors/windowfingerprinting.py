@@ -27,7 +27,7 @@ GetResult = """
     dict['window.geolocation'] = window.geolocation; 
     return dict;
 })()
-"""
+""".lstrip()
 
 class WindowFingerprintingExtractor(Extractor): 
     def extract_information(self):

@@ -25,6 +25,7 @@ class LocalStorageExtractor(Extractor):
             try: 
                 info = javascript_evaluate(self.page.tab, STORAGE_JS);
             except JavaScriptError: 
+                print("error")
                 pass
         
         for key, value in info.items():

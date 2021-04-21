@@ -1,23 +1,2 @@
-2021-04-19 16:18:04,925: [INFO] Starting chromedevtools (scanner.py:177)
-2021-04-19 16:18:32,724: [INFO] Finished chromedevtools (scanner.py:201)
-2021-04-19 16:26:16,050: [INFO] Starting chromedevtools (scanner.py:177)
-2021-04-19 16:26:31,194: [INFO] Starting chromedevtools (scanner.py:177)
-2021-04-19 16:26:58,671: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
-Traceback (most recent call last):
-  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
-    mod.scan_site(result, scan_meta)
-  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 48, in scan_site
-    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
-  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 254, in scan
-    content = scanner.scan(browser, result, logger, options)
-  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 407, in scan
-    self._extract_information()
-  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 572, in _extract_information
-    extractor.extract_information()
-  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/fb_pixel.py", line 45, in extract_information
-    if res or res_advanced:
-NameError: name 'res' is not defined
-2021-04-19 16:26:58,676: [INFO] Finished chromedevtools (scanner.py:201)
-2021-04-19 16:26:58,677: [INFO] Starting chromedevtools (scanner.py:177)
-2021-04-19 16:27:21,656: [INFO] Starting chromedevtools (scanner.py:177)
-2021-04-19 16:27:52,309: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-21 16:35:07,943: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-21 16:35:37,195: [INFO] Finished chromedevtools (scanner.py:201)
