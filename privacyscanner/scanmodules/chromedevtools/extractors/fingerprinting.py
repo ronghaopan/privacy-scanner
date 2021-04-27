@@ -83,10 +83,6 @@ instrumentObject(window.WebGLRenderingContext.prototype,
                 'WebGLRenderingContext',
                 ['drawArrays', 'getSupportedExtensions', 'getExtension'],
                 'fingerprinting:webGL');
-instrumentObject(window.AudioContext.prototype,
-                'AudioContext',
-                ['sampleRate', 'state'],
-                'fingerprinting:audio');
 """
 
 class FingerprintingExtractor(Extractor):
@@ -96,17 +92,14 @@ class FingerprintingExtractor(Extractor):
         self._canvas_call_stack = None
         self._canvas_image = None
         self._webGL = {'calls': []}
-        self._audio = {'calls': []}
 
     def extract_information(self):
         self.result['fingerprinting'] = {
             'canvas': self._canvas,
-            'webGL' : self._webGL,
-            'audio' : self._audio
+            'webGL' : self._webGL
         }
         self._extract_canvas()
         self._extract_webGL()
-        self._extract_audio()
 
     def register_javascript(self):
         return INSTRUMENTATION_JS
@@ -116,17 +109,6 @@ class FingerprintingExtractor(Extractor):
             self._receive_canvas_log(message, call_stack)
         if log_type == 'fingerprinting:webGL':
             self._receive_webGL_log(message)
-        if log_type == 'fingerprinting:audio':
-            self._receive_audio_log(message)
-
-    def _extract_audio(self):
-        uses_text = False
-        text_methods = ('AudioContext.sampleRate',
-                        'AudioContext.state')
-        for call in self._audio['calls']:
-            if call['method'] in text_methods:
-                uses_text = True
-                break
 
     def _extract_webGL(self):
         uses_text = False
@@ -178,10 +160,3 @@ class FingerprintingExtractor(Extractor):
             'method': message['name'],
             'arguments': message['arguments']
         })
-    
-    def _receive_audio_log(self, message):
-        self._audio['calls'].append({
-            'method': message['name'],
-            'arguments': message['arguments']
-        })
-

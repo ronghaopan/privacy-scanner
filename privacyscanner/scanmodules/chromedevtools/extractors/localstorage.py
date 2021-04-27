@@ -8,6 +8,7 @@ STORAGE_JS = """
         key=localStorage.key(i); 
         dict[key]=localStorage.getItem(key);   
     } 
+    window.localstorage = window.localstorage - localStorage.length;
     return dict;
 })()
 """.lstrip()
