@@ -148,6 +148,10 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     window.indexDB = 0;
     window.rtc = 0 ;
     window.aud = 0;
+    window.appCodeName = 0;
+    window.geolocation = 0;
+    window.pixelDepth = 0;
+    window.colorDepth = 0;
 
    Object.defineProperty(window, "AudioContext", (function(_value){
       return {
@@ -255,7 +259,43 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
           return _value;
         }
       };
-    })(window.navigator.appName));          
+    })(window.navigator.appName));
+
+    Object.defineProperty(window.navigator, "appCodeName", (function(_value){
+      return {
+        get: function _get() {
+          window.appCodeName++;  
+          return _value;
+        }
+      };
+    })(window.navigator.appCodeName));          
+    
+    Object.defineProperty(window.navigator, "geolocation", (function(_value){
+      return {
+        get: function _get() {
+          window.geolocation++;  
+          return _value;
+        }
+      };
+    })(window.navigator.geolocation));    
+
+    Object.defineProperty(window.screen, "pixelDepth", (function(_value){
+      return {
+        get: function _get() {
+          window.pixelDepth++;  
+          return _value;
+        }
+      };
+    })(window.screen.pixelDepth));  
+
+    Object.defineProperty(window.screen, "colorDepth", (function(_value){
+      return {
+        get: function _get() {
+          window.colorDepth++;  
+          return _value;
+        }
+      };
+    })(window.screen.colorDepth));   
 
     __extra_scripts__
     

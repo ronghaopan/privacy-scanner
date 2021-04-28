@@ -17,6 +17,9 @@ GetResult = """
     dict['window.indexDB'] = window.indexDB;
     dict['window.RTCPeerConnection'] = window.rtc;
     dict['window.AudioContext'] = window.aud; 
+    dict['window.appCodeName'] = window.appCodeName; 
+    dict['window.screen.pixelDepth'] = window.pixelDepth; 
+    dict['window.screen.colorDepth'] = window.colorDepth; 
     return dict;
 })()
 """.lstrip()
