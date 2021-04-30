@@ -4,3 +4,68 @@
 2021-04-29 00:08:44,469: [INFO] Finished chromedevtools (scanner.py:201)
 2021-04-29 00:09:17,718: [INFO] Starting chromedevtools (scanner.py:177)
 2021-04-29 00:09:48,446: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-29 00:26:01,124: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-29 00:26:30,406: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 00:27:53,162: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 00:28:24,910: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 00:39:15,436: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 00:39:44,537: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 00:41:00,477: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 00:41:31,440: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 00:42:05,080: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 00:42:35,971: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 00:48:48,231: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 00:49:19,787: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 00:53:34,539: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 00:53:48,612: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 00:54:20,538: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 01:00:03,250: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 01:00:33,097: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 01:03:57,219: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 01:03:57,219: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 404, in scan
+    with ChromeBrowser(debugging_port, executable) as browser:
+AttributeError: __enter__
+2021-04-30 01:03:57,221: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 01:03:57,222: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 01:03:57,223: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 404, in scan
+    with ChromeBrowser(debugging_port, executable) as browser:
+AttributeError: __enter__
+2021-04-30 01:03:57,224: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 01:03:57,225: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 01:03:57,226: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 404, in scan
+    with ChromeBrowser(debugging_port, executable) as browser:
+AttributeError: __enter__
+2021-04-30 01:03:57,227: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 01:03:57,228: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 01:03:57,229: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 404, in scan
+    with ChromeBrowser(debugging_port, executable) as browser:
+AttributeError: __enter__
+2021-04-30 01:03:57,230: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 15:45:21,845: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 15:45:53,957: [INFO] Finished chromedevtools (scanner.py:201)
+2021-04-30 17:44:03,341: [INFO] Starting chromedevtools (scanner.py:177)
+2021-04-30 17:44:43,652: [INFO] Finished chromedevtools (scanner.py:201)
