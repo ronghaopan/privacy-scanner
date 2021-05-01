@@ -12,14 +12,13 @@ GetResult = """
     dict['window.platform'] = window.platform;
     dict['window.doNotTrack'] = window.doNotTrack;
     dict['window.appName'] = window.appName;
-    dict['window.localstorage'] = window.localstorage;
-    dict['window.sessionstorage'] = window.sessionstorage;
     dict['window.indexDB'] = window.indexDB;
     dict['window.AudioContext'] = window.aud; 
     dict['window.appCodeName'] = window.appCodeName; 
     dict['window.screen.pixelDepth'] = window.pixelDepth; 
     dict['window.screen.colorDepth'] = window.colorDepth; 
     dict['window.mimeTypes'] = window.mimeTypes; 
+    dict['window.appVersion'] = window.appVersion; 
 
     return dict;
 })()
