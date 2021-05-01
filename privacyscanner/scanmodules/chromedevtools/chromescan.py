@@ -146,7 +146,6 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     window.localstorage = 0;
     window.sessionstorage = 0;
     window.indexDB = 0;
-    window.rtc = 0 ;
     window.aud = 0;
     window.appCodeName = 0;
     window.geolocation = 0;
@@ -162,15 +161,6 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
         }
       };
     })(window.AudioContext)); 
-   
-   Object.defineProperty(window, "RTCPeerConnection", (function(_value){
-      return {
-        get: function _get() {
-          window.rtc++;  
-          return _value;
-        }
-      };
-    })(window.RTCPeerConnection)); 
 
    Object.defineProperty(window, "indexedDB", (function(_value){
       return {

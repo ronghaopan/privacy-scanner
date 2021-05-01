@@ -15,7 +15,6 @@ GetResult = """
     dict['window.localstorage'] = window.localstorage;
     dict['window.sessionstorage'] = window.sessionstorage;
     dict['window.indexDB'] = window.indexDB;
-    dict['window.RTCPeerConnection'] = window.rtc;
     dict['window.AudioContext'] = window.aud; 
     dict['window.appCodeName'] = window.appCodeName; 
     dict['window.screen.pixelDepth'] = window.pixelDepth; 

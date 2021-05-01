@@ -83,6 +83,10 @@ instrumentObject(window.WebGLRenderingContext.prototype,
                 'WebGLRenderingContext',
                 ['drawArrays', 'getSupportedExtensions', 'getExtension'],
                 'fingerprinting:webGL');
+instrumentObject(window.RTCPeerConnection.prototype,
+                'RTCPeerConnection',
+                ['createDataChannel', 'createOffer', 'onicecandidate'],
+                'fingerprinting:webRTC');
 """
 
 class FingerprintingExtractor(Extractor):
@@ -92,14 +96,17 @@ class FingerprintingExtractor(Extractor):
         self._canvas_call_stack = None
         self._canvas_image = None
         self._webGL = {'calls': []}
+        self._webRTC = {'calls': []}
 
     def extract_information(self):
         self.result['fingerprinting'] = {
             'canvas': self._canvas,
-            'webGL' : self._webGL
+            'webGL' : self._webGL,
+            'webRTC': self._webRTC
         }
         self._extract_canvas()
         self._extract_webGL()
+        self._extract_webRTC()
 
     def register_javascript(self):
         return INSTRUMENTATION_JS
@@ -109,6 +116,8 @@ class FingerprintingExtractor(Extractor):
             self._receive_canvas_log(message, call_stack)
         if log_type == 'fingerprinting:webGL':
             self._receive_webGL_log(message)
+        if log_type == 'fingerprinting:webRTC':
+            self._receive_webRTC_log(message)
 
     def _extract_webGL(self):
         uses_text = False
@@ -116,6 +125,16 @@ class FingerprintingExtractor(Extractor):
                         'WebGLRenderingContext.getSupportedExtensions',
                         'WebGLRenderingContext.getExtension')
         for call in self._webGL['calls']:
+            if call['method'] in text_methods:
+                uses_text = True
+                break
+
+    def _extract_webRTC(self):
+        uses_text = False
+        text_methods = ('WebGLRenderingContext.createDataChannel',
+                        'WebGLRenderingContext.createOffer',
+                        'WebGLRenderingContext.onicecandidate')
+        for call in self._webRTC['calls']:
             if call['method'] in text_methods:
                 uses_text = True
                 break
@@ -157,6 +176,12 @@ class FingerprintingExtractor(Extractor):
 
     def _receive_webGL_log(self, message):
         self._webGL['calls'].append({
+            'method': message['name'],
+            'arguments': message['arguments']
+        })
+
+    def _receive_webRTC_log(self, message):
+        self._webRTC['calls'].append({
             'method': message['name'],
             'arguments': message['arguments']
         })
