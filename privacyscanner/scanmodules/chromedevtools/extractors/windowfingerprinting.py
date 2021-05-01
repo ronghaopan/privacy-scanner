@@ -20,6 +20,8 @@ GetResult = """
     dict['window.appCodeName'] = window.appCodeName; 
     dict['window.screen.pixelDepth'] = window.pixelDepth; 
     dict['window.screen.colorDepth'] = window.colorDepth; 
+    dict['window.mimeTypes'] = window.mimeTypes; 
+
     return dict;
 })()
 """.lstrip()

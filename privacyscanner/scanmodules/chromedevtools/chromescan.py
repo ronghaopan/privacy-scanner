@@ -152,6 +152,7 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     window.geolocation = 0;
     window.pixelDepth = 0;
     window.colorDepth = 0;
+    window.mimeTypes = 0;
 
    Object.defineProperty(window, "AudioContext", (function(_value){
       return {
@@ -278,6 +279,15 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
         }
       };
     })(window.navigator.geolocation));    
+
+    Object.defineProperty(window.navigator, "mimeTypes", (function(_value){
+      return {
+        get: function _get() {
+          window.mimeTypes++;  
+          return _value;
+        }
+      };
+    })(window.navigator.mimeTypes)); 
 
     Object.defineProperty(window.screen, "pixelDepth", (function(_value){
       return {
