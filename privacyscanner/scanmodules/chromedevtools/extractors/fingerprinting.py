@@ -126,16 +126,18 @@ class FingerprintingExtractor(Extractor):
                         'WebGLRenderingContext.getExtension')
         for call in self._webGL['calls']:
             if call['method'] in text_methods:
+                self._webGL['have_webGL'] = True
                 uses_text = True
                 break
 
     def _extract_webRTC(self):
         uses_text = False
-        text_methods = ('WebGLRenderingContext.createDataChannel',
-                        'WebGLRenderingContext.createOffer',
-                        'WebGLRenderingContext.onicecandidate')
+        text_methods = ('RTCPeerConnection.createDataChannel',
+                        'RTCPeerConnection.createOffer',
+                        'RTCPeerConnection.onicecandidate')
         for call in self._webRTC['calls']:
             if call['method'] in text_methods:
+                self._webRTC['have_webRTC'] = True
                 uses_text = True
                 break
 
