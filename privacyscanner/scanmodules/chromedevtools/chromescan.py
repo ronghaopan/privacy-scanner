@@ -92,6 +92,9 @@ CHROME_OPTIONS = [
     # Disable GPU acceleration
     '--disable-gpu',
 
+    # Run active Cache HTTP 
+    #'--enable-features=SplitCacheByNetworkIsolationKey'
+
     # Run headless
     '--headless'
 ]

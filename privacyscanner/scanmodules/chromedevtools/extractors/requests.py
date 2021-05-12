@@ -6,12 +6,18 @@ class RequestsExtractor(Extractor):
         requests = []
 
         for request in self.page.request_log:
+            # Check referer for Referrer-policy
+            referer = ""
+            if "Referer" in request['headers']: 
+                referer = request['headers']['Referer']
+
             if request['url'].startswith('data:'):
                 continue
             response = self.page.get_final_response_by_id(request['requestId'],
                                                           fail_silently=True)
             request_dict = {
                 'url': request['url'],
+                'referer': referer,
                 'sets_cookie': self._get_sets_cookie(response),
                 'mime_type': response['mimeType'] if response else None,
                 'status_code': response['status'] if response else None,

@@ -14,3 +14,39 @@
 2021-05-01 23:54:45,157: [INFO] Finished chromedevtools (scanner.py:201)
 2021-05-01 23:56:24,765: [INFO] Starting chromedevtools (scanner.py:177)
 2021-05-01 23:56:51,530: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 09:24:07,242: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 09:24:33,710: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 10:57:36,224: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 10:58:04,698: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 11:06:45,724: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 11:07:14,664: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 11:08:23,710: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 11:08:52,832: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 11:15:37,703: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 11:16:06,591: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 15:06:18,368: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 15:06:25,987: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 15:06:53,090: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 16:34:28,011: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 16:34:31,726: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 16:35:01,754: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 16:39:10,558: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 16:39:35,789: [ERROR] Scan module `chromedevtools` failed. (scanner.py:195)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanner.py", line 182, in scan_site
+    mod.scan_site(result, scan_meta)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/__init__.py", line 50, in scan_site
+    content = chrome_scan.scan(result, self.logger, self.options, meta, debugging_port)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 409, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 562, in scan
+    self._extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 727, in _extract_information
+    extractor.extract_information()
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/extractors/requests.py", line 15, in extract_information
+    'referer': request['referer'],
+KeyError: 'referer'
+2021-05-12 16:39:35,795: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-12 16:39:35,797: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 17:17:52,995: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-12 17:18:23,581: [INFO] Finished chromedevtools (scanner.py:201)
