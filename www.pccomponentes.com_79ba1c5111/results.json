@@ -2,30 +2,12 @@
   "chrome_error": null,
   "cookies": [
     {
-      "domain": ".pccomponentes.com",
-      "expires": -1,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": -1,
-      "name": "at_check",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": true,
-      "size": 12,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "true"
-    },
-    {
       "domain": "www.pccomponentes.com",
-      "expires": 1623662034.390008,
+      "expires": 1623714108.276336,
       "httpOnly": true,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 2599202.3900079727,
+      "lifetime": 2599202.2763359547,
       "name": "AAFMF",
       "path": "/",
       "priority": "Medium",
@@ -36,7 +18,7 @@
       "size": 37,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "0ca16ebf080e2968918410d57d4c8299"
+      "value": "13822670e105407ace72bab06df71c6f"
     },
     {
       "domain": "www.pccomponentes.com",
@@ -58,11 +40,11 @@
     },
     {
       "domain": "www.pccomponentes.com",
-      "expires": 1936430034.571067,
+      "expires": 1936482108.276503,
       "httpOnly": true,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 315367202.5710671,
+      "lifetime": 315367202.2765031,
       "name": "seedid",
       "path": "/",
       "priority": "Medium",
@@ -72,15 +54,51 @@
       "size": 38,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "0ca16ebf080e2968918410d57d4c8299"
+      "value": "13822670e105407ace72bab06df71c6f"
     },
     {
-      "domain": "www.pccomponentes.com",
-      "expires": 1636622034,
+      "domain": ".pccomponentes.com",
+      "expires": 1621123969,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 15559202,
+      "lifetime": 9063,
+      "name": "mbox",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 55,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "session#57e47f07195842c78226ba9d2903f6ae#1621123969"
+    },
+    {
+      "domain": ".pccomponentes.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "at_check",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 12,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "true"
+    },
+    {
+      "domain": "www.pccomponentes.com",
+      "expires": 1636674109,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 15559203,
       "name": "_ALGOLIA",
       "path": "/",
       "priority": "Medium",
@@ -90,15 +108,15 @@
       "size": 54,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "anonymous-f46fdd52-ac89-4224-85dd-fbdfde8e20d6"
+      "value": "anonymous-d46615ac-f2cd-469f-8807-a2103af6a972"
     },
     {
       "domain": ".demdex.net",
-      "expires": 1636622035.738569,
+      "expires": 1636674110.472294,
       "httpOnly": false,
       "is_thirdparty": true,
       "is_tracker": true,
-      "lifetime": 15559203.738569021,
+      "lifetime": 15559204.472294092,
       "name": "demdex",
       "path": "/",
       "priority": "Medium",
@@ -109,7 +127,62 @@
       "size": 44,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "37553333707568115221093171656727311542"
+      "value": "60347223562622260560521876013782554925"
+    },
+    {
+      "domain": ".pccomponentes.com",
+      "expires": 1628898109,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783203,
+      "name": "_gcl_au",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 32,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1.1.1715917771.1621122110"
+    },
+    {
+      "domain": "www.pccomponentes.com",
+      "expires": 1623714109,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 2599203,
+      "name": "_pcc_spl_tst",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 13,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1654818109.773292,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703203.773292065,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 70,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AHWqTUlqgyovguv4YsIeGdDl5M6fb9zdfbXbVNVRagWeUS4xIWaAiROZ93aGyvTS0Jo"
     },
     {
       "domain": ".pccomponentes.com",
@@ -130,48 +203,12 @@
       "value": "1"
     },
     {
-      "domain": ".pccomponentes.com",
-      "expires": 1628846035,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 7783203,
-      "name": "_gcl_au",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 32,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "1.1.1128077591.1621070035"
-    },
-    {
-      "domain": "www.pccomponentes.com",
-      "expires": 1623662035,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 2599203,
-      "name": "_pcc_spl_tst",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 13,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "1"
-    },
-    {
       "domain": ".bing.com",
-      "expires": 1654766036.41964,
+      "expires": 1654818109.932493,
       "httpOnly": false,
       "is_thirdparty": true,
       "is_tracker": true,
-      "lifetime": 33703204.419640064,
+      "lifetime": 33703203.93249297,
       "name": "MUID",
       "path": "/",
       "priority": "Medium",
@@ -182,141 +219,11 @@
       "size": 36,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "0CD9B13DFF4D68F930A3A105FE346900"
-    },
-    {
-      "domain": ".creativecdn.com",
-      "expires": 1652606035.520728,
-      "httpOnly": false,
-      "is_thirdparty": true,
-      "is_tracker": true,
-      "lifetime": 31543203.52072811,
-      "name": "u",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "sameSite": "None",
-      "secure": true,
-      "session": false,
-      "size": 21,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "iTrpK9rt8OV6fp7ITS7y"
-    },
-    {
-      "domain": ".creativecdn.com",
-      "expires": 1652606035.520786,
-      "httpOnly": false,
-      "is_thirdparty": true,
-      "is_tracker": true,
-      "lifetime": 31543203.520786047,
-      "name": "ts",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "sameSite": "None",
-      "secure": true,
-      "session": false,
-      "size": 12,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "1621070035"
-    },
-    {
-      "domain": ".doubleclick.net",
-      "expires": 1654766035.614794,
-      "httpOnly": true,
-      "is_thirdparty": true,
-      "is_tracker": true,
-      "lifetime": 33703203.614794016,
-      "name": "IDE",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "sameSite": "None",
-      "secure": true,
-      "session": false,
-      "size": 70,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "AHWqTUkDeVEcmaA3WngUY8w8tltv_KK04wt6VMKQJfAoTBtnUwaH6JKYb3w3gxuhuq0"
+      "value": "3BD7EA2F79C262E2353EFA1778E963F4"
     },
     {
       "domain": ".pccomponentes.com",
-      "expires": 1621156438,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 93606,
-      "name": "_gid",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 29,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "GA1.2.65839478.1621070036"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1621156435,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 93603,
-      "name": "_uetsid",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 39,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "dfd0a980b55d11ebac3d89cf1b271c9f"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1622474035,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 1411203,
-      "name": "_uetvid",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 39,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "dfd17120b55d11eba09b937fb315f6c3"
-    },
-    {
-      "domain": ".dpm.demdex.net",
-      "expires": 1636622035.738496,
-      "httpOnly": false,
-      "is_thirdparty": true,
-      "is_tracker": true,
-      "lifetime": 15559203.738496065,
-      "name": "dpm",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "sameSite": "None",
-      "secure": true,
-      "session": false,
-      "size": 41,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "37553333707568115221093171656727311542"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1654766035,
+      "expires": 1654818109,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
@@ -330,11 +237,140 @@
       "size": 75,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "ID=49d801a189d2ae27:T=1621070035:S=ALNI_MbPdHSWR-_6hDV339276rMTuzbYkw"
+      "value": "ID=d751bde9b63df5ce:T=1621122109:S=ALNI_MbIrlbBV3L_Bwy2zgKo4etB_qKasw"
+    },
+    {
+      "domain": ".creativecdn.com",
+      "expires": 1652658110.002285,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543204.002285004,
+      "name": "u",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 21,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "QyWNbbcnZNg0IQpbxo2U"
+    },
+    {
+      "domain": ".creativecdn.com",
+      "expires": 1652658110.002345,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543204.002345085,
+      "name": "ts",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 12,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621122109"
     },
     {
       "domain": ".pccomponentes.com",
-      "expires": 1684142036,
+      "expires": 1621208510,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93604,
+      "name": "_uetsid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 39,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1ed203d0b5d711eb88a5a35e79d0fb3d"
+    },
+    {
+      "domain": ".pccomponentes.com",
+      "expires": 1622526110,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 1411204,
+      "name": "_uetvid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 39,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1ed38410b5d711eb897241231e460303"
+    },
+    {
+      "domain": ".dpm.demdex.net",
+      "expires": 1636674110.472225,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559204.47222495,
+      "name": "dpm",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "60347223562622260560521876013782554925"
+    },
+    {
+      "domain": ".pccomponentes.com",
+      "expires": 1684194110,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "_ga_B8JPB9S1S2",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 47,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GS1.1.1621122109.1.0.1621122109.0"
+    },
+    {
+      "domain": ".pccomponentes.com",
+      "expires": 1684194110,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.1.1507070769.1621122110"
+    },
+    {
+      "domain": ".pccomponentes.com",
+      "expires": 1684194110,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
@@ -348,79 +384,7 @@
       "size": 288,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "359503849%7CMCIDTS%7C18763%7CMCMID%7C45086780780896008940406499118370775242%7CMCAAMLH-1621674835%7C9%7CMCAAMB-1621674835%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1621077235s%7CNONE%7CMCSYNCSOP%7C411-18770%7CvVersion%7C5.0.1"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1621070096,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 7264,
-      "name": "_gat_UA-3033616-2",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 18,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "1"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1684142038,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 63079206,
-      "name": "_ga",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 30,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "GA1.2.1009432138.1621070035"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1621070096,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 7264,
-      "name": "_gat_UA-3033616-1",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 18,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "1"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1628846036,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 7783204,
-      "name": "_fbp",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 32,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "fb.1.1621070036152.316986067"
+      "value": "359503849%7CMCIDTS%7C18763%7CMCMID%7C64266906702425694600986717570720599377%7CMCAAMLH-1621726909%7C9%7CMCAAMB-1621726909%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1621129309s%7CNONE%7CMCSYNCSOP%7C411-18770%7CvVersion%7C5.0.1"
     },
     {
       "domain": ".pccomponentes.com",
@@ -443,7 +407,7 @@
     },
     {
       "domain": ".pccomponentes.com",
-      "expires": 1652606036,
+      "expires": 1652658110,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
@@ -458,11 +422,11 @@
       "size": 41,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "edd55752-4343-4d97-9247-4ba07d4ea88b"
+      "value": "b65ee6e2-fe50-4a96-82a7-016687fce3e2"
     },
     {
       "domain": ".pccomponentes.com",
-      "expires": 1621071836,
+      "expires": 1621123910,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
@@ -480,49 +444,30 @@
       "value": "1"
     },
     {
-      "domain": ".facebook.com",
-      "expires": 1628846036.234174,
-      "httpOnly": true,
-      "is_thirdparty": true,
-      "is_tracker": true,
-      "lifetime": 7783204.234174013,
-      "name": "fr",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "sameSite": "None",
-      "secure": true,
-      "session": false,
-      "size": 41,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "07gBwVZUD3d7GFjRu..Bgn5DU...1.0.Bgn5DU."
-    },
-    {
       "domain": ".pccomponentes.com",
-      "expires": 1684314837,
+      "expires": 1628898111,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 63252005,
-      "name": "mbox",
+      "lifetime": 7783205,
+      "name": "_fbp",
       "path": "/",
       "priority": "Medium",
       "sameParty": false,
       "secure": false,
       "session": false,
-      "size": 107,
+      "size": 33,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "session#d21d294888904c1da51623df3f365647#1621071894|PC#d21d294888904c1da51623df3f365647.35_0#1684314837"
+      "value": "fb.1.1621122110982.1421747404"
     },
     {
       "domain": "www.pccomponentes.com",
-      "expires": 1621070156,
+      "expires": 1621122231,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 7324,
+      "lifetime": 7325,
       "name": "_hjIncludedInSessionSample",
       "path": "/",
       "priority": "Medium",
@@ -537,11 +482,11 @@
     },
     {
       "domain": ".pccomponentes.com",
-      "expires": 1621071836,
+      "expires": 1621123911,
       "httpOnly": false,
       "is_thirdparty": false,
       "is_tracker": false,
-      "lifetime": 9004,
+      "lifetime": 9005,
       "name": "_hjAbsoluteSessionInProgress",
       "path": "/",
       "priority": "Medium",
@@ -555,30 +500,31 @@
       "value": "0"
     },
     {
-      "domain": ".pccomponentes.com",
-      "expires": 1621070097,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 7265,
-      "name": "_gat_UA-3033616-3",
+      "domain": ".facebook.com",
+      "expires": 1628898111.070753,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783205.0707530975,
+      "name": "fr",
       "path": "/",
       "priority": "Medium",
       "sameParty": false,
-      "secure": false,
+      "sameSite": "None",
+      "secure": true,
       "session": false,
-      "size": 18,
+      "size": 41,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "1"
+      "value": "0F7FmNP0Y6nJ7KKis..BgoFw_...1.0.BgoFw_."
     },
     {
       "domain": ".twitter.com",
-      "expires": 1684142037.267582,
+      "expires": 1684194111.387811,
       "httpOnly": false,
       "is_thirdparty": true,
       "is_tracker": true,
-      "lifetime": 63079205.26758194,
+      "lifetime": 63079205.387810946,
       "name": "personalization_id",
       "path": "/",
       "priority": "Medium",
@@ -589,7 +535,7 @@
       "size": 47,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "\"v1_m0gZX+RxwJlPmOsdgASwCQ==\""
+      "value": "\"v1_emD8y0u+qjZTjLSAZ92yNg==\""
     },
     {
       "domain": ".nr-data.net",
@@ -608,30 +554,12 @@
       "size": 26,
       "sourcePort": 443,
       "sourceScheme": "Secure",
-      "value": "16aea7baec795b74"
-    },
-    {
-      "domain": ".pccomponentes.com",
-      "expires": 1684142038,
-      "httpOnly": false,
-      "is_thirdparty": false,
-      "is_tracker": false,
-      "lifetime": 63079206,
-      "name": "_ga_B8JPB9S1S2",
-      "path": "/",
-      "priority": "Medium",
-      "sameParty": false,
-      "secure": false,
-      "session": false,
-      "size": 47,
-      "sourcePort": 443,
-      "sourceScheme": "Secure",
-      "value": "GS1.1.1621070035.1.0.1621070038.0"
+      "value": "f7287cf24d104d76"
     }
   ],
   "cookiestats": {
-    "first_party_long": 15,
-    "first_party_short": 10,
+    "first_party_long": 13,
+    "first_party_short": 8,
     "third_party_long": 8,
     "third_party_short": 1,
     "trackers": [
@@ -694,7 +622,128 @@
         },
         {
           "args": [
-            []
+            [
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              },
+              {
+                "mimeTypes": [
+                  {}
+                ]
+              }
+            ]
           ],
           "functionName": "a",
           "location": {
@@ -707,17 +756,17 @@
       "calls": [
         {
           "arguments": [
-            "77NJ:",
-            183,
-            134
+            "`*",
+            181,
+            166
           ],
           "method": "CanvasRenderingContext2D.fillText"
         },
         {
           "arguments": [
-            "yPev",
-            208,
-            214
+            "B4",
+            36,
+            184
           ],
           "method": "CanvasRenderingContext2D.strokeText"
         },
@@ -727,17 +776,17 @@
         },
         {
           "arguments": [
-            "^q",
-            18,
-            257
+            "n>",
+            46,
+            237
           ],
           "method": "CanvasRenderingContext2D.strokeText"
         },
         {
           "arguments": [
-            "-Cf",
-            192,
-            81
+            "qZb+T",
+            108,
+            229
           ],
           "method": "CanvasRenderingContext2D.fillText"
         },
@@ -785,27 +834,32 @@
   },
   "fingerprinting_window": {
     "window.AudioContext": 0,
-    "window.appCodeName": 0,
-    "window.appName": 2,
-    "window.appVersion": 4,
-    "window.cpuclass": 0,
-    "window.doNotTrack": 1,
-    "window.indexDB": 1,
-    "window.language": 16,
-    "window.mimeTypes": 11,
-    "window.platform": 6,
-    "window.plugins": 21,
-    "window.screen.colorDepth": 19,
-    "window.screen.pixelDepth": 0,
-    "window.useragent": 74
+    "window.navigator.appCodeName": 0,
+    "window.navigator.appName": 2,
+    "window.navigator.appVersion": 3,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 1,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 9,
+    "window.navigator.languages": 3,
+    "window.navigator.mimeTypes": 11,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 1,
+    "window.navigator.platform": 6,
+    "window.navigator.plugins": 118,
+    "window.navigator.product": 1,
+    "window.navigator.productSub": 1,
+    "window.navigator.userAgent": 65,
+    "window.navigator.vendor": 2,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 17,
+    "window.screen.pixelDepth": 0
   },
   "google_analytics": {
-    "has_trackers": true,
-    "trackers_id": [
-      "UA-3033616-2",
-      "UA-3033616-1",
-      "UA-3033616-3"
-    ]
+    "has_trackers": null,
+    "trackers_id": []
   },
   "https": {
     "certificate": {
@@ -865,11 +919,11 @@
   },
   "local_storage": [
     {
-      "content": "9cfd0249fb6b727bfa5a9f8c88bfddc2",
+      "content": "9a33854cd91e7a5bd1894ee53eda2ff1",
       "key": "queryID-last-suggestion"
     },
     {
-      "content": "NIXGJq4u0nb5RcCF1n3J",
+      "content": "NdVmvQtMXoyQetX4K02k",
       "key": "__rtbhouse.lid"
     },
     {
@@ -881,27 +935,27 @@
       "key": "recent-searches-items"
     },
     {
-      "content": "{\"id\":\"609f90d4d964787b4a742379\"}",
+      "content": "{\"id\":\"60a05c3fd9647885cf7da022\"}",
       "key": "cn_tracker"
     },
     {
-      "content": "{\"BEWOYX1CF1\":{\"hostIndexes\":{\"read\":0,\"write\":0},\"timeoutMultiplier\":1,\"shuffleResult\":[3,2,1],\"lastChange\":1621070034009}}",
+      "content": "{\"BEWOYX1CF1\":{\"hostIndexes\":{\"read\":0,\"write\":0},\"timeoutMultiplier\":1,\"shuffleResult\":[1,3,2],\"lastChange\":1621122107819}}",
       "key": "algoliasearch-client-js"
     },
     {
-      "content": "Mon, 31 May 2021 15:13:55 GMT",
+      "content": "Tue, 01 Jun 2021 05:41:50 GMT",
       "key": "_uetvid_exp"
     },
     {
-      "content": "d41342c4-af25-4459-b97b-b0688ef1b2c4",
+      "content": "1c4d1dda-e96b-4ae6-83d3-3cf12e9b284a",
       "key": "citrusLSID"
     },
     {
-      "content": "Sun, 16 May 2021 09:13:55 GMT",
+      "content": "Sun, 16 May 2021 23:41:50 GMT",
       "key": "_uetsid_exp"
     },
     {
-      "content": "{\"primaryKey\":\"\",\"affinity\":\"undefined\",\"trackerId\":\"609f90d4d964787b4a742379\"}",
+      "content": "{\"primaryKey\":\"\",\"affinity\":\"undefined\",\"trackerId\":\"60a05c3fd9647885cf7da022\"}",
       "key": "cn_previous_entity_info"
     },
     {
@@ -909,11 +963,11 @@
       "key": "com.adobe.reactor.dataElementCookiesMigrated"
     },
     {
-      "content": "edd55752-4343-4d97-9247-4ba07d4ea88b",
+      "content": "b65ee6e2-fe50-4a96-82a7-016687fce3e2",
       "key": "_hjid"
     },
     {
-      "content": "dfd17120b55d11eba09b937fb315f6c3",
+      "content": "1ed38410b5d711eb897241231e460303",
       "key": "_uetvid"
     },
     {
@@ -921,7 +975,7 @@
       "key": "spdemowebFonts"
     },
     {
-      "content": "dfd0a980b55d11ebac3d89cf1b271c9f",
+      "content": "1ed203d0b5d711eb88a5a35e79d0fb3d",
       "key": "_uetsid"
     }
   ],
@@ -1347,14 +1401,6 @@
       "url": "https://cdn.pccomponentes.com/prod/v1/fonts/pccom.woff2"
     },
     {
-      "mime_type": "application/json",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "OK",
-      "url": "https://dpm.demdex.net/id?d_visid_ver=5.0.1&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=860375D55F463E4C0A495FE8%40AdobeOrg&d_nsid=0&ts=1621070033832"
-    },
-    {
       "mime_type": "application/javascript",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
@@ -1408,7 +1454,7 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://ad.doubleclick.net/ddm/adj/N504204.197812NSO.CODESRV/B20379402.206482380;sz=1x2;ord=22118444204?"
+      "url": "https://ad.doubleclick.net/ddm/adj/N504204.197812NSO.CODESRV/B20379402.206482380;sz=1x2;ord=660460879147?"
     },
     {
       "mime_type": "application/json",
@@ -1456,7 +1502,15 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051001.js"
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051101.js?31061141"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.pccomponentes.com/ajax_nc/user?_=1621122107722"
     },
     {
       "mime_type": "image/webp",
@@ -1489,6 +1543,62 @@
       "status_code": 200,
       "status_text": "",
       "url": "https://thumb.pccomponentes.com/w-220-220/articles/9/97217/sandisk-ultra-flair-16gb-usb-3-0.jpg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/id?d_visid_ver=5.0.1&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=860375D55F463E4C0A495FE8%40AdobeOrg&d_nsid=0&ts=1621122108757"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.pccomponentes.com/img/home/familia-portatiles.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.pccomponentes.com/img/home/familia-pccom.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.pccomponentes.com/img/home/familia-altavoces.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.pccomponentes.com/img/home/familia-perifericos.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.pccomponentes.com/img/home/familia-tablets.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.pccomponentes.com/img/home/familia-tv.jpg"
     },
     {
       "mime_type": "image/webp",
@@ -1592,62 +1702,6 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/familia-portatiles.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/familia-pccom.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/familia-altavoces.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/familia-perifericos.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/familia-tablets.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/familia-tv.jpg"
-    },
-    {
-      "mime_type": "text/html",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": true,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.pccomponentes.com/ajax_nc/user?_=1621070033905"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
       "url": "https://thumb.pccomponentes.com/w-220-220/articles/16/160973/1.jpg"
     },
     {
@@ -1659,28 +1713,92 @@
       "url": "https://thumb.pccomponentes.com/w-220-220/articles/16/164151/1.jpg"
     },
     {
-      "mime_type": "text/html",
+      "mime_type": "text/javascript",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
-      "status_text": "OK",
-      "url": "https://pccomponentes.demdex.net/dest5.html?d_nsid=0"
+      "status_text": "",
+      "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20210511/r20110914/elements/html/omrhp.js"
     },
     {
       "mime_type": "image/gif",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
-      "status_text": "OK",
-      "url": "https://cm.everesttech.net/cm/dd?d_uuid=37553333707568115221093171656727311542"
+      "status_text": "",
+      "url": "https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjsvGnEFa--zK6EzscNNbqcHDUBO_kWnhkIGgKsiMQzHwXTQwgZJqoA5cxPxC9Eg549Cg7DJblvroo9oxdmvsqX_rV7tfwOd9hllVTZVHGNJTF6MbVr9LGLnzir_s2ya846PbAQ&sig=Cg0ArKJSzOQwlTXaVIQkEAE&cry=1&fbs_aeid=[gw_fbsaeid]&urlfix=1&omid=0&rm=1&ctpt=2&cbvp=1&cisv=r20210511.90292&adurl="
     },
     {
-      "mime_type": "application/json",
+      "mime_type": "application/javascript",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://pccomponentes.tt.omtrdc.net/rest/v1/delivery?client=pccomponentes&sessionId=d21d294888904c1da51623df3f365647&version=2.3.2"
+      "url": "https://adservice.google.es/adsid/integrator.js?domain=www.pccomponentes.com"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/adsid/integrator.js?domain=www.pccomponentes.com"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=2306543927551349&correlator=1805019895076394&output=ldjh&impl=fifs&eid=31060520%2C31060989%2C31061141%2C31061003&vrg=2021051101&ptt=17&sc=1&sfv=1-0-38&ecs=20210515&iu_parts=60840406%2Caccesos-directos-300x30&enc_prev_ius=%2F0%2F1&prev_iu_szs=300x18%7C300x32%7C1x18&cust_params=language%3Des&cookie_enabled=1&bc=31&abxe=1&lmt=1621122109&dt=1621122109632&dlt=1621122107212&idt=2354&ea=0&frm=20&biw=785&bih=600&oid=3&adxs=-12245933&adys=-12245933&adks=3905912547&ucis=1&ifi=1&u_tz=120&u_his=2&u_java=false&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=window.screen.colorDepth&u_nplug=24&u_nmime=26&u_sd=1&flash=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x-1&msz=0x-1&ga_vid=1507070769.1621122110&ga_sid=1621122110&ga_hid=1951052453&ga_fc=false&fws=644&ohw=785&btvi=-1&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ.."
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d4840535ca46717afd26fc281b73addb.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=2306543927551349&correlator=1805019895076394&output=ldjh&impl=fifs&eid=31060520%2C31060989%2C31061141%2C31061003&vrg=2021051101&ptt=17&sc=1&sfv=1-0-38&ecs=20210515&iu_parts=60840406%2Chome_responsive&enc_prev_ius=%2F0%2F1&prev_iu_szs=748x200&cust_params=language%3Des&cookie_enabled=1&bc=31&abxe=1&lmt=1621122109&dt=1621122109646&dlt=1621122107212&idt=2354&ea=0&frm=20&biw=785&bih=600&oid=3&adxs=18&adys=156&adks=3641640701&ucis=2&ifi=2&u_tz=120&u_his=2&u_java=false&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=window.screen.colorDepth&u_nplug=24&u_nmime=26&u_sd=1&flash=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&vis=1&dmc=8&scr_x=0&scr_y=0&psz=764x200&msz=748x200&ga_vid=1507070769.1621122110&ga_sid=1621122110&ga_hid=1951052453&ga_fc=false&fws=4&ohw=748&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ.."
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=2306543927551349&correlator=1805019895076394&output=ldjh&impl=fifs&eid=31060520%2C31060989%2C31061141%2C31061003&vrg=2021051101&ptt=17&sc=1&sfv=1-0-38&ecs=20210515&iu_parts=60840406%2C1127_105_home&enc_prev_ius=%2F0%2F1&prev_iu_szs=1127x105&cust_params=language%3Des%26estatico%3Dhome%2520full&cookie_enabled=1&bc=31&abxe=1&lmt=1621122109&dt=1621122109652&dlt=1621122107212&idt=2354&ea=0&frm=20&biw=785&bih=600&oid=3&adxs=-12245933&adys=-12245933&adks=4138576267&ucis=3&ifi=3&u_tz=120&u_his=2&u_java=false&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=window.screen.colorDepth&u_nplug=24&u_nmime=26&u_sd=1&flash=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0&msz=0x-1&ga_vid=1507070769.1621122110&ga_sid=1621122110&ga_hid=1951052453&ga_fc=false&fws=132&ohw=785&btvi=-1&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ.."
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.pccomponentes.com/cdn-cgi/bm/cv/result?req_id=65003811eb38ff14"
     },
     {
       "mime_type": "text/javascript",
@@ -1693,10 +1811,10 @@
     {
       "mime_type": "text/html",
       "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": true,
+      "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://6712100.fls.doubleclick.net/activityi;src=6712100;type=vgeneral;cat=visit0;ord=9142389860859;gtm=2wg5c1;auiddc=1128077591.1621070035;u1=home;u2=;u3=;u4=;u5=;u6=;u8=%2F;~oref=https%3A%2F%2Fwww.pccomponentes.com%2F?"
+      "url": "https://6712100.fls.doubleclick.net/activityi;src=6712100;type=vgeneral;cat=visit0;ord=5290304238403;gtm=2wg5c1;auiddc=1715917771.1621122110;u1=home;u2=;u3=;u4=;u5=;u6=;u8=%2F;~oref=https%3A%2F%2Fwww.pccomponentes.com%2F?"
     },
     {
       "mime_type": "text/javascript",
@@ -1739,6 +1857,14 @@
       "url": "https://creativecdn.com/tags?id=pr_hFDp1XH3S40uBDht2vM5_home"
     },
     {
+      "mime_type": "text/html",
+      "referer": "about:blank",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://6712100.fls.doubleclick.net/activityi;dc_pre=CM2o9bvuzPACFQZ_0wodPh8CXw;src=6712100;type=vgeneral;cat=visit0;ord=5290304238403;gtm=2wg5c1;auiddc=1715917771.1621122110;u1=home;u2=;u3=;u4=;u5=;u6=;u8=%2F;~oref=https%3A%2F%2Fwww.pccomponentes.com%2F?"
+    },
+    {
       "mime_type": "application/javascript",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
@@ -1779,100 +1905,28 @@
       "url": "https://www.googletagmanager.com/gtag/js?id=G-B8JPB9S1S2&l=dataLayer&cx=c"
     },
     {
-      "mime_type": "text/javascript",
+      "mime_type": "text/html",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
-      "status_text": "",
-      "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914"
-    },
-    {
-      "mime_type": "text/javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://pagead2.googlesyndication.com/pagead/js/r20210511/r20110914/elements/html/omrhp.js"
+      "status_text": "OK",
+      "url": "https://pccomponentes.demdex.net/dest5.html?d_nsid=0"
     },
     {
       "mime_type": "image/gif",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
-      "status_text": "",
-      "url": "https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjsudvUa55PK4LKYob-OmbeD5G6NNNTatWRu0_jmMKcH5bRjbm-yduQ_tpARSWQ_B9fqPg1D8wLnYs8kaDuz__HvGw-DLAJb2h4ZIbxQP2_emXT54SHgFYuagRDiBdZoE3IMycg&sig=Cg0ArKJSzOXM6wGdUlF_EAE&cry=1&fbs_aeid=[gw_fbsaeid]&urlfix=1&omid=0&rm=1&ctpt=2&cbvp=1&cisv=r20210511.59141&adurl="
+      "status_text": "OK",
+      "url": "https://cm.everesttech.net/cm/dd?d_uuid=60347223562622260560521876013782554925"
     },
     {
-      "mime_type": "text/html",
-      "referer": "about:blank",
-      "sets_cookie": true,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://6712100.fls.doubleclick.net/activityi;dc_pre=CMe_8rysy_ACFdZDHQkdjXoBeQ;src=6712100;type=vgeneral;cat=visit0;ord=9142389860859;gtm=2wg5c1;auiddc=1128077591.1621070035;u1=home;u2=;u3=;u4=;u5=;u6=;u8=%2F;~oref=https%3A%2F%2Fwww.pccomponentes.com%2F?"
-    },
-    {
-      "mime_type": "application/javascript",
+      "mime_type": "application/json",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
-      "status_code": 200,
+      "status_code": 400,
       "status_text": "",
-      "url": "https://adservice.google.es/adsid/integrator.js?domain=www.pccomponentes.com"
-    },
-    {
-      "mime_type": "application/javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://adservice.google.com/adsid/integrator.js?domain=www.pccomponentes.com"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1010515919746486&correlator=195211257205620&output=ldjh&impl=fifs&eid=31060508%2C31060840&vrg=2021051001&ptt=17&sc=1&sfv=1-0-38&ecs=20210515&iu_parts=60840406%2Caccesos-directos-300x30&enc_prev_ius=%2F0%2F1&prev_iu_szs=300x18%7C300x32%7C1x18&cust_params=language%3Des&cookie_enabled=1&bc=31&abxe=1&lmt=1621070035&dt=1621070035458&dlt=1621070032726&idt=2656&frm=20&biw=785&bih=600&oid=3&adxs=-12245933&adys=-12245933&adks=3905912547&ucis=1&ifi=1&u_tz=120&u_his=2&u_java=false&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&flash=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x-1&msz=0x-1&ga_vid=1009432138.1621070035&ga_sid=1621070035&ga_hid=601403478&ga_fc=false&fws=644&ohw=785&btvi=-1&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ.."
-    },
-    {
-      "mime_type": "text/html",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://ebf0f1bab1581118071b87edbec9d949.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html"
-    },
-    {
-      "mime_type": "text/html",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1010515919746486&correlator=195211257205620&output=ldjh&impl=fifs&eid=31060508%2C31060840&vrg=2021051001&ptt=17&sc=1&sfv=1-0-38&ecs=20210515&iu_parts=60840406%2Chome_responsive&enc_prev_ius=%2F0%2F1&prev_iu_szs=748x200&cust_params=language%3Des&cookie_enabled=1&bc=31&abxe=1&lmt=1621070035&dt=1621070035475&dlt=1621070032726&idt=2656&frm=20&biw=785&bih=600&oid=3&adxs=18&adys=156&adks=3641640701&ucis=2&ifi=2&u_tz=120&u_his=2&u_java=false&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&flash=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&vis=1&dmc=8&scr_x=0&scr_y=0&psz=764x200&msz=748x200&ga_vid=1009432138.1621070035&ga_sid=1621070035&ga_hid=601403478&ga_fc=false&fws=4&ohw=748&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ.."
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1010515919746486&correlator=195211257205620&output=ldjh&impl=fifs&eid=31060508%2C31060840&vrg=2021051001&ptt=17&sc=1&sfv=1-0-38&ecs=20210515&iu_parts=60840406%2C1127_105_home&enc_prev_ius=%2F0%2F1&prev_iu_szs=1127x105&cust_params=language%3Des%26estatico%3Dhome%2520full&cookie_enabled=1&bc=31&abxe=1&lmt=1621070035&dt=1621070035487&dlt=1621070032726&idt=2656&frm=20&biw=785&bih=600&oid=3&adxs=-12245933&adys=-12245933&adks=4138576267&ucis=3&ifi=3&u_tz=120&u_his=2&u_java=false&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&flash=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0&msz=0x-1&ga_vid=1009432138.1621070035&ga_sid=1621070035&ga_hid=601403478&ga_fc=false&fws=132&ohw=785&btvi=-1&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ.."
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 204,
-      "status_text": "",
-      "url": "https://www.pccomponentes.com/cdn-cgi/bm/cv/result?req_id=64fb40b85a76c667"
+      "url": "https://pccomponentes.tt.omtrdc.net/rest/v1/delivery?client=pccomponentes&sessionId=57e47f07195842c78226ba9d2903f6ae&version=2.3.2"
     },
     {
       "mime_type": "text/html",
@@ -1887,8 +1941,8 @@
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
-      "status_text": "OK",
-      "url": "https://dpm.demdex.net/ibs:dpid=411&dpuuid=YJ_Q0wAAAMVWdQhv"
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssPCJnyLQgyJfhknAkEq1rbRTKT4HqBlN9omQ5PT1ixIjX8hqGUQBAwxZdOoMD7tL6dvKLZVCOLASnOLkF7_qGIY6SChDBKDVArQr_WcZG8_d-9E6tPtiuzgFbbIC_NDanq8Ko4z6GYiuwc979MCv8MHN8PCAzjk9GgUUnePQSc2Z6W64cTg-dSfb0swePY50PsU8X4EScwELDjeMLuQhd6SnHD-n6ah3mJf5I56pErn4KtVkbEtdEEIwh4mjYS-mfR4rz13hvSP-Az-Ssvbhixri6PgguhvURyR-aER-xLzoZDWeZu4Bp_EH4&sig=Cg0ArKJSzGfU6M7FGaFvEAE&adurl="
     },
     {
       "mime_type": "text/javascript",
@@ -1896,7 +1950,79 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1058222104/?random=1621070035594&cv=9&fst=1621070035594&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg5c1&sendb=1&ig=1&data=ecomm_pagetype%3Dhome%3Becomm_totalvalue%3D0&frm=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&tiba=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20210511/r20110914/client/window_focus_fy2019.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.google.com/ads/measurement/l?ebcid=ALh7CaRmwkrMDR7xRWUL74ukd8BhrpUFGX9DvO8hMrzwXu4on6UdqIfD70qKzon5W-KlssRntLnattwFCuhrF1tGLJjv9s6x2Q"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/simgad/16811929132387894526"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/activeview/js/current/osd.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1058222104/?random=1621122110134&cv=9&fst=1621122110134&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=window.screen.colorDepth&u_his=2&u_tz=120&u_java=false&u_nplug=24&u_nmime=26&gtm=2wg5c1&sendb=1&ig=1&data=ecomm_pagetype%3Dhome%3Becomm_totalvalue%3D0&frm=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&tiba=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjss5cWS3KMLjTkeqWKZP4wG9mFtqKHOhwv2czRScJ2k06tka3pX6PBMxIt2E1F--TJEie7pEKf2EHaAOcOItKSY8Ln4Dkt6DwFJNr6x6Z8rgLy5VCyDhsCZAAhrOO2xPP7EEkYAISmgITVasWZMwAAVNAAN4iXKNhSzkP3yk0qve7fbCQkUlfIT12_78PVTWOdsJfIY_5F5Yvu-IfUYLMWpiOpMQcdIHbaD4AgFB5Lv3FEtvodDTRmB2g0aK2fZl8D98e0Xdc1n-nYg-61-XNPAJOwiZFalJspHZbp3qv-ABYbvFbXNcmw330GujQw&sig=Cg0ArKJSzNOqrlmaK4vGEAE&adurl="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=411&dpuuid=YKBcPgAAADuEhgHZ"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://script.hotjar.com/modules.0fd8b750824023792fba.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect.facebook.net/signals/config/114112272259558?v=2.9.39&r=stable"
     },
     {
       "mime_type": "text/javascript",
@@ -1920,23 +2046,7 @@
       "sets_cookie": false,
       "status_code": 204,
       "status_text": "",
-      "url": "https://bat.bing.com/action/0?ti=5934328&tm=gtm001&Ver=2&mid=f60a861f-f841-4bb8-a010-665a1148916c&sid=dfd0a980b55d11ebac3d89cf1b271c9f&vid=dfd17120b55d11eba09b937fb315f6c3&vids=1&pi=0&lg=es-ES&sw=800&sh=600&sc=24&tl=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&p=https%3A%2F%2Fwww.pccomponentes.com%2F&r=&lt=1819&evt=pageLoad&msclkid=N&sv=1&rn=581919"
-    },
-    {
-      "mime_type": "application/x-javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://connect.facebook.net/signals/config/114112272259558?v=2.9.39&r=stable"
-    },
-    {
-      "mime_type": "application/javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://script.hotjar.com/modules.0fd8b750824023792fba.js"
+      "url": "https://bat.bing.com/action/0?ti=5934328&tm=gtm001&Ver=2&mid=351bc9fd-b445-46d5-9970-8c4754e237af&sid=1ed203d0b5d711eb88a5a35e79d0fb3d&vid=1ed38410b5d711eb897241231e460303&vids=1&pi=-1806649344&lg=window.navigator.language&sw=800&sh=600&sc=window.screen.colorDepth&tl=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&p=https%3A%2F%2Fwww.pccomponentes.com%2F&r=&lt=1057&evt=pageLoad&msclkid=N&sv=1&rn=489030"
     },
     {
       "mime_type": "image/gif",
@@ -1952,55 +2062,7 @@
       "sets_cookie": false,
       "status_code": 204,
       "status_text": "",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-B8JPB9S1S2&gtm=2oe5c1&_p=601403478&sr=800x600&ul=es-es&cid=1009432138.1621070035&_s=1&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&sid=1621070035&sct=1&seg=0&en=page_view&_fv=2&_ss=1"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuKnP_xOFo_1pe5CNLSTWrs17Hq_6gHO-k4qrjIEEwk26y61efB9zcEUzn3u1bS_mjYlAtb27yFi85rWvi-RTaxiRdtN2q7I_2mLEa1zLaxRcmxV50qz_jjyg1CMV8yXsRmH-pXDY6_h9PTrHgXMS3yw7H-XmYIMLSNDYiuBfv8LYJGTKxYcUiHVMxJf21PrOk2X1IpOMbsVkN3Eze1ZETjnor5pJ_iieb5uWrGQz5TFyTRqDjlz0Ao5ZVikyHw2fVCNB5mkw3thcsx8r6ozkCoA6P5Vn3EiLweTFrXeGna2NIv8O75Sy3wTV4&sig=Cg0ArKJSzB8M5athy2dWEAE&adurl="
-    },
-    {
-      "mime_type": "text/javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://tpc.googlesyndication.com/pagead/js/r20210511/r20110914/client/window_focus_fy2019.js"
-    },
-    {
-      "mime_type": "text/javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914"
-    },
-    {
-      "mime_type": "image/jpeg",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://tpc.googlesyndication.com/simgad/17742344365617421272"
-    },
-    {
-      "mime_type": "text/javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.googletagservices.com/activeview/js/current/osd.js"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://t.co/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=nz2rk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.pccomponentes.com%2F"
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-B8JPB9S1S2&gtm=2oe5c1&_p=1951052453&sr=800x600&ul=window.navigator.language&cid=1507070769.1621122110&_s=1&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&sid=1621122109&sct=1&seg=0&en=page_view&_fv=2&_ss=1"
     },
     {
       "mime_type": "text/html",
@@ -2012,371 +2074,19 @@
     },
     {
       "mime_type": "image/gif",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.co/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=nz2rk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.pccomponentes.com%2F"
+    },
+    {
+      "mime_type": "image/gif",
       "referer": "https://6712100.fls.doubleclick.net/",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CMe_8rysy_ACFdZDHQkdjXoBeQ;src=6712100;type=vgeneral;cat=visit0;ord=9142389860859;gtm=2wg5c1;auiddc=*;u1=home;u2=;u3=;u4=;u5=;u6=;u8=%2F;~oref=https%3A%2F%2Fwww.pccomponentes.com%2F"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=601403478&t=pageview&cu=EUR&_s=1&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=aChAAUALQAAAAC~&jid=1429436376&gjid=1600248911&cid=1009432138.1621070035&tid=UA-3033616-2&_gid=65839478.1621070036&_r=1&gtm=2wg5c1MCDXK2&cg1=ES&cg2=es&cg3=home&cg4=(not-set)&cg5=(not%20set)&cd3=no&cd4=ES&cd19=&cd20=https%3A%2F%2Fwww.pccomponentes.com%2F&cd1=1009432138.1621070035&pa=detail&promo1id=1474612829713&promo1nm=accesos-directos-300x30&promo2id=1463996916129&promo2nm=1127_105_home&z=1294043421"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=601403478&t=pageview&cu=EUR&_s=1&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&ul=es-es&de=UTF-8&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=aCjAAUALQAAAAC~&jid=1500102801&gjid=1479988993&cid=1009432138.1621070035&tid=UA-3033616-1&_gid=65839478.1621070036&_r=1&gtm=2wg5c1MCDXK2&cg1=ES&cg2=es&cg3=home&cd3=no&cd4=ES&cd5=EUR&cd19=&cd20=https%3A%2F%2Fwww.pccomponentes.com%2F&cd1=1009432138.1621070035&pa=detail&promo1id=1474612829713&promo1nm=accesos-directos-300x30&promo2id=1463996916129&promo2nm=1127_105_home&z=447192588"
-    },
-    {
-      "mime_type": "application/javascript",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google-analytics.com/gtm/js?id=GTM-N8X6SB5&t=gtm98&cid=1009432138.1621070035"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google.com/pagead/1p-user-list/1058222104/?random=1621070035594&cv=9&fst=1621069200000&num=1&guid=ON&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg5c1&sendb=1&data=ecomm_pagetype%3Dhome%3Becomm_totalvalue%3D0&frm=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&tiba=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&async=1&fmt=3&is_vtc=1&random=3720395655&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google.es/pagead/1p-user-list/1058222104/?random=1621070035594&cv=9&fst=1621069200000&num=1&guid=ON&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg5c1&sendb=1&data=ecomm_pagetype%3Dhome%3Becomm_totalvalue%3D0&frm=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&tiba=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&async=1&fmt=3&is_vtc=1&random=3720395655&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.facebook.com/tr/?id=114112272259558&ev=PageView&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&rl=&if=false&ts=1621070036159&sw=800&sh=600&v=2.9.39&r=stable&ec=0&o=30&fbp=fb.1.1621070036152.316986067&it=1621070035685&coo=false&exp=l0&rqm=GET"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-3033616-2&cid=1009432138.1621070035&jid=1429436376&gjid=1600248911&_gid=65839478.1621070036&_u=aChAAUAKQAAAAC~&z=272028725"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://creativecdn.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://sync.teads.tv/um?eid=167&uid=iTrpK9rt8OV6fp7ITS7y"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-3033616-1&cid=1009432138.1621070035&jid=1500102801&gjid=1479988993&_gid=65839478.1621070036&_u=aCjAAUALQAAAAC~&z=323723300"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvmrxkpRIv2QHuKyITP9gGc08RSwKdfcDnf5s1iSI4JcR7zJNOscWePF5AqyBs_5nbEqM-6L3A3DcFr04uk3VzdmGeQ5X1aMcB5sb4b_QIRfxcoWmVwoWw_BORo5IElIPGCsGfNT45iwfRrf1FCHzZwmXCxmntq1TQvXmUMnYGWqBmp6VWY4aihKdEL6U6VgKLK_3T24NCiWv0x4fZmEcasRhTiCtchJ1w9iPqWsT-niA9PANu3LBZgmnTnTvGGHm7D1Jhp_yjdEnwenJO931IQQHpk0Fs4-0E9i30BSzyWZD_VgnViFANYqjaj8w&sig=Cg0ArKJSzHtrsn-d9Y5sEAE&adurl="
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/emails/commons/ssrr-v3-icon-twitter-white.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/emails/commons/ssrr-v3-icon-facebook-white.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/emails/commons/ssrr-v5-icon-whatsapp-white.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/emails/commons/ssrr-v3-icon-telegram-white.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/concursos/sorteo-amd-mayo21-500x500-v3.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/repositorio/categoria/categoria-productividad_teletrabajo-364x175.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/repositorio/categoria/categoria-equipa_tu_hogar-364x175.png?2"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/repositorio/categoria/categoria-rincon_del_streamer-364x175.png?2"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/repositorio/categoria/categoria-cuidado_personal_ella-364x175.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/repositorio/categoria/categoria-deporte_movilidad-364x175.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/repositorio/categoria/categoria-vida_saludable-364x175.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/35/350230/1523-pccom-bronze-intel-core-i5-10400-8gb-1tb-480ssd.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/37/378452/1634-pccom-silver-amd-ryzen-5-3600-16gb-480gbssd-1tb-rtx3060-comprar.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/32/328473/168-amd-ryzen-7-5800x-38ghz.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/37/377926/1559-xfx-speedster-merc319-amd-radeon-rx-6700xt-black-gaming-12gb-gddr6.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/37/378036/1565-hp-15s-fq2079ns-intel-core-i5-1135g7-16gb-512gb-ssd-156.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/35/359952/1269-asus-tuf-gaming-fx505dt-hn540-amd-ryzen-7-3750h-16gb-512-ssd-gtx1650-156.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/32/328702/1997-amd-ryzen-9-5900x-37-ghz.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/31/316025/1773-pccom-silver-ultra-intel-core-i5-10400f-16gb-480ssd-1tb-gtx1660s-comprar.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/11/111412/new111412.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/12/128272/1282720.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/32/328475/1101-amd-ryzen-5-5600x-37ghz.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/34/345854/1903-pccom-bronze-sp-intel-core-i5-9400f-8gb-480gbssd-gtx1050ti.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/28/287322/msi-gl65-leopard-10sek-241xes-intel-core-i7-10750h-32gb-1tb-ssd-rtx-2060-156.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/26/267394/pccom-silver-intel-core-i5-9700f-16gb-480ssd-1tb-gtx1660s-mejor-precio.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/34/345645/2715-msi-optix-g241v-238-led-ips-fullhd-freesync-opiniones.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/23/238976/sf-nvr6432-4k16p.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/38/389764/1942-lenovo-ideapad-3-15itl06-intel-core-i5-1135g7-16gb-512gb-ssd-156.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://thumb.pccomponentes.com/w-300-300/articles/24/244695/1.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/bg-category-f1.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/bg-category-f2.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cdn.pccomponentes.com/img/home/bg-category-f3.png"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://img.pccomponentes.com/pcblog/542/componentes-1.jpg"
-    },
-    {
-      "mime_type": "image/jpeg",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://img.pccomponentes.com/pcblog/536/placaintel-1.jpg"
-    },
-    {
-      "mime_type": "image/webp",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://img.pccomponentes.com/pcblog/539/placaamd.jpg"
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CM2o9bvuzPACFQZ_0wodPh8CXw;src=6712100;type=vgeneral;cat=visit0;ord=5290304238403;gtm=2wg5c1;auiddc=*;u1=home;u2=;u3=;u4=;u5=;u6=;u8=%2F;~oref=https%3A%2F%2Fwww.pccomponentes.com%2F"
     },
     {
       "mime_type": "application/json",
@@ -2388,11 +2098,11 @@
     },
     {
       "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
+      "referer": "https://creativecdn.com/",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-3033616-2&cid=1009432138.1621070035&jid=1429436376&_u=aChAAUAKQAAAAC~&z=32229021"
+      "url": "https://sync.teads.tv/um?eid=167&uid=QyWNbbcnZNg0IQpbxo2U"
     },
     {
       "mime_type": "image/gif",
@@ -2400,7 +2110,7 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-3033616-2&cid=1009432138.1621070035&jid=1429436376&_u=aChAAUAKQAAAAC~&z=32229021"
+      "url": "https://www.google.com/pagead/1p-user-list/1058222104/?random=1621122110134&cv=9&fst=1621119600000&num=1&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=window.screen.colorDepth&u_his=2&u_tz=120&u_java=false&u_nplug=24&u_nmime=26&gtm=2wg5c1&sendb=1&data=ecomm_pagetype%3Dhome%3Becomm_totalvalue%3D0&frm=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&tiba=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&async=1&fmt=3&is_vtc=1&random=2690912554&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
     },
     {
       "mime_type": "image/gif",
@@ -2408,7 +2118,7 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-3033616-1&cid=1009432138.1621070035&jid=1500102801&_u=aCjAAUALQAAAAC~&z=1242090242"
+      "url": "https://www.google.es/pagead/1p-user-list/1058222104/?random=1621122110134&cv=9&fst=1621119600000&num=1&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=window.screen.colorDepth&u_his=2&u_tz=120&u_java=false&u_nplug=24&u_nmime=26&gtm=2wg5c1&sendb=1&data=ecomm_pagetype%3Dhome%3Becomm_totalvalue%3D0&frm=0&url=https%3A%2F%2Fwww.pccomponentes.com%2F&tiba=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&async=1&fmt=3&is_vtc=1&random=2690912554&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
     },
     {
       "mime_type": "image/gif",
@@ -2416,15 +2126,7 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-3033616-1&cid=1009432138.1621070035&jid=1500102801&_u=aCjAAUALQAAAAC~&z=1242090242"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.facebook.com/tr/"
+      "url": "https://www.facebook.com/tr/?id=114112272259558&ev=PageView&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&rl=&if=false&ts=1621122110988&sw=800&sh=600&v=2.9.39&r=stable&ec=0&o=30&fbp=fb.1.1621122110982.1421747404&it=1621122110329&coo=false&exp=l0&rqm=GET"
     },
     {
       "mime_type": "application/javascript",
@@ -2448,7 +2150,7 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2021051001&st=env"
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2021051101&st=env"
     },
     {
       "mime_type": "application/javascript",
@@ -2459,20 +2161,28 @@
       "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=nz2rk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.pccomponentes.com%2F"
     },
     {
+      "mime_type": "application/json",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cl1-api.connectif.cloud/integration-type/system/scrippet-notification/323bf1a2-8a49-4394-ae70-15130139511f"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cl1-api.connectif.cloud/integration-type/system/scrippet-notification/323bf1a2-8a49-4394-ae70-15130139511f"
+    },
+    {
       "mime_type": "application/javascript",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "OK",
       "url": "https://jpcbjmccwkfr2orrrgmu3zlee5lzws.s3-eu-west-1.amazonaws.com/eihSuBc6ff.js"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=601403478&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=monitor&ea=connectif&el=blocks%3A%200%2C0%2C0%2C0%20%7C%20script%3A%202982.36ms%2C%203257.41ms%2C%20275.06ms&_u=aCjAAUALQAAAAC~&jid=1900556675&gjid=48796499&cid=1009432138.1621070035&tid=UA-3033616-3&_gid=65839478.1621070036&_r=1&gtm=2wg5c1MCDXK2&cg1=ES&cg2=es&cg3=home&cg4=(not-set)&cg5=(not%20set)&cd3=no&cd4=ES&cd19=&cd20=https%3A%2F%2Fwww.pccomponentes.com%2F&cd1=1009432138.1621070035&z=806713014"
     },
     {
       "mime_type": "text/javascript",
@@ -2483,28 +2193,12 @@
       "url": "https://tpc.googlesyndication.com/sodar/sodar2.js"
     },
     {
-      "mime_type": "application/json",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cl1-api.connectif.cloud/integration-type/system/scrippet-notification/323bf1a2-8a49-4394-ae70-15130139511f"
-    },
-    {
-      "mime_type": "application/json",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://cl1-api.connectif.cloud/integration-type/system/scrippet-notification/323bf1a2-8a49-4394-ae70-15130139511f"
-    },
-    {
       "mime_type": "image/gif",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "",
-      "url": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsv1FvSTO2WcQS-AXe8zUPr10tT2UCsQYifWwOlDA461KnPPNwwpiORZ2tIT92KTTkouWju0uawXJT1QRwbGkYvny4E9doRfKP3A6emuDxo&sig=Cg0ArKJSzORuUIEEOqaaEAE&id=lidar2&mcvt=1091&p=156,18,356,766&mtos=1091,1091,1091,1091,1091&tos=1091,0,0,0,0&v=20210514&bin=7&avms=nio&bs=785,600&mc=1&app=0&itpl=3&adk=3641640701&rs=4&met=mue&la=0&cr=0&osd=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ%3D%3D&vs=4&rst=1621070035946&dlt=0&rpt=785&isd=0&msd=0&r=v&fum=1"
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsu9cmW2Cp8M88nzrQXR39dMC9tjAAipH-PrLoKQxeeQp0a-2tolnUYhKZz5EIwZo0KhHLIWQlSJbKJ-FA7b67b8cwcpRmL_--r95KzW-4s&sig=Cg0ArKJSzBUvx4e1Esl1EAE&id=lidar2&mcvt=1172&p=156,18,356,766&mtos=1172,1172,1172,1172,1172&tos=1172,0,0,0,0&v=20210514&bin=7&avms=nio&bs=785,600&mc=1&app=0&itpl=3&adk=3641640701&rs=4&met=mue&la=0&cr=0&osd=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdXQ%3D%3D&vs=4&rst=1621122109998&dlt=0&rpt=817&isd=0&msd=0&r=v&fum=1"
     },
     {
       "mime_type": "text/javascript",
@@ -2512,7 +2206,15 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "OK",
-      "url": "https://bam-cell.nr-data.net/1/7a38cf419a?a=22130025&v=1208.49599aa&to=bgFTbRcEXhZVUxddCldLcFoRDF8LG2AAVzJcBnNMCwFcAA5zDFkIVgoeewQLXgBGCgRREXsFX1cAFw%3D%3D&rst=5022&ck=1&ref=https://www.pccomponentes.com/&ap=423&be=428&fe=4606&dc=1812&af=err,xhr,stn,ins&perf=%7B%22timing%22:%7B%22of%22:1621070032335,%22n%22:0,%22f%22:1,%22dn%22:278,%22dne%22:300,%22c%22:300,%22s%22:314,%22ce%22:344,%22rq%22:344,%22rp%22:380,%22rpe%22:428,%22dl%22:391,%22di%22:1785,%22ds%22:1792,%22de%22:1819,%22dc%22:4605,%22l%22:4605,%22le%22:4635%7D,%22navigation%22:%7B%7D%7D&fp=626&fcp=626&at=QkZQG18eTRg%3D&jsonp=NREUM.setToken"
+      "url": "https://bam-cell.nr-data.net/1/7a38cf419a?a=22130025&v=1208.49599aa&to=bgFTbRcEXhZVUxddCldLcFoRDF8LG2AAVzJcBnNMCwFcAA5zDFkIVgoeewQLXgBGCgRREXsFX1cAFw%3D%3D&rst=4596&ck=1&ref=https://www.pccomponentes.com/&ap=501&be=349&fe=4182&dc=1052&af=err,xhr,stn,ins&perf=%7B%22timing%22:%7B%22of%22:1621122106893,%22n%22:0,%22f%22:0,%22dn%22:215,%22dne%22:235,%22c%22:235,%22s%22:249,%22ce%22:279,%22rq%22:280,%22rp%22:311,%22rpe%22:332,%22dl%22:319,%22di%22:1043,%22ds%22:1052,%22de%22:1057,%22dc%22:4181,%22l%22:4181,%22le%22:4214%7D,%22navigation%22:%7B%7D%7D&fp=531&fcp=531&at=QkZQG18eTRg%3D&jsonp=NREUM.setToken"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.pccomponentes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.facebook.com/tr/"
     },
     {
       "mime_type": "text/html",
@@ -2534,33 +2236,9 @@
       "mime_type": "image/gif",
       "referer": "https://www.pccomponentes.com/",
       "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=601403478&t=event&ni=1&cu=EUR&_s=1&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=enhanced%20ecommerce&ea=impressions%20list&_u=aCjAAUALQAAAAC~&jid=&gjid=&cid=1009432138.1621070035&tid=UA-3033616-2&_gid=65839478.1621070036&gtm=2wg5c1MCDXK2&cg1=ES&cg2=es&cg3=home&cg4=(not-set)&cg5=(not%20set)&cd3=no&cd4=ES&cd19=&cd20=https%3A%2F%2Fwww.pccomponentes.com%2F&cd1=1009432138.1621070035&il1nm=Home%20-%20Main%20Links%20-%2001%20Ofertas%20Especiales&il1pi1nm=%2Fofertas-especiales%20-%20Ofertas%20Especiales&il2nm=Home%20-%20Main%20Links%20-%2002%20Ordenadores%20PcCom&il2pi1nm=%2Fsobremesa%2Fpccom%20-%20Ordenadores%20PcCom&il3nm=Home%20-%20Main%20Links%20-%2003%20Promociones&il3pi1nm=%2Fpromociones%20-%20Promociones&il4nm=Home%20-%20Main%20Links%20-%2004%20Outlet&il4pi1nm=%2Foutlet%2F%20-%20Outlet&il5nm=Home%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&il5pi1nm=foto&il5pi1ca=Productividad%20y%20teletrabajo&il5pi2nm=titulo&il5pi2ca=Productividad%20y%20teletrabajo&il5pi3nm=subtitulo&il5pi3ca=Productividad%20y%20teletrabajo&il5pi4nm=foto&il5pi4ca=Equipa%20tu%20hogar&il5pi5nm=titulo&il5pi5ca=Equipa%20tu%20hogar&il5pi6nm=subtitulo&il5pi6ca=Equipa%20tu%20hogar&il5pi7nm=foto&il5pi7ca=Especial%20Streaming&il5pi8nm=titulo&il5pi8ca=Especial%20Streaming&z=1358013578"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 200,
-      "status_text": "",
-      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=601403478&t=event&ni=1&cu=EUR&_s=1&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&ul=es-es&de=UTF-8&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=enhanced%20ecommerce&ea=impressions%20list&_u=aCjAAUALQAAAAC~&jid=&gjid=&cid=1009432138.1621070035&tid=UA-3033616-1&_gid=65839478.1621070036&gtm=2wg5c1MCDXK2&cg1=ES&cg2=es&cg3=home&cd3=no&cd4=ES&cd5=EUR&cd19=&cd20=https%3A%2F%2Fwww.pccomponentes.com%2F&cd1=1009432138.1621070035&il1nm=Home%20-%20Main%20Links%20-%2001%20Ofertas%20Especiales&il1pi1nm=%2Fofertas-especiales%20-%20Ofertas%20Especiales&il2nm=Home%20-%20Main%20Links%20-%2002%20Ordenadores%20PcCom&il2pi1nm=%2Fsobremesa%2Fpccom%20-%20Ordenadores%20PcCom&il3nm=Home%20-%20Main%20Links%20-%2003%20Promociones&il3pi1nm=%2Fpromociones%20-%20Promociones&il4nm=Home%20-%20Main%20Links%20-%2004%20Outlet&il4pi1nm=%2Foutlet%2F%20-%20Outlet&il5nm=Home%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&il5pi1nm=foto&il5pi1ca=Productividad%20y%20teletrabajo&il5pi2nm=titulo&il5pi2ca=Productividad%20y%20teletrabajo&il5pi3nm=subtitulo&il5pi3ca=Productividad%20y%20teletrabajo&il5pi4nm=foto&il5pi4ca=Equipa%20tu%20hogar&il5pi5nm=titulo&il5pi5ca=Equipa%20tu%20hogar&il5pi6nm=subtitulo&il5pi6ca=Equipa%20tu%20hogar&il5pi7nm=foto&il5pi7ca=Especial%20Streaming&il5pi8nm=titulo&il5pi8ca=Especial%20Streaming&z=88249000"
-    },
-    {
-      "mime_type": "image/gif",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
       "status_code": 204,
       "status_text": "",
-      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar2&v=222&t=2&li=gpt_2021051001&jk=1010515919746486&bg=!8fKl8rbNAAY59bwoOfU7ACkAdvg8WsZanUYaF_GQvxRLrYlbhxGAX_2aUN8ja5mWyDQq015fUqOePwIAAAHXUgAAAA9oAQcKAB9NPLyuftewclqmurQseXKY6goLsIfYPJWaFCe79m96mQJOcpJpSad45tgD0C7aTvbaM2Ugm2tzXhyTn61VV20PCn-rT0fXQ2eKRksHErmGVkIHCy-WBGEnYEBoBkmyZqHIsTnIf0_88WB3qlKoP3NSI5vktNCbF6cFwMGY6a4Ki2MG6cKwySvtO7fe2A8FePS3H19Shc3My4Y3srZ_wT7wqndfMsrKQYJoSyjgfZuUFdIzPkWqjLc5p-NZgiqJHjoxDy36_MWKbiYxgj9bUrmbI8sPlfCvn-eh6Ro3Paeo_uN44WG68HicV2PuR0s76RixjBotRKOcXsYJxRoEdjx5Z7z9Ku3hruUh65F_-78u9CiCHib_-V77bV7PpN0qMHWXMB8KJaTszH-0fCkzNQw0DnbvdLpdq-jojKXrSdUo00FrpLAf_O8BB3gqjy2I7FLzW2N4UblPaxurzGTdEb5Ho-_kSYVDGfLqRtrHnf1TiaaFqSmMERtYUo__8imUuMmMVTuVLcD0nHWzHEDgEvbL3q5RgQejyY-9duKTPjzo_xEbGRDytuXNSTpVJchEqQn4-UNtVtV0L5I8E-3ND1WcPOQo7r_0SZypZDU1LqO_Azoba9AcM-lOTwRk6piDnGC6Yg4IQuPeh7Q-3PvAP_vmGM0cX-FeRkuZ9YQL4jKfC9UeIEmFg7xhCsLDw3He6prgtDYkFXWtaXX31rB7kMHpHLaBJXnXTbVBB6xjdG7_8c8VaOoRyFbDqMokzK1tJraKLbNYqZ-g_hw7FhaczDA1wz8OSJHdIArT6L5BNHpC7zp5J2Feis-0PMzIj2tfuV8"
-    },
-    {
-      "mime_type": "text/plain",
-      "referer": "https://www.pccomponentes.com/",
-      "sets_cookie": false,
-      "status_code": 204,
-      "status_text": "",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-B8JPB9S1S2&gtm=2oe5c1&_p=601403478&sr=800x600&ul=es-es&cid=1009432138.1621070035&_s=2&dl=https%3A%2F%2Fwww.pccomponentes.com%2F&dt=PcComponentes.com%20%7C%20Tienda%20de%20Inform%C3%A1tica%20y%20Tecnolog%C3%ADa%20online&cu=EUR&sid=1621070035&sct=1&seg=0&en=view_item_list&_et=2552&pr1=nm%2Fofertas-especiales%20-%20Ofertas%20Especiales~prNaN~k0currency~v0EUR~lnHome%20-%20Main%20Links%20-%2001%20Ofertas%20Especiales&pr2=nm%2Fsobremesa%2Fpccom%20-%20Ordenadores%20PcCom~prNaN~k0currency~v0EUR~lnHome%20-%20Main%20Links%20-%2002%20Ordenadores%20PcCom&pr3=nm%2Fpromociones%20-%20Promociones~prNaN~k0currency~v0EUR~lnHome%20-%20Main%20Links%20-%2003%20Promociones&pr4=nm%2Foutlet%2F%20-%20Outlet~prNaN~k0currency~v0EUR~lnHome%20-%20Main%20Links%20-%2004%20Outlet&pr5=nmfoto~caProductividad%20y%20teletrabajo~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&pr6=nmtitulo~caProductividad%20y%20teletrabajo~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&pr7=nmsubtitulo~caProductividad%20y%20teletrabajo~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&pr8=nmfoto~caEquipa%20tu%20hogar~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&pr9=nmtitulo~caEquipa%20tu%20hogar~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&pr10=nmsubtitulo~caEquipa%20tu%20hogar~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&pr11=nmfoto~caEspecial%20Streaming~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget&pr12=nmtitulo~caEspecial%20Streaming~prNaN~k0currency~v0EUR~lnHome%20-%20Bloque%20categorias%20dinamicas%20-%20AdobeTarget"
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar2&v=222&t=2&li=gpt_2021051101&jk=2306543927551349&bg=!GhmlGV3NAAY59bwoOfU7ACkAdvg8WoVVmktG1ziaaR-Bcm79Mukj1GBnzgZrb1fHKd-XqmeoS0ZxgQIAAAELUgAAABZoAQcKAMI5DJQ6HDZaAlziZNuBmMBUaToWxHdtvBZTqbbYVENo6gLGKCPip9vWxuaBHXGvCtzP20ybLwV-lvo5iNLMQiFfWgB2MvYlFrdb7qHgsUs4vR26PIRMrc3XNkfLl5vyRV71vMgiIM-QXTJNNvEiatyrW3jnKt2YXPoPZcs0TIiBvyOKPxRd4dUG1oh0b1raV5f2vjrvvnrmqVkvv7DOg2lHpfd90ujjtOM2YyDy2IP75OR1QSsbsPNkPNGdcnCReEW2zJkCYSUTIS6UaDDnBJmKxzdFGeWqOl48GXFQ-kuBtyzF84ErP0F-sCtvcR35qh6ghByCP2YXOiziKGqSZnMry0JI3NXMAsRp_HCcgOdDdykmECk-u4_w20Uub3BK9vWGL7jaUTKf2eGgzVxCPiPaYyVU8bglHruiYut0419g1UG8BVWikRC6U8lh04nr4YgRj-NjZKXr3s2araDjsypKYIjNosl0A4cjBMWQCtk0R_whZ4iCzd6eSDcqteMYsEu3AGtdzdd65d7Vjw9kwnp5MBvE7FcxCnWn-FuBRvzAOhPedP7j-zz2W9JRMFwMrbCfEmpp6b16x5VhbJsZoK6K_GqV0BjKKDrEwjlqLTeJVDk7ckz82zeV9fqJSX9k3Gh-oqPZCnJX4AEWPKHPSDWYrySPFsCVoM24gzITFPhXzPOf_qcHA2x0P5X4Zf6YJT05Z_A4iwATQVE21tMhlWhrZPOvkePhjtAH77DEKyjlhlKCxX3RqGr6mRRljb1i2mdQSou2Y88e4caqRUHYUFhZ2WKUBZrGCHNpYOYNK1oY-wNmFrgAH3iOFglQInjoinJj9JuREl5RIQkiKsS3Nmrzm_MXjsmH-sznUtUu-tLtxTszhwsojJ20Nm6ovtfFUisp9n63fn_Kb-xnzh30a04iYaCiQC18OVNblbBCjl29UCxNoicEAYvQrGFfI9TIhsmSw4iTIkoVgyw3vwj4O6dHQnHzMqkd9BYFu3ebpGA2hPul7eU0V1op8iSWjj9CJL0R0Qw3Jp0stpmV02H3j_vHdcv6RWkXBpFSTY78sFhH6PStnyXAQw"
     },
     {
       "mime_type": "image/gif",
@@ -2568,7 +2246,7 @@
       "sets_cookie": false,
       "status_code": 200,
       "status_text": "OK",
-      "url": "https://bam-cell.nr-data.net/events/1/7a38cf419a?a=22130025&v=1208.49599aa&to=bgFTbRcEXhZVUxddCldLcFoRDF8LG2AAVzJcBnNMCwFcAA5zDFkIVgoeewQLXgBGCgRREXsFX1cAFw%3D%3D&rst=15022&ck=1&ref=https://www.pccomponentes.com/"
+      "url": "https://bam-cell.nr-data.net/events/1/7a38cf419a?a=22130025&v=1208.49599aa&to=bgFTbRcEXhZVUxddCldLcFoRDF8LG2AAVzJcBnNMCwFcAA5zDFkIVgoeewQLXgBGCgRREXsFX1cAFw%3D%3D&rst=14597&ck=1&ref=https://www.pccomponentes.com/"
     }
   ],
   "security_headers": {
@@ -2583,7 +2261,7 @@
   },
   "session_storage": [
     {
-      "content": "abfb1336-fddd-46b5-98ec-477e007eef28",
+      "content": "982460e8-9a28-4a00-bfc8-b11be6f17d59",
       "key": "clickId"
     }
   ],
@@ -2606,8 +2284,8 @@
       "cm.everesttech.net",
       "connect.facebook.net",
       "creativecdn.com",
+      "d4840535ca46717afd26fc281b73addb.safeframe.googlesyndication.com",
       "dpm.demdex.net",
-      "ebf0f1bab1581118071b87edbec9d949.safeframe.googlesyndication.com",
       "googleads.g.doubleclick.net",
       "googleads4.g.doubleclick.net",
       "jpcbjmccwkfr2orrrgmu3zlee5lzws.s3-eu-west-1.amazonaws.com",
@@ -2620,7 +2298,6 @@
       "securepubads.g.doubleclick.net",
       "static.ads-twitter.com",
       "static.hotjar.com",
-      "stats.g.doubleclick.net",
       "sync.teads.tv",
       "t.co",
       "tpc.googlesyndication.com",
@@ -2635,11 +2312,11 @@
       "www.googletagservices.com"
     ],
     "num_http_requests": 0,
-    "num_https_requests": 90
+    "num_https_requests": 78
   },
   "tracking": {
     "num_tracker_cookies": 9,
-    "num_tracker_requests": 78,
+    "num_tracker_requests": 66,
     "trackers": [
       "6712100.fls.doubleclick.net",
       "ad.doubleclick.net",
@@ -2654,8 +2331,8 @@
       "cm.everesttech.net",
       "connect.facebook.net",
       "creativecdn.com",
+      "d4840535ca46717afd26fc281b73addb.safeframe.googlesyndication.com",
       "dpm.demdex.net",
-      "ebf0f1bab1581118071b87edbec9d949.safeframe.googlesyndication.com",
       "googleads.g.doubleclick.net",
       "googleads4.g.doubleclick.net",
       "js-agent.newrelic.com",
@@ -2665,7 +2342,6 @@
       "securepubads.g.doubleclick.net",
       "static.ads-twitter.com",
       "static.hotjar.com",
-      "stats.g.doubleclick.net",
       "sync.teads.tv",
       "t.co",
       "tpc.googlesyndication.com",
@@ -2674,7 +2350,6 @@
       "www.facebook.com",
       "www.google-analytics.com",
       "www.google.com",
-      "www.google.es",
       "www.googleadservices.com",
       "www.googletagmanager.com",
       "www.googletagservices.com"

@@ -4,22 +4,6 @@ from privacyscanner.scanmodules.chromedevtools.utils import JavaScriptError, jav
 
 GetResult = """
 (function() {
-   var dict = new Object();
-    dict['window.plugins'] = window.plugins;
-    dict['window.useragent'] = window.useragent;
-    dict['window.language'] = window.language;
-    dict['window.cpuclass'] = window.cpuclass;
-    dict['window.platform'] = window.platform;
-    dict['window.doNotTrack'] = window.doNotTrack;
-    dict['window.appName'] = window.appName;
-    dict['window.indexDB'] = window.indexDB;
-    dict['window.AudioContext'] = window.aud; 
-    dict['window.appCodeName'] = window.appCodeName; 
-    dict['window.screen.pixelDepth'] = window.pixelDepth; 
-    dict['window.screen.colorDepth'] = window.colorDepth; 
-    dict['window.mimeTypes'] = window.mimeTypes; 
-    dict['window.appVersion'] = window.appVersion; 
-
     return dict;
 })()
 """.lstrip()
@@ -31,7 +15,7 @@ class WindowFingerprintingExtractor(Extractor):
             try:
                 info = javascript_evaluate(self.page.tab, GetResult)
             except JavaScriptError:
-                pass
+                print("Error")
         
         for k in info.keys():
             if(info[k] is None or isinstance(info[k], list)): 
