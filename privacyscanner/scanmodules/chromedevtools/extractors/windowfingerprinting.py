@@ -32,4 +32,9 @@ class WindowFingerprintingExtractor(Extractor):
                 info = javascript_evaluate(self.page.tab, GetResult)
             except JavaScriptError:
                 pass
+        
+        for k in info.keys():
+            if(info[k] is None or isinstance(info[k], list)): 
+                info[k] = 0
+        
         self.result['fingerprinting_window'] = info
