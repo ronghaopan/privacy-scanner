@@ -199,7 +199,8 @@ def scan_site(args):
                     json.dump(result.get_results(), f, indent=2, sort_keys=True)
                     f.write('\n')
             logger.info('Finished %s', mod.name)
-    pprint.pprint(result.get_results())
+    #Deactive the printing result option
+    #pprint.pprint(result.get_results())
     if has_error:
         sys.exit(1)
 

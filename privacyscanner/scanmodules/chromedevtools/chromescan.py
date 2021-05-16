@@ -138,95 +138,246 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     window.prompt = function() {
         return true;
     };
-   
-    dict = new Object();
-    dict['window.navigator.plugins'] = 0;
-    dict['window.navigator.userAgent'] = 0;
-    dict['window.navigator.language'] = 0;
-    dict['window.navigator.cpuclass'] = 0;
-    dict['window.navigator.platform'] = 0;
-    dict['window.navigator.doNotTrack'] = 0;
-    dict['window.navigator.appName'] = 0;
-    dict['window.navigator.indexDB'] = 0;
-    dict['window.AudioContext'] = 0; 
-    dict['window.navigator.appCodeName'] = 0; 
-    dict['window.screen.pixelDepth'] = 0; 
-    dict['window.screen.colorDepth'] = 0; 
-    dict['window.navigator.mimeTypes'] = 0; 
-    dict['window.navigator.appVersion'] = 0; 
-    dict['window.navigator.buildID'] = 0;
-    dict['window.navigator.cookieEnable'] = 0; 
-    dict['window.navigator.languages'] = 0;
-    dict['window.navigator.onLine'] = 0;
-    dict['window.navigator.oscpu'] = 0;
-    dict['window.navigator.product'] = 0;
-    dict['window.navigator.productSub'] = 0;
-    dict['window.navigator.vendorSub'] = 0;
-    dict['window.navigator.vendor'] = 0;
+
     window.plugins = 0;
+    window.userAgent = 0;
+    window.language = 0;
+    window.cpuclass = 0;
+    window.platform = 0;
+    window.doNotTrack = 0;
+    window.appName = 0;
+    window.indexDB = 0;
+    window.audioContext = 0; 
+    window.navigator = 0; 
+    window.pixelDepth = 0; 
+    window.colorDepth = 0; 
+    window.mimeTypes = 0; 
+    window.appVersion = 0; 
+    window.buildID = 0;
+    window.cookieEnable = 0; 
+    window.languages = 0;
+    window.onLine = 0;
+    window.oscpu = 0;
+    window.product = 0;
+    window.productSub = 0;
+    window.vendorSub = 0;
+    window.vendor = 0;
 
-    function setWmNavigatorValue(obj, name) {
-        Object.defineProperty(window.navigator, obj, (function(_value){
-          return {
-            get: function _get() {
-              dict[name]++;  
-              return _value;
-            }
-          };
-        })(name));
-    }
-
-    function setWmScreenValue(obj, name) {
-        Object.defineProperty(window.screen, obj, (function(_value){
-          return {
-            get: function _get() {
-              dict[name]++;  
-              return _value;
-            }
-          };
-        })(name));
-    }
-
-    setWmScreenValue("pixelDepth", "window.screen.pixelDepth");
-    setWmScreenValue("colorDepth", "window.screen.colorDepth");
-
-    Object.defineProperty(window, "AudioContext", (function(_value){
+   Object.defineProperty(window, "AudioContext", (function(_value){
       return {
         get: function _get() {
-          dict[window.AudioContext]++;   
+          window.audioContext++;  
           return _value;
         }
       };
     })(window.AudioContext)); 
 
+   Object.defineProperty(window, "indexedDB", (function(_value){
+      return {
+        get: function _get() {
+          window.indexDB++;  
+          return _value;
+        }
+      };
+    })(window.indexedDB));
+    
+   Object.defineProperty(window.navigator, "platform", (function(_value){
+      return {
+        get: function _get() {
+          window.platform++;  
+          return _value;
+        }
+      };
+    })(window.navigator.platform));
+
+    Object.defineProperty(window.navigator, "userAgent", (function(_value){
+      return {
+        get: function _get() {
+          window.userAgent++;  
+          return _value;
+        }
+      };
+    })(window.navigator.userAgent));
+
     Object.defineProperty(window.navigator, "plugins", (function(_value){
       return {
         get: function _get() {
-          window.plugins++;
+          window.plugins++;  
           return _value;
         }
       };
     })(window.navigator.plugins));
 
-    function setAllFp(objList, nameList) {
-        for (let i = 0; i < objList.length; i++) {
-            setWmNavigatorValue(objList[i], nameList[i]);
+    Object.defineProperty(window.navigator, "language", (function(_value){
+      return {
+        get: function _get() {
+          window.language++;  
+          return _value;
         }
-    }
+      };
+    })(window.navigator.language));
 
-    objList = ['userAgent', 'language', 'cpuclass', 'platform', 'doNotTrack', 
-    'appName', 'indexDB', 'appCodeName','mimeTypes', 'appVersion', 'buildID', 
-    'cookieEnable', 'languages', 'onLine', 'oscpu', 'product', 'productSub', 'vendorSub', 'vendor'];
+    Object.defineProperty(window.navigator, "doNotTrack", (function(_value){
+      return {
+        get: function _get() {
+          window.doNotTrack++;  
+          return _value;
+        }
+      };
+    })(window.navigator.doNotTrack));
 
-    nameList = ['window.navigator.userAgent', 'window.navigator.language',
-    'window.navigator.cpuclass', 'window.navigator.platform', 'window.navigator.doNotTrack', 
-    'window.navigator.appName', 'window.navigator.indexDB', 'window.navigator.appCodeName',
-    'window.navigator.mimeTypes', 'window.navigator.appVersion',
-    'window.navigator.buildID', 'window.navigator.cookieEnable', 'window.navigator.languages',
-    'window.navigator.onLine', 'window.navigator.oscpu', 'window.navigator.product', 'window.navigator.productSub',
-    'window.navigator.vendorSub', 'window.navigator.vendor'];
+    Object.defineProperty(window.navigator, "cpuclass", (function(_value){
+      return {
+        get: function _get() {
+          window.cpuclass++;  
+          return _value;
+        }
+      };
+    })(window.navigator.cpuclass));
+    
+    Object.defineProperty(window.navigator, "appName", (function(_value){
+      return {
+        get: function _get() {
+          window.appName++;  
+          return _value;
+        }
+      };
+    })(window.navigator.appName));
 
-    setAllFp(objList, nameList)
+    Object.defineProperty(window.navigator, "appCodeName", (function(_value){
+      return {
+        get: function _get() {
+          window.appCodeName++;  
+          return _value;
+        }
+      };
+    })(window.navigator.appCodeName));   
+
+    Object.defineProperty(window.navigator, "appVersion", (function(_value){
+      return {
+        get: function _get() {
+          window.appVersion++;  
+          return _value;
+        }
+      };
+    })(window.navigator.appVersion));        
+    
+    Object.defineProperty(window.navigator, "geolocation", (function(_value){
+      return {
+        get: function _get() {
+          window.geolocation++;  
+          return _value;
+        }
+      };
+    })(window.navigator.geolocation));    
+
+    Object.defineProperty(window.navigator, "mimeTypes", (function(_value){
+      return {
+        get: function _get() {
+          window.mimeTypes++;  
+          return _value;
+        }
+      };
+    })(window.navigator.mimeTypes)); 
+
+    Object.defineProperty(window.screen, "pixelDepth", (function(_value){
+      return {
+        get: function _get() {
+          window.pixelDepth++;  
+          return _value;
+        }
+      };
+    })(window.screen.pixelDepth));  
+
+    Object.defineProperty(window.screen, "colorDepth", (function(_value){
+      return {
+        get: function _get() {
+          window.colorDepth++;  
+          return _value;
+        }
+      };
+    })(window.screen.colorDepth)); 
+
+    Object.defineProperty(window.navigator, "buildID", (function(_value){
+      return {
+        get: function _get() {
+          window.buildID++;  
+          return _value;
+        }
+      };
+    })(window.navigator.buildID));
+
+    Object.defineProperty(window.navigator, "cookieEnabled", (function(_value){
+      return {
+        get: function _get() {
+          window.cookieEnabled++;  
+          return _value;
+        }
+      };
+    })(window.navigator.cookieEnabled));
+
+    Object.defineProperty(window.navigator, "languages", (function(_value){
+      return {
+        get: function _get() {
+          window.languages++;  
+          return _value;
+        }
+      };
+    })(window.navigator.languages));
+
+    Object.defineProperty(window.navigator, "onLine", (function(_value){
+      return {
+        get: function _get() {
+          window.onLine++;  
+          return _value;
+        }
+      };
+    })(window.navigator.onLine));    
+
+    Object.defineProperty(window.navigator, "oscpu", (function(_value){
+      return {
+        get: function _get() {
+          window.oscpu++;  
+          return _value;
+        }
+      };
+    })(window.navigator.oscpu));    
+
+    Object.defineProperty(window.navigator, "product", (function(_value){
+      return {
+        get: function _get() {
+          window.product++;  
+          return _value;
+        }
+      };
+    })(window.navigator.product));    
+
+    Object.defineProperty(window.navigator, "productSub", (function(_value){
+      return {
+        get: function _get() {
+          window.productSub++;  
+          return _value;
+        }
+      };
+    })(window.navigator.productSub)); 
+
+    Object.defineProperty(window.navigator, "vendorSub", (function(_value){
+      return {
+        get: function _get() {
+          window.vendorSub++;  
+          return _value;
+        }
+      };
+    })(window.navigator.vendorSub)); 
+
+    Object.defineProperty(window.navigator, "vendor", (function(_value){
+      return {
+        get: function _get() {
+          window.vendor++;  
+          return _value;
+        }
+      };
+    })(window.navigator.vendor));
 
     __extra_scripts__
     
