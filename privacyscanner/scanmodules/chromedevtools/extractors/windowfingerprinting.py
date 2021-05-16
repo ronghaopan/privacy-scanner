@@ -4,6 +4,7 @@ from privacyscanner.scanmodules.chromedevtools.utils import JavaScriptError, jav
 
 GetResult = """
 (function() {
+    dict['window.navigator.plugins'] = window.plugins;
     return dict;
 })()
 """.lstrip()
@@ -15,7 +16,7 @@ class WindowFingerprintingExtractor(Extractor):
             try:
                 info = javascript_evaluate(self.page.tab, GetResult)
             except JavaScriptError:
-                print("Error")
+                pass
         
         for k in info.keys():
             if(info[k] is None or isinstance(info[k], list)): 

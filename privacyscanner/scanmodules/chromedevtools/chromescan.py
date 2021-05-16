@@ -163,6 +163,7 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     dict['window.navigator.productSub'] = 0;
     dict['window.navigator.vendorSub'] = 0;
     dict['window.navigator.vendor'] = 0;
+    window.plugins = 0;
 
     function setWmNavigatorValue(obj, name) {
         Object.defineProperty(window.navigator, obj, (function(_value){
@@ -198,17 +199,26 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
       };
     })(window.AudioContext)); 
 
+    Object.defineProperty(window.navigator, "plugins", (function(_value){
+      return {
+        get: function _get() {
+          window.plugins++;
+          return _value;
+        }
+      };
+    })(window.navigator.plugins));
+
     function setAllFp(objList, nameList) {
         for (let i = 0; i < objList.length; i++) {
             setWmNavigatorValue(objList[i], nameList[i]);
         }
     }
 
-    objList = ['plugins', 'userAgent', 'language', 'cpuclass', 'platform', 'doNotTrack', 
+    objList = ['userAgent', 'language', 'cpuclass', 'platform', 'doNotTrack', 
     'appName', 'indexDB', 'appCodeName','mimeTypes', 'appVersion', 'buildID', 
     'cookieEnable', 'languages', 'onLine', 'oscpu', 'product', 'productSub', 'vendorSub', 'vendor'];
 
-    nameList = ['window.navigator.plugins', 'window.navigator.userAgent', 'window.navigator.language',
+    nameList = ['window.navigator.userAgent', 'window.navigator.language',
     'window.navigator.cpuclass', 'window.navigator.platform', 'window.navigator.doNotTrack', 
     'window.navigator.appName', 'window.navigator.indexDB', 'window.navigator.appCodeName',
     'window.navigator.mimeTypes', 'window.navigator.appVersion',
@@ -216,7 +226,7 @@ ON_NEW_DOCUMENT_JAVASCRIPT = """
     'window.navigator.onLine', 'window.navigator.oscpu', 'window.navigator.product', 'window.navigator.productSub',
     'window.navigator.vendorSub', 'window.navigator.vendor'];
 
-    setAllFp(objList, nameList);
+    setAllFp(objList, nameList)
 
     __extra_scripts__
     
