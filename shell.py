@@ -9,5 +9,5 @@ for line in lines:
     command = ["privacyscanner", "scan"]
     command.append(url)
     command.append("-r")
-    command.append(str("/home/ronghao/AnálisisTop-100/" + line))
+    command.append(str("/home/ronghao/analisis_top-100/analisis_V71/" + line))
     subprocess.run(command)
