@@ -1,7 +1,7 @@
 import privacyscanner
 import subprocess
 
-with open('top-100.txt') as f: 
+with open('top-50-Category.txt') as f: 
     lines = f.readlines()
 
 for line in lines: 
@@ -9,5 +9,5 @@ for line in lines:
     command = ["privacyscanner", "scan"]
     command.append(url)
     command.append("-r")
-    command.append(str("/home/ronghao/analisis_top-100/analisis_V71/" + line))
+    command.append(str("/home/ronghao/analisis_top-100/TOP-50-SPAIN-CATEGORIA/" + line))
     subprocess.run(command)

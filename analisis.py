@@ -3,9 +3,9 @@ import json
 import csv
  
 
-path = '/home/ronghao/analisis_top-100/analisis_V80/'
+path = '/home/ronghao/analisis_top-100/TOP-50-SPAIN-CATEGORIA/'
 path_file = glob.glob(path + "/**/*.json", recursive = True)
-csv_file = open('/home/ronghao/analisis_top-100/analisis_V80/analisis_80_2.csv', 'w', encoding='UTF8')
+csv_file = open('/home/ronghao/analisis_top-100/TOP-50-SPAIN-CATEGORIA/analisis.csv', 'w', encoding='UTF8')
 csv_writer = csv.writer(csv_file)
 header=['URL', 'Cookies de tercero', 'Trackers', 'Almacenamiento local', 
         'Almacenamiento de sesión', 'fingerprinting','Canvas', 'WebGL', 'WebRTC', 'Facebok pixel', 'Google Analytics']
