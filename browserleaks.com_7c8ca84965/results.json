@@ -1,0 +1,704 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".browserleaks.com",
+      "expires": 1691924600,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079202,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.1451893788.1628852601"
+    },
+    {
+      "domain": ".browserleaks.com",
+      "expires": 1628939000,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93602,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.446226205.1628852601"
+    },
+    {
+      "domain": ".browserleaks.com",
+      "expires": 1628852660,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7262,
+      "name": "_gat",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 5,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".browserleaks.com",
+      "expires": 1662548602,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703204,
+      "name": "__gads",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 106,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "ID=037287099c9967ca-22b14e90a9c90093:T=1628852602:RT=1628852602:S=ALNI_MZkM8bC-dXdNzH1pi4STHJ68Ust6g"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1662548602.977336,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703204.97733593,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 70,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AHWqTUnK4F2LVd86CfbonLT6Xf7FlJ5m64roOgMV4Tvp9V0GWQ9eajy-TYXeWVADE9g"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1628856203.396964,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 10805.396964073181,
+      "name": "DSID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 11,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "NO_DATA"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 3,
+    "first_party_short": 1,
+    "third_party_long": 1,
+    "third_party_short": 1,
+    "trackers": [
+      "doubleclick.net"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://browserleaks.com/webgl",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": [
+        {
+          "arguments": [
+            "WEBGL_lose_context"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "WEBKIT_WEBGL_lose_context"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "MOZ_WEBGL_lose_context"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "WEBGL_lose_context"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "WEBKIT_WEBGL_lose_context"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "MOZ_WEBGL_lose_context"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        }
+      ],
+      "have_webGL": true
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 1,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 9,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 5,
+    "window.navigator.plugins": 10,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 23,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 4,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-30278319-1"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "ff3c2da3a8eb3024568e2cfc359444f6f2758b45295767e638dd9c342891864e",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "R3",
+        "countryName": "US",
+        "organizationName": "Let's Encrypt"
+      },
+      "key": {
+        "curve": "secp256r1",
+        "size": 256,
+        "type": "ECC"
+      },
+      "not_valid_after": 1635389119.0,
+      "not_valid_before": 1627613121.0,
+      "serial_number": 341998778167734412181173631161669551221932,
+      "subject": {
+        "commonName": "browserleaks.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": true,
+      "is_ready": true
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "3.6.0"
+  },
+  "local_storage": [
+    {
+      "content": "92",
+      "key": "google_experiment_mod37"
+    },
+    {
+      "content": "12",
+      "key": "goog_pem_mod"
+    },
+    {
+      "content": "[1]",
+      "key": "google_auto_fc_cmp_setting"
+    },
+    {
+      "content": "96",
+      "key": "google_experiment_mod36"
+    },
+    {
+      "content": "919",
+      "key": "google_experiment_mod53"
+    },
+    {
+      "content": "{\"ca-pub-4594829972910700\":[\"ca-pub-4594829972910700\",[],[]]}",
+      "key": "google_adsense_settings"
+    },
+    {
+      "content": "938",
+      "key": "google_experiment_mod44"
+    },
+    {
+      "content": "654",
+      "key": "google_experiment_mod34"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://browserleaks.com/webgl"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browserleaks.com/webgl"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://browserleaks.com/webgl",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browserleaks.com/css/style.css?v=72096518"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://browserleaks.com/webgl",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browserleaks.com/js/jquery.min.js?v=32108433"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://browserleaks.com/webgl",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browserleaks.com/js/default.js?v=72096518"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://browserleaks.com/webgl",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browserleaks.com/js/webgl.js?v=72096518"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://browserleaks.com/css/style.css?v=72096518",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browserleaks.com/img/logo_hand.svg?v=32108433"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://browserleaks.com/css/style.css?v=72096518",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browserleaks.com/img/logo.png?v=32108433"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j92&a=1813534783&t=pageview&_s=1&dl=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&ul=es-es&de=UTF-8&dt=WebGL%20Browser%20Report%2C%20WebGL%20Fingerprinting%2C%20WebGL%202%20Test%20-%20BrowserLeaks&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=IEBAAEABAAAAAC~&jid=477184453&gjid=951323281&cid=1451893788.1628852601&tid=UA-30278319-1&_gid=446226205.1628852601&_r=1&_slc=1&z=1019161978"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202108100101/show_ads_impl_with_ama_fy2019.js?client=ca-pub-4594829972910700&plah=browserleaks.com"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/html/r20210809/r20190131/zrt_lookup.html"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://partner.googleadservices.com/gampad/cookie.js?domain=browserleaks.com&callback=_gfp_s_&client=ca-pub-4594829972910700"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.es/adsid/integrator.js?domain=browserleaks.com"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/adsid/integrator.js?domain=browserleaks.com"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4594829972910700&output=html&h=90&slotname=6326594570&adk=990746520&adf=2784743844&pi=t.ma~as.6326594570&w=655&fwrn=4&lmt=1628852602&rafmt=12&psa=0&format=655x90&url=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&flash=0&efwr=0&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCxudWxsXQ..&dt=1628852601034&bpp=63&bdt=1585&idt=1034&shv=r20210809&mjsv=m202108100101&ptt=9&saldr=aa&abxe=1&correlator=6122097371724&frm=20&pv=2&ga_vid=1451893788.1628852601&ga_sid=1628852602&ga_hid=1813534783&ga_fc=0&u_tz=120&u_his=2&u_java=0&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_nplug=0&u_nmime=0&adx=94&ady=160&biw=785&bih=600&scr_x=0&scr_y=0&eid=44747620%2C20211866%2C44748391%2C31062297&oid=3&pvsid=3958146632280244&pem=12&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C800%2C600&vis=1&rsz=o%7C%7CeE%7C&abl=CS&pfx=0&fu=256&bc=31&ifi=1&uci=a!1&fsb=1&xpc=bhjAgIrf08&p=https%3A//browserleaks.com&dtd=1088"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/activeview/js/current/osd.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=ach_evt&url=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&tn=DIV&id=nav&ign=false&pw=800&ph=600&x=0&y=460.8"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=ach_evt&url=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&tn=DIV&id=nav&ign=false&pw=800&ph=600&x=0&y=69.6"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4594829972910700&output=html&adk=1812271804&adf=3025194257&lmt=1628852602&plat=1%3A16777224%2C2%3A16777224%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1048576%2C32%3A32&format=0x0&url=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&ea=0&flash=0&pra=7&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCxudWxsXQ..&dt=1628852601159&bpp=6&bdt=1710&idt=981&shv=r20210809&mjsv=m202108100101&ptt=9&saldr=aa&abxe=1&prev_fmts=655x90&nras=1&correlator=6122097371724&frm=20&pv=1&ga_vid=1451893788.1628852601&ga_sid=1628852602&ga_hid=1813534783&ga_fc=0&u_tz=120&u_his=2&u_java=0&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_nplug=0&u_nmime=0&adx=-12245933&ady=-12245933&biw=785&bih=600&scr_x=0&scr_y=0&eid=44747620%2C20211866%2C44748391%2C31062297&oid=3&pvsid=3958146632280244&pem=12&eae=2&fc=896&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C800%2C600&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&ifi=3&uci=a!3&fsb=1&dtd=1009"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.googleapis.com/css?family=Google%20Sans%3A400%2C500"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20210809/r20110914/client/load_preloaded_resource_fy2019.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20210809/r20110914/abg_lite_fy2019.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20210809/r20110914/client/window_focus_fy2019.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20210809/r20110914/client/qs_click_protection_fy2019.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/mysidia/b0784018e1fbf9b21026a03ef4bd1046.js?tag=mysidia_one_click_handler_one_afma_2019"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4594829972910700&output=html&h=90&slotname=6326594570&adk=990746520&adf=2784743844&pi=t.ma~as.6326594570&w=655&fwrn=4&lmt=1628852602&rafmt=12&psa=0&format=655x90&url=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&flash=0&efwr=0&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCxudWxsXQ..&dt=1628852601034&bpp=63&bdt=1585&idt=1034&shv=r20210809&mjsv=m202108100101&ptt=9&saldr=aa&abxe=1&correlator=6122097371724&frm=20&pv=2&ga_vid=1451893788.1628852601&ga_sid=1628852602&ga_hid=1813534783&ga_fc=0&u_tz=120&u_his=2&u_java=0&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_nplug=0&u_nmime=0&adx=94&ady=160&biw=785&bih=600&scr_x=0&scr_y=0&eid=44747620%2C20211866%2C44748391%2C31062297&oid=3&pvsid=3958146632280244&pem=12&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C800%2C600&vis=1&rsz=o%7C%7CeE%7C&abl=CS&pfx=0&fu=256&bc=31&ifi=1&uci=a!1&fsb=1&xpc=bhjAgIrf08&p=https%3A//browserleaks.com&dtd=1088",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/adview?ai=CGzZ_elEWYbOuDJDdzQakmYyIB4blvOJjntDI5-kNu8jlso0OEAEg89-5DGDVBaABkpmr_ALIAQGoAwHIA8sEqgS0AU_QxIEgKy8DEsRs8139uP19UBe48JgzJoSUvwkXXK_w7-XCvIi2bgvEheB_ZIEQo2rpyH7QoIk3GaVIeMEcrUeQONMxbDOXaui_SSA8Cl2R-Ws28tTC8YZjAX-rS20_6UT8d03IXhKHyn5VVnZw_XIzEKEU_rf8LPHJpqX1kL9_4R0Fqrb4IqUrzFYhBv9ySduddZCw8fs1_0PqQPNg4Ioa3wb1w-BX8sr4nNzpKAflDqAuJsAE8M6nit0DkgUECAQYAZIFBAgFGASAB9bm1IMBqAfVyRuoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB6a-G6gH7NUb2AcB8gcEEIaTA9IICQiA4YAQEAEYH4AKAcgLAdgTDdAVAZgWAYAXAbIXHAoaCAASFHB1Yi00NTk0ODI5OTcyOTEwNzAwGAA&sigh=mvdhHSO6HGE"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4594829972910700&output=html&h=90&slotname=6326594570&adk=990746520&adf=2784743844&pi=t.ma~as.6326594570&w=655&fwrn=4&lmt=1628852602&rafmt=12&psa=0&format=655x90&url=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&flash=0&efwr=0&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCxudWxsXQ..&dt=1628852601034&bpp=63&bdt=1585&idt=1034&shv=r20210809&mjsv=m202108100101&ptt=9&saldr=aa&abxe=1&correlator=6122097371724&frm=20&pv=2&ga_vid=1451893788.1628852601&ga_sid=1628852602&ga_hid=1813534783&ga_fc=0&u_tz=120&u_his=2&u_java=0&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_nplug=0&u_nmime=0&adx=94&ady=160&biw=785&bih=600&scr_x=0&scr_y=0&eid=44747620%2C20211866%2C44748391%2C31062297&oid=3&pvsid=3958146632280244&pem=12&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C800%2C600&vis=1&rsz=o%7C%7CeE%7C&abl=CS&pfx=0&fu=256&bc=31&ifi=1&uci=a!1&fsb=1&xpc=bhjAgIrf08&p=https%3A//browserleaks.com&dtd=1088",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://fonts.googleapis.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/googlesans/v35/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://fonts.googleapis.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/googlesans/v35/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/drt/ui"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/drt/si"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gda&tv=r20210809&st=env"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://googleads.g.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/bg/1ybhf5PHJCoiRTy-ubeljLlyS14gR-QFfTY_U8tl74U.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2/224/runner.html"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/recaptcha/api2/aframe"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/bg/1ybhf5PHJCoiRTy-ubeljLlyS14gR-QFfTY_U8tl74U.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.google.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=224&li=gda_r20210809&jk=3958146632280244&rc="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar2&v=224&t=2&li=gda_r20210809&jk=3958146632280244&bg=!GxilGFzNAAbOj6irzo87ACkAdvg8Wt774pjvBaaSD3Ef80JzdqlpqFsj5du5SrOBiGZ3W04PgL1uRwIAAAHsUgAAABFoAQeZAobJ_cwfzs6IWkZxPKLbzDc_MVo6gQz1cckpbS7E8gzAE2RnND3iGDjTX3vC25zlmJ5bkZYyio84SCKhvDZPJ2Es6oKaxLubNbyjZnvvvHspdizb16iTGtloMR9C_tMnkSuHWa2PAeYY4esQUEo9T-x1PbcfXFq7tAgVvgUi7uKLP5lE8k6mDzlY1RLc6qS2EajYZNKJDDHOzyClq82gYHMfId60MOFOrTJVhT5P2yxX1r3QpY_kDoGpHQtP_MYhp-T4P5Jz1HMFBKNbYoav1mediti-txz19n__DuiqLkb1poFEhhbewVHcEtgWkIkJT4AcoExOXZFqYLD_lpVF6NnVPUt0iYRNjl2A47gKozHjeVFhcDwuBR2UQjNWl3AdJ0OWo8e46RHCkdmkWbtgPWi9-ujQbUhCkgT6XbWaNoNWEK9Ocd44Ud_v4rpB5_VyA2Vl6xDA9Yzhi2RgV8rwg9YDYX_EfjrfIfxbrPji4dbIs1qZvXFZM08tnubqOWPEp_bu5GfrDvpphiG3oFAW4PpmsbgMWQ6tWROBJCj9ZssBpWQzcaKVQraRhs2ARV2w-M6PJtKJBIEunJH7uA3HOdNQ8ZLttd5Rhru1vvf0_u-J_1GmQN0nAWONiSZF-MxsJoyw8n1o5IrtQEEtyCn9RgrGYK-vP55MO46fxWlvaNf7XRC9RsQZx9MBJC1bGl5OkX6hU40EU6IXOkvJD1Akc639wUa1hvhQODCawqHvM__Uku2yrPsw2TPb8Qzx7O8xVXNZbrrKjAvld3MREEaFr_6F4ujJ6yfIJi1BSSC2eQnNm_9-7hcWEMsOEnszzUtWcwUNhRNCksm7EldYNAfQGEB4dhmyF7c4"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.es/adsid/integrator.js?domain=browserleaks.com"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/adsid/integrator.js?domain=browserleaks.com"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4594829972910700&output=html&h=90&slotname=1034739448&adk=3866978180&adf=1604998884&pi=t.ma~as.1034739448&w=655&lmt=1628852604&rafmt=12&psa=0&format=655x90&url=https%3A%2F%2Fbrowserleaks.com%2Fwebgl&flash=0&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCxudWxsXQ..&dt=1628852601113&bpp=3&bdt=1664&idt=1025&shv=r20210809&mjsv=m202108100101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D037287099c9967ca-22b14e90a9c90093%3AT%3D1628852602%3ART%3D1628852602%3AS%3DALNI_MZkM8bC-dXdNzH1pi4STHJ68Ust6g&prev_fmts=655x90%2C0x0&nras=1&correlator=6122097371724&frm=20&pv=1&ga_vid=1451893788.1628852601&ga_sid=1628852602&ga_hid=1813534783&ga_fc=0&u_tz=120&u_his=2&u_java=0&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_nplug=0&u_nmime=0&adx=94&ady=3108&biw=785&bih=600&scr_x=0&scr_y=709&eid=44747620%2C20211866%2C44748391%2C31062297&oid=3&psts=AGkb-H92v7k02p8Q8cYB84bMdkLgiPdidQOCAxMuEejalzgWy8WBNdQuIAtFk03pmAfpJbPgffV8BcY4fxeg&pvsid=3958146632280244&pem=12&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C800%2C600&vis=1&rsz=o%7C%7CeEbr%7C&abl=CS&pfx=0&fu=256&bc=31&ifi=2&uci=a!2&btvi=1&fsb=1&xpc=bP0YDmdNuS&p=https%3A//browserleaks.com&dtd=3751"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": "same-origin",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=63072000; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 63072000,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://browserleaks.com/webgl",
+  "third_parties": {
+    "fqdns": [
+      "adservice.google.com",
+      "adservice.google.es",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "pagead2.googlesyndication.com",
+      "partner.googleadservices.com",
+      "tpc.googlesyndication.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.googletagservices.com",
+      "www.gstatic.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 37
+  },
+  "tracking": {
+    "num_tracker_cookies": 2,
+    "num_tracker_requests": 33,
+    "trackers": [
+      "adservice.google.com",
+      "adservice.google.es",
+      "googleads.g.doubleclick.net",
+      "pagead2.googlesyndication.com",
+      "partner.googleadservices.com",
+      "tpc.googlesyndication.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.googletagservices.com"
+    ]
+  }
+}

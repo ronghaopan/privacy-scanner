@@ -1,0 +1,589 @@
+{
+  "chrome_error": null,
+  "cookies": [],
+  "cookiestats": {
+    "first_party_long": 0,
+    "first_party_short": 0,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+  "fingerprinting": {
+    "canvas": {
+      "call_stack": [
+        {
+          "args": [
+            {
+              "isTrusted": true
+            }
+          ],
+          "functionName": "img.onload",
+          "location": {
+            "columnNumber": 27,
+            "lineNumber": 675
+          },
+          "url": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html"
+        }
+      ],
+      "calls": [
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            2,
+            15
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            4,
+            17
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            10,
+            50
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            12,
+            55
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            14,
+            60
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            16,
+            65
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            18,
+            70
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            20,
+            75
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            22,
+            80
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            24,
+            85
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            26,
+            90
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            28,
+            95
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            30,
+            100
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            28,
+            105
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            26,
+            110
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            24,
+            115
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            22,
+            120
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            20,
+            125
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            18,
+            130
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            16,
+            135
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            14,
+            140
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            12,
+            145
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            10,
+            150
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            14,
+            155
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            16,
+            160
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            18,
+            165
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            20,
+            170
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            22,
+            175
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            24,
+            180
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            26,
+            185
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            28,
+            190
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            30,
+            195
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            32,
+            200
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            34,
+            205
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            36,
+            210
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            38,
+            215
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [
+            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !\"#$%&'()*+,-./0123456789:;<=>?@[\\]^_`{|}~",
+            40,
+            220
+          ],
+          "method": "CanvasRenderingContext2D.strokeText"
+        },
+        {
+          "arguments": [],
+          "method": "HTMLCanvasElement.toDataURL"
+        },
+        {
+          "arguments": [
+            null
+          ],
+          "method": "HTMLCanvasElement.toDataURL"
+        }
+      ],
+      "is_fingerprinting": true
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 0,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 0,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "261cf5c75a338b558e73efbc662e9af2b858ba3b895caff03a6310e4ea751077",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DFN-Verein Global Issuing CA",
+        "countryName": "DE",
+        "organizationName": "Verein zur Foerderung eines Deutschen Forschungsnetzes e. V.",
+        "organizationalUnitName": "DFN-PKI"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1661835211.0,
+      "not_valid_before": 1627620811.0,
+      "serial_number": 11493406295108049577385997115,
+      "subject": {
+        "commonName": "wwwv1.mwn.de",
+        "countryName": "DE",
+        "localityName": "Garching b. Muenchen",
+        "organizationName": "Bayerische Akademie der Wissenschaften",
+        "organizationalUnitName": "Leibniz-Rechenzentrum",
+        "stateOrProvinceName": "Bayern"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "3.3.1"
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/style/ribbon_style.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/style/terminal_style.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/style/fp_overview_style.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/style/footer_style.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/js/jquery-3.3.1.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/js/helper_functions.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/js/forge-sha256.min.js"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/resources/clipboard.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/resources/trash.svg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/resources/canas_fps.gif"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/style/future_footer_style.css"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/resources/img_8192x4608_3x16bit_RGB_color_rainbow_gradient.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/resources/img_8192x4608_3x16bit_RGB_color_rainbow_gradient.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacycheck.sec.lrz.de/active/fp_c/resources/img_8192x4608_3x16bit_RGB_color_rainbow_gradient.png"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": null,
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://privacycheck.sec.lrz.de/active/fp_c/fp_canvas.html",
+  "third_parties": {
+    "fqdns": [],
+    "num_http_requests": 0,
+    "num_https_requests": 0
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}
