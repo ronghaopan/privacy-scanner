@@ -1,6 +1,6 @@
 privacyscanner
 ==============
-
+This is a modified version of PrivacyScanner (https://github.com/PrivacyScore/privacyscanner)
 Installation
 ------------
 
