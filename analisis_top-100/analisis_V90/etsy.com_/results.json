@@ -1,0 +1,593 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".etsy.com",
+      "expires": 1652719463.972141,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543200.972141027,
+      "name": "uaid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 100,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "WlyHbEPXXwTHGswKWjjenTiBCsljZACChIXez2F0tVJpYmaKkpWSYU5ORKRPiGVkvlt4erGTWUhUkXN2VmWps0FWsFItAwA."
+    },
+    {
+      "domain": ".etsy.com",
+      "expires": 1652719463.972361,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543200.972361088,
+      "name": "user_prefs",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 90,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "DsfOkLVwj6DqlwtmQJL5nFUjVL5jZACChIXez2F0tJJraJCSTl5pTo6OUmqxko6SazCUawShcBGxDAA."
+    },
+    {
+      "domain": ".etsy.com",
+      "expires": 1655370165.079162,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34193902.07916188,
+      "name": "fve",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 15,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621183463.0"
+    },
+    {
+      "domain": ".etsy.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "last_browse_page",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 45,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "https%3A%2F%2Fwww.etsy.com%2F"
+    },
+    {
+      "domain": "www.etsy.com",
+      "expires": 1652719464.666083,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.666083097,
+      "name": "ua",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 34,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "531227642bc86f3b5fd7103a0c0b4fd6"
+    },
+    {
+      "domain": ".etsy.com",
+      "expires": 1628959464.079279,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783201.079278946,
+      "name": "exp_hangover",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 120,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "ihrAXUp6g_0MChRtj1uf1gL7RL1jZACChIXez6H0i2ql8tSk-MSiksy0zOTMxJz4nMSS1LzkyvhCk3gjA0NLJSulzLzUnMz0zKScVKVaBgA."
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 5,
+    "first_party_short": 1,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.etsy.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 0,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 7,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "7446a24ca5ac04e5b0a786abea7370e0ad9e001bd91bac9999f62261d8de52cf",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert Secure Site ECC CA-1",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "curve": "secp256r1",
+        "size": 256,
+        "type": "ECC"
+      },
+      "not_valid_after": 1635764400.0,
+      "not_valid_before": 1596319200.0,
+      "serial_number": 19742426682813142143290167384184432488,
+      "subject": {
+        "commonName": "etsy.com",
+        "countryName": "US",
+        "localityName": "Brooklyn",
+        "organizationName": "Etsy Inc.",
+        "stateOrProvinceName": "New York"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": true
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "2.2.4"
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.etsy.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/dac/common/web-toolkit/scoped/scoped_responsive_base.20210511151213,site-chrome/deprecated/global-nav.20210511151213,common/web-toolkit/a11y_colors/overrides.20210511151213.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/ac/primary/css/site-chrome/site-chrome.20210512215551.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/dac/vesta_homepage/view/what_is_etsy.20210511151213,vesta_homepage/view/gifts-card.20210511151213,neu/modules/listing_card.20210511151213,homepage/_modules/common/tab-listings.20210511151213,web-toolkit-v2/modules/cards/cards.20210511151213,web-toolkit-v2/modules/edges/edges.20210511151213,web-toolkit-v2/modules/tabs/tabs.20210511151213,neu/modules/favorite_button_defaults.20210514142826,vesta_homepage/view/collage/card-group.20210511151213,web-toolkit-v2/modules/skeleton_ui/skeleton_ui.20210511151213,vesta_homepage/view/etsy-everyday.20210511151213,vesta_homepage/consistent_spacing.20210511151213,vesta_homepage/vesta_homepage.20210511151213.css"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/22899963/r/il/c8d8d7/2697206720/il_300x300.2697206720_3zvc.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/17095327/r/il/879610/2016510847/il_300x300.2016510847_kn0j.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/8331303/r/il/dec4ed/2753449716/il_300x300.2753449716_i5j3.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/12418300/r/il/da5710/2446305498/il_300x300.2446305498_opq0.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/15246890/r/il/2eaef5/2368809506/il_300x300.2368809506_85y3.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/10172021/r/il/e75e3d/1348381458/il_300x300.1348381458_8ro0.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/15203862/d/il/728e5c/2346572236/il_340x270.2346572236_misn.jpg?version=0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/14989495/d/il/6b8930/1793719181/il_340x270.1793719181_d984.jpg?version=0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/25779130/d/il/f07eee/2984012208/il_340x270.2984012208_87mm.jpg?version=0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/21264362/d/il/951af6/2596062842/il_340x270.2596062842_plrv.jpg?version=0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/14997530/d/il/dc7410/1972375642/il_340x270.1972375642_2dhe.jpg?version=0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/11536763/d/il/5f8a9f/1228479558/il_340x270.1228479558_7s06.jpg?version=0"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/ac/primary/js/es/corelibs-with-preact.e3458f772b35f14d3a1a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/ac/primary/js/es/base.02e0a4b42ded0bc7f99b.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/ac/primary/js/es/bootstrap/category-nav/v2/nav.94b1ba9671d7d301b743.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/ac/primary/js/es/vesta_homepage/bootstrap.8ab24a7fba600f7786e8.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/ac/primary/js/es/neu-views/common/listing-card.c263c3837f7e1743d75c.js"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.etsy.com/ac/primary/css/site-chrome/site-chrome.20210512215551.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/assets/type/Graphik-Regular-Web.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.etsy.com/ac/primary/css/site-chrome/site-chrome.20210512215551.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/assets/type/Graphik-Medium-Web.woff2"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://img0.etsystatic.com/site-assets/brand-refresh/textures/custom/what_is_etsy_blue_light2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://img0.etsystatic.com/site-assets/brand-refresh/textures/custom/what_is_etsy_yellow.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://img0.etsystatic.com/site-assets/brand-refresh/textures/custom/what_is_etsy_orange2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://img0.etsystatic.com/site-assets/brand-refresh/textures/custom/what_is_etsy_blue2.jpg"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.etsy.com/ac/primary/css/site-chrome/site-chrome.20210512215551.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/assets/type/Guardian-EgypTT-Light.woff2?v=2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/api/v3/ajax/bespoke/public/neu/specs/catnav-mobile?stats_sample_rate=&log_performance_metrics=false&specs%5Bcatnav-mobile%5D%5B%5D=CategoryNav_V2_Mobile_ApiSpec_CategoryNav&specs%5Bcatnav-mobile%5D%5B1%5D%5Bmott_version%5D=ecad190&specs%5Bcatnav-mobile%5D%5B1%5D%5Bshow_sales%5D=false&specs%5Bcatnav-mobile%5D%5B1%5D%5Bcatnav_gift_guide%5D=off&specs%5Bcatnav-mobile%5D%5B1%5D%5Bgifting_catnav_flyout_js%5D=false&specs%5Bcatnav-mobile%5D%5B1%5D%5Blocale%5D=EUR%7Ces%7CES"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.etsy.com/api/v3/ajax/bespoke/public/neu/specs/catnav?stats_sample_rate=&log_performance_metrics=false&specs%5Bcatnav%5D%5B%5D=CategoryNav_V2_ApiSpec_SubNav&specs%5Bcatnav%5D%5B1%5D%5Bmott_hash%5D=ecad190&specs%5Bcatnav%5D%5B1%5D%5Bshow_sales%5D=false&specs%5Bcatnav%5D%5B1%5D%5Bcatnav_gift_guide%5D=control&specs%5Bcatnav%5D%5B1%5D%5Bgifting_catnav_flyout_desktop_js%5D=false&specs%5Bcatnav%5D%5B1%5D%5Blocale%5D=EUR%7Ces%7CES"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/10204022/c/1278/1016/617/710/il/5082b8/2240981530/il_340x270.2240981530_hzpn.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/16555624/c/2307/1832/435/871/il/29e728/2214518394/il_340x270.2214518394_k2es.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/19311499/c/3000/2382/0/0/il/b4be61/1839533908/il_340x270.1839533908_lgk6.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/22284171/d/il/fd3f47/2420215194/il_340x270.2420215194_3p3d.jpg?version=1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/24328899/d/il/9777ac/2820017441/il_340x270.2820017441_3des.jpg?version=1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.etsystatic.com/12521507/d/il/4cab87/2239655214/il_340x270.2239655214_7m8o.jpg?version=0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.etsy.com/bcn/beacon"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": true,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.etsy.com/api/v3/ajax/public/statsd"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": true,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.etsy.com/api/v3/ajax/public/statsd"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.etsy.com/bcn/beacon"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.etsy.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.etsy.com/bcn/beacon"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=631138520; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 631138520,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block; report=/beacon/csp.php",
+      "is_active": true,
+      "mode": "block; report=/beacon/csp.php"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.etsy.com\n",
+  "third_parties": {
+    "fqdns": [
+      "i.etsystatic.com",
+      "img0.etsystatic.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 22
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}

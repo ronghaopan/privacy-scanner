@@ -1,0 +1,3682 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "www.atlassian.net",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "atlassian.xsrf.token",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": true,
+      "size": 102,
+      "value": "fde910dd-c48e-4281-875d-543d01694b80_dda0f17a59d5647e6c77064f52bd967e9ba1a592_lout"
+    },
+    {
+      "domain": "id.atlassian.com",
+      "expires": 1652715652.561866,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.561866045,
+      "name": "atlassian.account.ffs.id",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 60,
+      "value": "b29636dc-5bda-4787-90d9-c982395dd29c"
+    },
+    {
+      "domain": "id.atlassian.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "atlassian.account.xsrf.token",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": true,
+      "size": 68,
+      "value": "9f1cd43900eda90255d4c6509039e35ff66e13d5"
+    },
+    {
+      "domain": "id.atlassian.com",
+      "expires": 1621183252.562054,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 10801.562053918839,
+      "name": "atlassian.account.code.verifier",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 74,
+      "value": "a1yrL1L-tA6NsSy9LP6gKIw9LP6zXBZpmWhx9XcBF3g"
+    },
+    {
+      "domain": ".atlassian.com",
+      "expires": 1652715653,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543202,
+      "name": "ajs_group_id",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 16,
+      "value": "null"
+    },
+    {
+      "domain": ".atlassian.com",
+      "expires": 1652715654,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203,
+      "name": "ajs_anonymous_id",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 58,
+      "value": "%22ecae9574-7153-4ceb-8a5c-300673276ddf%22"
+    },
+    {
+      "domain": ".google.com",
+      "expires": 1636990854.373891,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 15818403.373891115,
+      "name": "NID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 178,
+      "value": "215=I55RffLbYxL22HqyYIGdM_FwVJ59i-rSD25ZkC58OKv74R7aqPN-RgjsrpDyVshHEuFOuhGtgQDE3wbtbhGQ7b39PRIEUpnIqdeXepom6mM2n-ry735mQZ3qAkke_mkaaOdStAs0tqRmnEC19lavlTRkzUKsIyml7XeU90f5ptQ"
+    },
+    {
+      "domain": ".atlassian.com",
+      "expires": 2117055600,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 495883149,
+      "name": "__cid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 66,
+      "value": "20597911-3691-4bcc-8a91-fe82f0aa32e7-6637046e2685a36326f7a363"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 4,
+    "first_party_short": 3,
+    "third_party_long": 1,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira",
+  "fingerprinting": {
+    "canvas": {
+      "call_stack": [
+        {
+          "args": [
+            {
+              "Base64": {
+                "VERSION": "2.6.1"
+              },
+              "IntlPolyfill": {
+                "__localeSensitiveProtos": {
+                  "Date": {},
+                  "Number": {}
+                }
+              },
+              "JSON3": {},
+              "MetalClientHead": {
+                "__esModule": true
+              },
+              "PluginDetect": {
+                "DOM": {
+                  "HTML": [],
+                  "altHTML": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+                  "div": null,
+                  "divID": "plugindetect",
+                  "divWidth": 500,
+                  "getStyle": {
+                    "Default": [
+                      "backgroundColor",
+                      "transparent",
+                      "backgroundImage",
+                      "none",
+                      "verticalAlign",
+                      "baseline",
+                      "outlineStyle",
+                      "none",
+                      "borderStyle",
+                      "none",
+                      "padding",
+                      "0px",
+                      "margin",
+                      "0px",
+                      "visibility",
+                      "visible"
+                    ]
+                  },
+                  "iframe": {},
+                  "iframeHeight": 10,
+                  "iframeWidth": 40,
+                  "isEnabled": {},
+                  "pluginSize": 1
+                },
+                "OS": 3,
+                "Plugins": {
+                  "activex": {
+                    "codebase": {
+                      "DIGITMAX": [
+                        [
+                          100,
+                          100,
+                          100,
+                          0
+                        ]
+                      ],
+                      "DIGITMIN": [
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "Lower": [
+                        "0"
+                      ],
+                      "Upper": [
+                        "99999"
+                      ],
+                      "classID": "",
+                      "convert": [
+                        1
+                      ]
+                    },
+                    "getVersionDone": null,
+                    "installed": null,
+                    "pluginName": "activex",
+                    "storage": {},
+                    "version": null,
+                    "version0": null
+                  },
+                  "adobereader": {
+                    "OTF": null,
+                    "axo": {
+                      "detected": 0,
+                      "precision": 0,
+                      "progID": [
+                        "AcroPDF.PDF",
+                        "AcroPDF.PDF.1",
+                        "PDF.PdfCtrl",
+                        "PDF.PdfCtrl.5",
+                        "PDF.PdfCtrl.1"
+                      ],
+                      "progID_dummy": "AcroDUMMY.DUMMY",
+                      "version": null
+                    },
+                    "doc": {
+                      "DummyObjTagHTML1": 0,
+                      "DummyObjTagHTML2": 0,
+                      "DummySpanTagHTML": 0,
+                      "HTML": 0,
+                      "classID": "clsid:CA8A9780-280D-11CF-A24D-444553540000",
+                      "classID_dummy": "clsid:CA8A9780-280D-11CF-A24D-BA9876543210",
+                      "detected": 0,
+                      "precision": 0,
+                      "version": null
+                    },
+                    "doc2": {
+                      "HTML": 0,
+                      "classID": "clsid:CA8A9780-280D-11CF-A24D-444553540000",
+                      "count": 0,
+                      "count2": 0,
+                      "detected": 0,
+                      "handlerSet": 0,
+                      "intervalLength": 25,
+                      "maxCount": 20,
+                      "mimeType": "application/pdf",
+                      "precision": 0,
+                      "time2": 0,
+                      "version": null,
+                      "z": 0
+                    },
+                    "getVersionDone": null,
+                    "installed": null,
+                    "nav": {
+                      "detected": 0,
+                      "find": "Adobe.*PDF.*Plug-?in|Adobe.*Acrobat.*Plug-?in|Adobe.*Reader.*Plug-?in",
+                      "mimeType": [
+                        "application/pdf",
+                        "application/vnd.adobe.pdfxml"
+                      ],
+                      "plugins": [
+                        "Adobe Acrobat",
+                        "Adobe Acrobat and Reader Plug-in",
+                        "Adobe Reader Plugin"
+                      ],
+                      "precision": 0,
+                      "version": null
+                    },
+                    "pluginName": "adobereader",
+                    "version": null,
+                    "version0": null
+                  },
+                  "flash": {
+                    "axo": {
+                      "classID": "clsid:D27CDB6E-AE6D-11CF-96B8-444553540000",
+                      "hasRun": 0,
+                      "installed": 0,
+                      "precision": 0,
+                      "progID": "ShockwaveFlash.ShockwaveFlash",
+                      "version": null
+                    },
+                    "getVersionDone": null,
+                    "installed": null,
+                    "instance": {
+                      "HTML": null,
+                      "HTML2": null,
+                      "hasRun": 0,
+                      "precision": 0,
+                      "version": null
+                    },
+                    "mimeType": "application/x-shockwave-flash",
+                    "navPlugin": {
+                      "hasRun": 0,
+                      "installed": 0,
+                      "precision": 0,
+                      "version": null
+                    },
+                    "pluginName": "flash",
+                    "version": null,
+                    "version0": null
+                  },
+                  "iecomponent": {
+                    "getVersionDone": null,
+                    "installed": null,
+                    "pluginName": "iecomponent",
+                    "version": null,
+                    "version0": null
+                  },
+                  "java": {
+                    "DTK": {
+                      "HTML": null,
+                      "Plugin2Status": null,
+                      "VERSIONS": [],
+                      "classID": [
+                        "clsid:CAFEEFAC-DEC7-0000-0001-ABCDEFFEDCBA",
+                        "clsid:CAFEEFAC-DEC7-0000-0000-ABCDEFFEDCBA"
+                      ],
+                      "hasRun": 0,
+                      "mimeType": [
+                        "application/java-deployment-toolkit",
+                        "application/npruntime-scriptable-plugin;DeploymentToolkit"
+                      ],
+                      "status": null,
+                      "version": ""
+                    },
+                    "JAVATOJSBRIDGE": 0,
+                    "JSTOJAVABRIDGE": 1,
+                    "NOTF": {
+                      "count": 0,
+                      "count2": 0,
+                      "countMax": 2,
+                      "intervalLength": 250
+                    },
+                    "OTF": null,
+                    "Property_names": [],
+                    "Property_values": [],
+                    "Property_values_lock": [],
+                    "WebStart": {
+                      "codebase": {
+                        "DIGITMAX": [
+                          [
+                            12,
+                            4,
+                            2048
+                          ],
+                          [
+                            5,
+                            4,
+                            1024
+                          ]
+                        ],
+                        "DIGITMIN": [
+                          5,
+                          0,
+                          0,
+                          0
+                        ],
+                        "Lower": [
+                          "6",
+                          "0"
+                        ],
+                        "Upper": [
+                          "999",
+                          "6"
+                        ],
+                        "classID": "clsid:5852F5ED-8BF4-11D4-A245-0080C6F74284",
+                        "convert": [
+                          null,
+                          1
+                        ]
+                      },
+                      "hasRun": 0,
+                      "version": ""
+                    },
+                    "applet": {
+                      "DummyObjTagHTML": 0,
+                      "DummyObjTagHTML2": 0,
+                      "DummySpanTagHTML": 0,
+                      "HTML": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "IDforJAVAtoJS": [],
+                      "IDforJStoJAVA": [],
+                      "active": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "allowed": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                      ],
+                      "codebase": {
+                        "DIGITMAX": [
+                          [
+                            15,
+                            128
+                          ],
+                          [
+                            6,
+                            0,
+                            512
+                          ],
+                          0,
+                          [
+                            1,
+                            5,
+                            2,
+                            256
+                          ],
+                          0,
+                          [
+                            1,
+                            4,
+                            1,
+                            1
+                          ],
+                          [
+                            1,
+                            4,
+                            0,
+                            64
+                          ],
+                          [
+                            1,
+                            3,
+                            2,
+                            32
+                          ]
+                        ],
+                        "DIGITMIN": [
+                          1,
+                          0,
+                          0,
+                          0
+                        ],
+                        "Lower": [
+                          "10",
+                          "5,0,20",
+                          "1,5,0,20",
+                          "1,4,1,20",
+                          "1,4,1,2",
+                          "1,4,1",
+                          "1,4",
+                          "0"
+                        ],
+                        "ParamTags": "<param name=\"code\" value=\"A9999.class\" /><param name=\"codebase_lookup\" value=\"false\" />",
+                        "Upper": [
+                          "999",
+                          "10",
+                          "5,0,20",
+                          "1,5,0,20",
+                          "1,4,1,20",
+                          "1,4,1,2",
+                          "1,4,1",
+                          "1,4"
+                        ],
+                        "convert": [
+                          null,
+                          null,
+                          0,
+                          null,
+                          0,
+                          1,
+                          null,
+                          1
+                        ]
+                      },
+                      "isDisabled": {
+                        "all_": null
+                      },
+                      "results": [
+                        [
+                          null,
+                          null
+                        ],
+                        [
+                          null,
+                          null
+                        ],
+                        [
+                          null,
+                          null
+                        ],
+                        [
+                          null,
+                          null
+                        ],
+                        [
+                          null,
+                          null
+                        ]
+                      ]
+                    },
+                    "classID": "clsid:8AD9C840-044E-11D1-B3E9-00805F499D93",
+                    "classID_dummy": "clsid:8AD9C840-044E-11D1-B3E9-BA9876543210",
+                    "getVersionDone": null,
+                    "installed": null,
+                    "mimeType": [
+                      "application/x-java-applet",
+                      "application/x-java-vm",
+                      "application/x-java-bean"
+                    ],
+                    "mimeType_dummy": "application/dummymimejavaapplet",
+                    "navMime": {
+                      "hasRun": 0,
+                      "mimeObj": 0,
+                      "mimetype": "",
+                      "pluginObj": 0,
+                      "regexJPI": {},
+                      "version": ""
+                    },
+                    "navPlugin": {
+                      "hasRun": 0,
+                      "version": ""
+                    },
+                    "navigator": {
+                      "a": false,
+                      "mimeObj": 0,
+                      "pluginObj": 0
+                    },
+                    "pluginName": "java",
+                    "version": null,
+                    "version0": null
+                  },
+                  "quicktime": {
+                    "axo": {
+                      "hasRun": 0,
+                      "installed": 0,
+                      "progID": [
+                        "QuickTimeCheckObject.QuickTimeCheck",
+                        "QuickTimeCheckObject.QuickTimeCheck.1"
+                      ],
+                      "progID0": "QuickTime.QuickTime",
+                      "version": null
+                    },
+                    "codebase": {
+                      "DIGITMAX": [
+                        [
+                          12,
+                          11,
+                          11
+                        ],
+                        [
+                          7,
+                          60
+                        ],
+                        [
+                          7,
+                          11,
+                          11
+                        ],
+                        0,
+                        [
+                          7,
+                          11,
+                          11
+                        ]
+                      ],
+                      "DIGITMIN": [
+                        5,
+                        0,
+                        0,
+                        0
+                      ],
+                      "Lower": [
+                        "7,60",
+                        "7,50",
+                        "7,6",
+                        "7,5",
+                        "0"
+                      ],
+                      "Upper": [
+                        "999",
+                        "7,60",
+                        "7,50",
+                        "7,6",
+                        "7,5"
+                      ],
+                      "classID": "clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B",
+                      "convert": [
+                        1,
+                        null,
+                        1,
+                        0,
+                        1
+                      ]
+                    },
+                    "getVersionDone": null,
+                    "installed": null,
+                    "nav": {
+                      "avoid": "Totem|VLC|RealPlayer|Helix|MPlayer|Windows\\s*Media\\s*Player",
+                      "done": null,
+                      "find": "QuickTime.*Plug-?in",
+                      "find2": "QuickTime.*Plug-?in",
+                      "find3filename": "QuickTime|QT",
+                      "installed": 0,
+                      "mimeType": [
+                        "video/quicktime",
+                        "application/x-quicktimeplayer",
+                        "image/x-macpaint",
+                        "image/x-quicktime",
+                        "application/x-rtsp",
+                        "application/x-sdp",
+                        "application/sdp",
+                        "audio/vnd.qcelp",
+                        "video/sd-video",
+                        "audio/mpeg",
+                        "video/mp4",
+                        "video/3gpp2",
+                        "application/x-mpeg",
+                        "audio/x-m4b",
+                        "audio/x-aac",
+                        "video/flc"
+                      ],
+                      "plugins": "QuickTime Plug-in",
+                      "result": [
+                        0,
+                        0
+                      ],
+                      "version": null
+                    },
+                    "pluginName": "quicktime",
+                    "version": null,
+                    "version0": null
+                  },
+                  "realplayer": {
+                    "JS": {
+                      "hasRun": 0,
+                      "mimetype": "application/vnd.rn-realplayer-javascript",
+                      "q1": [
+                        [
+                          11,
+                          0,
+                          0
+                        ],
+                        [
+                          999
+                        ],
+                        [
+                          663
+                        ],
+                        [
+                          663
+                        ],
+                        [
+                          663
+                        ],
+                        [
+                          660
+                        ],
+                        [
+                          468
+                        ],
+                        [
+                          468
+                        ],
+                        [
+                          468
+                        ],
+                        [
+                          468
+                        ],
+                        [
+                          468
+                        ],
+                        [
+                          468
+                        ],
+                        [
+                          431
+                        ],
+                        [
+                          431
+                        ],
+                        [
+                          431
+                        ],
+                        [
+                          372
+                        ],
+                        [
+                          180
+                        ],
+                        [
+                          180
+                        ],
+                        [
+                          172
+                        ],
+                        [
+                          172
+                        ],
+                        [
+                          167
+                        ],
+                        [
+                          114
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "q3": [
+                        [
+                          6,
+                          0
+                        ],
+                        [
+                          12,
+                          99
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          69
+                        ],
+                        [
+                          12,
+                          46
+                        ],
+                        [
+                          12,
+                          46
+                        ],
+                        [
+                          12,
+                          46
+                        ],
+                        [
+                          11,
+                          3006
+                        ],
+                        [
+                          11,
+                          2806
+                        ],
+                        [
+                          11,
+                          2806
+                        ],
+                        [
+                          11,
+                          2804
+                        ],
+                        [
+                          11,
+                          2804
+                        ],
+                        [
+                          11,
+                          2799
+                        ],
+                        [
+                          11,
+                          2749
+                        ],
+                        [
+                          11,
+                          2700
+                        ]
+                      ],
+                      "regStr": "RealPlayer.*Version.*Plug-?in",
+                      "version": null
+                    },
+                    "axo": {
+                      "hasRun": 0,
+                      "installed": null,
+                      "progID": [
+                        "rmocx.RealPlayer G2 Control",
+                        "rmocx.RealPlayer G2 Control.1",
+                        "RealPlayer.RealPlayer(tm) ActiveX Control (32-bit)",
+                        "RealVideo.RealVideo(tm) ActiveX Control (32-bit)",
+                        "RealPlayer"
+                      ],
+                      "version": null
+                    },
+                    "classID": "clsid:CFCDAA03-8BE4-11cf-B84B-0020AFBBCCFA",
+                    "getVersionDone": null,
+                    "installed": null,
+                    "instance": {
+                      "HTML": null,
+                      "hasRun": 0,
+                      "version": null
+                    },
+                    "mimeType": [
+                      "audio/x-pn-realaudio-plugin",
+                      "audio/x-pn-realaudio"
+                    ],
+                    "navObj": {
+                      "avoid": "Totem|QuickTime|Helix|VLC|Download",
+                      "find": "RealPlayer.*Plug-?in",
+                      "hasRun": 0,
+                      "installed": null,
+                      "plugins": [
+                        "RealPlayer(tm) G2 LiveConnect-Enabled Plug-In (32-bit) ",
+                        "RealPlayer(tm) G2 LiveConnect-Enabled Plug-In (64-bit) ",
+                        "RealPlayer Plugin"
+                      ],
+                      "version": null
+                    },
+                    "pluginName": "realplayer",
+                    "version": null,
+                    "version0": null
+                  },
+                  "shockwave": {
+                    "axo": {
+                      "classID": "clsid:166B1BCA-3F9C-11CF-8075-444553540000",
+                      "hasRun": 0,
+                      "installed": null,
+                      "progID": [
+                        "SWCtl.SWCtl",
+                        "SWCtl.SWCtl.1",
+                        "SWCtl.SWCtl.7",
+                        "SWCtl.SWCtl.8",
+                        "SWCtl.SWCtl.11",
+                        "SWCtl.SWCtl.12"
+                      ],
+                      "version": null
+                    },
+                    "getVersionDone": null,
+                    "installed": null,
+                    "nav": {
+                      "hasRun": 0,
+                      "installed": 0,
+                      "mimeType": "application/x-director",
+                      "version": null
+                    },
+                    "pluginName": "shockwave",
+                    "version": null,
+                    "version0": null
+                  },
+                  "silverlight": {
+                    "axo": {
+                      "hasRun": 0,
+                      "installed": 0,
+                      "maxdigit": [
+                        20,
+                        10,
+                        10,
+                        100,
+                        100,
+                        10
+                      ],
+                      "mindigit": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "progID": "AgControl.AgControl",
+                      "version": null
+                    },
+                    "getVersionDone": null,
+                    "installed": null,
+                    "nav": {
+                      "hasRun": 0,
+                      "installed": 0,
+                      "mimeType": [
+                        "application/x-silverlight",
+                        "application/x-silverlight-2"
+                      ],
+                      "version": null
+                    },
+                    "pluginName": "silverlight",
+                    "version": null,
+                    "version0": null
+                  },
+                  "vlc": {
+                    "axo": {
+                      "hasRun": 0,
+                      "installed": 0,
+                      "progID": "VideoLAN.VLCPlugin",
+                      "version": null
+                    },
+                    "codebase": {
+                      "DIGITMAX": [
+                        [
+                          11,
+                          11,
+                          16
+                        ]
+                      ],
+                      "DIGITMIN": [
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "Lower": [
+                        "0"
+                      ],
+                      "Upper": [
+                        "999"
+                      ],
+                      "classID": "clsid:9BE31822-FDAD-461B-AD51-BE1D1C159921",
+                      "convert": [
+                        1
+                      ]
+                    },
+                    "getVersionDone": null,
+                    "installed": null,
+                    "instance": {
+                      "HTML": 0,
+                      "hasRun": 0,
+                      "installed": 0,
+                      "mimeType": "application/x-vlc-plugin",
+                      "version": null
+                    },
+                    "nav": {
+                      "avoid": "Totem|Helix",
+                      "find": "VLC.*Plug-?in",
+                      "find2": "VLC|VideoLAN",
+                      "hasRun": 0,
+                      "installed": 0,
+                      "mimeType": [
+                        "application/x-vlc-plugin",
+                        "application/x-google-vlc-plugin",
+                        "application/mpeg4-muxcodetable",
+                        "application/x-matroska",
+                        "application/xspf+xml",
+                        "video/divx",
+                        "video/webm",
+                        "video/x-mpeg",
+                        "video/x-msvideo",
+                        "video/ogg",
+                        "audio/x-flac",
+                        "audio/amr",
+                        "audio/amr"
+                      ],
+                      "plugins": [
+                        "VLC Web Plugin",
+                        "VLC Multimedia Plug-in",
+                        "VLC Multimedia Plugin",
+                        "VLC multimedia plugin"
+                      ],
+                      "version": null
+                    },
+                    "pluginName": "vlc",
+                    "version": null,
+                    "version0": null
+                  },
+                  "windowsmediaplayer": {
+                    "FirefoxPlugin": {
+                      "hasRun": 0,
+                      "version": null
+                    },
+                    "avoid": "Totem|VLC|RealPlayer|Helix",
+                    "axo": {
+                      "classID": "clsid:6BF52A52-394A-11D3-B153-00C04F79FAA6",
+                      "hasRun": 0,
+                      "installed": null,
+                      "progID": [
+                        "WMPlayer.OCX",
+                        "WMPlayer.OCX.7"
+                      ],
+                      "version": null
+                    },
+                    "find": [
+                      "Microsoft.*Windows\\s*Media\\s*Player.*Firefox.*Plug-?in",
+                      "Windows\\s*Media\\s*Player\\s*Plug-?in\\s*Dynamic\\s*Link\\s*Library",
+                      "Flip4Mac.*Windows\\s*Media.*Plug-?in|Flip4Mac.*WMV.*Plug-?in"
+                    ],
+                    "getVersionDone": null,
+                    "installed": null,
+                    "mimeType": [
+                      "application/x-ms-wmp",
+                      "application/asx",
+                      "application/x-mplayer2",
+                      "video/x-ms-asf",
+                      "video/x-ms-wm",
+                      "video/x-ms-asf-plugin"
+                    ],
+                    "nav": {
+                      "hasRun": 0,
+                      "installed": 0
+                    },
+                    "pluginName": "windowsmediaplayer",
+                    "plugins": [
+                      "Microsoft\u00ae Windows Media Player Firefox Plugin",
+                      "Windows Media Player Plug-in Dynamic Link Library"
+                    ],
+                    "version": null,
+                    "version0": null
+                  }
+                },
+                "browser": {
+                  "ActiveXEnabled": false,
+                  "ActiveXFilteringEnabled": false,
+                  "docModeIE": null,
+                  "isChrome": true,
+                  "isEdge": false,
+                  "isGecko": false,
+                  "isIE": false,
+                  "isOpera": false,
+                  "isSafari": false,
+                  "verChrome": "83,0,4103,116",
+                  "verEdgeHTML": null,
+                  "verGecko": null,
+                  "verIE": null,
+                  "verIEtrue": null,
+                  "verOpera": null,
+                  "verSafari": null
+                },
+                "codebase": {
+                  "HTML": [],
+                  "len": 0,
+                  "z": 0
+                },
+                "errObj": {},
+                "ev": {
+                  "allDoneHndlrs": []
+                },
+                "file": {
+                  "any": "fileStorageAny999",
+                  "valid": "fileStorageValid999"
+                },
+                "getNumRegx": {},
+                "head": {},
+                "init": {
+                  "hasRun": 1
+                },
+                "name": "PluginDetect",
+                "openTag": "<",
+                "pd": {
+                  "getVersionDelimiter": ","
+                },
+                "rgx": {
+                  "arr": {},
+                  "fun": {},
+                  "num": {},
+                  "str": {}
+                },
+                "splitNumRegx": {},
+                "version": "0.9.1",
+                "win": {
+                  "cancel": false,
+                  "hasRun": 1,
+                  "loadPblcHndlrs": [],
+                  "loadPrvtHndlrs": [],
+                  "loaded": false,
+                  "unload": false,
+                  "unloadHndlrs": []
+                }
+              },
+              "__SENTRY__": {
+                "globalEventProcessors": [
+                  null,
+                  null,
+                  null
+                ],
+                "hub": {
+                  "_stack": [
+                    {
+                      "client": {
+                        "_backend": {
+                          "_options": {
+                            "debug": true,
+                            "defaultIntegrations": [
+                              {
+                                "_options": {},
+                                "name": "InboundFilters"
+                              },
+                              {
+                                "name": "FunctionToString"
+                              },
+                              {
+                                "_options": {
+                                  "XMLHttpRequest": true,
+                                  "eventTarget": true,
+                                  "requestAnimationFrame": true,
+                                  "setInterval": true,
+                                  "setTimeout": true
+                                },
+                                "name": "TryCatch"
+                              },
+                              {
+                                "_options": {
+                                  "console": true,
+                                  "dom": true,
+                                  "fetch": true,
+                                  "history": true,
+                                  "sentry": true,
+                                  "xhr": true
+                                },
+                                "name": "Breadcrumbs"
+                              },
+                              {
+                                "_onErrorHandlerInstalled": true,
+                                "_onUnhandledRejectionHandlerInstalled": true,
+                                "_options": {
+                                  "onerror": true,
+                                  "onunhandledrejection": true
+                                },
+                                "name": "GlobalHandlers"
+                              },
+                              {
+                                "_key": "cause",
+                                "_limit": 5,
+                                "name": "LinkedErrors"
+                              },
+                              {
+                                "name": "UserAgent"
+                              }
+                            ],
+                            "dsn": "https://71e54c28be0d49f0bcd732ab30f35faa@sentry.io/275199",
+                            "environment": "prod",
+                            "release": "5.0.232",
+                            "sampleRate": 0.1
+                          },
+                          "_transport": {
+                            "_api": {
+                              "_dsnObject": {
+                                "host": "sentry.io",
+                                "pass": "",
+                                "path": "",
+                                "port": "",
+                                "projectId": "275199",
+                                "protocol": "https",
+                                "user": "71e54c28be0d49f0bcd732ab30f35faa"
+                              },
+                              "dsn": "https://71e54c28be0d49f0bcd732ab30f35faa@sentry.io/275199"
+                            },
+                            "_buffer": {
+                              "_buffer": [],
+                              "_limit": 30
+                            },
+                            "_disabledUntil": "2021-05-16T15:40:53.534Z",
+                            "options": {
+                              "dsn": "https://71e54c28be0d49f0bcd732ab30f35faa@sentry.io/275199"
+                            },
+                            "url": "https://sentry.io/api/275199/store/?sentry_key=71e54c28be0d49f0bcd732ab30f35faa&sentry_version=7"
+                          }
+                        },
+                        "_dsn": {
+                          "host": "sentry.io",
+                          "pass": "",
+                          "path": "",
+                          "port": "",
+                          "projectId": "275199",
+                          "protocol": "https",
+                          "user": "71e54c28be0d49f0bcd732ab30f35faa"
+                        },
+                        "_integrations": {
+                          "Breadcrumbs": {
+                            "_options": {
+                              "console": true,
+                              "dom": true,
+                              "fetch": true,
+                              "history": true,
+                              "sentry": true,
+                              "xhr": true
+                            },
+                            "name": "Breadcrumbs"
+                          },
+                          "FunctionToString": {
+                            "name": "FunctionToString"
+                          },
+                          "GlobalHandlers": {
+                            "_onErrorHandlerInstalled": true,
+                            "_onUnhandledRejectionHandlerInstalled": true,
+                            "_options": {
+                              "onerror": true,
+                              "onunhandledrejection": true
+                            },
+                            "name": "GlobalHandlers"
+                          },
+                          "InboundFilters": {
+                            "_options": {},
+                            "name": "InboundFilters"
+                          },
+                          "LinkedErrors": {
+                            "_key": "cause",
+                            "_limit": 5,
+                            "name": "LinkedErrors"
+                          },
+                          "TryCatch": {
+                            "_options": {
+                              "XMLHttpRequest": true,
+                              "eventTarget": true,
+                              "requestAnimationFrame": true,
+                              "setInterval": true,
+                              "setTimeout": true
+                            },
+                            "name": "TryCatch"
+                          },
+                          "UserAgent": {
+                            "name": "UserAgent"
+                          }
+                        },
+                        "_options": {
+                          "debug": true,
+                          "defaultIntegrations": [
+                            {
+                              "_options": {},
+                              "name": "InboundFilters"
+                            },
+                            {
+                              "name": "FunctionToString"
+                            },
+                            {
+                              "_options": {
+                                "XMLHttpRequest": true,
+                                "eventTarget": true,
+                                "requestAnimationFrame": true,
+                                "setInterval": true,
+                                "setTimeout": true
+                              },
+                              "name": "TryCatch"
+                            },
+                            {
+                              "_options": {
+                                "console": true,
+                                "dom": true,
+                                "fetch": true,
+                                "history": true,
+                                "sentry": true,
+                                "xhr": true
+                              },
+                              "name": "Breadcrumbs"
+                            },
+                            {
+                              "_onErrorHandlerInstalled": true,
+                              "_onUnhandledRejectionHandlerInstalled": true,
+                              "_options": {
+                                "onerror": true,
+                                "onunhandledrejection": true
+                              },
+                              "name": "GlobalHandlers"
+                            },
+                            {
+                              "_key": "cause",
+                              "_limit": 5,
+                              "name": "LinkedErrors"
+                            },
+                            {
+                              "name": "UserAgent"
+                            }
+                          ],
+                          "dsn": "https://71e54c28be0d49f0bcd732ab30f35faa@sentry.io/275199",
+                          "environment": "prod",
+                          "release": "5.0.232",
+                          "sampleRate": 0.1
+                        },
+                        "_processing": false
+                      },
+                      "scope": {
+                        "_breadcrumbs": [
+                          {
+                            "category": "pageViewed",
+                            "data": {
+                              "firstProductAccessed": "jira",
+                              "isAppleButtonEnabled": true,
+                              "isMicrosoftButtonEnabled": true,
+                              "isMobileApp": false,
+                              "isSlackButtonEnabled": true,
+                              "originLibrary": "origin-tracing.js@5.1.0",
+                              "source": "loginScreen"
+                            },
+                            "level": "info",
+                            "message": "Page viewed event of page id loginScreen",
+                            "timestamp": 1621179653.8293872
+                          },
+                          {
+                            "category": "operational",
+                            "data": {
+                              "action": "loadLoginPageSuccessful",
+                              "actionSubject": "sli",
+                              "firstProductAccessed": "jira",
+                              "isMobileApp": false,
+                              "originLibrary": "origin-tracing.js@5.1.0",
+                              "source": "loginScreen"
+                            },
+                            "level": "info",
+                            "message": "loadLoginPageSuccessful operational event occured at sli undefined on page loginScreen",
+                            "timestamp": 1621179654.2440174
+                          },
+                          {
+                            "category": "tracking",
+                            "data": {
+                              "action": "exposed",
+                              "actionSubject": "feature",
+                              "firstProductAccessed": "jira",
+                              "flagKey": "aid_signup.microsoft.auth.enabled",
+                              "isMobileApp": false,
+                              "originLibrary": "origin-tracing.js@5.1.0",
+                              "reason": "RULE_MATCH",
+                              "ruleId": "0E2C138D-053A-450C-914A-5E5C9D1539B9",
+                              "source": "loginScreen",
+                              "value": true
+                            },
+                            "level": "info",
+                            "message": "UI exposed tracking event occured at feature undefined on page loginScreen",
+                            "timestamp": 1621179654.2580624
+                          },
+                          {
+                            "category": "tracking",
+                            "data": {
+                              "action": "exposed",
+                              "actionSubject": "feature",
+                              "firstProductAccessed": "jira",
+                              "flagKey": "aid_signup.apple.auth.enabled",
+                              "isMobileApp": false,
+                              "originLibrary": "origin-tracing.js@5.1.0",
+                              "reason": "RULE_MATCH",
+                              "ruleId": "93E21B0C-9CB7-468E-B341-C378CCE0B285",
+                              "source": "loginScreen",
+                              "value": true
+                            },
+                            "level": "info",
+                            "message": "UI exposed tracking event occured at feature undefined on page loginScreen",
+                            "timestamp": 1621179654.2684224
+                          },
+                          {
+                            "category": "tracking",
+                            "data": {
+                              "action": "exposed",
+                              "actionSubject": "feature",
+                              "firstProductAccessed": "jira",
+                              "flagKey": "sign-in-with-slack.enabled",
+                              "isMobileApp": false,
+                              "originLibrary": "origin-tracing.js@5.1.0",
+                              "reason": "RULE_MATCH",
+                              "ruleId": "65BE87D7-EE80-41EC-BBBB-68677B700347",
+                              "source": "loginScreen",
+                              "value": true
+                            },
+                            "level": "info",
+                            "message": "UI exposed tracking event occured at feature undefined on page loginScreen",
+                            "timestamp": 1621179654.2775774
+                          },
+                          {
+                            "category": "xhr",
+                            "data": {
+                              "method": "POST",
+                              "status_code": 200,
+                              "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/p"
+                            },
+                            "timestamp": 1621179654.3171573,
+                            "type": "http"
+                          }
+                        ],
+                        "_contexts": {},
+                        "_eventProcessors": [],
+                        "_extra": {
+                          "aid_signup.apple.auth.enabled": true,
+                          "aid_signup.apple.show.hidden.email.warning.enabled": true,
+                          "aid_signup.authenticate.via.id.authentication": true,
+                          "aid_signup.bans.validate.authentication": true,
+                          "aid_signup.block.csrf.mismatches.login.authorize": true,
+                          "aid_signup.disallow.bitbucket.username.login": true,
+                          "aid_signup.disallow.passwordless.login.for.google.users": true,
+                          "aid_signup.domain.claim.data.login.analytics": true,
+                          "aid_signup.experiment.user_segmentation": "variation",
+                          "aid_signup.google.auth.call.get.user.info": true,
+                          "aid_signup.microsoft.auth.enabled": true,
+                          "aid_signup.passwordless.signup": false,
+                          "aid_signup.passwordless.signup.mobile.new.flow": false,
+                          "aid_signup.recaptcha.threshold": true,
+                          "aid_signup.sev.enabled": true,
+                          "aid_signup.state.redirect.logout.distribution.enabled": true,
+                          "isEmbedded": false,
+                          "isMobileOidc": false,
+                          "manage-account.email.change-email-refresh.enabled": false,
+                          "sign-in-with-slack.enabled": true
+                        },
+                        "_notifyingListeners": false,
+                        "_scopeListeners": [],
+                        "_tags": {
+                          "locale": "es"
+                        },
+                        "_user": {
+                          "id": "ecae9574-7153-4ceb-8a5c-300673276ddf"
+                        }
+                      }
+                    }
+                  ],
+                  "_version": 3
+                },
+                "logger": {
+                  "_enabled": true
+                }
+              },
+              "__tti": {
+                "e": [],
+                "o": {}
+              },
+              "appName": 5,
+              "appVersion": 0,
+              "applicationCache": {},
+              "audioContext": 0,
+              "buildID": 0,
+              "caches": {},
+              "clientInformation": {},
+              "closed": false,
+              "colorDepth": 2,
+              "cookieEnable": 0,
+              "cpuclass": 0,
+              "crypto": {},
+              "customElements": {},
+              "defaultStatus": "",
+              "defaultstatus": "",
+              "devicePixelRatio": 1,
+              "doNotTrack": 1,
+              "document": {
+                "location": {
+                  "ancestorOrigins": {},
+                  "hash": "",
+                  "host": "id.atlassian.com",
+                  "hostname": "id.atlassian.com",
+                  "href": "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira",
+                  "origin": "https://id.atlassian.com",
+                  "pathname": "/login",
+                  "port": "",
+                  "protocol": "https:",
+                  "search": "?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira"
+                }
+              },
+              "external": {},
+              "featureFlags": {
+                "aid_signup.apple.auth.enabled": true,
+                "aid_signup.apple.show.hidden.email.warning.enabled": true,
+                "aid_signup.authenticate.via.id.authentication": true,
+                "aid_signup.bans.validate.authentication": true,
+                "aid_signup.block.csrf.mismatches.login.authorize": true,
+                "aid_signup.disallow.bitbucket.username.login": true,
+                "aid_signup.disallow.passwordless.login.for.google.users": true,
+                "aid_signup.domain.claim.data.login.analytics": true,
+                "aid_signup.experiment.user_segmentation": "variation",
+                "aid_signup.google.auth.call.get.user.info": true,
+                "aid_signup.microsoft.auth.enabled": true,
+                "aid_signup.passwordless.signup": false,
+                "aid_signup.passwordless.signup.mobile.new.flow": false,
+                "aid_signup.recaptcha.threshold": true,
+                "aid_signup.sev.enabled": true,
+                "aid_signup.state.redirect.logout.distribution.enabled": true,
+                "manage-account.email.change-email-refresh.enabled": false,
+                "sign-in-with-slack.enabled": true
+              },
+              "frameElement": null,
+              "globalTrackingId": "",
+              "history": {},
+              "indexDB": 3,
+              "indexedDB": {},
+              "innerHeight": 600,
+              "innerWidth": 800,
+              "isSecureContext": true,
+              "language": 2,
+              "languages": 1,
+              "length": 0,
+              "localStorage": {
+                "ajs_anonymous_id": "\"ecae9574-7153-4ceb-8a5c-300673276ddf\"",
+                "ajs_group_id": "null",
+                "ajs_group_properties": "{}",
+                "awc-prod.27b41430-304f-4901-b222-cd46093f74da.ack": "1621179653461",
+                "awc-prod.27b41430-304f-4901-b222-cd46093f74da.inProgress": "{}",
+                "awc-prod.27b41430-304f-4901-b222-cd46093f74da.queue": "[]",
+                "awc-prod.27b41430-304f-4901-b222-cd46093f74da.reclaimEnd": "null",
+                "awc-prod.27b41430-304f-4901-b222-cd46093f74da.reclaimStart": "null",
+                "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.ack": "1621179653814",
+                "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.inProgress": "{\"36af98ca-1cc9-4852-b18b-f5d752b435c9\":{\"item\":{\"url\":\"https://id.atlassian.com/gateway/api/gasv3/api/v1/t\",\"headers\":{\"Content-Type\":\"text/plain\"},\"msg\":{\"context\":{\"locale\":\"es\",\"screen\":{\"width\":800,\"height\":600,\"density\":1},\"library\":{\"name\":\"analytics.js\",\"version\":\"1.6.5\"},\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\",\"campaign\":{}},\"integrations\":{},\"properties\":{\"env\":\"prod\",\"product\":\"identity\",\"origin\":\"web\",\"platform\":\"web\",\"tenantIdType\":\"cloudId\",\"tenantId\":\"e57de359-85b4-4acd-98a0-d342487eced6\",\"source\":\"ui\",\"actionSubject\":\"ui\",\"action\":\"readyForUser\",\"attributes\":{\"properties\":{\"firstPaint\":null,\"firstContentfulPaint\":null},\"task\":\"viewLoginPage\",\"type\":\"initialLoad\",\"threshold\":1000,\"apdex\":0.5,\"startTime\":1621179651065.7173,\"stopTime\":1621179654227.9524,\"duration\":3162.235107421875,\"isActiveTab\":true},\"eventType\":\"operational\",\"tabId\":\"d2000ff0-a7b9-40f9-9026-a1c0437aee66\",\"sessionId\":\"1621179653502\",\"taskSessions\":{}},\"event\":\"ui readyForUser\",\"messageId\":\"ajs-f115ab22933e69b7967a4a427ac973c1\",\"anonymousId\":\"ecae9574-7153-4ceb-8a5c-300673276ddf\",\"timestamp\":\"2021-05-16T15:40:54.232Z\",\"type\":\"track\",\"writeKey\":\"\",\"userId\":null,\"sentAt\":\"2021-05-16T15:40:54.234Z\",\"_metadata\":{\"bundled\":[\"BeforeSend\",\"Segment.io\"],\"unbundled\":[\"Amplitude\"]}}},\"attemptNumber\":0,\"time\":1621179654239},\"e0c00559-7d53-429f-bf83-d92a4e4541ee\":{\"item\":{\"url\":\"https://id.atlassian.com/gateway/api/gasv3/api/v1/t\",\"headers\":{\"Content-Type\":\"text/plain\"},\"msg\":{\"context\":{\"locale\":\"es\",\"screen\":{\"width\":800,\"height\":600,\"density\":1},\"library\":{\"name\":\"analytics.js\",\"version\":\"1.6.5\"},\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\",\"campaign\":{}},\"integrations\":{},\"properties\":{\"env\":\"prod\",\"product\":\"identity\",\"origin\":\"web\",\"platform\":\"web\",\"tenantIdType\":\"cloudId\",\"tenantId\":\"e57de359-85b4-4acd-98a0-d342487eced6\",\"source\":\"loginScreen\",\"actionSubject\":\"sli\",\"action\":\"loadLoginPageSuccessful\",\"attributes\":{\"firstProductAccessed\":\"jira\",\"originLibrary\":\"origin-tracing.js@5.1.0\",\"isMobileApp\":false},\"tags\":[\"identity\"],\"eventType\":\"operational\",\"tabId\":\"d2000ff0-a7b9-40f9-9026-a1c0437aee66\",\"sessionId\":\"1621179653502\",\"taskSessions\":{}},\"event\":\"sli loadLoginPageSuccessful\",\"messageId\":\"ajs-c3e0284e92274ce6f283872b028abb1d\",\"anonymousId\":\"ecae9574-7153-4ceb-8a5c-300673276ddf\",\"timestamp\":\"2021-05-16T15:40:54.248Z\",\"type\":\"track\",\"writeKey\":\"\",\"userId\":null,\"sentAt\":\"2021-05-16T15:40:54.250Z\",\"_metadata\":{\"bundled\":[\"BeforeSend\",\"Segment.io\"],\"unbundled\":[\"Amplitude\"]}}},\"attemptNumber\":0,\"time\":1621179654253},\"880adef7-2c7a-448c-9434-d024ff7a93d6\":{\"item\":{\"url\":\"https://id.atlassian.com/gateway/api/gasv3/api/v1/t\",\"headers\":{\"Content-Type\":\"text/plain\"},\"msg\":{\"context\":{\"locale\":\"es\",\"screen\":{\"width\":800,\"height\":600,\"density\":1},\"library\":{\"name\":\"analytics.js\",\"version\":\"1.6.5\"},\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\",\"campaign\":{}},\"integrations\":{},\"properties\":{\"env\":\"prod\",\"product\":\"identity\",\"origin\":\"web\",\"platform\":\"web\",\"tenantIdType\":\"cloudId\",\"tenantId\":\"e57de359-85b4-4acd-98a0-d342487eced6\",\"source\":\"loginScreen\",\"actionSubject\":\"feature\",\"action\":\"exposed\",\"attributes\":{\"firstProductAccessed\":\"jira\",\"originLibrary\":\"origin-tracing.js@5.1.0\",\"isMobileApp\":false,\"flagKey\":\"aid_signup.microsoft.auth.enabled\",\"reason\":\"RULE_MATCH\",\"ruleId\":\"0E2C138D-053A-450C-914A-5E5C9D1539B9\",\"value\":true},\"tags\":[\"identity\"],\"eventType\":\"track\",\"tabId\":\"d2000ff0-a7b9-40f9-9026-a1c0437aee66\",\"sessionId\":\"1621179653502\",\"taskSessions\":{}},\"event\":\"feature exposed\",\"messageId\":\"ajs-75b46869eba2f9e87c5d459c95437449\",\"anonymousId\":\"ecae9574-7153-4ceb-8a5c-300673276ddf\",\"timestamp\":\"2021-05-16T15:40:54.261Z\",\"type\":\"track\",\"writeKey\":\"\",\"userId\":null,\"sentAt\":\"2021-05-16T15:40:54.264Z\",\"_metadata\":{\"bundled\":[\"BeforeSend\",\"Segment.io\"],\"unbundled\":[\"Amplitude\"]}}},\"attemptNumber\":0,\"time\":1621179654266},\"3d963e8f-ade9-45cc-bc9c-d93daa18e832\":{\"item\":{\"url\":\"https://id.atlassian.com/gateway/api/gasv3/api/v1/t\",\"headers\":{\"Content-Type\":\"text/plain\"},\"msg\":{\"context\":{\"locale\":\"es\",\"screen\":{\"width\":800,\"height\":600,\"density\":1},\"library\":{\"name\":\"analytics.js\",\"version\":\"1.6.5\"},\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\",\"campaign\":{}},\"integrations\":{},\"properties\":{\"env\":\"prod\",\"product\":\"identity\",\"origin\":\"web\",\"platform\":\"web\",\"tenantIdType\":\"cloudId\",\"tenantId\":\"e57de359-85b4-4acd-98a0-d342487eced6\",\"source\":\"loginScreen\",\"actionSubject\":\"feature\",\"action\":\"exposed\",\"attributes\":{\"firstProductAccessed\":\"jira\",\"originLibrary\":\"origin-tracing.js@5.1.0\",\"isMobileApp\":false,\"flagKey\":\"aid_signup.apple.auth.enabled\",\"reason\":\"RULE_MATCH\",\"ruleId\":\"93E21B0C-9CB7-468E-B341-C378CCE0B285\",\"value\":true},\"tags\":[\"identity\"],\"eventType\":\"track\",\"tabId\":\"d2000ff0-a7b9-40f9-9026-a1c0437aee66\",\"sessionId\":\"1621179653502\",\"taskSessions\":{}},\"event\":\"feature exposed\",\"messageId\":\"ajs-93665a9020cf4e0c38be26f3fbf7d423\",\"anonymousId\":\"ecae9574-7153-4ceb-8a5c-300673276ddf\",\"timestamp\":\"2021-05-16T15:40:54.271Z\",\"type\":\"track\",\"writeKey\":\"\",\"userId\":null,\"sentAt\":\"2021-05-16T15:40:54.273Z\",\"_metadata\":{\"bundled\":[\"BeforeSend\",\"Segment.io\"],\"unbundled\":[\"Amplitude\"]}}},\"attemptNumber\":0,\"time\":1621179654275},\"ed2c546d-c680-45eb-9ffc-3b80bdc185a0\":{\"item\":{\"url\":\"https://id.atlassian.com/gateway/api/gasv3/api/v1/t\",\"headers\":{\"Content-Type\":\"text/plain\"},\"msg\":{\"context\":{\"locale\":\"es\",\"screen\":{\"width\":800,\"height\":600,\"density\":1},\"library\":{\"name\":\"analytics.js\",\"version\":\"1.6.5\"},\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\",\"campaign\":{}},\"integrations\":{},\"properties\":{\"env\":\"prod\",\"product\":\"identity\",\"origin\":\"web\",\"platform\":\"web\",\"tenantIdType\":\"cloudId\",\"tenantId\":\"e57de359-85b4-4acd-98a0-d342487eced6\",\"source\":\"loginScreen\",\"actionSubject\":\"feature\",\"action\":\"exposed\",\"attributes\":{\"firstProductAccessed\":\"jira\",\"originLibrary\":\"origin-tracing.js@5.1.0\",\"isMobileApp\":false,\"flagKey\":\"sign-in-with-slack.enabled\",\"reason\":\"RULE_MATCH\",\"ruleId\":\"65BE87D7-EE80-41EC-BBBB-68677B700347\",\"value\":true},\"tags\":[\"identity\"],\"eventType\":\"track\",\"tabId\":\"d2000ff0-a7b9-40f9-9026-a1c0437aee66\",\"sessionId\":\"1621179653502\",\"taskSessions\":{}},\"event\":\"feature exposed\",\"messageId\":\"ajs-7cc2ebf92e7617d0a615ff990f0e3d06\",\"anonymousId\":\"ecae9574-7153-4ceb-8a5c-300673276ddf\",\"timestamp\":\"2021-05-16T15:40:54.282Z\",\"type\":\"track\",\"writeKey\":\"\",\"userId\":null,\"sentAt\":\"2021-05-16T15:40:54.284Z\",\"_metadata\":{\"bundled\":[\"BeforeSend\",\"Segment.io\"],\"unbundled\":[\"Amplitude\"]}}},\"attemptNumber\":0,\"time\":1621179654286}}",
+                "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.queue": "[]",
+                "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.reclaimEnd": "null",
+                "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.reclaimStart": "null",
+                "awc.session.expiry": "1621181454277",
+                "awc.session.id": "1621179653502",
+                "debug": "undefined"
+              },
+              "location": {
+                "ancestorOrigins": {},
+                "hash": "",
+                "host": "id.atlassian.com",
+                "hostname": "id.atlassian.com",
+                "href": "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira",
+                "origin": "https://id.atlassian.com",
+                "pathname": "/login",
+                "port": "",
+                "protocol": "https:",
+                "search": "?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira"
+              },
+              "locationbar": {},
+              "menubar": {},
+              "mfaServerUrl": "",
+              "mimeTypes": 0,
+              "name": "",
+              "navigator": {},
+              "onLine": 0,
+              "onabort": null,
+              "onafterprint": null,
+              "onanimationend": null,
+              "onanimationiteration": null,
+              "onanimationstart": null,
+              "onappinstalled": null,
+              "onauxclick": null,
+              "onbeforeinstallprompt": null,
+              "onbeforeprint": null,
+              "onbeforeunload": null,
+              "onblur": null,
+              "oncancel": null,
+              "oncanplay": null,
+              "oncanplaythrough": null,
+              "onchange": null,
+              "onclick": null,
+              "onclose": null,
+              "oncontextmenu": null,
+              "oncuechange": null,
+              "ondblclick": null,
+              "ondevicemotion": null,
+              "ondeviceorientation": null,
+              "ondeviceorientationabsolute": null,
+              "ondrag": null,
+              "ondragend": null,
+              "ondragenter": null,
+              "ondragleave": null,
+              "ondragover": null,
+              "ondragstart": null,
+              "ondrop": null,
+              "ondurationchange": null,
+              "onemptied": null,
+              "onended": null,
+              "onfocus": null,
+              "onformdata": null,
+              "ongotpointercapture": null,
+              "onhashchange": null,
+              "oninput": null,
+              "oninvalid": null,
+              "onkeydown": null,
+              "onkeypress": null,
+              "onkeyup": null,
+              "onlanguagechange": null,
+              "onloadeddata": null,
+              "onloadedmetadata": null,
+              "onloadstart": null,
+              "onlostpointercapture": null,
+              "onmessage": null,
+              "onmessageerror": null,
+              "onmousedown": null,
+              "onmouseenter": null,
+              "onmouseleave": null,
+              "onmousemove": null,
+              "onmouseout": null,
+              "onmouseover": null,
+              "onmouseup": null,
+              "onmousewheel": null,
+              "onoffline": null,
+              "ononline": null,
+              "onpagehide": null,
+              "onpageshow": null,
+              "onpause": null,
+              "onplay": null,
+              "onplaying": null,
+              "onpointercancel": null,
+              "onpointerdown": null,
+              "onpointerenter": null,
+              "onpointerleave": null,
+              "onpointermove": null,
+              "onpointerout": null,
+              "onpointerover": null,
+              "onpointerrawupdate": null,
+              "onpointerup": null,
+              "onprogress": null,
+              "onratechange": null,
+              "onrejectionhandled": null,
+              "onreset": null,
+              "onresize": null,
+              "onscroll": null,
+              "onsearch": null,
+              "onseeked": null,
+              "onseeking": null,
+              "onselect": null,
+              "onselectionchange": null,
+              "onselectstart": null,
+              "onstalled": null,
+              "onstorage": null,
+              "onsubmit": null,
+              "onsuspend": null,
+              "ontimeupdate": null,
+              "ontoggle": null,
+              "ontransitionend": null,
+              "onunload": null,
+              "onvolumechange": null,
+              "onwaiting": null,
+              "onwebkitanimationend": null,
+              "onwebkitanimationiteration": null,
+              "onwebkitanimationstart": null,
+              "onwebkittransitionend": null,
+              "onwheel": null,
+              "opener": null,
+              "origin": "https://id.atlassian.com",
+              "oscpu": 0,
+              "outerHeight": 600,
+              "outerWidth": 800,
+              "pageXOffset": 0,
+              "pageYOffset": 0,
+              "perfMetrics": {},
+              "performance": {
+                "navigation": {
+                  "redirectCount": 0,
+                  "type": 0
+                },
+                "timeOrigin": 1621179651065.7173,
+                "timing": {
+                  "connectEnd": 1621179652414,
+                  "connectStart": 1621179652161,
+                  "domComplete": 0,
+                  "domContentLoadedEventEnd": 1621179653569,
+                  "domContentLoadedEventStart": 1621179653569,
+                  "domInteractive": 1621179653569,
+                  "domLoading": 1621179652572,
+                  "domainLookupEnd": 1621179652161,
+                  "domainLookupStart": 1621179652121,
+                  "fetchStart": 1621179652119,
+                  "loadEventEnd": 0,
+                  "loadEventStart": 0,
+                  "navigationStart": 1621179651065,
+                  "redirectEnd": 0,
+                  "redirectStart": 0,
+                  "requestStart": 1621179652414,
+                  "responseEnd": 1621179652563,
+                  "responseStart": 1621179652561,
+                  "secureConnectionStart": 1621179652285,
+                  "unloadEventEnd": 0,
+                  "unloadEventStart": 0
+                }
+              },
+              "personalbar": {},
+              "pixelDepth": 0,
+              "platform": 2,
+              "plugins": 1,
+              "postActionURL": "",
+              "product": 1,
+              "productSub": 0,
+              "recaptchaOptions": {
+                "useRecaptchaNet": true
+              },
+              "regeneratorRuntime": {},
+              "requestToken": "",
+              "screen": {},
+              "screenLeft": 0,
+              "screenTop": 0,
+              "screenX": 0,
+              "screenY": 0,
+              "scrollX": 0,
+              "scrollY": 0,
+              "scrollbars": {},
+              "segmentIoKey": "cb2egpwag7",
+              "sessionStorage": {
+                "awc.last.screen.event": "{\"name\":\"loginScreen\",\"attributes\":{\"firstProductAccessed\":\"jira\",\"originLibrary\":\"origin-tracing.js@5.1.0\",\"isMobileApp\":false,\"isMicrosoftButtonEnabled\":true,\"isAppleButtonEnabled\":true,\"isSlackButtonEnabled\":true}}",
+                "awc.tab.id": "d2000ff0-a7b9-40f9-9026-a1c0437aee66",
+                "awc.taskSessions": "{}",
+                "awc.taskSessionsInit": "1621179653465"
+              },
+              "speechSynthesis": {},
+              "status": "",
+              "statusbar": {},
+              "styleMedia": {},
+              "ticket": "",
+              "toolbar": {},
+              "trustedTypes": {},
+              "userAgent": 100,
+              "userData": {
+                "email": "",
+                "friendlyUserId": "",
+                "tenant": "",
+                "tenantFriendlyName": "",
+                "userId": ""
+              },
+              "vendor": 1,
+              "vendorSub": 0,
+              "visualViewport": {},
+              "webkitStorageInfo": {},
+              "webpackJsonpaid-frontend": [
+                [
+                  [
+                    39
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                [
+                  [
+                    32
+                  ],
+                  {},
+                  [
+                    [
+                      638,
+                      38,
+                      39
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    31
+                  ],
+                  {}
+                ],
+                [
+                  [
+                    40
+                  ],
+                  {}
+                ],
+                [
+                  [
+                    5
+                  ],
+                  {}
+                ],
+                [
+                  [
+                    43
+                  ],
+                  {}
+                ]
+              ]
+            }
+          ],
+          "functionName": "e.canvas",
+          "location": {
+            "columnNumber": 35732,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [],
+          "functionName": "t.getCanvasData",
+          "location": {
+            "columnNumber": 34286,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [],
+          "functionName": "t.start",
+          "location": {
+            "columnNumber": 33050,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            {
+              "t": 11
+            },
+            null
+          ],
+          "functionName": "t.init",
+          "location": {
+            "columnNumber": 32315,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            {
+              "__esModule": true
+            },
+            {
+              "__esModule": true
+            },
+            {
+              "location": {
+                "ancestorOrigins": {},
+                "hash": "",
+                "host": "id.atlassian.com",
+                "hostname": "id.atlassian.com",
+                "href": "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira",
+                "origin": "https://id.atlassian.com",
+                "pathname": "/login",
+                "port": "",
+                "protocol": "https:",
+                "search": "?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira"
+              }
+            }
+          ],
+          "functionName": "",
+          "location": {
+            "columnNumber": 1955,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            1
+          ],
+          "functionName": "e",
+          "location": {
+            "columnNumber": 237,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            {
+              "exports": {
+                "__esModule": true
+              },
+              "id": 0,
+              "loaded": false
+            },
+            {
+              "__esModule": true
+            },
+            null
+          ],
+          "functionName": "",
+          "location": {
+            "columnNumber": 356,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            0
+          ],
+          "functionName": "e",
+          "location": {
+            "columnNumber": 237,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ],
+          "functionName": "",
+          "location": {
+            "columnNumber": 317,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            {
+              "exports": {},
+              "i": 1362,
+              "l": false
+            },
+            {},
+            null
+          ],
+          "functionName": "1362",
+          "location": {
+            "columnNumber": 322,
+            "lineNumber": 0
+          },
+          "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+        },
+        {
+          "args": [
+            1362
+          ],
+          "functionName": "f",
+          "location": {
+            "columnNumber": 6938,
+            "lineNumber": 0
+          },
+          "url": "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira"
+        },
+        {
+          "args": [
+            1362,
+            7,
+            [
+              null
+            ]
+          ],
+          "functionName": "f.t",
+          "location": {
+            "columnNumber": 8787,
+            "lineNumber": 0
+          },
+          "url": "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira"
+        }
+      ],
+      "calls": [
+        {
+          "arguments": [
+            "https://castle.io",
+            2,
+            15
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "https://castle.io",
+            4,
+            17
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [],
+          "method": "HTMLCanvasElement.toDataURL"
+        }
+      ],
+      "is_fingerprinting": true
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 5,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 1,
+    "window.navigator.indexDB": 3,
+    "window.navigator.language": 2,
+    "window.navigator.languages": 19,
+    "window.navigator.mimeTypes": 23,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 2,
+    "window.navigator.plugins": 20,
+    "window.navigator.product": 1,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 103,
+    "window.navigator.vendor": 1,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 2,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "a5e2c59933384c24566980b5283787f893051a1d613226ffe5bbdb6dd5630045",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 High Assurance Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "curve": "secp256r1",
+        "size": 256,
+        "type": "ECC"
+      },
+      "not_valid_after": 1654855200.0,
+      "not_valid_before": 1586296800.0,
+      "serial_number": 13397360486371424569262143824391932213,
+      "subject": {
+        "commonName": "*.atlassian.com",
+        "countryName": "AU",
+        "localityName": "Sydney",
+        "organizationName": "Atlassian Pty Ltd",
+        "stateOrProvinceName": "New South Wales"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "1621179671069",
+      "key": "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.ack"
+    },
+    {
+      "content": "[]",
+      "key": "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.queue"
+    },
+    {
+      "content": "1621181454277",
+      "key": "awc.session.expiry"
+    },
+    {
+      "content": "{}",
+      "key": "ajs_group_properties"
+    },
+    {
+      "content": "null",
+      "key": "awc-prod.27b41430-304f-4901-b222-cd46093f74da.reclaimEnd"
+    },
+    {
+      "content": "null",
+      "key": "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.reclaimEnd"
+    },
+    {
+      "content": "1621179653502",
+      "key": "awc.session.id"
+    },
+    {
+      "content": "undefined",
+      "key": "debug"
+    },
+    {
+      "content": "null",
+      "key": "ajs_group_id"
+    },
+    {
+      "content": "null",
+      "key": "awc-prod.27b41430-304f-4901-b222-cd46093f74da.reclaimStart"
+    },
+    {
+      "content": "[]",
+      "key": "awc-prod.27b41430-304f-4901-b222-cd46093f74da.queue"
+    },
+    {
+      "content": "{}",
+      "key": "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.inProgress"
+    },
+    {
+      "content": "null",
+      "key": "awc-prod.68cfd271-0bc7-4b38-ad4f-1c6595a87921.reclaimStart"
+    },
+    {
+      "content": "1621179671065",
+      "key": "awc-prod.27b41430-304f-4901-b222-cd46093f74da.ack"
+    },
+    {
+      "content": "\"ecae9574-7153-4ceb-8a5c-300673276ddf\"",
+      "key": "ajs_anonymous_id"
+    },
+    {
+      "content": "{}",
+      "key": "awc-prod.27b41430-304f-4901-b222-cd46093f74da.inProgress"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.atlassian.net/",
+    "https://www.atlassian.net/secure/MyJiraHome.jspa",
+    "https://www.atlassian.net/login.jsp",
+    "https://www.atlassian.net/login?application=jira",
+    "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.atlassian.net/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.atlassian.net/secure/MyJiraHome.jspa"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.atlassian.net/login.jsp"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.atlassian.net/login?application=jira"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metal.prod.atl-paas.net/1.24.0/metal-head.min.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/css/39.508e9338.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/39.2ff5be36.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/main.d90335f1.chunk.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/t"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/40.591d205f.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/login.70d93800.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/43.007562bb.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/js/5.29f37c60.chunk.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/p"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/media/jira-left.1ed82f79.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/media/jira-right.dee3d2d1.svg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/t"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://accounts.google.com/gsi/client"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/t"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/t"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/t"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://id.atlassian.com/gateway/api/gasv3/api/v1/t"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/media/google-logo.c21ca9d1.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/media/microsoft-logo.319d9b9a.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/media/apple-logo.49738542.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.232/static/media/slack-logo.c90b95bd.svg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.atlassian.com/metal/ingest"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.atlassian.com/metal/ingest"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.castle.io/v1/c.gif?v=1.0.21&p=Linux%20x86_64&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F83.0.4103.116%20Safari%2F537.36&l=es-ES&h=https%3A%2F%2Fid.atlassian.com%2Flogin%3Fcontinue%3Dhttps%253A%252F%252Fwww.atlassian.net%252Flogin%253FredirectCount%253D1%2526application%253Djira%26application%3Djira&cd=24&cc=4&dd=1&tz=-120&td=60&ah=600&aw=800&sh=600&sw=800&t=11&hm=1&hs=1&hw=1&ti=Inicia%20sesi%C3%B3n%20para%20continuar%20-%20Iniciar%20sesi%C3%B3n%20con%20la%20cuenta%20de%20Atlassian&r=32865870&ai=337683121243755&ci=20597911-3691-4bcc-8a91-fe82f0aa32e7-25de9df7be2ce08a651ee08a"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.atlassian.com/metal/ingest"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.atlassian.com/metal/ingest"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://id.atlassian.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.atlassian.com/metal/ingest"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": "report-uri=\"https://web-security-reports.services.atlassian.com/expect-ct-report/idproxy\", max-age=86400",
+    "Referrer-Policy": "origin",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=63072000; preload",
+      "includeSubDomains": false,
+      "max-age": 63072000,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "{\"name\":\"loginScreen\",\"attributes\":{\"firstProductAccessed\":\"jira\",\"originLibrary\":\"origin-tracing.js@5.1.0\",\"isMobileApp\":false,\"isMicrosoftButtonEnabled\":true,\"isAppleButtonEnabled\":true,\"isSlackButtonEnabled\":true}}",
+      "key": "awc.last.screen.event"
+    },
+    {
+      "content": "d2000ff0-a7b9-40f9-9026-a1c0437aee66",
+      "key": "awc.tab.id"
+    },
+    {
+      "content": "{}",
+      "key": "awc.taskSessions"
+    },
+    {
+      "content": "1621179653465",
+      "key": "awc.taskSessionsInit"
+    }
+  ],
+  "site_url": "https://www.atlassian.net\n",
+  "third_parties": {
+    "fqdns": [
+      "accounts.google.com",
+      "aid-frontend.prod.atl-paas.net",
+      "metal.prod.atl-paas.net",
+      "t.castle.io"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 16
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 1,
+    "trackers": [
+      "t.castle.io"
+    ]
+  }
+}

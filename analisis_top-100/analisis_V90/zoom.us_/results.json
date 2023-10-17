@@ -1,0 +1,1834 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".google.com",
+      "expires": 1636733477.380279,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 15559204.380279064,
+      "name": "_GRECAPTCHA",
+      "path": "/recaptcha",
+      "priority": "High",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 100,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "09ANblmni8Oe5ik57dMS9-IwGre6XhdQYWAUPVzOofBZefDAjYP8nAOh7aLtPQBz9YcoV9olJ77HZlgk6blOpOXyk"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_zm_page_auth",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 41,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "aw1_c_GONU7HHpROiz0I9vsn2Itg"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_zm_ssid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "aw1_c_T2eN1j88QFCrW7ERRP8B_Q"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_zm_csp_script_nonce",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "7Od32r4xThaYfV7xfWGAzQ"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1621267874.028079,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93601.0280790329,
+      "name": "_zm_currency",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 15,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "EUR"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1684253474.028186,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079201.02818608,
+      "name": "_zm_mtk_guid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 44,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "40b1182ada514ec5ac0bfa02da0659a8"
+    },
+    {
+      "domain": "www.zoom.us",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "cred",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "FF412FBA04B6125F99AA57FCAB94F519"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1652717475,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543202,
+      "name": "_zm_lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 13,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "es-ES"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "notice_behavior",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 27,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "expressed,eu"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1621203075,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 28802,
+      "name": "_zm_cdn_blocked",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 26,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "unlog_unblk"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1684253475,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079202,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 29,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.410229304.1621181476"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1621267875,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93602,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.319064572.1621181476"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1655309475,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34135202,
+      "name": "notice_preferences",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 20,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0:"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1655309475,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34135202,
+      "name": "notice_gdpr_prefs",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 19,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0:"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1655309475,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34135202,
+      "name": "cmapi_gtm_bl",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 78,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "ga-ms-ua-ta-asp-bzi-sp-awct-cts-csm-img-flc-fls-mpm-mpr-m6d-tc-tdc"
+    },
+    {
+      "domain": ".zoom.us",
+      "expires": 1655309475,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34135202,
+      "name": "cmapi_cookie_privacy",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 37,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "permit 1 required"
+    },
+    {
+      "domain": "prefmgr-cookie.truste-svc.net",
+      "expires": 1621181508,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 7235,
+      "name": "cookie_3rdparty",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 22,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "enabled"
+    },
+    {
+      "domain": "consent-pref.trustarc.com",
+      "expires": 1621181498,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 7225,
+      "name": "token_test",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 78,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "Sun May 16 2021 18:11:18 GMT+0200 (hora de verano de Europa central)"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 9,
+    "first_party_short": 6,
+    "third_party_long": 1,
+    "third_party_short": 2,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.zoom.us/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 1,
+    "window.navigator.appVersion": 2,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 1,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 2,
+    "window.navigator.languages": 1,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 1,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 0,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 1,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "1bf9bd9eb6434432e8c800a3d20d94bdd79df600c7914a5086da21916e82c742",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 Secure Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1654077600.0,
+      "not_valid_before": 1590271200.0,
+      "serial_number": 11318771130560572772588385629593046997,
+      "subject": {
+        "commonName": "*.zoom.us",
+        "countryName": "US",
+        "localityName": "San Jose",
+        "organizationName": "Zoom Video Communications, Inc.",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-256",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://explore.zoom.us/es-es/livedemo.html",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "3.4.1"
+  },
+  "local_storage": [
+    {
+      "content": "{\"name\":\"truste.eu.cookie.notice_preferences\",\"value\":\"0:\",\"path\":\"/\",\"expires\":1655302275985}",
+      "key": "truste.eu.cookie.notice_preferences"
+    },
+    {
+      "content": "{\"name\":\"truste.eu.cookie.notice_gdpr_prefs\",\"value\":\"0:\",\"path\":\"/\",\"expires\":1655302275988}",
+      "key": "truste.eu.cookie.notice_gdpr_prefs"
+    },
+    {
+      "content": "40b1182ada514ec5ac0bfa02da0659a8",
+      "key": "_zm_mtk_guid"
+    },
+    {
+      "content": "{\"name\":\"truste.eu.cookie.cmapi_cookie_privacy\",\"value\":\"permit 1 required\",\"path\":\"/\",\"expires\":1655302275999}",
+      "key": "truste.eu.cookie.cmapi_cookie_privacy"
+    },
+    {
+      "content": "B",
+      "key": "zoom_ada_chap_rollout_group"
+    },
+    {
+      "content": "{\"Advertising Cookies\":{\"domains\":{\"doubleclick.net\":\"0\",\"www.googleadservices.com\":\"0\",\"d.adroll.com\":\"0\",\"3lift.com\":\"0\",\"adservice.google.com\":\"0\",\"stats.g.doubleclick.net\":\"0\",\"adroll.com\":\"0\",\"tag.demandbase.com\":\"0\",\"bidr.io\":\"0\",\"www.youtube.com\":\"0\",\"sync.outbrain.com\":\"0\",\"yahoo.com\":\"0\",\"9513928.fls.doubleclick.net\":\"0\",\"s.ytimg.com\":\"0\",\"www.facebook.com\":\"0\",\"outbrain.com\":\"0\",\"www.linkedin.com\":\"0\",\"company-target.com\":\"0\",\"ads.linkedin.com\":\"0\",\"pubmatic.com\":\"0\",\"taboola.com\":\"0\",\"connect.facebook.net\":\"0\",\"px.ads.linkedin.com\":\"0\",\"s.adroll.com\":\"0\",\"static.doubleclick.net\":\"0\",\"linkedin.com\":\"0\",\"youtube.com\":\"0\",\"googleads.g.doubleclick.net\":\"0\",\"casalemedia.com\":\"0\",\"bidswitch.net\":\"0\",\"openx.net\":\"0\",\"trk.techtarget.com\":\"0\",\"scripts.demandbase.com\":\"0\",\"www.youtube-nocookie.com\":\"0\"},\"value\":\"2\"},\"Functional Cookies\":{\"domains\":{\"browser.sentry-cdn.com\":\"1\",\"www.google.ie\":\"1\",\"ib0229f00-ds-aksb-a.akamaihd.net\":\"1\",\"scout-cdn.salesloft.com\":\"1\",\"hackerone.com\":\"1\",\"aws1.discourse-cdn.com\":\"1\",\"static.ada.support\":\"1\",\"use.fontawesome.com\":\"1\",\"static.zdassets.com\":\"1\",\"s3.amazonaws.com\":\"1\",\"static.hotjar.com\":\"1\",\"cdnjs.cloudflare.com\":\"1\",\"maps.google.com\":\"1\",\"ekr.zdassets.com\":\"1\",\"tracking.g2crowd.com\":\"1\",\"www.google.com\":\"1\",\"polyfill.io\":\"1\",\"www.gstatic.com\":\"1\",\"www.google-analytics.com\":\"1\",\"pasteboard.co\":\"1\",\"res.cloudinary.com\":\"1\",\"ajax.googleapis.com\":\"1\",\"maxcdn.bootstrapcdn.com\":\"1\",\"d24cgw3uvb9a9h.cloudfront.net\":\"1\",\"p4.zdassets.com\":\"1\",\"consent.trustarc.com\":\"1\",\"consent-pref.trustarc.com\":\"1\",\"assets.zendesk.com\":\"1\",\"cdn.optimizely.com\":\"1\",\"zapier.com\":\"1\",\"www.herokucdn.com\":\"1\",\"maps.gstatic.com\":\"1\",\"unpkg.com\":\"1\",\"d.adroll.mgr.consensu.org\":\"1\",\"d3ccq6p6lty6gh.cloudfront.net\":\"1\",\"cdn.jsdelivr.net\":\"1\",\"www.recaptcha.net\":\"1\",\"14qjgk812kgk.statuspage.io\":\"1\",\"timeline.noticeable.io\":\"1\",\"ds-aksb-a.akamaihd.net\":\"1\",\"prefmgr-cookie.truste-svc.net\":\"1\",\"d1u8yx20pi6ath.cloudfront.net\":\"1\",\"zoomus.zendesk.com\":\"1\",\"theme.zdassets.com\":\"1\",\"play.eevo.com\":\"1\",\"nr-data.net\":\"1\",\"maps.googleapis.com\":\"1\",\"sjc3.discourse-cdn.com\":\"1\",\"a7963841021.cdn.optimizely.com\":\"1\",\"script.hotjar.com\":\"1\",\"code.jquery.com\":\"1\",\"www.googletagmanager.com\":\"1\",\"hello.pledgeling.com\":\"1\",\"sealserver.trustwave.com\":\"1\",\"firebasestorage.googleapis.com\":\"1\",\"bam-cell.nr-data.net\":\"1\",\"pi.pardot.com\":\"1\",\"g2crowd.com\":\"1\",\"js-agent.newrelic.com\":\"1\",\"cdn.rawgit.com\":\"1\",\"p13.zdassets.com\":\"1\",\"metrics.noticeable.io\":\"1\",\"d2v9kxxnwn8pfp.cloudfront.net\":\"1\",\"vars.hotjar.com\":\"1\",\"dka575ofm4ao0.cloudfront.net\":\"1\",\"run.pstmn.io\":\"1\",\"snap.licdn.com\":\"1\",\"consent-st.trustarc.com\":\"1\",\"cdn.zapier.com\":\"1\",\"widget-mediator.zopim.com\":\"1\",\"cdn.kscope.io\":\"1\",\"zoom-support-cdn.s3.amazonaws.com\":\"1\"},\"value\":\"1\"}}",
+      "key": "optout_domains"
+    },
+    {
+      "content": "{\"name\":\"truste.eu.cookie.cmapi_gtm_bl\",\"value\":\"ga-ms-ua-ta-asp-bzi-sp-awct-cts-csm-img-flc-fls-mpm-mpr-m6d-tc-tdc\",\"path\":\"/\",\"expires\":1655302275997}",
+      "key": "truste.eu.cookie.cmapi_gtm_bl"
+    },
+    {
+      "content": "1",
+      "key": "zoom_ada_chap_rollout_last_prob"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.zoom.us/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.zoom.us/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/js/app/dmbredirect.min.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/css/all.min.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/css/landing.min.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/css/carousel/carousel.min.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/css/swiper-4.5.0.min.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.zoom.us/csrf_js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/js/lib/vue/advanced/notification/notification.min.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/css/vue/zoom-components.min.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/js/lib/vue/advanced/popup-captcha/popup-captcha.min.css"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/ZoomLogo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/Info.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/meetings.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/phone2.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/developer.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/zoomforhome.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/onzoom.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/marketplace.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/webinars.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/zoomrooms.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/chat.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/Gartner.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/Four_Stars.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/trustradiusLogo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/FirstTwo_Stars.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/g2crowd.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/20centuryfox.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-20thcentry-wht.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/abinbev.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-abinbev-wht.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/uber.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-uber-wht.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/rujul_pathak.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo-zendesk-wht.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/peter_gassner.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-veeva-wht.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo-20centuryfox.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-abinbev.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-uber.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo_zendesk_new.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo_veeva.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo-autodesk.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo-rakuten.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/Docusign.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/Okta.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-servicenow.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo-atlassian.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/logo-westonunion.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo-capitalone.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/logo-nasdaq.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/logo-splunk.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/logo-checkpoint.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/Palo_Alto_Networks.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/Crowdstrike.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/image/new/home/Fortinet.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/Proofpoint.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/js/lib/vue/vue.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/static/94185/js/lib/vue/zoom-components.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/js/lib/vue/advanced/popup-captcha/popup-captcha.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/js/all.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/js/app/jquery.validate.message.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/js/lib/jquery.cycle2.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/js/lib/swiper-4.5.0.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/js/app/support/demandbase_mp.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/js/app/home.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/js/app/support/captcha.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/js/app/vue/confirmSignUpWithAgeDialog.min.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent.trustarc.com/notice?domain=zoom.com&c=teconsent&gtm=1&text=true&js=nj&noticeType=bb&oc=1"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.ada.support/embed.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/css/meetings/meeting_delete_dialog.min.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/js/lib/vue/advanced/notification/notification.min.js"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://api.company-target.com/api/v2/ip.json?key=e59ab6e41a0d125abf031a070ae07b12&referrer=&page=https%3A%2F%2Fwww.zoom.us%2F&title=Videoconferencias%2C%20conferencias%20web%2C%20seminario%20web%2C%20uso%20compartido%20de%20pantalla%20-%20Zoom"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.zoom.us/csrf_js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/cms/5/16bd3ad2-bae7-46a0-8263-cc1c31f48828.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st3.zoom.us/static/94185/image/new/home/Rectangle.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://st1.zoom.us/static/94185/css/landing.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/btn-videoplay-hover-off.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://st1.zoom.us/static/94185/css/landing.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/video-thumb-20century.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://st1.zoom.us/static/94185/css/landing.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/video-thumb-abinbev.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://st1.zoom.us/static/94185/css/landing.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/video-thumb-uber.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://st1.zoom.us/static/94185/css/landing.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/Zendesk.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://st1.zoom.us/static/94185/css/landing.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/bg_peter.jpg"
+    },
+    {
+      "mime_type": "binary/octet-stream",
+      "referer": "https://st1.zoom.us/static/94185/css/all.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/fonts/lato/Lato-Regular.woff2"
+    },
+    {
+      "mime_type": "binary/octet-stream",
+      "referer": "https://st1.zoom.us/static/94185/css/all.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/fonts/lato/Lato-Semibold.woff2"
+    },
+    {
+      "mime_type": "binary/octet-stream",
+      "referer": "https://st1.zoom.us/static/94185/css/all.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/fonts/lato/Lato-Bold.woff2"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://st1.zoom.us/static/94185/css/all.min.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st1.zoom.us/static/94185/image/new/home/social_icons_footer.png"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://st2.zoom.us/cdn-detect.png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://rollout.ada.support/zoom/client.json"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent.trustarc.com/asset/notice.js/v/v1.7-123"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent.trustarc.com/log?domain=zoom.com&country=es&state=&behavior=expressed&c=797e"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/recaptcha/api.js?hl=es"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultconsentmanager/getAutoOptOutCookieValue?type=zoom&site=zoom.com&locale=es&behavior=expressed&country=es&is_dnt=true"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zoom.ada.support/chat/connect/?embed=1"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.ada.support/images/7ce19ca8-b7d8-4a2f-860e-fe711fd55d7a.svg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/gtm/js?id=GTM-5X23DFQ&cid=410229304.1621181476"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/recaptcha__es.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent.trustarc.com/get?name=zoom-closebtn.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent.trustarc.com/noticemsg?action=consent&domain=zoom.com&behavior=expressed&country=es&language=es&rand=0.08134802153215293"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zoom.us/docs/image/sophos-logo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zoom.us/docs/image/new/verticals/finance/logo-capitalone_6daeeca.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zoom.us/docs/image/fred-love-headshot.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zoom.us/docs/image/mq-herov2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zoom.us/docs/image/capital-one-back.jpg"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeCs08UAAAAANsipFTD9hc0HJVjR6t1ja323yJr&co=aHR0cHM6Ly93d3cuem9vbS51czo0NDM.&hl=es&v=f-bnnOuahiYKuei7dmAd3kgv&size=invisible&badge=bottomleft&cb=k66jwa7bdt7o"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/defaultpreferencemanager.nocache.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://consent-pref.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-st.trustarc.com/get?name=combined_static_cm_minified.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/images/loading.gif"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/styles__ltr.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/recaptcha__es.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/A9F3689C5A8498C34A7C21F3013A250C.cache.html"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeCs08UAAAAANsipFTD9hc0HJVjR6t1ja323yJr&co=aHR0cHM6Ly93d3cuem9vbS51czo0NDM.&hl=es&v=f-bnnOuahiYKuei7dmAd3kgv&size=invisible&badge=bottomleft&cb=k66jwa7bdt7o",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=es&v=f-bnnOuahiYKuei7dmAd3kgv"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.zoom.us/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/recaptcha/api2/bframe?hl=es&v=f-bnnOuahiYKuei7dmAd3kgv&k=6LeCs08UAAAAANsipFTD9hc0HJVjR6t1ja323yJr&cb=w3irmmhpjfun"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/truste"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/truste"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/EuPreferenceManager.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/deferredjs/A9F3689C5A8498C34A7C21F3013A250C/10.cache.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/styles__ltr.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/recaptcha__es.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=es&v=f-bnnOuahiYKuei7dmAd3kgv&k=6LeCs08UAAAAANsipFTD9hc0HJVjR6t1ja323yJr&cb=w3irmmhpjfun",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/recaptcha/api2/reload?k=6LeCs08UAAAAANsipFTD9hc0HJVjR6t1ja323yJr"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/styles__ltr.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/api2/refresh_2x.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/styles__ltr.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/api2/audio_2x.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/styles__ltr.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/api2/info_2x.png"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/deferredjs/A9F3689C5A8498C34A7C21F3013A250C/1.cache.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://consent-pref.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prefmgr-cookie.truste-svc.net/cookie_js/cookie_iframe.html?parent=https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/truste"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/truste"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://consent-pref.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,600"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/images/trustarc-logo-small.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/deferredjs/A9F3689C5A8498C34A7C21F3013A250C/5.cache.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/truste"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/truste"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://fonts.googleapis.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhp.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://fonts.googleapis.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://consent-pref.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent.trustarc.com/get?name=Zoom-Blue-Logo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://consent-pref.trustarc.com/EuPreferenceManager.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/images/line2.png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/defaultpreferencemanager/truste"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://consent-pref.trustarc.com/EuPreferenceManager.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/images/handle.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/images/list.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/images/loader.gif"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://prefmgr-cookie.truste-svc.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/cookie_inneriframe.html"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://consent-pref.trustarc.com/?type=zoom&site=zoom.com&action=prefmgr&country=es&locale=es&preferences=0&behavior=expressed&gtm=1&layout=default_eu&irm=undefined&from=https://consent.trustarc.com/",
+      "sets_cookie": false,
+      "status_code": 304,
+      "status_text": "",
+      "url": "https://consent-pref.trustarc.com/EuPreferenceManager.css"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "base-uri": [
+        "'none'"
+      ],
+      "connect-src": [
+        "*",
+        "about:",
+        "blob:",
+        "data:",
+        "'self'"
+      ],
+      "default-src": [
+        "https://*.zoom.us",
+        "https://zoom.us",
+        "blob:",
+        "'self'"
+      ],
+      "font-src": [
+        "https:",
+        "safari-extension:",
+        "chrome-extension:",
+        "blob:",
+        "data:",
+        "'self'"
+      ],
+      "frame-src": [
+        "https:",
+        "ms-appx-web:",
+        "zoommtg:",
+        "zoomus:",
+        "wvjbscheme:",
+        "data:",
+        "'self'"
+      ],
+      "header_value": "upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; object-src 'none'; base-uri 'none';script-src 'unsafe-eval' 'unsafe-inline' blob: about: https://ruanshi2.8686c.com https://ajax.aspnetcdn.com/ajax/3.5/MicrosoftAjax.js https://appsforoffice.microsoft.com  https://assets.zendesk.com https://autocomplete.demandbase.com https://cdn.wootric.com https://cdncache-a.akamaihd.net https://connect.facebook.net https://consent.trustarc.com https://d.adroll.mgr.consensu.org https://googleads.g.doubleclick.net https://pi.pardot.com https://s.dcbap.com https://s.ytimg.com https://s3.amazonaws.com https://scout-cdn.salesloft.com https://sealserver.trustwave.com https://secure-cdn.mplxtms.com https://serve2.cheqzone.com https://snap.licdn.com https://sp.analytics.yahoo.com  https://static.zdassets.com https://static2.sharepointonline.com https://tag.demandbase.com https://tpc.googlesyndication.com https://tracking.g2crowd.com https://trk.techtarget.com https://www.comeet.co https://www.dropbox.com https://www.google-analytics.com https://www.googleadservices.com/pagead/conversion_async.js https://www.googletagmanager.com https://optimize.google.com  https://tagmanager.google.com  https://google.com https://docs.google.com https://cse.google.com https://maps.google.com https://www.google.com https://apis.google.com https://linkedin.com https://platform.linkedin.com https://px.ads.linkedin.com https://ads.linkedin.com https://www.youtube.com https://www.gstatic.com https://www.gstatic.cn https://fonts.googleapis.com https://hcaptcha.com https://assets.hcaptcha.com https://newassets.hcaptcha.com https://www.recaptcha.net https://*.ada.support https://*.adroll.com https://*.hotjar.com https://*.zoom.us https://*.zoomcloudpbx.com https://*.zoomus.cn https://*.zoom.com.cn https://*.zoom.cn https://*.zopim.com https://adroll.com https://zoom.us 'self';",
+      "img-src": [
+        "https:",
+        "about:",
+        "blob:",
+        "data:",
+        "'self'"
+      ],
+      "media-src": [
+        "*",
+        "rtmp:",
+        "blob:",
+        "data:",
+        "'self'"
+      ],
+      "object-src": [
+        "'none'"
+      ],
+      "script-src": [
+        "'unsafe-eval'",
+        "'unsafe-inline'",
+        "blob:",
+        "about:",
+        "https://ruanshi2.8686c.com",
+        "https://ajax.aspnetcdn.com/ajax/3.5/MicrosoftAjax.js",
+        "https://appsforoffice.microsoft.com",
+        "https://assets.zendesk.com",
+        "https://autocomplete.demandbase.com",
+        "https://cdn.wootric.com",
+        "https://cdncache-a.akamaihd.net",
+        "https://connect.facebook.net",
+        "https://consent.trustarc.com",
+        "https://d.adroll.mgr.consensu.org",
+        "https://googleads.g.doubleclick.net",
+        "https://pi.pardot.com",
+        "https://s.dcbap.com",
+        "https://s.ytimg.com",
+        "https://s3.amazonaws.com",
+        "https://scout-cdn.salesloft.com",
+        "https://sealserver.trustwave.com",
+        "https://secure-cdn.mplxtms.com",
+        "https://serve2.cheqzone.com",
+        "https://snap.licdn.com",
+        "https://sp.analytics.yahoo.com",
+        "https://static.zdassets.com",
+        "https://static2.sharepointonline.com",
+        "https://tag.demandbase.com",
+        "https://tpc.googlesyndication.com",
+        "https://tracking.g2crowd.com",
+        "https://trk.techtarget.com",
+        "https://www.comeet.co",
+        "https://www.dropbox.com",
+        "https://www.google-analytics.com",
+        "https://www.googleadservices.com/pagead/conversion_async.js",
+        "https://www.googletagmanager.com",
+        "https://optimize.google.com",
+        "https://tagmanager.google.com",
+        "https://google.com",
+        "https://docs.google.com",
+        "https://cse.google.com",
+        "https://maps.google.com",
+        "https://www.google.com",
+        "https://apis.google.com",
+        "https://linkedin.com",
+        "https://platform.linkedin.com",
+        "https://px.ads.linkedin.com",
+        "https://ads.linkedin.com",
+        "https://www.youtube.com",
+        "https://www.gstatic.com",
+        "https://www.gstatic.cn",
+        "https://fonts.googleapis.com",
+        "https://hcaptcha.com",
+        "https://assets.hcaptcha.com",
+        "https://newassets.hcaptcha.com",
+        "https://www.recaptcha.net",
+        "https://*.ada.support",
+        "https://*.adroll.com",
+        "https://*.hotjar.com",
+        "https://*.zoom.us",
+        "https://*.zoomcloudpbx.com",
+        "https://*.zoomus.cn",
+        "https://*.zoom.com.cn",
+        "https://*.zoom.cn",
+        "https://*.zopim.com",
+        "https://adroll.com",
+        "https://zoom.us",
+        "'self'"
+      ],
+      "style-src": [
+        "https:",
+        "safari-extension:",
+        "chrome-extension:",
+        "'unsafe-inline'",
+        "data:",
+        "'self'"
+      ],
+      "upgrade-insecure-requests": []
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000; includeSubDomains",
+      "includeSubDomains": true,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.zoom.us\n",
+  "third_parties": {
+    "fqdns": [
+      "api.company-target.com",
+      "consent-pref.trustarc.com",
+      "consent-st.trustarc.com",
+      "consent.trustarc.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "prefmgr-cookie.truste-svc.net",
+      "rollout.ada.support",
+      "static.ada.support",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.googletagmanager.com",
+      "www.gstatic.com",
+      "zoom.ada.support"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 57
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 5,
+    "trackers": [
+      "api.company-target.com",
+      "consent-st.trustarc.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com"
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "auth.wetransfer.com",
+      "expires": 1652741918.949771,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31564803.949770927,
+      "name": "did",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 94,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "s%3Av0%3Af5ef27b0-b667-11eb-a894-5d89b5947b97.5622H8CxLVJjlh4n8dAVp60e39J0Knk5%2F3VGpy64qA0"
+    },
+    {
+      "domain": "auth.wetransfer.com",
+      "expires": 1652741918.949871,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31564803.949871063,
+      "name": "did_compat",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 101,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "s%3Av0%3Af5ef27b0-b667-11eb-a894-5d89b5947b97.5622H8CxLVJjlh4n8dAVp60e39J0Knk5%2F3VGpy64qA0"
+    },
+    {
+      "domain": ".wetransfer.com",
+      "expires": 1621186134,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9019,
+      "name": "_wt_snowplowses.38f1",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 21,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "*"
+    },
+    {
+      "domain": ".wetransfer.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_wt_session",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": true,
+      "session": true,
+      "size": 297,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "bGNyR1c3VzhjRzhPTDEvRnNJSUttdW5JN0hqaFNPSmhEN3NNVkcrNnd1d3lkQ0hBME1XdWlFTWZ6WE1IS0QyMFJ6c1N6NkNLc05pY1lqV2RrZi8zZzJZSkVhY3hFLzVZNE5uRzZtZXRjWmVpVGdCYTc5U3VYVnRibWVCTHFUQjREbXBZTDBqZ1NwYlNJOHdaa0Q3eHdnPT0tLUZnSzMzSjY5MDJ1Z2xicVkwOWNTbVE9PQ%3D%3D--ac34d42af209218edad07795b8747d08adff6754"
+    },
+    {
+      "domain": ".wetransfer.com",
+      "expires": 1652720334.2767,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543219.27670002,
+      "name": "sp",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 38,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "81d33131-8205-4bf2-b4b0-6a978815ea10"
+    },
+    {
+      "domain": ".wetransfer.com",
+      "expires": 1684256334,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079219,
+      "name": "_wt_snowplowid.38f1",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 127,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "017f6a86-6400-4bc0-8686-ff38020daadd.1621184316.1.1621184334.1621184316.50105767-46c2-442f-b6f6-89a86788023e"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 4,
+    "first_party_short": 2,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://wetransfer.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 2,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 27,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 1,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 2,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 7,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 9,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 1487,
+    "window.navigator.vendor": 485,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 1,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "e0513e12b248756233d43bddab79294fa0207beb44f4f8cb5aa71733c7bebcf4",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Amazon",
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "organizationalUnitName": "Server CA 1B"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1633341600.0,
+      "not_valid_before": 1599170400.0,
+      "serial_number": 3975827570531612625497434396151912604,
+      "subject": {
+        "commonName": "wetransfer.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "max-age-too-short",
+        "missing-preload"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-256",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "true",
+      "key": "wt_fontsHaveBeenLoaded"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.wetransfer.com/",
+    "https://wetransfer.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.wetransfer.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://wetransfer.com/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/esm/runtime~application-e98869e54b7b0c127ba1.es6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/esm/application-84fb4d4a2241817fb976.es6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/esm/vendor-a9d90cca5f64dccd73d6.es6.js"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/actiefgrotesque/ActiefGrotesque_W_Regular-1f437876.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/actiefgrotesque/ActiefGrotesque_W_Medium-293e86f0.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/gt-super-wt/GT-Super-WT-Super-1b214df1.woff"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/css/application-96073c19.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/esm/runtime~locale/es-8e851882b1f594b50361.es6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/esm/locale/es-3081b2c2bfafd0d1739f.es6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/assets/advertising-4aee5180207621f94abeb04df0d9e7e52f4496bf16a55f712b2feb788c8f89f4.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d19ptbnuzhibkh.cloudfront.net/2.10.2/sp.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5WF5RH4"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://app.launchdarkly.com/sdk/goals/5b82f23280914154b163996e"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://app.launchdarkly.com/sdk/goals/5b82f23280914154b163996e"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://wetransfer.com/consent/purposes-es.json"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://prod-cdn.wetransfer.net/packs/css/application-96073c19.chunk.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/freightsans/FreightSans-Pro-Medium-1243d73c.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://prod-cdn.wetransfer.net/packs/css/application-96073c19.chunk.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/freightsans/FreightSans-Pro-Semibold-b548f89b.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://prod-cdn.wetransfer.net/packs/css/application-96073c19.chunk.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/gt-super-wt/GT-Super-WT-Regular-4aad923e.woff"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://wetransfer.com/api/graphql"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://prod-cdn.wetransfer.net/packs/css/application-96073c19.chunk.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/images/cookie-wall-art-792f76ae.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K878LCS&l=dataLayer"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://auth.wetransfer.com/authorize?audience=aud%3A%2F%2Ftransfer-api-prod.wetransfer%2F&client_id=dXWFQjiW1jxWCFG0hOVpqrk4h9vGeanc&redirect_uri=https%3A%2F%2Fwetransfer.com&scope=openid%20profile%20email&response_type=code&response_mode=web_message&state=SnZ2WVp0ZGlpUldQZFMyZ0FKcWVzaXBOMnB3MUtuUk9lcH4yZzVkR25rUg%3D%3D&nonce=ODdrQW9ZUVpOVVZBanF6RDBaVXA3M1lTYkUxR2trZW9TRWotUH43QVAzMw%3D%3D&code_challenge=vNHNbK6jUndXXfPeMkoNIO-gm6MNR1EkoG2SyNoxxGY&code_challenge_method=S256&prompt=none&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjEuMTUuMCJ9"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://prod-cdn.wetransfer.net/packs/css/application-96073c19.chunk.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prod-cdn.wetransfer.net/packs/media/actiefgrotesque/ActiefGrotesque_W_Bd-1bdd99f9.woff"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://snowplow.wetransfer.com/com.snowplowanalytics.snowplow/tp2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://wetransfer.com/api/v4/nu_subscriptions/pricing?country_code=ES&plan_tier=plus"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://snowplow.wetransfer.com/com.snowplowanalytics.snowplow/tp2"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://snowplow.wetransfer.com/com.snowplowanalytics.snowplow/tp2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://events.launchdarkly.com/events/bulk/5b82f23280914154b163996e"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 202,
+      "status_text": "Accepted",
+      "url": "https://events.launchdarkly.com/events/bulk/5b82f23280914154b163996e"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://wetransfer.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://snowplow.wetransfer.com/com.snowplowanalytics.snowplow/tp2"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://snowplow.wetransfer.com/com.snowplowanalytics.snowplow/tp2"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=15552000; includeSubDomains;",
+      "includeSubDomains": true,
+      "max-age": 15552000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.wetransfer.com\n",
+  "third_parties": {
+    "fqdns": [
+      "app.launchdarkly.com",
+      "d19ptbnuzhibkh.cloudfront.net",
+      "events.launchdarkly.com",
+      "prod-cdn.wetransfer.net",
+      "www.googletagmanager.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 22
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 10,
+    "trackers": [
+      "events.launchdarkly.com",
+      "prod-cdn.wetransfer.net",
+      "www.googletagmanager.com"
+    ]
+  }
+}

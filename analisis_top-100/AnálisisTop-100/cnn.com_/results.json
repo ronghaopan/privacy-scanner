@@ -1,0 +1,1369 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "widgets.outbrain.com",
+      "expires": 1621077290.608052,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 10803.608052015305,
+      "name": "thirdparty",
+      "path": "/nanoWidget/externals/cookie",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 13,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "yes"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "countryCode",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": true,
+      "size": 13,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "ES"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "stateCode",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": true,
+      "size": 11,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "CS"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "geoData",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": true,
+      "size": 60,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "villarreal|CS|12540|ES|EU|200|broadband|39.940|-0.130"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": 1688169600.780465,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 67103113.78046489,
+      "name": "FastAB",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 75,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0=9186,1=7717,2=2036,3=4354,4=8714,5=5147,6=1300,7=1554,8=8827,9=4678"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": 1652609688,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201,
+      "name": "psmRetryExternalIds",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 24,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "false"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": 1652609688,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201,
+      "name": "psmMetaData",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 180,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "%7B%22appId%22%3A%225e9f25a81c9d440000a83808%22%2C%22brand%22%3A%22CNN%22%2C%22environment%22%3A%22PROD%22%2C%22domain%22%3A%22.cnn.com%22%2C%22location%22%3A%22ES%22%7D"
+    },
+    {
+      "domain": "edition.cnn.com",
+      "expires": 1652609689,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543202,
+      "name": "ntv_as_us_privacy",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 21,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1---"
+    },
+    {
+      "domain": ".postrelease.com",
+      "expires": 1652609689.183015,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543202.183015108,
+      "name": "opt_out",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 8,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".scorecardresearch.com",
+      "expires": 1683281689.897271,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 62215202.89727092,
+      "name": "UID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1K0HBUZJHFTRNZ5AI77DKAg1621073690"
+    },
+    {
+      "domain": "edition.cnn.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "seenBreakingNews",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 16,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": ""
+    },
+    {
+      "domain": "edition.cnn.com",
+      "expires": 1621073990,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7503,
+      "name": "outbrain_cid_fetch",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 22,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "true"
+    },
+    {
+      "domain": "edition.cnn.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "AdFuel-Logging",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 248,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "{\"adfuel\":false,\"consent\":false,\"prebid\":false,\"a9\":false,\"proximic\":false,\"krux\":false,\"ias\":false,\"beemray\":false,\"cep\":false,\"adreview\":false,\"guid\":false,\"ivr\":false,\"maldetect\":false,\"spblocking\":false,\"bt\":false,\"transid\":false}"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": 1652609690,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203,
+      "name": "OptanonConsent",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 519,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "isIABGlobal=false&datestamp=Sat+May+15+2021+12%3A14%3A50+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.12.0&hosts=&consentId=ae6a18e8-ebea-440f-8b5d-f41cdfd6f85c&interactionCount=0&landingPath=https%3A%2F%2Fedition.cnn.com%2F&groups=dsa%3A1%2Cpad%3A1%2Cpap%3A1%2Cpcd%3A1%2Cpcp%3A1%2Cmcp%3A1%2Cmra%3A1%2Cpdd%3A1%2Ccad%3A1%2Cmap%3A1%2Csec%3A1%2Ctdc%3A1%2Ccos%3A1%2Cdlk%3A1%2Cdid%3A1%2Creq%3A1%2Csm%3A1%2Cpz%3A1%2Cpzv%3A1%2Cpfv%3A1%2Csav%3A1%2Csa%3A1%2Csmv%3A1%2Cadv%3A1%2Cpf%3A1%2Cad%3A1%2Cven%3A1"
+    },
+    {
+      "domain": ".cnn.com",
+      "expires": 1652609691,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543204,
+      "name": "OptanonControl",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 85,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "ccc=ES&csc=CS&cic=0&otvers=6.12.0&pctm=0&reg=gdpr&ustcs=1---&vers=3.1.4"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 6,
+    "first_party_short": 6,
+    "third_party_long": 2,
+    "third_party_short": 1,
+    "trackers": [
+      "outbrain.com",
+      "postrelease.com",
+      "scorecardresearch.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://edition.cnn.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 6,
+    "window.appVersion": 1,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 2,
+    "window.indexDB": 1,
+    "window.language": 1,
+    "window.mimeTypes": 1,
+    "window.platform": 6,
+    "window.plugins": 1,
+    "window.screen.colorDepth": 1,
+    "window.screen.pixelDepth": 1,
+    "window.useragent": 118
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "4e0e85e86fbd1daa46e58150ea0eb912bbdf48ec25a6276b532e1a840f2586b7",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "GlobalSign Atlas R3 DV TLS CA 2020",
+        "countryName": "BE",
+        "organizationName": "GlobalSign nv-sa"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1653239406.0,
+      "not_valid_before": 1618938607.0,
+      "serial_number": 2626175353694128428282266008980148684,
+      "subject": {
+        "commonName": "*.api.cnn.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://edition.cnn.com/about",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.12.3"
+  },
+  "local_storage": [
+    {
+      "content": "{\"value\":[\"AX\",\"AT\",\"BE\",\"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FO\",\"FI\",\"FR\",\"GF\",\"DE\",\"GI\",\"GR\",\"HU\",\"IE\",\"IM\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\",\"GB\"],\"expiresAt\":1621160090870}",
+      "key": "connect-grouping_EU"
+    },
+    {
+      "content": "false",
+      "key": "OB-AD-BLOCKER-WL-STAT"
+    },
+    {
+      "content": "{\"value\":\"ES\",\"expiresAt\":1621160090456}",
+      "key": "connect-location"
+    },
+    {
+      "content": "1---",
+      "key": "OB-CCPA"
+    },
+    {
+      "content": "0",
+      "key": "OB-FDE"
+    },
+    {
+      "content": "{\"url\":\"https%3A%2F%2Fedition.cnn.com\",\"previousRequestTime\":1621073690594}",
+      "key": "OB-lastPageViewInfo"
+    },
+    {
+      "content": "CPGPDcHPGPDcHAcABBENBaCgAAAAAE_AAChQAAAMsgMQAKAAuAEAAQgAyABoAEWAJgAmgBQAC2AIQAR0AowClAFaAQAAhABFgCxAF1AMCAdUBJwC0QF5gMZAZYAeFADgAKACgAFsAVoBCAFogMZCABQAGgBJACcATsAsQaAEAQAA6oiAEAQAA6ooAGAA0AwIB-hYAMAUgArQFojQAQApABWjwBAACgAmgBQAC2AKQAVoC0QGMjgA4ADQAkgBOAJ2AUkA_QCICAAMABoBSQD9EQAYATQBSACtJAAwAGgGBAP0TACgBNACgAKQAVoDGSgAcABoASQCEAE7AMCAfoBGpUAKAE0AKAApABWgMZAA.YAAACfgAAAAA",
+      "key": "OB-CNSNT-2"
+    },
+    {
+      "content": "{}",
+      "key": "ntvSession"
+    },
+    {
+      "content": "false",
+      "key": "OB-AD-BLOCKER-STAT"
+    },
+    {
+      "content": "[{\"flagId\":\"getSetConsentState\",\"flagName\":\"FALLBACK_getSetConsentState\",\"enabled\":true,\"updatedSinceLastQuery\":true,\"warnings\":[{\"code\":\"MULTIPLE_INSTANCES_SUPPORT\",\"message\":\"A clientId must be provided for multiple instance support.\"}]},{\"flagId\":\"telemetry\",\"flagName\":\"FALLBACK_telemetry\",\"enabled\":true,\"updatedSinceLastQuery\":true,\"warnings\":[{\"code\":\"MULTIPLE_INSTANCES_SUPPORT\",\"message\":\"A clientId must be provided for multiple instance support.\"}]},{\"flagId\":\"WMUKID\",\"flagName\":\"FALLBACK_WMUKID\",\"enabled\":true,\"updatedSinceLastQuery\":true,\"warnings\":[{\"code\":\"MULTIPLE_INSTANCES_SUPPORT\",\"message\":\"A clientId must be provided for multiple instance support.\"}]}]",
+      "key": "wmFeatureFlagResults"
+    },
+    {
+      "content": "{\"firstViewOfCurrentVisit\":1621073689359,\"segment\":\"cold\",\"totalVisits\":1,\"visits\":[1621073689359],\"lastView\":1621073689359}",
+      "key": "visitor"
+    },
+    {
+      "content": "{\"value\":4,\"expiry\":1621332890933}",
+      "key": "OB-TPCS"
+    },
+    {
+      "content": "{\"featureFlagLibraryVersion\":\"0.1\",\"flags\":[{\"defaultValue\":false,\"id\":\"aaTest1\",\"cohorts\":[{\"cohortId\":0,\"cohortPriority\":0,\"stickinessProperty\":\"ffUserId\",\"rolloutValue\":50}],\"name\":\"aaTest1\",\"type\":\"boolean\",\"workspaceId\":10},{\"defaultValue\":false,\"id\":\"BDSDK\",\"cohorts\":[{\"cohortCriteria\":[{\"cohortCriteriaId\":0,\"requiredFieldValues\":[\"Bleacher Report\"],\"requiredFieldName\":\"Brand\"},{\"cohortCriteriaId\":1,\"requiredFieldValues\":[\"Android\"],\"requiredFieldName\":\"Platform\"}],\"cohortId\":0,\"cohortPriority\":0,\"stickinessProperty\":\"ffUserId\",\"rolloutValue\":100},{\"cohortCriteria\":[{\"cohortCriteriaId\":0,\"requiredFieldValues\":[\"Bleacher Report\"],\"requiredFieldName\":\"Brand\"},{\"cohortCriteriaId\":1,\"requiredFieldValues\":[\"iOS\"],\"requiredFieldName\":\"Platform\"}],\"cohortId\":1,\"cohortPriority\":1,\"stickinessProperty\":\"ffUserId\",\"rolloutValue\":100}],\"name\":\"BDSDK\",\"type\":\"boolean\",\"workspaceId\":10},{\"defaultValue\":true,\"id\":\"WMUKID\",\"cohorts\":[{\"cohortId\":0,\"cohortPriority\":0,\"stickinessProperty\":\"ffUserId\",\"rolloutValue\":100}],\"name\":\"WMUKID\",\"type\":\"boolean\",\"workspaceId\":10},{\"defaultValue\":true,\"id\":\"telemetry\",\"cohorts\":[{\"cohortCriteria\":[{\"cohortCriteriaId\":0,\"requiredFieldValues\":[\"Bleacher Report\",\"CNN\",\"tcm\",\"hbo\",\"tbs\",\"tnt\",\"trutv\",\"eleague\"],\"requiredFieldName\":\"brand\"},{\"cohortCriteriaId\":1,\"requiredFieldValues\":[\"web\"],\"requiredFieldName\":\"platform\"}],\"cohortId\":0,\"cohortPriority\":0,\"stickinessProperty\":\"ffUserId\",\"rolloutValue\":0},{\"cohortCriteria\":[{\"cohortCriteriaId\":0,\"requiredFieldValues\":[\"Bleacher Report\"],\"requiredFieldName\":\"brand\"},{\"cohortCriteriaId\":1,\"requiredFieldValues\":[\"iOS\",\"Android\",\"Android TV\",\"tvOS\",\"Fire TV\",\"Apple TVOS\"],\"requiredFieldName\":\"platform\"}],\"cohortId\":1,\"cohortPriority\":1,\"stickinessProperty\":\"ffUserId\",\"rolloutValue\":100}],\"name\":\"telemetry\",\"type\":\"boolean\",\"workspaceId\":10},{\"defaultValue\":true,\"id\":\"getSetConsentState\",\"cohorts\":[{\"cohortId\":0,\"cohortPriority\":0,\"stickinessProperty\":\"ffUserId\",\"rolloutValue\":100}],\"name\":\"getSetConsentState\",\"type\":\"boolean\",\"workspaceId\":10}]}",
+      "key": "wmFeatureFlagConfig"
+    },
+    {
+      "content": "1621073688157",
+      "key": "wmConfigCacheStart"
+    },
+    {
+      "content": "true",
+      "key": "com.adobe.reactor.dataElementCookiesMigrated"
+    },
+    {
+      "content": "542013fe-78e4-4818-ab72-13d18dfa6736",
+      "key": "wmFeatureFlagUserId"
+    },
+    {
+      "content": "{\"mapping\":{\"IAB1-1\":{\"id\":404,\"name\":\"Publishing\"},\"IAB1-2\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB1-5\":{\"id\":419,\"name\":\"Filmed Entertainment\"},\"IAB1-6\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB1-7\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB2-1\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-2\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-3\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-4\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-5\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-6\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-7\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-8\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-9\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-10\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-11\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-12\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-13\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-14\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-15\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-16\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-17\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-18\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-19\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-20\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-21\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-22\":{\"id\":399,\"name\":\"Automotive\"},\"IAB2-23\":{\"id\":399,\"name\":\"Automotive\"},\"IAB3-1\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-2\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-3\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-4\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB3-5\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-6\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-7\":{\"id\":398,\"name\":\"Government/Municipal\"},\"IAB3-8\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-9\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-10\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-11\":{\"id\":393,\"name\":\"Business Services\"},\"IAB3-12\":{\"id\":393,\"name\":\"Business Services\"},\"IAB4-1\":{\"id\":393,\"name\":\"Business Services\"},\"IAB4-2\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB4-3\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB4-4\":{\"id\":393,\"name\":\"Business Services\"},\"IAB4-5\":{\"id\":393,\"name\":\"Business Services\"},\"IAB4-6\":{\"id\":393,\"name\":\"Business Services\"},\"IAB4-7\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB4-8\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB4-9\":{\"id\":417,\"name\":\"Telecommunications\"},\"IAB4-10\":{\"id\":429,\"name\":\"Military\"},\"IAB4-11\":{\"id\":393,\"name\":\"Business Services\"},\"IAB5-1\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-2\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-3\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-4\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-5\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-6\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-7\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-8\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-9\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-10\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-11\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-12\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-13\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-14\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB5-15\":{\"id\":405,\"name\":\"Educational Services\"},\"IAB7-1\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-2\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-3\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-4\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-5\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-6\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-7\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-8\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-9\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-10\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-11\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-12\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-13\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-14\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-15\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-16\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-17\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-18\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-19\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-20\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-21\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-22\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-23\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-24\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-25\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-26\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-27\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-28\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-29\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-30\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-31\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-32\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-33\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-34\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-35\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-36\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-37\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-38\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-39\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-40\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-41\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-42\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-43\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-44\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB7-45\":{\"id\":406,\"name\":\"Health Care Services\"},\"IAB8-1\":{\"id\":394,\"name\":\"Food\"},\"IAB8-2\":{\"id\":394,\"name\":\"Food\"},\"IAB8-3\":{\"id\":394,\"name\":\"Food\"},\"IAB8-4\":{\"id\":394,\"name\":\"Food\"},\"IAB8-5\":{\"id\":400,\"name\":\"Beer/Wine/Liquor\"},\"IAB8-6\":{\"id\":401,\"name\":\"Beverages\"},\"IAB8-7\":{\"id\":394,\"name\":\"Food\"},\"IAB8-8\":{\"id\":394,\"name\":\"Food\"},\"IAB8-9\":{\"id\":407,\"name\":\"Restaurant/Fast Food\"},\"IAB8-10\":{\"id\":394,\"name\":\"Food\"},\"IAB8-11\":{\"id\":394,\"name\":\"Food\"},\"IAB8-12\":{\"id\":394,\"name\":\"Food\"},\"IAB8-13\":{\"id\":394,\"name\":\"Food\"},\"IAB8-14\":{\"id\":394,\"name\":\"Food\"},\"IAB8-15\":{\"id\":394,\"name\":\"Food\"},\"IAB8-16\":{\"id\":394,\"name\":\"Food\"},\"IAB8-17\":{\"id\":394,\"name\":\"Food\"},\"IAB8-18\":{\"id\":400,\"name\":\"Beer/Wine/Liquor\"},\"IAB9-1\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB9-3\":{\"id\":418,\"name\":\"Jewelry\"},\"IAB9-5\":{\"id\":413,\"name\":\"Gaming\"},\"IAB9-6\":{\"id\":412,\"name\":\"Household Products\"},\"IAB9-9\":{\"id\":426,\"name\":\"Tobacco\"},\"IAB9-11\":{\"id\":404,\"name\":\"Publishing\"},\"IAB9-15\":{\"id\":404,\"name\":\"Publishing\"},\"IAB9-16\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB9-18\":{\"id\":393,\"name\":\"Business Services\"},\"IAB9-19\":{\"id\":418,\"name\":\"Jewelry\"},\"IAB9-23\":{\"id\":424,\"name\":\"Photographic Equipment\"},\"IAB9-24\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB9-25\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB9-30\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB10-1\":{\"id\":415,\"name\":\"Appliances\"},\"IAB10-5\":{\"id\":434,\"name\":\"Home Furnishings\"},\"IAB10-6\":{\"id\":434,\"name\":\"Home Furnishings\"},\"IAB10-7\":{\"id\":434,\"name\":\"Home Furnishings\"},\"IAB10-8\":{\"id\":393,\"name\":\"Business Services\"},\"IAB10-9\":{\"id\":434,\"name\":\"Home Furnishings\"},\"IAB11-1\":{\"id\":398,\"name\":\"Government/Municipal\"},\"IAB11-2\":{\"id\":398,\"name\":\"Government/Municipal\"},\"IAB11-3\":{\"id\":398,\"name\":\"Government/Municipal\"},\"IAB11-4\":{\"id\":398,\"name\":\"Government/Municipal\"},\"IAB11-5\":{\"id\":398,\"name\":\"Government/Municipal\"},\"IAB12-1\":{\"id\":438,\"name\":\"News\"},\"IAB12-2\":{\"id\":438,\"name\":\"News\"},\"IAB12-3\":{\"id\":438,\"name\":\"News\"},\"IAB13-1\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-2\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-3\":{\"id\":438,\"name\":\"News\"},\"IAB13-4\":{\"id\":391,\"name\":\"Financial Services\"},\"IAB13-5\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-6\":{\"id\":436,\"name\":\"Insurance\"},\"IAB13-7\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-8\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-9\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-10\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-11\":{\"id\":393,\"name\":\"Business Services\"},\"IAB13-12\":{\"id\":393,\"name\":\"Business Services\"},\"IAB16-1\":{\"id\":423,\"name\":\"Pet Food/Supplies\"},\"IAB16-2\":{\"id\":423,\"name\":\"Pet Food/Supplies\"},\"IAB16-3\":{\"id\":423,\"name\":\"Pet Food/Supplies\"},\"IAB16-4\":{\"id\":423,\"name\":\"Pet Food/Supplies\"},\"IAB16-5\":{\"id\":423,\"name\":\"Pet Food/Supplies\"},\"IAB16-6\":{\"id\":423,\"name\":\"Pet Food/Supplies\"},\"IAB16-7\":{\"id\":423,\"name\":\"Pet Food/Supplies\"},\"IAB17-1\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-2\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-3\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-4\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-5\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-6\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-7\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-8\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-9\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-10\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-11\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-12\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-13\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-14\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-15\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-16\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-17\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-18\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-19\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-20\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-21\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-22\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-23\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-24\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-25\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-26\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-27\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-28\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-29\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-30\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-31\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-32\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-33\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-34\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-35\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-36\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-37\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-38\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-39\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-40\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-41\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-42\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-43\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB17-44\":{\"id\":425,\"name\":\"Professional Sports\"},\"IAB18-1\":{\"id\":411,\"name\":\"Cosmetics/Toiletries\"},\"IAB18-2\":{\"id\":397,\"name\":\"Apparel\"},\"IAB18-3\":{\"id\":397,\"name\":\"Apparel\"},\"IAB18-4\":{\"id\":418,\"name\":\"Jewelry\"},\"IAB18-5\":{\"id\":397,\"name\":\"Apparel\"},\"IAB18-6\":{\"id\":397,\"name\":\"Apparel\"},\"IAB19-2\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-3\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-4\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-5\":{\"id\":424,\"name\":\"Photographic Equipment\"},\"IAB19-6\":{\"id\":417,\"name\":\"Telecommunications\"},\"IAB19-7\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-8\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-9\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-10\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-11\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-12\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-13\":{\"id\":404,\"name\":\"Publishing\"},\"IAB19-14\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-15\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-16\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-17\":{\"id\":419,\"name\":\"Filmed Entertainment\"},\"IAB19-18\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-19\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-20\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-21\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-22\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-23\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-24\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-25\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-26\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-27\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-28\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-29\":{\"id\":392,\"name\":\"Entertainment\"},\"IAB19-30\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-31\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-32\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-33\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-34\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-35\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB19-36\":{\"id\":409,\"name\":\"Computing Product\"},\"IAB20-1\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-2\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-3\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-4\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-5\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-6\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-7\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-8\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-9\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-10\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-11\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-12\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-13\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-14\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-15\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-16\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-17\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-18\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-19\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-20\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-21\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-22\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-23\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-24\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-25\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-26\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB20-27\":{\"id\":395,\"name\":\"Travel/Hotels/Airlines\"},\"IAB21-1\":{\"id\":416,\"name\":\"Real Estate\"},\"IAB21-2\":{\"id\":416,\"name\":\"Real Estate\"},\"IAB21-3\":{\"id\":416,\"name\":\"Real Estate\"},\"IAB22-1\":{\"id\":403,\"name\":\"Retail Stores/Chains\"},\"IAB22-2\":{\"id\":403,\"name\":\"Retail Stores/Chains\"},\"IAB22-3\":{\"id\":403,\"name\":\"Retail Stores/Chains\"}},\"lastUpdated\":1621073688566}",
+      "key": "iabToFwMappingkey"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.cnn.com/",
+    "https://edition.cnn.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cnn.com/ads/cnni/cnni_homepage.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.a/bundles/header.50fca13373e6f6c6aff6.bundle.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/tag/js/gpt.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://c.amazon-adsystem.com/aax2/apstag.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.a/2.260.3/js/cnn-header-second-react.min.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/optimizelyjs/128727546.js"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-regular.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-lightit.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-italic.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/fonts/icons/2.4.10/cnn-icons.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-medium.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-bold.woff2"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/launch-2878c87af5e3.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.a/2.260.3/js/cnn-footer-lib-react.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://amplify.outbrain.com/cp/obtp.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://wmff.warnermediacdn.com/psm_prod_full.json?version=1"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geo.ngtv.io/locate"
+    },
+    {
+      "mime_type": "app/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://wmff.warnermediacdn.com/psm_prod_full.json?version=1"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geo.ngtv.io/locate"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://a.postrelease.com/serve/load.js?async=true"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/3d9a6f21-8e47-43f8-8d58-d86150f3e92b.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.jsdelivr.net/gh/prebid/category-mapping-file@1/freewheel-mapping.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://jadserve.postrelease.com/t?ntv_url=https%3A%2F%2Fedition.cnn.com%2F&ntv_mvi&us_privacy=1---"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tag.bounceexchange.com/340/i.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://get.s-onetag.com/c15ddde9-ec7d-4a49-b8ca-7a21bc4b943b/tag.min.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/data/ocs/section/_intl-homepage-zone-injection/index.html:intl_homepage-injection-zone-1/views/zones/common/zone-manager.izl"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/data/ocs/section/index.html:intl_homepage1-zone-1/views/zones/common/zone-manager.izl"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/data/ocs/section/_intl-homepage-zone-injection/index.html:intl_homepage-injection-zone-2/views/zones/common/zone-manager.izl"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/data/ocs/section/index.html:intl_homepage1-zone-2/views/zones/common/zone-manager.izl"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/data/ocs/section/_intl-homepage-zone-injection/index.html:intl_homepage-injection-zone-3/views/zones/common/zone-manager.izl"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/data/ocs/section/index.html:intl_homepage1-zone-3/views/zones/common/zone-manager.izl"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.asset/2.260.3/js/chunks/0-52d06430eff486aa7302.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.asset/2.260.3/js/chunks/1-52d06430eff486aa7302.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.asset/2.260.3/js/chunks/2-52d06430eff486aa7302.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.asset/2.260.3/js/chunks/3-52d06430eff486aa7302.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.asset/2.260.3/js/chunks/43-52d06430eff486aa7302.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.asset/2.260.3/js/chunks/51-52d06430eff486aa7302.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/.asset/2.260.3/js/chunks/49-52d06430eff486aa7302.min.js"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://telemetry.api.wmcdp.io/v1/tel"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 201,
+      "status_text": "",
+      "url": "https://telemetry.api.wmcdp.io/v1/tel"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/2e8e7ccefbf0/EX1d194815a3a24f70a72344c972c1a2fa-libraryCode_source.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://s.cdn.turner.com/analytics/comscore/streamsense.5.2.0.160629.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/beacon.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tr.outbrain.com/cachedClickId?marketerId=00b2d6c56fc76084821b9d05abf2f201d9"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tr.outbrain.com/unifiedPixel?marketerId=00b2d6c56fc76084821b9d05abf2f201d9&obApiVersion=1.0&obtpVersion=1.4.1&name=PAGE_VIEW&dl=https%3A%2F%2Fedition.cnn.com%2F&optOut=false&bust=06789676137230845"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/2.260.3/assets/video_buffer_square_blk.gif"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/bundles/one_tap.ea7c4b8b62272d1f3b73.bundle.js"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-light.woff2"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/bundles/listexpandable.ebc953f5bd145bb56fbb.bundle.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.i.cdn.cnn.com/.a/bundles/animations.c8278bce5b4a31b4aab7.bundle.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://widgets.outbrain.com/outbrain.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edition.cnn.com/data/ocs/container/coverageContainer_94666ABA-6F11-0405-F645-CF22729BC16F:list-hierarchical-horizontal-simple/views/containers/common/container-manager.html"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cnn.com/cnn/.e1mo/img/4.0/placeholders/video_placeholder.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cnn.com/cnnnext/dam/assets/210513045004-03-seychelles-covid-restricted-exlarge-tease.jpg"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/bf258aac-245a-4988-ad6d-a12bde690527/es.json"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/vendorlist/iab2Data.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/otTCF.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_bc4c4c3a416dc7427e53bee66298b091.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://onetag-geo.s-onetag.com/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://signal-beacon.s-onetag.com/cnn-beacon.min.js?affiliateId=276894"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://data.cnn.com/breaking_news/international.json"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/b?c1=2&c2=6035748&cs_ucfr=0&ns__t=1621073689857&ns_c=UTF-8&cv=3.5&c8=CNN%20International%20-%20Breaking%20News%2C%20US%20News%2C%20World%20News%20and%20Video&c7=https%3A%2F%2Fedition.cnn.com%2F&c9="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=6035748&cs_ucfr=0&ns__t=1621073689857&ns_c=UTF-8&cv=3.5&c8=CNN%20International%20-%20Breaking%20News%2C%20US%20News%2C%20World%20News%20and%20Video&c7=https%3A%2F%2Fedition.cnn.com%2F&c9="
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://dynaimage.cdn.cnn.com/cnn/animations/w_362/210415111924-desktop-film-school-libyan-rally-6.mp4"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://widgets.outbrain.com/nanoWidget/externals/cookie/put.html"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tcheck.outbrainimg.com/tcheck/check/ZWRpdGlvbi5jbm4uY29t"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://widget-pixels.outbrain.com/widget/detect/px.gif?ch=1&rn=7.721295615198033"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 201,
+      "status_text": "",
+      "url": "https://telemetry.api.wmcdp.io/v1/tel"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 201,
+      "status_text": "",
+      "url": "https://telemetry.api.wmcdp.io/v1/tel"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otFlat.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otPcCenter.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otCookieSettingsButton.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://onetag-geo-grouping.s-onetag.com/regionalbloc/EU"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://log.outbrainimg.com/loggerServices/dwce_cheq_events?timestamp=1621073690509&sessionId=86aa8d36-99b3-fa26-a014-4941611ea26c&url=edition.cnn.com&cheqSource=1&cheqEvent=0&exitReason=2"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cnn.com/ads/adfuel/modules/keypress.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d2uap9jskdzp2.cloudfront.net/script.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://odb.outbrain.com/utils/get?url=https%3A%2F%2Fedition.cnn.com&idx=0&rand=1678&key=NANOWDGT01&widgetJSId=TR_1&va=true&et=true&format=html&pdobuid=-1&adblck=false&abwl=false&px=0&py=5436&vpd=4836&cw=785&settings=true&recs=true&version=2000347&sig=f8dNTN66&apv=false&osLang=es-ES&winW=785&winH=600&scrW=800&scrH=600&dpr=1&secured=true&cnsntv2=CPGPDcHPGPDcHAcABBENBaCgAAAAAE_AAChQAAAMsgMQAKAAuAEAAQgAyABoAEWAJgAmgBQAC2AIQAR0AowClAFaAQAAhABFgCxAF1AMCAdUBJwC0QF5gMZAZYAeFADgAKACgAFsAVoBCAFogMZCABQAGgBJACcATsAsQaAEAQAA6oiAEAQAA6ooAGAA0AwIB-hYAMAUgArQFojQAQApABWjwBAACgAmgBQAC2AKQAVoC0QGMjgA4ADQAkgBOAJ2AUkA_QCICAAMABoBSQD9EQAYATQBSACtJAAwAGgGBAP0TACgBNACgAKQAVoDGSgAcABoASQCEAE7AMCAfoBGpUAKAE0AKAApABWgMZAA.YAAACfgAAAAA&cmpStat=1&ccpa=1---&ccpaStat=1&wdr-natlaz=true"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://widgets.outbrain.com/nanoWidget/externals/cookie/put.html",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://widgets.outbrain.com/nanoWidget/externals/cookie/test.html"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://mcdp-chidc2.outbrain.com/l?token=830b1031728c612a2c21dbb476dc091d_235_1621073690771&tm=655&eT=6&wRV=2000347&pVis=0&lsd=-1&eIdx=&ccpa=1---&cnsntV2=CPGPDcHPGPDcHAcABBENBaCgAAAAAE_AAChQAAAMsgMQAKAAuAEAAQgAyABoAEWAJgAmgBQAC2AIQAR0AowClAFaAQAAhABFgCxAF1AMCAdUBJwC0QF5gMZAZYAeFADgAKACgAFsAVoBCAFogMZCABQAGgBJACcATsAsQaAEAQAA6oiAEAQAA6ooAGAA0AwIB-hYAMAUgArQFojQAQApABWjwBAACgAmgBQAC2AKQAVoC0QGMjgA4ADQAkgBOAJ2AUkA_QCICAAMABoBSQD9EQAYATQBSACtJAAwAGgGBAP0TACgBNACgAKQAVoDGSgAcABoASQCEAE7AMCAfoBGpUAKAE0AKAApABWgMZAA.YAAACfgAAAAA&cheq=0&ab=0&wl=0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://i.clean.gg/1a"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.clean.gg/1a"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514155826-19-israeli-palestinian-tensions-0514-large-tease.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cnn.com/cnnnext/dam/assets/210511094200-06-global-real-estate-prices-winchester-2021-large-tease.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://events.bouncex.net/track.gif/bx_suppress?reason=iab_cmp&websiteid=340&source=web&agent=user"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://signal-metrics-collector-beta.s-onetag.com/metrics"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://edition.cnn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect-metrics-collector.s-onetag.com/metrics"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Content-Security-Policy": {
+      "child-src": [
+        "'self'",
+        "blob:",
+        "*"
+      ],
+      "connect-src": [
+        "'self'",
+        "*"
+      ],
+      "default-src": [
+        "'self'",
+        "blob:",
+        "https://*.cnn.com:*",
+        "http://*.cnn.com:*",
+        "*.cnn.io:*",
+        "*.cnn.net:*",
+        "*.turner.com:*",
+        "*.turner.io:*",
+        "*.ugdturner.com:*",
+        "courageousstudio.com",
+        "*.vgtf.net:*"
+      ],
+      "font-src": [
+        "'self'",
+        "data:",
+        "*"
+      ],
+      "frame-ancestors": [
+        "'self'",
+        "https://*.cnn.com:*",
+        "http://*.cnn.com:*",
+        "https://*.cnn.io:*",
+        "http://*.cnn.io:*",
+        "*.turner.com:*",
+        "courageousstudio.com"
+      ],
+      "frame-src": [
+        "'self'",
+        "*"
+      ],
+      "header_value": "default-src 'self' blob: https://*.cnn.com:* http://*.cnn.com:* *.cnn.io:* *.cnn.net:* *.turner.com:* *.turner.io:* *.ugdturner.com:* courageousstudio.com *.vgtf.net:*; script-src 'unsafe-eval' 'unsafe-inline' 'self' *; style-src 'unsafe-inline' 'self' blob: *; child-src 'self' blob: *; frame-src 'self' *; object-src 'self' *; img-src 'self' data: blob: *; media-src 'self' data: blob: *; font-src 'self' data: *; connect-src 'self' *; frame-ancestors 'self' https://*.cnn.com:* http://*.cnn.com:* https://*.cnn.io:* http://*.cnn.io:* *.turner.com:* courageousstudio.com;",
+      "img-src": [
+        "'self'",
+        "data:",
+        "blob:",
+        "*"
+      ],
+      "media-src": [
+        "'self'",
+        "data:",
+        "blob:",
+        "*"
+      ],
+      "object-src": [
+        "'self'",
+        "*"
+      ],
+      "script-src": [
+        "'unsafe-eval'",
+        "'unsafe-inline'",
+        "'self'",
+        "*"
+      ],
+      "style-src": [
+        "'unsafe-inline'",
+        "'self'",
+        "blob:",
+        "*"
+      ]
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": null,
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": null,
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "1",
+      "key": "zoneView"
+    },
+    {
+      "content": "[{\"flagId\":\"getSetConsentState\",\"flagName\":\"FALLBACK_getSetConsentState\",\"enabled\":true,\"updatedSinceLastQuery\":true,\"warnings\":[{\"code\":\"MULTIPLE_INSTANCES_SUPPORT\",\"message\":\"A clientId must be provided for multiple instance support.\"}]},{\"flagId\":\"telemetry\",\"flagName\":\"FALLBACK_telemetry\",\"enabled\":true,\"updatedSinceLastQuery\":true,\"warnings\":[{\"code\":\"MULTIPLE_INSTANCES_SUPPORT\",\"message\":\"A clientId must be provided for multiple instance support.\"}]},{\"flagId\":\"WMUKID\",\"flagName\":\"FALLBACK_WMUKID\",\"enabled\":true,\"updatedSinceLastQuery\":true,\"warnings\":[{\"code\":\"MULTIPLE_INSTANCES_SUPPORT\",\"message\":\"A clientId must be provided for multiple instance support.\"}]}]",
+      "key": "psmFeatureFlags"
+    },
+    {
+      "content": "{\"cookieDomain\":\".cnn.com\",\"countryCode\":\"ES\",\"domId\":\"3d9a6f21-8e47-43f8-8d58-d86150f3e92b\",\"enableDebug\":false,\"langFromBrowser\":true,\"parentReload\":true,\"regId\":\"gdpr\",\"src\":\"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js\",\"stateCode\":\"CS\"}",
+      "key": "_ucWMConf"
+    },
+    {
+      "content": "1621073688168",
+      "key": "cnnLT"
+    },
+    {
+      "content": "247",
+      "key": "cnnST"
+    },
+    {
+      "content": "{\"consentState\":{\"required\":true,\"vendor\":true,\"data-store\":false,\"ads-contextual\":false,\"ads-person-prof\":false,\"ads-person\":false,\"content-person-prof\":false,\"content-person\":false,\"measure-ads\":false,\"measure-content\":false,\"measure-market\":false,\"product-develop\":false,\"product-security\":true,\"deliver-content\":true,\"combine-data\":false,\"link-devices\":false,\"id-devices\":false,\"geolocate\":false,\"scan-devices\":false},\"consentTime\":null,\"consentVersion\":\"\",\"iabIsGlobal\":false}",
+      "key": "_ucWMCons"
+    },
+    {
+      "content": "/",
+      "key": "cnnLP"
+    }
+  ],
+  "site_url": "https://www.cnn.com\n",
+  "third_parties": {
+    "fqdns": [
+      "a.postrelease.com",
+      "amplify.outbrain.com",
+      "assets.bounceexchange.com",
+      "c.amazon-adsystem.com",
+      "cdn.cookielaw.org",
+      "cdn.jsdelivr.net",
+      "connect-metrics-collector.s-onetag.com",
+      "d2uap9jskdzp2.cloudfront.net",
+      "events.bouncex.net",
+      "geo.ngtv.io",
+      "get.s-onetag.com",
+      "i.clean.gg",
+      "jadserve.postrelease.com",
+      "log.outbrainimg.com",
+      "mcdp-chidc2.outbrain.com",
+      "odb.outbrain.com",
+      "onetag-geo-grouping.s-onetag.com",
+      "onetag-geo.s-onetag.com",
+      "s.cdn.turner.com",
+      "sb.scorecardresearch.com",
+      "signal-beacon.s-onetag.com",
+      "signal-metrics-collector-beta.s-onetag.com",
+      "tag.bounceexchange.com",
+      "tcheck.outbrainimg.com",
+      "telemetry.api.wmcdp.io",
+      "tr.outbrain.com",
+      "widget-pixels.outbrain.com",
+      "widgets.outbrain.com",
+      "wmff.warnermediacdn.com",
+      "www.googletagservices.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 49
+  },
+  "tracking": {
+    "num_tracker_cookies": 3,
+    "num_tracker_requests": 45,
+    "trackers": [
+      "a.postrelease.com",
+      "amplify.outbrain.com",
+      "assets.bounceexchange.com",
+      "c.amazon-adsystem.com",
+      "cdn.cookielaw.org",
+      "cdn.jsdelivr.net",
+      "connect-metrics-collector.s-onetag.com",
+      "d2uap9jskdzp2.cloudfront.net",
+      "events.bouncex.net",
+      "geo.ngtv.io",
+      "get.s-onetag.com",
+      "i.clean.gg",
+      "jadserve.postrelease.com",
+      "log.outbrainimg.com",
+      "mcdp-chidc2.outbrain.com",
+      "odb.outbrain.com",
+      "onetag-geo-grouping.s-onetag.com",
+      "onetag-geo.s-onetag.com",
+      "s.cdn.turner.com",
+      "sb.scorecardresearch.com",
+      "signal-beacon.s-onetag.com",
+      "signal-metrics-collector-beta.s-onetag.com",
+      "tag.bounceexchange.com",
+      "tcheck.outbrainimg.com",
+      "telemetry.api.wmcdp.io",
+      "widget-pixels.outbrain.com",
+      "widgets.outbrain.com",
+      "www.googletagservices.com"
+    ]
+  }
+}

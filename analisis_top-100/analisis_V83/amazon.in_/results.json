@@ -1,0 +1,4166 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".amazon.in",
+      "expires": 1652714316.764062,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203.764061928,
+      "name": "session-id",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 29,
+      "value": "261-2517981-2843266"
+    },
+    {
+      "domain": ".amazon.in",
+      "expires": 1652714316.761743,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203.76174307,
+      "name": "i18n-prefs",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 13,
+      "value": "INR"
+    },
+    {
+      "domain": ".amazon.in",
+      "expires": 1652714316.763958,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203.763957977,
+      "name": "ubid-acbin",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 29,
+      "value": "257-8298748-8854367"
+    },
+    {
+      "domain": "www.amazon.in",
+      "expires": 1651418315,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 30247202,
+      "name": "csm-hit",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 75,
+      "value": "tb:s-ZPZ7HMKAZ460BT3DJVXT|1621178314141&t:1621178315747&adb:adblk_no"
+    },
+    {
+      "domain": ".amazon.in",
+      "expires": 1652714316.761711,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203.761710882,
+      "name": "session-token",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 269,
+      "value": "oxt3mBPsFs9F6FLk/Af5LGZN8JKXVaUkKUKpijK+26nEpj7ntr/ls+ceFHt+pPyJOuMnD87k8hMPPAd4p4u68e50nKZbl67ukdONFKFgRQYPNhBnt9VvbQbgHahc1Bp/t4B8yz8vidAQ3EvfOfD0LjKnF3iOykR0JCAYabeWjHNEUAQzzJKOPJHDxrF2YwmweF5E0h5NC11SjxE3JSck6Weii2rLup9fiR2HGxNyR8qaA17+qBS13NFXQSNM9qnX"
+    },
+    {
+      "domain": ".amazon.in",
+      "expires": 1652714316.764032,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203.764031887,
+      "name": "session-id-time",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 26,
+      "value": "2082758401l"
+    },
+    {
+      "domain": ".amazon-adsystem.com",
+      "expires": 1641050317.489571,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 19879204.489571095,
+      "name": "ad-id",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 28,
+      "value": "A9zN3O9rckuzuCnVEjTuXp4"
+    },
+    {
+      "domain": ".amazon-adsystem.com",
+      "expires": 1782919117.489668,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 161748004.4896679,
+      "name": "ad-privacy",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 11,
+      "value": "0"
+    },
+    {
+      "domain": ".weborama.fr",
+      "expires": 1655479117.725506,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 34308004.72550607,
+      "name": "AFFICHE_W",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 23,
+      "value": "0Rd3oRuhDarR86"
+    },
+    {
+      "domain": "ads.stickyadstv.com",
+      "expires": 1623770317.75563,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599204.7556300163,
+      "name": "UID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 34,
+      "value": "cdbec74ca5fffdcafebd3715c256d15"
+    },
+    {
+      "domain": "ads.stickyadstv.com",
+      "expires": 1622387917.75573,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 1216804.7557299137,
+      "name": "uid-bp-30833",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 13,
+      "value": "1"
+    },
+    {
+      "domain": "ads.stickyadstv.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "sessionId",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 40,
+      "value": "22c9fa9166aee0f2dc5c45b911561d2"
+    },
+    {
+      "domain": ".zeotap.com",
+      "expires": 1652714317.808493,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543204.8084929,
+      "name": "zc",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 38,
+      "value": "ffeb6a13-b7ad-409e-46d8-a51e80e5e583"
+    },
+    {
+      "domain": ".zeotap.com",
+      "expires": 1621264717.808578,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93604.80857801437,
+      "name": "zsc",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 219,
+      "value": "%A4%A4%FA%19GM%01%9A%3C%85%8BI%CF%0C%94%BD%05u%D3m%87o%26e%A8%0E%B3Dx%F2hR%B2%C2%CD%EAP%FE%85q%87%23%7D%C9%03X%DCl%03XJ%D7%EF%87%10%0A%99%A6%8C%E0%0C%FE%11%B6L%88%B3%0F%C0%D5H%8B%8C%A8%60%0F%86%E96%BF%22Q%10%13%F5%5D"
+    },
+    {
+      "domain": ".bluekai.com",
+      "expires": 1636730317.83256,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559204.832560062,
+      "name": "bkdc",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 7,
+      "value": "phx"
+    },
+    {
+      "domain": ".bluekai.com",
+      "expires": 1636730317.83265,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559204.832649946,
+      "name": "bkpa",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 144,
+      "value": "KJykiD6nxW9xxcdBccNAJOKJ+YP7jy6fjVmHVRP4q6r25lAFWr1TyihwTdJAqz8i5rTxy9Gu8usb9f8YLFErV6OSc7aLytZl4G3UJTr9iZd9jkyFULMXBpwSJ6MuGKbsFZIqeNwV/i1="
+    },
+    {
+      "domain": ".bluekai.com",
+      "expires": 1636730317.832701,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559204.832700968,
+      "name": "bku",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 19,
+      "value": "b/X9916lGVY+J5Tb"
+    },
+    {
+      "domain": ".advertising.com",
+      "expires": 1652800717.907787,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31629604.907787085,
+      "name": "APID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 42,
+      "value": "UPfd0638d5-b659-11eb-afe6-02b070bdea40"
+    },
+    {
+      "domain": ".twitter.com",
+      "expires": 1684250317.904844,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079204.904844046,
+      "name": "personalization_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "\"v1_4FTr448s9yPRrHEefLG66g==\""
+    },
+    {
+      "domain": ".mookie1.com",
+      "expires": 1655306317.99128,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 34135204.99128008,
+      "name": "id",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 22,
+      "value": "10594858862742297766"
+    },
+    {
+      "domain": ".mookie1.com",
+      "expires": 1655306317.991354,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 34135204.99135399,
+      "name": "mdata",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "value": "1|10594858862742297766|1621178317935"
+    },
+    {
+      "domain": ".mookie1.com",
+      "expires": 1655306317.991383,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 34135204.991383076,
+      "name": "ov",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 34,
+      "value": "68fa0f4c4402acc4dc66181b385707e0"
+    },
+    {
+      "domain": ".bidswitch.net",
+      "expires": 1652714318.182496,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.18249607,
+      "name": "tuuid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "value": "02f1b5d9-d4b8-41d1-9672-c1d356c962d3"
+    },
+    {
+      "domain": ".bidswitch.net",
+      "expires": 1652714318.044826,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.04482603,
+      "name": "c",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 11,
+      "value": "1621178317"
+    },
+    {
+      "domain": ".adform.net",
+      "expires": 1623856718.066651,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2685605.066651106,
+      "name": "C",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 2,
+      "value": "1"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1652735918.352138,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31564805.352138042,
+      "name": "B",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 23,
+      "value": "dlm0k99ga2due&b=3&s=7r"
+    },
+    {
+      "domain": ".adform.net",
+      "expires": 1626362318.130974,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 5191205.130974054,
+      "name": "uid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 22,
+      "value": "2381403806298974051"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1640995199.151789,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 19824086.15178895,
+      "name": "APID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 42,
+      "value": "UPfd0638d5-b659-11eb-afe6-02b070bdea40"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1621264718.151819,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93605.15181899071,
+      "name": "APIDTS",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 16,
+      "value": "1621178318"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1652735918.352089,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31564805.35208893,
+      "name": "A3",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 109,
+      "value": "d=AQABBM43oWACEHjthb3ZutHGuSg38EoU2NoFEgEBAQGJomCrYAAAAAAA_eMAAAcIzjehYEoU2No&S=AQAAApz6iMShzG0Qjv54SPWy-Pk"
+    },
+    {
+      "domain": ".spotxchange.com",
+      "expires": 1652718318.21185,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31547205.211849928,
+      "name": "audience",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 44,
+      "value": "fd357dbc-b659-11eb-bebb-12c786060306"
+    },
+    {
+      "domain": ".bidswitch.net",
+      "expires": 1652714318.18263,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.182630062,
+      "name": "tuuid_lu",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 18,
+      "value": "1621178318"
+    },
+    {
+      "domain": ".openx.net",
+      "expires": 1652714318.230041,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.230041027,
+      "name": "i",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 48,
+      "value": "326cb66f-2a2c-4ec9-ad71-47c61f86c1ff|1621178318"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1654874318.18481,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703205.18480992,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 70,
+      "value": "AHWqTUnu0XGKOOi2ne64_P0NaBkSfkBXinIFDWJRifCnC5FcvRL-76rPk1c84_Ns7_Q"
+    },
+    {
+      "domain": "bs.serving-sys.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "r1",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 14,
+      "value": "1621163918_1"
+    },
+    {
+      "domain": ".serving-sys.com",
+      "expires": 1628939881.237474,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7768768.237473965,
+      "name": "u2",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 44,
+      "value": "623becd0-34aa-4330-a86d-5a57847c7d504Bb080"
+    },
+    {
+      "domain": ".casalemedia.com",
+      "expires": 1652714318.354923,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.35492301,
+      "name": "CMID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 28,
+      "value": "YKE3zrp.A-5jsw5w67uOBAAA"
+    },
+    {
+      "domain": ".casalemedia.com",
+      "expires": 1628954318.355041,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783205.355041027,
+      "name": "CMPS",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 8,
+      "value": "1842"
+    },
+    {
+      "domain": ".analytics.yahoo.com",
+      "expires": 1652800718.351985,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31629605.351984978,
+      "name": "IDSYNC",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 27,
+      "value": "\"17ol~1y5r:190t~1y5r\""
+    },
+    {
+      "domain": ".casalemedia.com",
+      "expires": 1628954318.355091,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783205.355091095,
+      "name": "CMPRO",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 8,
+      "value": "228"
+    },
+    {
+      "domain": ".casalemedia.com",
+      "expires": 1621264718.355131,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93605.35513091087,
+      "name": "CMST",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 16,
+      "value": "YKE3zmChN84A"
+    },
+    {
+      "domain": ".adnxs.com",
+      "expires": 1628954318.41768,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783205.417680025,
+      "name": "uuid2",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 24,
+      "value": "3559309522979586852"
+    },
+    {
+      "domain": ".semasio.net",
+      "expires": 1652714318.509804,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.50980401,
+      "name": "SEUNCY",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 22,
+      "value": "CC0763424C9B900A"
+    },
+    {
+      "domain": ".demdex.net",
+      "expires": 1636730318.69904,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559205.699039936,
+      "name": "demdex",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 44,
+      "value": "83916216331478158113026404837629927218"
+    },
+    {
+      "domain": ".exelator.com",
+      "expires": 1631546318.562861,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 10375205.562860966,
+      "name": "EE",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "value": "\"7f16902006e0d6c9e704a760caa92d5d\""
+    },
+    {
+      "domain": ".exelator.com",
+      "expires": 1631546318.562944,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 10375205.562943935,
+      "name": "ud",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 164,
+      "value": "\"eJxrXxzq6XKLQcE8zdDM0sDIwMAs1SDFLNky1dzAJNHczCA5MdHSKMU0ZXFZatGCpaXFqSlJh5ZU5JTkNK0uiw91jHdz9PX0iVzmnFGUn5u6AiwU5hq0yMJ4SX5RZvoi1%252BDFRSlpDItKik8F79n1EABmYCqY\""
+    },
+    {
+      "domain": ".pubmatic.com",
+      "expires": 1621264718.637744,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93605.63774394989,
+      "name": "KTPCACOOKIE",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 14,
+      "value": "YES"
+    },
+    {
+      "domain": ".krxd.net",
+      "expires": 1636730318.638581,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559205.638581038,
+      "name": "_kuid_",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 14,
+      "value": "OH7vTWS7"
+    },
+    {
+      "domain": ".sxp.smartclip.net",
+      "expires": 1623770318.773767,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599205.7737669945,
+      "name": "uuid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 40,
+      "value": "3b72c58a-7fcf-4929-8093-09533b37b6e7"
+    },
+    {
+      "domain": ".pubmatic.com",
+      "expires": 1628954318.68049,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783205.680490017,
+      "name": "KADUSERCOOKIE",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 49,
+      "value": "C8829C2E-6903-47EA-BFC0-9EF6A6D842D6"
+    },
+    {
+      "domain": ".dpm.demdex.net",
+      "expires": 1636730318.698942,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559205.698941946,
+      "name": "dpm",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "value": "83916216331478158113026404837629927218"
+    },
+    {
+      "domain": ".sxp.smartclip.net",
+      "expires": 1623770318.773728,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599205.773727894,
+      "name": "psyn",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 12,
+      "value": "18763.90"
+    },
+    {
+      "domain": ".sxp.smartclip.net",
+      "expires": 1623770318.773643,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599205.773643017,
+      "name": "dspuuid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 42,
+      "value": "90.29bee290bbb3a69413d082419838ad99"
+    },
+    {
+      "domain": ".amazon.in",
+      "expires": 1623770318,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 2599205,
+      "name": "visitCount",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 11,
+      "value": "1"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 7,
+    "first_party_short": 0,
+    "third_party_long": 45,
+    "third_party_short": 2,
+    "trackers": [
+      "adform.net",
+      "adnxs.com",
+      "advertising.com",
+      "amazon-adsystem.com",
+      "bidswitch.net",
+      "bluekai.com",
+      "casalemedia.com",
+      "demdex.net",
+      "doubleclick.net",
+      "exelator.com",
+      "krxd.net",
+      "mookie1.com",
+      "openx.net",
+      "pubmatic.com",
+      "semasio.net",
+      "serving-sys.com",
+      "smartclip.net",
+      "spotxchange.com",
+      "stickyadstv.com",
+      "twitter.com",
+      "weborama.fr",
+      "yahoo.com",
+      "zeotap.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.amazon.in/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 2,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 0,
+    "window.navigator.languages": 1,
+    "window.navigator.mimeTypes": 2,
+    "window.navigator.onLine": 1,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 1,
+    "window.navigator.plugins": 2,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 42,
+    "window.navigator.vendor": 2,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 41,
+    "window.screen.pixelDepth": 41
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "918b599dba4c9549532c8b4398c313dda2a08002b31411f258fe3079d7469441",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert Global CA G2",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1635458399.0,
+      "not_valid_before": 1604962800.0,
+      "serial_number": 14532242235313464961963562210072268530,
+      "subject": {
+        "commonName": "www.amazon.in",
+        "countryName": "US",
+        "localityName": "Seattle",
+        "organizationName": "Amazon.com, Inc.",
+        "stateOrProvinceName": "Washington"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": true
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-256",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "tb:s-ZPZ7HMKAZ460BT3DJVXT|1621178314141&t:1621178315747&adb:adblk_no",
+      "key": "csm-hit"
+    },
+    {
+      "content": "adblk_no",
+      "key": "csm:adb"
+    },
+    {
+      "content": "{\"lastActive\":{\"visible\":true,\"pid\":\"67gsty-use9t8-a8d4cp-v0jgi5\",\"tid\":\"67gsty-use9t8-a8d4cp-v0jgi5\"},\"lastInteraction\":{},\"time\":1621178315240}",
+      "key": "csa-tabbed-browsing"
+    },
+    {
+      "content": "1621181915238",
+      "key": "csa-ctoken-ZPZ7HMKAZ460BT3DJVXT"
+    },
+    {
+      "content": "[\"ZPZ7HMKAZ460BT3DJVXT\"]",
+      "key": "csm-bf"
+    },
+    {
+      "content": "a-ember",
+      "key": "a-font-class"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.amazon.in/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.amazon.in/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/41KBYOkTjIL._RC%7C71s2fkw4AyL.css,21-QxUt197L.css,313Ydl5aIRL.css,21MKjoYL8wL.css,41OiMQkB+EL.css,01yCq3WXEcL.css,11kO7yAgiQL.css,31OvHRW+XiL.css,01XHMOHpK1L.css,01ucgi+I44L.css,41yKpEQVJkL.css_.css?AUIClients/NavDesktopUberAsset&2gNK+1jH"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/41VuNbGfm5L.css?AUIClients/AmazonGatewayAuiAssets&/3eJPhjR"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:261-2517981-2843266:ZPZ7HMKAZ460BT3DJVXT$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DZPZ7HMKAZ460BT3DJVXT:0"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936311_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2021/img/Mobile_Traffic_/XCM_Manual_1321458_1651511_IN_3781247_400x39_en_IN._CB655944656_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/prime/Gateway/2021/desktop-1x._CB658860139_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_1._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_3._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_4._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_2._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/PCA/GW/tile1_PC_1x-HEALTH2._SY304_CB670262824_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-1-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-2-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-3-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-4-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/1._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/2._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/3._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/4._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/1._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/2._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/3._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/4._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_02._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_01._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_03._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_04._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Boson/Sid/CCBP/DesktopGateway_CategoryCard_379x304_CCBP._SY304_CB413372299_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Acko/Travel/Flight_PC_QC_186x116._SY116_CB656564274_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Acko/Travel/Bus_PC_QC_186x116._SY116_CB656564274_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Acko/Travel/Train_PC_QC_186x116._SY116_CB656564274_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Acko/Travel/Travel_PC_QC_186x116._SY116_CB656564274_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2021/GW/MSO/April/372x232_1_Low._SY116_CB670263840_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2021/GW/MSO/April/372x232_2_Low._SY116_CB670263840_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2021/GW/MSO/April/372x232_3_Low._SY116_CB670263840_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2021/GW/MSO/April/372x232_4_Low._SY116_CB670263840_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GW/shoveller/Shoveler_covid_v2_smb_1x._CB669068181_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GW/milaap/Shoveler_covid_homecare_1x._CB669529040_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GW/Covid/shovler/1x/Shoveler_covid_vaccine_1x._CB671053910_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GW/milaap/Shoveler_covid_Blog_1x._CB669735929_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GW/Covid/shovler/1x/Shoveler_covid_donation_1x._CB671053910_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GW/Covid/shovler/1x/Shoveler_covid_delivery__return_1x._CB671053910_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GW/Covid/shovler/1x/Shoveler_covid_payment_1x._CB671053910_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/315AO4OdIZL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41cVgYgAKpL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41AlRp42IYL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41outakMrfL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41dk2+SASqL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41CqaA4KDzL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31ZBLC08LLL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Home/LA/Diwali2019/Rishab/Auto_Biss/BISS/PC_CC/BISS_260x2601._SY304_CB669949363_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mask_Store/1._SY116_CB656502854_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mask_Store/2._SY116_CB656502854_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mask_Store/PC_QC_186x116._SY116_CB670981909_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mask_Store/4._SY116_CB656502854_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Fresh/May21/GWQC/May_16to22/PC/FruitsVegetables_QC_PC1x_01._SY116_CB669801492_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Fresh/May21/GWQC/May_16to22/PC/FruitsVegetables_QC_PC1x_02._SY116_CB669801492_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Fresh/May21/GWQC/May_16to22/PC/FruitsVegetables_QC_PC1x_03._SY116_CB669801492_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Fresh/May21/GWQC/May_16to22/PC/FruitsVegetables_QC_PC2x_03._SY116_CB669801492_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Beauty/Beauty_BAY-186x116_QC-Makeup._SY116_CB431333301_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Beauty/GW/desktop/November/BeautyBAY-186x116QC-Haircare._SY116_CB448752655_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Beauty/GW/desktop/November/BeautyBAY-186x116QC-Makeup._SY116_CB448752655_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Beauty/Beauty_BAY-186x116_QC--Makeup._SY116_CB431333301_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/61Poel-XGfL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/311u1ih-IKL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41ae7t+QE8L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/410yHH4T22L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51BDOSH36uL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41kHR2cs4ML._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/416dn0YUFZL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41PT7j8vQeL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41TXCe7NGML._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/418h5rn6bPL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41y68O7lW4L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41dH27vAYJL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41hNNYzJQHL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41tFu62YWfL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/WEW/1._SY116_CB656506471_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/WEW/2._SY116_CB656506471_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/WEW/3._SY116_CB656505274_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/WEW/4._SY116_CB656506471_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_186x116_1198417XCM_Manual_1198417__1_1573567224_jpg_LOWER_QL85_._SY116_CB448746450_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_186x116_1198417XCM_Manual_1198417__2_1573567224_jpg_LOWER_QL85_._SY116_CB448746415_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_186x116_1198417XCM_Manual_3_copyx400x2C5x_1573713358_jpg_LOWER_QL85_._SY116_CB448746425_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_186x116_1198417XCM_Manual_1198417__4_1573567224_jpg_LOWER_QL85_._SY116_CB448746450_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/QC/03_186X116._SY116_CB655199627_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/QC/04_186X116._SY116_CB655199627_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/QC/02_186X116._SY116_CB655199627_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/QC/01_186X116._SY116_CB655199627_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2021/MayArt_GW/Couple_mask_1._SY304_CB670955378_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/412z+4nnPdL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51-egxwS5OL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41dJiLYRvML._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41QqcA6vZOL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51icHqol4yL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41drU7GMgpL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/4196ojh5j3L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51MgkkzHGCL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51jLRfblNvL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51kmBJH8DUL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/4128f+dbbgL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41uXcq099NL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41XZ2tARbJL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51utYKcrWXL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Pocket_friendly/1._SY116_CB656503518_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Pocket_friendly/3._SY116_CB656503518_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Pocket_friendly/2._SY116_CB656503518_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Pocket_friendly/4._SY116_CB656503518_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Pets/GW/Desktop/Desktop_QC_Dogs_1X._SY116_CB448750761_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Pets/GW/Desktop/Desktop_QC_Cats_1X._SY116_CB448750761_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Pets/GW/Desktop/Desktop_QC_Aquatics_1X._SY116_CB448750761_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Pets/GW/Desktop/Desktop_QC_Birds_1X._SY116_CB448750760_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Popular_Category/1.1._SY116_CB656506273_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Popular_Category/2.2._SY116_CB656506273_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Popular_Category/3.3._SY116_CB656506273_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Popular_Category/4.4._SY116_CB656506273_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/prime/Gateway/2020/March/desktop/gaming_186x116._SY116_CB432709799_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/prime/Gateway/2020/March/desktop/186x116_1_final._SY116_CB435609147_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/prime/Gateway/2020/March/desktop/186x116_2_final._SY116_CB435609146_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/prime/Gateway/2020/March/desktop/186x116_4_final._SY116_CB435609146_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Vernac13th/1500x150_V2_Eng._CB412582591_.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/personalization/ybh/loading-4x-gray._CB485916689_.gif"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/01rGP6HIADL.js?AUIClients/GenericObservableJS"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/01q83dUa5BL._RC%7C41qOAXcFL7L.js_.js?AUIClients/AmazonGatewayAuiAssets&/3eJPhjR"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/41KBYOkTjIL._RC%7C71s2fkw4AyL.css,21-QxUt197L.css,313Ydl5aIRL.css,21MKjoYL8wL.css,41OiMQkB+EL.css,01yCq3WXEcL.css,11kO7yAgiQL.css,31OvHRW+XiL.css,01XHMOHpK1L.css,01ucgi+I44L.css,41yKpEQVJkL.css_.css?AUIClients/NavDesktopUberAsset&2gNK+1jH",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/rzrQQdi0aRm6Dap.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/ydDD9hnRfziI$y7.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/Um6FUNyHlup8DYZ.gif"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/31SljjL-V4L.js?AUIClients/AmazonGatewayHerotatorJS"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/41zOaXFljyL._RC%7C71DxpFqM1iL.js,61ACKXDdUsL.js,41gNKoK0s7L.js,11nffi0GnAL.js,21qd6OezMHL.js,11k47yUMOjL.js,41SZNgvX4oL.js,51pktuVkksL.js,31pymwzQBWL.js,01KW1GJCT1L.js,317Qj7+l3FL.js_.js?AUIClients/NavDesktopUberAsset&gkNDzGfj"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/11VbV%2B%2BKhQL.js?AUIClients/RetailWebsiteOverlayAUIAssets"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC%7C51106gSDnJL.js,11-zXBZR6KL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,01O9dYORveL.js,21NNXfMitSL.js,11rRjDLdAVL.js,51X-X0x2aRL.js,11kWu3cNjYL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31VpWkbgc1L.js,01rpauTep4L.js,01+b9cewx1L.js_.js?AUIClients/AmazonUI&tbOQM7bq"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/51cuzscAXML.js?AUIClients/CardJsRuntimeBuzzCopyBuild"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 202,
+      "status_text": "",
+      "url": "https://www.amazon.in/ah/ajax/counter?ctr=desktop_ajax_atf&exp=1621178433664&rId=ZPZ7HMKAZ460BT3DJVXT&mkId=A21TJRUUN4KGV&h=c10ca920d1db76f66e0090a6f91fc92a391e08bba7a77aedb5809eb390c595fe"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31OCZqdW2RL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41AJ1mqE57L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51BKJByUinL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41BcmBwnzJL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41XXjVSLyGL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51mxU0WVctL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41fm3PxQgOL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/215emFCViIL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41qUcYVKjLL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41E3ejzmCPL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/413QSjwEWIL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41t3kuMrnBL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/416p+Cy5yLL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41STmPt8viL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/417zcYBIeRL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41MtYO4LrtL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31zfkzrLT+L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41kcDbjR5sL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41i20s-b7UL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41bx6m0YtZL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41MmoKLsX8L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41U4O3Ew1EL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41DYrtOz5XL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31lVXuuqQ5L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41OGHLFCRPL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41sDV3dti-L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41pbW69eZlL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/415TqAg17XL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41loedKKycL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31ErPqpMBlL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41NK9NimuOL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31Xm5MqWRFL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31wszpqOk8L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/419y+Xrf67L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41Ufva7-bSL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41hj0lCJ87L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31GzmH9NcxL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41SVQ7Zi7UL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41bcoLe5D1L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31uzsOzFNaL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41QhGuZKSRL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41uHUwfpMPL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41ke+hkPtoL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41bFSmWktQS._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41U0GlFYydL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51kyYWvUMqL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41AwYdB4C0L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51PaXiUEq2L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41k-MlUM05L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41w+SzuP4VL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/413a5br02EL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41YfXVw8kdL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/517oIwfgL6L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41qvcxLP3uL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51inhClfoLL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41zSYTUh4BL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51+6-y5cw6L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41fG2jHgTqL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51DAPCNpyXL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41L9EAgMc-L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/410WdORhcZL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31463XypNyL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41hq33o0E7L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31VPDN+9BiL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41mZBhhy5sL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31VoJaOWqcL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41ppCe1xVnL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/411Hz-n0bBS._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51xgfOlhsrL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51vD1XUsDUS._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31ARrhaZanL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41ikHG0J+HL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41llebwF1-L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31FbqrlqReL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41pxs9jeBZL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41+00qVNcOL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51ZyGSIVbFL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41k4M7eFliL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41f+UgRLZEL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31qbPbEA3cL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31nykwpPDoL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41W18s9QXmS._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31CzDvrbvwL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31l7-41KpUL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41jKkGZ3W5L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41zA4WYVMbL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41Ww30n4jlL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51WNeLcLErL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41UMD8Rg9IL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31PgfQoXh2L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41rYoyUG3NL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31It+XfFePS._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31sZP8h8fNL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31viJPIJgTL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/516dW8K8z9S._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/412MuO1yu6L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41e+So90OrL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41jLs9gtQDL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41tLDG0WhoL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41iAgPSKycL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/41CyhSbylJL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31iloIcXfuL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/31sip13iceL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/315DLTrZy1S._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/3127XmlhdzL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51KwdGMYoNL._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/I/51kZ7B9D-4L._AC_SY200_.jpg"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/INRetargetingAsset-fe13df5df0c9265752c892a20feddfc5baaec718.secure.min._V2_.js?AUIClients/INRetargetingAsset"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/csm/showads.v2.js?adtag=csm&act=ads_"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://completion.amazon.co.uk/api/2017/suggestions?session-id=261-2517981-2843266&customer-id=&request-id=ZPZ7HMKAZ460BT3DJVXT&page-type=Gateway&lop=en_IN&site-variant=desktop&client-info=amazon-search-ui&mid=A21TJRUUN4KGV&alias=aps&searchTerm=a&suggestion-type=KEYWORD&suggestion-type=WIDGET&_=1621178315558"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/41VuNbGfm5L.css?AUIClients/AmazonGatewayAuiAssets&/3eJPhjR",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/x6ok_LYiGGUKJXl.png"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.amazon.in/gp/overlay/display.html"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Rajeshwari/March-21/Network_Hero_banners/HeroPC_1500x600_5._CB657961025_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Gateway_JWELSSH/Feb/SSW/Super_saver_brands/1500PC._CB658944950_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2021/X-site/SingleTitle/WW84/Launch/1500x600_Hero-Tall_JPN._CB669639160_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/BAU/Banners/GW_1500x600-min._CB406905169_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/Xiaomi/Events/May/MSD/RN10PM/D23438868_MSD_WLD_Redmi_Note10ProMax_DesktopTallHero_1500x600._CB668095684_.jpg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.amazon.in/rd/uedata?ld&v=0.216934.0&id=ZPZ7HMKAZ460BT3DJVXT&sw=800&sh=600&vw=785&vh=585&m=1&sc=ZPZ7HMKAZ460BT3DJVXT&ue=7&bb=291&ns=318&ne=462&cf=575&af=704&fn=704&be=1329&fp=381&fcp=381&pc=2744&tc=-625&na_=-625&ul_=-1621178313852&_ul=-1621178313852&rd_=-1621178313852&_rd=-1621178313852&fe_=-624&lk_=-330&_lk=-306&co_=-306&_co=-246&sc_=-283&rq_=-246&rs_=-167&_rs=113&dl_=-156&di_=1391&de_=1392&_de=1393&_dc=2743&ld_=2743&_ld=-1621178313852&ntd=-1&ty=0&rc=0&hob=4&hoe=7&ld=2746&t=1621178316598&ctb=1&rt=cf:22-0-3-19-2-0-1_af:37-1-3-33-2-0-1_ld:252-9-3-232-6-0-0&csmtags=aui|aui:aui_build_date:3.21.4-2021-05-11|navbar|gwCFImgNoCache|fls-eu-amazon-in|iss-on-time|twoColumn|twoColumnRevised|flexLayout|cssGridLayout|adblk_no|aui:ajax&viz=visible:6&pty=Gateway&spty=desktop&pti=desktop&tid=ZPZ7HMKAZ460BT3DJVXT&aftb=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:261-2517981-2843266:ZPZ7HMKAZ460BT3DJVXT$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.216934.0%26id%3DZPZ7HMKAZ460BT3DJVXT%26sw%3D800%26sh%3D600%26vw%3D785%26vh%3D585%26m%3D1%26sc%3DZPZ7HMKAZ460BT3DJVXT%26ue%3D7%26bb%3D291%26ns%3D318%26ne%3D462%26cf%3D575%26af%3D704%26fn%3D704%26be%3D1329%26fp%3D381%26fcp%3D381%26pc%3D2744%26tc%3D-625%26na_%3D-625%26ul_%3D-1621178313852%26_ul%3D-1621178313852%26rd_%3D-1621178313852%26_rd%3D-1621178313852%26fe_%3D-624%26lk_%3D-330%26_lk%3D-306%26co_%3D-306%26_co%3D-246%26sc_%3D-283%26rq_%3D-246%26rs_%3D-167%26_rs%3D113%26dl_%3D-156%26di_%3D1391%26de_%3D1392%26_de%3D1393%26_dc%3D2743%26ld_%3D2743%26_ld%3D-1621178313852%26ntd%3D-1%26ty%3D0%26rc%3D0%26hob%3D4%26hoe%3D7%26ld%3D2746%26t%3D1621178316598%26ctb%3D1%26rt%3Dcf%3A22-0-3-19-2-0-1_af%3A37-1-3-33-2-0-1_ld%3A252-9-3-232-6-0-0%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.21.4-2021-05-11%7Cnavbar%7CgwCFImgNoCache%7Cfls-eu-amazon-in%7Ciss-on-time%7CtwoColumn%7CtwoColumnRevised%7CflexLayout%7CcssGridLayout%7Cadblk_no%7Caui%3Aajax%26viz%3Dvisible%3A6%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3DZPZ7HMKAZ460BT3DJVXT%26aftb%3D1:2750"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:261-2517981-2843266:ZPZ7HMKAZ460BT3DJVXT$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.216934.0%26id%3DZPZ7HMKAZ460BT3DJVXT%26sc0%3Dportal-bb%26pc0%3D16%26ld0%3D16%26t0%3D1621178314159%26sc1%3Diss-init-pc%26bb1%3D459%26cf1%3D1689%26be1%3D1689%26pc1%3D1689%26ld1%3D1690%26t1%3D1621178315542%26sc2%3Dh1Af%26cf2%3D466%26pc2%3D467%26ld2%3D467%26t2%3D1621178314319%26sc3%3Ddesktop-grid-3-visible%26cf3%3D522%26pc3%3D522%26ld3%3D522%26t3%3D1621178314374%26sc4%3Ddesktop-grid-1-visible%26cf4%3D562%26pc4%3D562%26ld4%3D562%26t4%3D1621178314414%26sc5%3Ddesktop-grid-2-visible%26cf5%3D563%26pc5%3D563%26ld5%3D563%26t5%3D1621178314415%26sc6%3Ddesktop-grid-7-visible%26cf6%3D623%26pc6%3D623%26ld6%3D623%26t6%3D1621178314475%26sc7%3Ddesktop-grid-4-visible%26cf7%3D672%26pc7%3D672%26ld7%3D672%26t7%3D1621178314524%26sc8%3Dgateway-asset-load%26cf8%3D691%26pc8%3D691%26ld8%3D691%26t8%3D1621178314543%26sc9%3DnavCF%26cf9%3D692%26pc9%3D692%26ld9%3D692%26t9%3D1621178314544%26sc10%3Ddesktop-grid-5-visible%26cf10%3D696%26pc10%3D696%26ld10%3D696%26t10%3D1621178314548%26sc11%3Ddesktop-grid-6-visible%26cf11%3D704%26pc11%3D704%26ld11%3D704%26t11%3D1621178314556%26sc12%3Ddesktop-grid-8-visible%26cf12%3D706%26pc12%3D706%26ld12%3D706%26t12%3D1621178314558%26sc13%3DspLoadJs%26cf13%3D714%26pc13%3D714%26ld13%3D714%26t13%3D1621178314566%26sc14%3Ddesktop-1-visible%26cf14%3D875%26pc14%3D875%26ld14%3D875%26t14%3D1621178314727%26sc15%3DjQueryReady%26cf15%3D896%26pc15%3D896%26ld15%3D896%26t15%3D1621178314748%26sc16%3DgwGridInit%26cf16%3D904%26pc16%3D904%26ld16%3D904%26t16%3D1621178314756%26sc17%3Ddesktop-btf-grid-1-visible%26cf17%3D968%26pc17%3D968%26ld17%3D968%26t17%3D1621178314820%26sc18%3Ddesktop-btf-grid-2-visible%26cf18%3D979%26pc18%3D980%26ld18%3D980%26t18%3D1621178314832%26sc19%3Ddesktop-btf-grid-3-visible%26cf19%3D1057%26pc19%3D1057%26ld19%3D1057%26t19%3D1621178314909%26sc20%3Ddesktop-btf-grid-4-visible%26cf20%3D1072%26pc20%3D1072%26ld20%3D1072%26t20%3D1621178314924%26sc21%3Ddesktop-btf-grid-5-visible%26cf21%3D1072%26pc21%3D1072%26ld21%3D1072%26t21%3D1621178314924%26sc22%3Ddesktop-btf-grid-6-visible%26cf22%3D1164%26pc22%3D1164%26ld22%3D1164%26t22%3D1621178315016%26sc23%3Ddesktop-btf-grid-7-visible%26cf23%3D1169%26pc23%3D1169%26ld23%3D1169%26t23%3D1621178315021%26sc24%3Ddesktop-btf-grid-8-visible%26cf24%3D1181%26pc24%3D1181%26ld24%3D1181%26t24%3D1621178315033%26sc25%3Ddesktop-btf-grid-9-visible%26cf25%3D1183%26pc25%3D1183%26ld25%3D1183%26t25%3D1621178315035%26sc26%3Ddesktop-btf-grid-10-visible%26cf26%3D1265%26pc26%3D1265%26ld26%3D1265%26t26%3D1621178315117%26sc27%3Ddesktop-btf-grid-11-visible%26cf27%3D1265%26pc27%3D1265%26ld27%3D1265%26t27%3D1621178315117%26sc28%3Ddesktop-btf-grid-12-visible%26cf28%3D1270%26pc28%3D1270%26ld28%3D1270%26t28%3D1621178315122%26sc29%3DgwBTFGridInit%26cf29%3D1312%26pc29%3D1313%26ld29%3D1313%26t29%3D1621178315165%26sc30%3Dhero-first-image%26cf30%3D1319%26pc30%3D1319%26ld30%3D1319%26t30%3D1621178315171%26sc31%3DcsmCELLSframework%26bb31%3D1369%26pc31%3D1370%26ld31%3D1370%26t31%3D1621178315222%26sc32%3DcsmCELLSpdm%26bb32%3D1370%26pc32%3D1374%26ld32%3D1374%26t32%3D1621178315226%26sc33%3DcsmCELLSvpm%26bb33%3D1374%26pc33%3D1375%26ld33%3D1375%26t33%3D1621178315227%26sc34%3DcsmCELLSfem%26bb34%3D1375%26pc34%3D1376%26ld34%3D1376%26t34%3D1621178315228%26sc35%3Due_sushi_v1%26bb35%3D1377%26pc35%3D1378%26ld35%3D1378%26t35%3D1621178315230%26sc36%3DjQueryDomReady%26cf36%3D1392%26pc36%3D1392%26ld36%3D1392%26t36%3D1621178315244%26sc37%3Ddesktop-1-active%26cf37%3D1392%26pc37%3D1393%26ld37%3D1393%26t37%3D1621178315245%26sc38%3Ddesktop-2-active%26cf38%3D1393%26pc38%3D1393%26ld38%3D1393%26t38%3D1621178315245%26sc39%3Ddesktop-3-active%26cf39%3D1393%26pc39%3D1393%26ld39%3D1393%26t39%3D1621178315245%26sc40%3Ddesktop-4-active%26cf40%3D1393%26pc40%3D1393%26ld40%3D1393%26t40%3D1621178315245%26sc41%3Ddesktop-5-active%26cf41%3D1393%26pc41%3D1393%26ld41%3D1393%26t41%3D1621178315245%26sc42%3Ddesktop-6-active%26cf42%3D1393%26pc42%3D1393%26ld42%3D1393%26t42%3D1621178315245%26sc43%3Ddesktop-7-visible%26cf43%3D1430%26pc43%3D1430%26ld43%3D1430%26t43%3D1621178315282%26sc44%3Ddesktop-7-active%26cf44%3D1430%26pc44%3D1430%26ld44%3D1430%26t44%3D1621178315282%26sc45%3Ddesktop-2-visible%26cf45%3D1442%26pc45%3D1442%26ld45%3D1442%26t45%3D1621178315294%26sc46%3Ddesktop-3-visible%26cf46%3D1603%26pc46%3D1603%26ld46%3D1603%26t46%3D1621178315455%26sc47%3Diss-warmup%3Asuccess%26bb47%3D1705%26cf47%3D2215%26be47%3D2216%26pc47%3D2216%26ld47%3D2216%26t47%3D1621178316068%26sc48%3DgwLayoutReady%26cf48%3D1753%26pc48%3D1753%26ld48%3D1753%26t48%3D1621178315605%26sc49%3DgwAUIReady%26cf49%3D1755%26pc49%3D1755%26ld49%3D1755%26t49%3D1621178315607%26sc50%3Ddesktop-4-visible%26cf50%3D1797%26pc50%3D1797%26ld50%3D1797%26t50%3D1621178315649%26sc51%3Ddesktop-5-visible%26cf51%3D1843%26pc51%3D1843%26ld51%3D1843%26t51%3D1621178315695%26sc52%3Ddesktop-6-visible%26cf52%3D1978%26pc52%3D1978%26ld52%3D1978%26t52%3D1621178315830%26sc53%3Dgw-hero-btf-populate%26cf53%3D2176%26pc53%3D2176%26ld53%3D2176%26t53%3D1621178316028%26sc54%3DgwHerotatorActive%26cf54%3D2385%26pc54%3D2385%26ld54%3D2385%26t54%3D1621178316237%26ctb%3D1:2750"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi.amazon.in/1/events/com.amazon.csm.csa.prod"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:261-2517981-2843266:ZPZ7HMKAZ460BT3DJVXT$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.216934.0%26id%3DZPZ7HMKAZ460BT3DJVXT%26ctb%3D1%26sc0%3DjQueryWindowLoad%26cf0%3D2757%26pc0%3D2757%26ld0%3D2757%26t0%3D1621178316609%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3DZPZ7HMKAZ460BT3DJVXT%26aftb%3D1:2756"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/31YXrY93hfL.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://c.amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics-incremental.min.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.amazon.in/gp/product/sessionCacheUpdateHandler.html"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/prime/Gateway/2021/desktop-1x._CB658860139_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_1._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_3._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_4._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Desktop_QC_tile_graphic_186x116_2._SY116_CB414480869_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/PCA/GW/tile1_PC_1x-HEALTH2._SY304_CB670262824_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-1-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-2-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-3-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Grocery/GWGraphics/Desktop-Qc-4-1x._SY116_CB669420330_.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/1._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/2._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/3._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/4._SY116_CB656506073_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/1._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/2._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/3._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Mens_fashion/4._SY116_CB656503003_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_02._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_01._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_03._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/MWO_CC_-_March_186x116_04._SY116_CB657184511_.jpg"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/pDxWAF1pBB0dzGB.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/KFPk-9IF4FqAqY-.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/Dv1WQ5DdeMS5qP7.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/VjTR4RqBzY0mUYx.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/WOnTLzkiaEccV7F.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/2SazJx$EeTHfhMN.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/ozb5-CLHQWI6Soc.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://images-eu.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,418YjvsUB+L.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31MKqadzl-L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&nIDV3vlm",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/KwhNPG8Jz-Vz2X7.woff2"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.amazon.in/rd/uedata?at&v=0.216934.0&id=ZPZ7HMKAZ460BT3DJVXT&ctb=1&m=1&sc=ZPZ7HMKAZ460BT3DJVXT&pc=2912&at=2912&t=1621178316764&csmtags=aui:sw:browser:register:supported&pty=Gateway&spty=desktop&pti=desktop&tid=ZPZ7HMKAZ460BT3DJVXT&aftb=1&ui=3"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:261-2517981-2843266:ZPZ7HMKAZ460BT3DJVXT$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.216934.0%26id%3DZPZ7HMKAZ460BT3DJVXT%26ctb%3D1%26m%3D1%26sc%3DZPZ7HMKAZ460BT3DJVXT%26pc%3D2912%26at%3D2912%26t%3D1621178316764%26csmtags%3Daui%3Asw%3Abrowser%3Aregister%3Asupported%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3DZPZ7HMKAZ460BT3DJVXT%26aftb%3D1%26ui%3D3:2912"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?d=amazon.in&slot=navFooter&a2=01012bbe55d6d6723789bb30ea70849959e53b098d33e5698e088dcdee2507405639&old_oo=0&ts=1621178313690&s=ATvYPdX4ZRasjzpEMH1KK9fMFY24uyCvY-viHhdHjxkz&cb=1621178313690"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/javascripts/lib/popover/images/snake._CB485935600_.gif"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?d=amazon.in&slot=navFooter&a2=01012bbe55d6d6723789bb30ea70849959e53b098d33e5698e088dcdee2507405639&old_oo=0&ts=1621178313690&s=ATvYPdX4ZRasjzpEMH1KK9fMFY24uyCvY-viHhdHjxkz&cb=1621178313690&dcc=t"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://aax-eu.amazon-adsystem.com/s/iu3?d=amazon.in&slot=navFooter&a2=01012bbe55d6d6723789bb30ea70849959e53b098d33e5698e088dcdee2507405639&old_oo=0&ts=1621178313690&s=ATvYPdX4ZRasjzpEMH1KK9fMFY24uyCvY-viHhdHjxkz&cb=1621178313690&dcc=t",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/v3/pr?exlist=n-weborama-pca_bsw_bk_aold_n-telaria_n-zeotap-4_fw_imdb_twca_adb_mp_af_sx_n-sk_g_kr_ox_index_n-semasio-ecm_an_rb_n-g-hmt_nsln_fbca_n-verizon_n-sc_rlsa_pm&fv=1.0&ex-pl-fbca=5Bfu-30oSu6uvuN2m9Xa4g&ex-pl-twca=fdHs0JRJTyy16iCkff-OBg&a=cm&ex-pl-n-g-hmt=pvj2p-AeRD2rlDxIgN1hYA&ep=uK3O8btZK7byXXY7Mw_pn4z_JxRjqO1HYP1iuBeUZ0-rRJ8xxFtusIPmrRkJ27H67Jt22lF0MxuK3LbJFt32tGbvFtadmsqipkiu0a_OJ8X9TLRvhIqYuXWtaD4adE1Z-4GgS1cvcq4Q2YuhT-gSpBxXfHISjdMrD_B0M2a4LqqgCyvuBwX3FwbuxLOra1OqT_xGBiAA8sjuYxtaa97ksQ"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://rd.frontend.weborama.fr/rd?url=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dweborama%26id%3D%7BWEBO_CID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://x.bidswitch.net/sync_a9/https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dbidswitch.com%26id%3D%24%7BUUID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tags.bluekai.com/site/36840?redir=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dbluekai.com%26id%3D%24_BK_UUID"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://pixel.advertising.com/ups/56613/sync?redir=true&_origin=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://amazon.partners.tremorhub.com/sync?UIAM&redir=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dtelaria.com%26id%3D%5BPARTNER_ID%5D"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://spl.zeotap.com/?zdid=1353&env=mWeb&eventType=pageview&redir=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dzeotap%26id%3D%24_ZTP_UUID"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ads.stickyadstv.com/user-matching?id=2545"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www.imdb.com/ads/idsync?cid=79bc437ba&ex=imdb.com"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://analytics.twitter.com/i/adsct?p_id=985&p_user_id=fdHs0JRJTyy16iCkff-OBg&twitter_redir=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dtwca%26id%3DfdHs0JRJTyy16iCkff-OBg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=139200&dpuuid=zu7h4yYRRXug3nTj2CrgLw&redir=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dadobe.com%26id%3D%24%7BDD_UUID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://odr.mookie1.com/t/v2?tagid=V2_393725&AMAZON_REGION_SPECIFIC_ENDPOINT=aax-eu.amazon-adsystem.com/s&src.visitorID=X9Z8EGImRSq-MTklgU3C2A"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://c1.adform.net/serving/cookie/match?party=1153&redirect_url=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dadform.net%26id%3D%24%7BUUID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://sync.search.spotxchange.com/partner?adv_id=7922&redir=https://aax-eu.amazon-adsystem.com%2Fs/ecm3?ex%3Dspotx.com%26id%3D%24SPOTX_USER_ID"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://bs.serving-sys.com/Serving?cn=cs&rtu=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dsizmek%26id%3D%5B%25tp_UserID%25%5D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=a9eu&google_cm&ex=doubleclick.net&"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://usermatch.krxd.net/um/v2?partner=amzn"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://us-u.openx.net/w/1.0/cm?id=e818ca1e-0c23-caa8-0dd3-096b0ada08b7&r=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dopenx.com%26id%3D%7BOPENX_ID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ssum-sec.casalemedia.com/usermatchredir?s=184155&cb=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dindex%26id%3D__UID__"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://uipglob.semasio.net/amazon/1/get?_url=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dsemasio%26id%3D%24%7BUIPID%28%29%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ib.adnxs.com/getuid?https://aax-eu.amazon-adsystem.com/s/ecm3?id=$UID&ex=appnexus.com&"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://token.rubiconproject.com/token?pid=2179&pt=n"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=a9eu&google_hm=pvj2p-AeRD2rlDxIgN1hYA&"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://loadus.exelator.com/load/?p=204&g=8889&j=0"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www.facebook.com/fr/r.php?p=558293300959460&e=5Bfu-30oSu6uvuN2m9Xa4g&r=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dfbca%26id%3D5Bfu-30oSu6uvuN2m9Xa4g&s=1621178317&h=OThoVjVQUU9vdHZFbFJ0N0nD2QIWXD2287H7k98sfVB59418"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ups.analytics.yahoo.com/ups/58349/sync?_origin=1&redir=true"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://sync.sxp.smartclip.net/sync?type=red&dsp=90"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/956747825/?userId=41c_c0PzTESPRWzagKKxTQ&guid=ON&script=0"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dpubmatic.com%26id%3D%23PM_USER_ID"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OE/"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://rd.frontend.weborama.fr/rd?url=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dweborama%26id%3D%7BWEBO_CID%7D&bounce=1&random=109677290"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://s.amazon-adsystem.com/ecm3?id=cdbec74ca5fffdcafebd3715c256d15&ex=freewheel.tv&gdpr=0&gdpr_consent="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=weborama&id=9kisgS3q3Q.2dHerbks97u"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=bluekai.com&id=HSgKmQ99999krvaQ"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://pixel.advertising.com/ups/56613/sync?redir=true&_origin=1&verify=true"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?rcode=1&ex=imdb.com"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?p_user_id=fdHs0JRJTyy16iCkff-OBg&ex=twca&id=fdHs0JRJTyy16iCkff-OBg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ups.analytics.yahoo.com/ups/56613/sync?redir=true&_origin=1&apid=UPfd0638d5-b659-11eb-afe6-02b070bdea40"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://x.bidswitch.net/ul_cb/sync_a9/https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dbidswitch.com%26id%3D%24%7BUUID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://c1.adform.net/serving/cookie/match?CC=1&party=1153&redirect_url=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dadform.net%26id%3D%24%7BUUID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ups.analytics.yahoo.com/ups/56613/sync?redir=true&_origin=1&apid=UPfd0638d5-b659-11eb-afe6-02b070bdea40&verify=true"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=adform.net&id=2381403806298974051"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=a9eu&google_cm=&ex=doubleclick.net&google_tc="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?id=36184820bd8c4732ad855d2222a2c8bb8f7f36ff&ex=aoldisplay.com"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://sync.search.spotxchange.com/partner?adv_id=7922&redir=https://aax-eu.amazon-adsystem.com%2Fs/ecm3?ex%3Dspotx.com%26id%3D%24SPOTX_USER_ID&__user_check__=1&sync_id=fd357e17-b659-11eb-bebb-12c786060306"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=bidswitch.com&id=356d36bdd730093a62a1d8c1cf03ca96"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://us-u.openx.net/w/1.0/cm?cc=1&id=e818ca1e-0c23-caa8-0dd3-096b0ada08b7&r=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dopenx.com%26id%3D%7BOPENX_ID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=doubleclick.net&google_gid=CAESEFmbSAzS9YA6wBDa2jH9Sj8&google_cver=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=spotx.com&id=fd357dbc-b659-11eb-bebb-12c786060306"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=openx.com&id=b916f54b-9f01-cac4-37a9-0db9139239e2"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://lm.serving-sys.com/lm/acs?json={%22GUID%22:%22623becd0-34aa-4330-a86d-5a57847c7d50%22,%22Time%22:%2220210516T111838.088334%22}&rtu=https://aax-eu.amazon-adsystem.com/s/ecm3?ex=sizmek&id=[%tp_UserID%]"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ssum-sec.casalemedia.com/usermatchredir?cb=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dindex%26id%3D__UID__&s=184155&C=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=googleHMT"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=verizonums&id=y-06zoAf91l2OoD5t8rFuBf7Yr5rjrgTs-"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=index&id=KfMA_upKSYYT4U1Ekt7gMTc4cIM4ZgAC"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3D%24UID%26ex%3Dappnexus.com%26"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?id=3559309522979586852&ex=appnexus.com&"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://beacon.krxd.net/usermatch.gif?kuid_status=new&partner=amzn"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://uipglob.semasio.net/amazon/1/get2?_url=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dsemasio%26id%3D%24%7BUIPID%28%29%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=139200&dpuuid=zu7h4yYRRXug3nTj2CrgLw&redir=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dadobe.com%26id%3D%24%7BDD_UUID%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://loadus.exelator.com/load/?p=204&g=8889&j=0&xl8blockcheck=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://s.amazon-adsystem.com/ecm3?id=iLxkXQA_YLDTZEaESsms_cWWwYjZzChgQG1x_JmYjWc&ex=rubiconproject.com&status=ok"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=semasio&id=CC0763424C9B900A"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/1p-user-list/956747825/?userId=41c_c0PzTESPRWzagKKxTQ&guid=ON&script=0&is_vtc=1&random=3520291040"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=nielsen&id=7f16902006e0d6c9e704a760caa92d5d"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=fbca&id=5Bfu-30oSu6uvuN2m9Xa4g"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fex%3Dpubmatic.com%26id%3D%23PM_USER_ID&rdf=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://sync.sxp.smartclip.net/sync?type=red&dsp=90&ang_testid=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=pubmatic.com&id=C8829C2E-6903-47EA-BFC0-9EF6A6D842D6"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/pagead/1p-user-list/956747825/?userId=41c_c0PzTESPRWzagKKxTQ&guid=ON&script=0&is_vtc=1&random=3520291040&ipr=y"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=adobe.com&id=83916216331478158113026404837629927218"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://sync.sxp.smartclip.net/sync?type=host&dsp=90&uuid=3b72c58a-7fcf-4929-8093-09533b37b6e7&dspuuid=29bee290bbb3a69413d082419838ad99&red=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3D29bee290bbb3a69413d082419838ad99%26ex%3Dsmartclip"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?ex=sizmek&id=623becd0-34aa-4330-a86d-5a57847c7d50"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/ecm3?id=29bee290bbb3a69413d082419838ad99&ex=smartclip"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi.amazon.in/1/events/com.amazon.csm.csa.prod"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OE/"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://fls-eu.amazon.in/1/batch/1/OE/"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.amazon.in/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi.amazon.in/1/events/com.amazon.csm.csa.prod"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=47474747; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 47474747,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1;",
+      "is_active": true,
+      "mode": null
+    }
+  },
+  "session_storage": [
+    {
+      "content": "ZPZ7HMKAZ460BT3DJVXT",
+      "key": "csmtid"
+    },
+    {
+      "content": "{\"pid\":\"67gsty-use9t8-a8d4cp-v0jgi5\",\"tid\":\"67gsty-use9t8-a8d4cp-v0jgi5\",\"lastInteraction\":{},\"initialized\":true}",
+      "key": "csa-tabbed-browsing"
+    },
+    {
+      "content": "https://www.amazon.in/",
+      "key": "CSM_previousURL"
+    },
+    {
+      "content": "1",
+      "key": "ZPZ7HMKAZ460BT3DJVXT"
+    },
+    {
+      "content": "1621178315995",
+      "key": "rwolLastPageSet"
+    },
+    {
+      "content": "scs",
+      "key": "eelsts"
+    },
+    {
+      "content": "https://www.amazon.in/",
+      "key": "rwolLastPage"
+    }
+  ],
+  "site_url": "https://www.amazon.in\n",
+  "third_parties": {
+    "fqdns": [
+      "aax-eu.amazon-adsystem.com",
+      "ads.stickyadstv.com",
+      "amazon.partners.tremorhub.com",
+      "analytics.twitter.com",
+      "beacon.krxd.net",
+      "bs.serving-sys.com",
+      "c.amazon-adsystem.com",
+      "c1.adform.net",
+      "cm.g.doubleclick.net",
+      "completion.amazon.co.uk",
+      "dpm.demdex.net",
+      "googleads.g.doubleclick.net",
+      "ib.adnxs.com",
+      "image6.pubmatic.com",
+      "images-eu.ssl-images-amazon.com",
+      "images-na.ssl-images-amazon.com",
+      "lm.serving-sys.com",
+      "loadus.exelator.com",
+      "m.media-amazon.com",
+      "odr.mookie1.com",
+      "pixel.advertising.com",
+      "rd.frontend.weborama.fr",
+      "s.amazon-adsystem.com",
+      "spl.zeotap.com",
+      "ssum-sec.casalemedia.com",
+      "sync.search.spotxchange.com",
+      "sync.sxp.smartclip.net",
+      "tags.bluekai.com",
+      "token.rubiconproject.com",
+      "uipglob.semasio.net",
+      "unagi-eu.amazon.com",
+      "ups.analytics.yahoo.com",
+      "us-u.openx.net",
+      "usermatch.krxd.net",
+      "www.facebook.com",
+      "www.google.com",
+      "www.google.es",
+      "www.imdb.com",
+      "x.bidswitch.net"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 359
+  },
+  "tracking": {
+    "num_tracker_cookies": 47,
+    "num_tracker_requests": 86,
+    "trackers": [
+      "aax-eu.amazon-adsystem.com",
+      "ads.stickyadstv.com",
+      "amazon.partners.tremorhub.com",
+      "analytics.twitter.com",
+      "beacon.krxd.net",
+      "bs.serving-sys.com",
+      "c.amazon-adsystem.com",
+      "c1.adform.net",
+      "cm.g.doubleclick.net",
+      "dpm.demdex.net",
+      "googleads.g.doubleclick.net",
+      "ib.adnxs.com",
+      "image6.pubmatic.com",
+      "lm.serving-sys.com",
+      "loadus.exelator.com",
+      "m.media-amazon.com",
+      "odr.mookie1.com",
+      "pixel.advertising.com",
+      "rd.frontend.weborama.fr",
+      "s.amazon-adsystem.com",
+      "spl.zeotap.com",
+      "ssum-sec.casalemedia.com",
+      "sync.search.spotxchange.com",
+      "sync.sxp.smartclip.net",
+      "tags.bluekai.com",
+      "token.rubiconproject.com",
+      "uipglob.semasio.net",
+      "unagi-eu.amazon.com",
+      "ups.analytics.yahoo.com",
+      "us-u.openx.net",
+      "usermatch.krxd.net",
+      "www.google.com",
+      "www.imdb.com",
+      "x.bidswitch.net"
+    ]
+  }
+}

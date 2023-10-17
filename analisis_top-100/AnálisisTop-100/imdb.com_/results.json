@@ -1,0 +1,1605 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".imdb.com",
+      "expires": 2082787201.257036,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 461722060.257036,
+      "name": "ubid-main",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 28,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "132-8960192-3922463"
+    },
+    {
+      "domain": ".imdb.com",
+      "expires": 2082787202.009063,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 461722061.009063,
+      "name": "session-id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 29,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "132-5364475-6947118"
+    },
+    {
+      "domain": ".imdb.com",
+      "expires": 2082787202.009185,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 461722061.0091851,
+      "name": "session-id-time",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 26,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "2082787201l"
+    },
+    {
+      "domain": ".imdb.com",
+      "expires": 2082787202.009239,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 461722061.00923896,
+      "name": "session-token",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 205,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "kWlPZowib98+ktSZQ6DcmiG+imdSuTA2IxaeYHJLJyRrySZ5JWnYZ6TcVMzBZ/myNNdZ8KL3tNjKZfu8Z9eDUbP58BKTROW5F1aYPVZmuHje70rsrXBhOVnbDEcHPlI/wkfRqQBCDH6Hp6hKx0vc2Y1MZZeX22q36sBY4W4z3FlPQU/hG9IYu5Fy4ybdicpw"
+    },
+    {
+      "domain": "www.imdb.com",
+      "expires": 1651312346,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 30247205,
+      "name": "csm-hit",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 75,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "tb:s-7T59S624WEBHTR2FYNF0|1621072343628&t:1621072346398&adb:adblk_no"
+    },
+    {
+      "domain": ".scorecardresearch.com",
+      "expires": 1683280346.68991,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 62215205.689909935,
+      "name": "UID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1D6QWVN4RJFLPTTNFZ7X9Mg1621072346"
+    },
+    {
+      "domain": ".adform.net",
+      "expires": 1623750746.687504,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2685605.687504053,
+      "name": "C",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 2,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".amazon-adsystem.com",
+      "expires": 1641030746.736128,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 19965605.73612809,
+      "name": "ad-id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 28,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "A__GUfbdGUbtpKcYUy_wRQI"
+    },
+    {
+      "domain": ".amazon-adsystem.com",
+      "expires": 1782899546.736249,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 161834405.73624897,
+      "name": "ad-privacy",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 11,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0"
+    },
+    {
+      "domain": ".adform.net",
+      "expires": 1626256347.131095,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 5191206.131094933,
+      "name": "uid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 22,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "3698573678672671524"
+    },
+    {
+      "domain": ".adform.net",
+      "expires": 1621677147.131219,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 612006.1312189102,
+      "name": "TPC",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 16,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621072347090"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 5,
+    "first_party_short": 0,
+    "third_party_long": 6,
+    "third_party_short": 0,
+    "trackers": [
+      "adform.net",
+      "amazon-adsystem.com",
+      "scorecardresearch.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.imdb.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 0,
+    "window.appVersion": 0,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 0,
+    "window.mimeTypes": 0,
+    "window.platform": 0,
+    "window.plugins": 0,
+    "window.screen.colorDepth": 36,
+    "window.screen.pixelDepth": 36,
+    "window.useragent": 20
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "26cc4215e0c25f5a19c825869a99192b072341771c9e9ec588d3aa267798d862",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Amazon",
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "organizationalUnitName": "Server CA 1B"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1645225199.0,
+      "not_valid_before": 1614639600.0,
+      "serial_number": 6350291152367837243518854645517087088,
+      "subject": {
+        "commonName": "us.dd.imdb.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": true,
+      "is_ready": true
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "tb:s-7T59S624WEBHTR2FYNF0|1621072343628&t:1621072346398&adb:adblk_no",
+      "key": "csm-hit"
+    },
+    {
+      "content": "adblk_no",
+      "key": "csm:adb"
+    },
+    {
+      "content": "[\"7T59S624WEBHTR2FYNF0\"]",
+      "key": "csm-bf"
+    },
+    {
+      "content": "{\"lastActive\":{\"visible\":true,\"pid\":\"ithnkb-yrflfu-ipmsxp-l3r4m3\",\"tid\":\"ithnkb-yrflfu-ipmsxp-l3r4m3\"},\"lastInteraction\":{},\"time\":1621072344238}",
+      "key": "csa-tabbed-browsing"
+    },
+    {
+      "content": "1621075944236",
+      "key": "csa-ctoken-7T59S624WEBHTR2FYNF0"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.imdb.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.imdb.com/"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/vwLyXu6TGZtLm9M.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/DAsf-1.50.996289c._V428881811_.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/Bu3Qost2tRHAt3-.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/css/7b1fbb34.981ec34f.chunk.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/css/0b406169bbee70ef30e3e8bb799bba27a4e9514f_CSS.bc6b0d16.chunk.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/css/styles.6ed34f67.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/47.adda173a669b6deb2cfb.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/45.58c3e267d8956519ec4d.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/44.4454c5159ebe80e36bcb.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/59.a550d9dfe1dfe458881b.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/48.4d686d94ea498f8b625f.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/49.5c2c35026150d9a045fd.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/58.034a8c7fa1b5d360dace.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/57.835ce96b1a7e6b406199.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/50.45b8ca8ef7f0e9efd26a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/main-d55723c91ef34212a720.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/webpack-9ab9f77d25d4345d6440.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/framework.6f61416f80c2a27eb186.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/bd1b9a56.03ac5357e1b53e405e11.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/7b1fbb34.0c49019e1a6ae45b97d2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/commons.23df19c356318f7cc79f.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/5494b781c9de474da34a3aef7c20131706d7aa73.4f3c8ca5548e709d0d62.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/5959d23ac0c664cd8c47f73238a864d8e64938a1.bb987e71a5c1afdbeedd.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/0b406169bbee70ef30e3e8bb799bba27a4e9514f.e22ece608a4c36a5cbfc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/0b406169bbee70ef30e3e8bb799bba27a4e9514f_CSS.4d62413f4da81be1e932.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/f88330f53516de1b14448caeabfebd5f018110e3.e2a387fffdb7656115c2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/47d5e9d225d57126ba11a0de5e15c4ab797c64ff.e422a01f560836fd80c1.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/4fe19c1af0c9e6fc8d5ade07d65c03d55ab34c73.d1e28496fb3ebab59be6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/styles.77fc44f72f3316d25189.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/pages/_app-02b8d860dd04fda9f712.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/c30a072d.085d762dbaf75c0727e7.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/bd55ac7046a903ff473a6d41e94552bfc78029dd.9a8cb138e419cb0b647f.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/c26d4e9d496fe4307312300c5ff4f50adfbc2fe4.1e8b4ecaf312adf160db.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/chunks/pages/index-e756e7b47c3e1bebb43f.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:132-5364475-6947118:7T59S624WEBHTR2FYNF0$uedata=s:%2Fuedata%2Fuedata%3Fstaticb%26id%3D7T59S624WEBHTR2FYNF0:0"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/IMDb/cm9ib3Rv.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/IMDb/cm9ib3RvTWVk.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/IMDb/cm9ib3RvQm9sZA.woff2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.imdb.com/_json/getads/homepage?url=https%3A%2F%2Fwww.imdb.com%2F&subPageType=maindetails&adLayout=home&targeting=c%3D0&slotSizeMap=inline20%3D728x90%2Cinline40%3D300x250"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/kPTxYfpA5rtpynHpxa4uL/_buildManifest.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1zcggttmijv1z.cloudfront.net/_next/static/kPTxYfpA5rtpynHpxa4uL/_ssgManifest.js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX280_CR0,9,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNGJjNGIyZjItMTA2Ni00OTA2LThjMmYtNDIyOTk5NWNlNjgwXkEyXkFqcGdeQXNuZXNodQ@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BYzM3ZWYwZDMtNzYxMS00NTlmLTg5NjItZjg2NTYzOWFiMTIxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._CR55,46,1020,574_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMzU5NWIyZDUtMWFlNC00MWY3LTgxZjYtYTQ1ZGYyNjhmYzg1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNjBhMzk5ZmItNDcyNS00ODkwLWJjZWQtYzNiMThlOWI5MGJlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BY2U5YzI1NTUtNTJhNC00NWUwLWI0NjAtODIzMjU4MjlhZDQzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNmJhZDE0NTAtMDAxMy00ZGRjLTk0M2YtYjk0NTUzZGVjODVjXkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BZWFjNDczNGYtNmNmMy00ZDYzLTk1YmUtYzNmZWRhYWY4MTA3XkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMmM3YjNlOGEtZThjZi00ZGE3LWEyOTAtYWNlNmVhNTg2ZDY1XkEyXkFqcGdeQWplZmZscA@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/S/sash/59iH5a$hf971sWS.html?placement=HP%20Inline&mode=thumbnails-d&url=https://www.imdb.com"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/csm/showads.v2.js?adtag=csm&act=ads_"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/beacon.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.50.996289c._V428881809_.html"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMzU5YWYzZGMtNTE2My00NDE0LTgxNWYtZDYzYjI2YzM3OWJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BOWFiY2Q4NTEtZDU0Zi00MjU0LTlmM2UtM2NhYjExZDQ1ZDExXkEyXkFqcGdeQWFybm8@._V1_QL75_UX1000_CR0,36,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNDAzMzlkNzMtNjlhOC00YjNjLWFiZmEtNmVhZTA4ZjI3OTllXkEyXkFqcGdeQXVyNDYzNjU3ODM@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNWE1ZGE5Y2QtYWE4Yi00YjM0LThhNWYtMWM1OGJjNDU3YzMyXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNTc4MDc3YzAtYTY1MC00MDExLTlhM2MtMWQ0ZDJhNjlmYWFmXkEyXkFqcGdeQWRvb2xpbmhk._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BYzljNzQ1MzMtODI5NS00MDRlLTgzYmQtNjE1NDk4MTIxODI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTk5MWRkY2UtMTUyMy00YzhhLTk1NWEtNTk3ODQzOGRjNjRlXkEyXkFqcGdeQWFybm8@._V1_QL75_UY563_CR8,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAzYjhkN2UtM2U2Ny00MDE3LWE0OGItNDc5NGZkNjE2NWI5XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMmI2OWYwMDQtMGVkNi00NGVhLWI4YWMtMGJlZjkyNzI2ZTgwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BZjEyMmUyYmYtNTAwYi00OWUwLWJlNzEtMDM2N2QxNzIwMTdjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BM2JkNmFhYjMtNmJhYS00Y2YzLTg2ZjItYTUzMDhjMzA3OWEwXkEyXkFqcGdeQWRvb2xpbmhk._V1_QL75_UX1000_CR0,12,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BZWFjNDczNGYtNmNmMy00ZDYzLTk1YmUtYzNmZWRhYWY4MTA3XkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BYzc0YmY2YTAtYjNiZS00ZWEyLWIxODItYzAxMjFhNTJiYjU0XkEyXkFqcGdeQWFybm8@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BY2JmNzVhOGEtOGFlYi00NzgwLTg0M2QtYzU3MmE1MWU0ZjllXkEyXkFqcGdeQXVyMTk2ODc0MjY@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNDIwODM1MmItM2M2NS00MTIyLTgwOTktYTM3MDMzMmY0OWI1XkEyXkFqcGdeQWpnYW1i._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjhlZDkyYTAtZmU2ZS00MjQ2LWEwNzEtOTkzZjJhNmJjY2U5XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BOWFlYmZiODItNjM3OS00YjcxLWI5ZmMtNTYyODhiMWE4ZmU3XkEyXkFqcGdeQWpnYW1i._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNmY3M2I3ZWItNTkxZS00M2RkLTk1YTMtMzBhZWJhNDNjMWFjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BYjZjYzc3OTQtZWQxMi00MmE5LWI3NzItYTM2MWM3ZWNiMDk1XkEyXkFqcGdeQWFybm8@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.50.996289c._V428881809_.html"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.imdb.com/registration/is-user-recognized"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.imdb.com/registration/is-user-recognized"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.graphql.imdb.com/"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://api.graphql.imdb.com/"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.imdb.com/api/_ajax/metrics/ops/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?d=imdb.com&a1=&a2=0101e1d57336a70e0995795eb16cc2e1354743eb08736c081027034872d2c52d68ac&cb=165751667085&pId=&r=1&rP=https%3A%2F%2Fwww.imdb.com%2F&encoding=server&prid=010160851a5e0b692b9af5aefca63711dd0697a2ed6217a89a312c6b507df84af673"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/b?c1=2&c2=6034961&cs_ucfr=&ns__t=1621072346405&ns_c=UTF-8&cv=3.5&c8=IMDb%3A%20Ratings%2C%20Reviews%2C%20and%20Where%20to%20Watch%20the%20Best%20Movies%20%26%20TV%20Shows&c7=https%3A%2F%2Fwww.imdb.com%2F&c9="
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.taboola.com/libtrc/imdbcom/loader.js"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://m.media-amazon.com/images/S/sash/59iH5a$hf971sWS.html?placement=HP%20Inline&mode=thumbnails-d&url=https://www.imdb.com",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/IMDb/cm9ib3Rv.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://m.media-amazon.com/images/S/sash/59iH5a$hf971sWS.html?placement=HP%20Inline&mode=thumbnails-d&url=https://www.imdb.com",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/IMDb/cm9ib3RvTWVk.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://m.media-amazon.com/images/S/sash/59iH5a$hf971sWS.html?placement=HP%20Inline&mode=thumbnails-d&url=https://www.imdb.com",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/G/01/IMDb/cm9ib3RvQm9sZA.woff2"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.50.996289c._V428881809_.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUI-05b7372fc66325cf2ba76a5105035a970618cf07.secure.min._V1_.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.50.996289c._V428881809_.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/D16GKapowStatic-b1bbbfd5fb74070ef5211f1865257d8cd506a9d6.secure.min._V1_.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/adfscript/?bn=45926107;click=https://aax-eu.amazon-adsystem.com/x/c/QikDKTm3HNETjBLlKN5IU4EAAAF5b3DzUQMAAADKAaa0CVk/"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/e/loi/imp?b=IikDKTm3HNETjBLlKN5IU4EAAAF5b3DzYwMAAADKAaa0CVk"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "about:blank",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?d=imdb.com&a1=&a2=0101e1d57336a70e0995795eb16cc2e1354743eb08736c081027034872d2c52d68ac&cb=165751667085&pId=&r=1&rP=https%3A%2F%2Fwww.imdb.com%2F&encoding=server&prid=010160851a5e0b692b9af5aefca63711dd0697a2ed6217a89a312c6b507df84af673&dcc=t"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.50.996289c._V428881809_.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUI-05b7372fc66325cf2ba76a5105035a970618cf07.secure.min._V1_.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.50.996289c._V428881809_.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/D16GKapowStatic-b1bbbfd5fb74070ef5211f1865257d8cd506a9d6.secure.min._V1_.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/adfscript/?bn=45926099;click=https://aax-eu.amazon-adsystem.com/x/c/Qrde_caYp2UYGaOwcYNtIr8AAAF5b3DzUQMAAADKATn9338/"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/e/loi/imp?b=Irde_caYp2UYGaOwcYNtIr8AAAF5b3DzZwMAAADKATn9338"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=6034961&cs_ucfr=&ns__t=1621072346405&ns_c=UTF-8&cv=3.5&c8=IMDb%3A%20Ratings%2C%20Reviews%2C%20and%20Where%20to%20Watch%20the%20Best%20Movies%20%26%20TV%20Shows&c7=https%3A%2F%2Fwww.imdb.com%2F&c9="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/x/px/QikDKTm3HNETjBLlKN5IU4EAAAF5b3DzUQMAAADKAaa0CVk/atf/%7B%22atf%22:true%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/x/px/Qrde_caYp2UYGaOwcYNtIr8AAAF5b3DzUQMAAADKATn9338/atf/%7B%22atf%22:false%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/x/px/QikDKTm3HNETjBLlKN5IU4EAAAF5b3DzUQMAAADKAaa0CVk/v/%7B%22wh%22:600,%22ww%22:800,%22sx%22:0,%22sy%22:0,%22ah%22:90,%22aw%22:728,%22top%22:68,%22left%22:28.5,%22v%22:%7B%22p%22:0,%22t%22:0,%22def%22:%22amzn%22%7D,%22ptv%22:0,%22ttv%22:1621072346.561%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/x/px/QikDKTm3HNETjBLlKN5IU4EAAAF5b3DzUQMAAADKAaa0CVk/v/%7B%22wh%22:600,%22ww%22:800,%22sx%22:0,%22sy%22:0,%22ah%22:90,%22aw%22:728,%22top%22:68,%22left%22:28.5,%22v%22:%7B%22p%22:100,%22t%22:0,%22def%22:%22groupm%22%7D,%22ptv%22:0,%22ttv%22:1621072346.563%7D"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.taboola.com/libtrc/impl.20210513-4-RELEASE.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/beacon.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/b?c1=7&c2=34354936&c3=1&ns__t=1621072346633&ns_c=UTF-8&ns_if=1&cv=3.5&c8=&c7=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fsash%2F59iH5a%24hf971sWS.html%3Fplacement%3DHP%2520Inline%26mode%3Dthumbnails-d%26url%3Dhttps%3A%2F%2Fwww.imdb.com&c9=https%3A%2F%2Fwww.imdb.com%2F"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.taboola.com/libtrc/stories-vertical-ui.20210513-4-RELEASE.es6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://trc.taboola.com/imdbcom/trc/3/json?tim=11%3A52%3A26.767&lti=deflated&data=%7B%22id%22%3A673%2C%22ii%22%3A%22_homepage_%22%2C%22it%22%3A%22home%22%2C%22sd%22%3Anull%2C%22ui%22%3Anull%2C%22uifp%22%3Anull%2C%22lbt%22%3A1621010056816%2C%22vi%22%3A1621072346758%2C%22cv%22%3A%2220210513-4-RELEASE%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fwww.imdb.com%22%2C%22bv%22%3A%220%22%2C%22ul%22%3A%5B%22es-ES%22%5D%2C%22btv%22%3A%220%22%2C%22cos%22%3A%224g%22%2C%22plf%22%3A%7B%22ack_exm%22%3Atrue%7D%2C%22bad%22%3A-1%2C%22sw%22%3A800%2C%22sh%22%3A600%2C%22bw%22%3A785%2C%22sde%22%3A%221.000%22%2C%22bh%22%3A320%2C%22dw%22%3A785%2C%22dh%22%3A320%2C%22qs%22%3A%22%3Fplacement%3DHP%2520Inline%26mode%3Dthumbnails-d%26url%3Dhttps%3A%2F%2Fwww.imdb.com%22%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-h2m%22%2C%22s%22%3A4%2C%22uim%22%3A%22thumbnails-d%3Aabp%3D0%22%2C%22uip%22%3A%22HP%20Inline%22%2C%22orig_uip%22%3A%22HP%20Inline%22%2C%22cd%22%3A0%2C%22mw%22%3A785%7D%5D%2C%22cacheKey%22%3A%22home%3D_homepage_%2CHP%20Inline%3Dthumbnails-d%3Aabp%3D0%22%2C%22cb%22%3A%22TRC.callbacks.recommendations_1%22%2C%22lt%22%3A%22deflated%22%7D"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s1.adform.net/stoat/626/s1.adform.net/bootstrap.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s1.adform.net/stoat/626/s1.adform.net/bootstrap.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/adfserve/?CC=1&bn=45926099;click=https://aax-eu.amazon-adsystem.com/x/c/Qrde_caYp2UYGaOwcYNtIr8AAAF5b3DzUQMAAADKATn9338/;js=1;adfxid=1x;6395;set=es-ES|es-ES|800X600|0|300|250|24|8|3|7|1|;cmpgdpr=;cmpgdprconsent=;fd=0|0&CREFURL=https%3A%2F%2Fwww.imdb.com"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/adfserve/?CC=1&bn=45926107;click=https://aax-eu.amazon-adsystem.com/x/c/QikDKTm3HNETjBLlKN5IU4EAAAF5b3DzUQMAAADKAaa0CVk/;js=1;adfxid=2x;8077;set=es-ES|es-ES|800X600|0|750|100|24|8|3|7|1|;cmpgdpr=;cmpgdprconsent=;fd=0|0&CREFURL=https%3A%2F%2Fwww.imdb.com"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/jsmetrics/?adfserve=69&asset=223&sid=724&rid=24014&cid=259048"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s1.adform.net/stoat/626/s1.adform.net/load/v/0.0.206/e/igSBggDA/i/vCAv.IAAAAAoAA/r:AdConstructor:contents/ImageTag:types/Standard"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s1.adform.net/stoat/626/s1.adform.net/load/v/0.0.206/e/igSBggDA/i/vCAv.IAAAAAoAA/r:AdConstructor:contents/ImageTag:types/Standard"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.taboola.com/libtrc/userx.20210513-4-RELEASE.es6.js"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_234%2Cw_420%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/http%3A//cdn.taboola.com/libtrc/static/thumbnails/76a9c0b0791a54e53bc0e664dba53daf.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_234%2Cw_420%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.eam.pubocean.com/img_5fdc727f3379d6.49605250_CExsuC1jgsLI4eAtzsZrd1o7H0GAMvKyDYNiIdrMPG3FMk7Ybn_tb05.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_234%2Cw_420%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/http%3A//cdn.taboola.com/libtrc/static/thumbnails/f0dbb445c55cabcdb64824ad41423c18.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_234%2Cw_420%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/http%3A//cdn.taboola.com/libtrc/static/thumbnails/42fc988ecf19032f31a16963f54ded24.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/csimpr/?bn=45926099&csi=c0sUf6Rzti0ziU4_5aouKqHAfWP5y9znr2-mWsCO4RjrygPkIxxfk5MQOXqmexiWuaFZ58ELfdMxH1A-q-nHqt6vWmW1dlSa0"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s1.adform.net/Banners/45031537/45031537.gif?bv=2"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/csimpr/?bn=45926107&csi=hYH12Df7XP2c9gHyLzWtTlUxKC4oDbuRr2-mWsCO4RjrygPkIxxfk82zwmOK7dNxDJpB6lghy83PuYXARmu6pN6vWmW1dlSa0"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s1.adform.net/Banners/45031541/45031541.gif?bv=2"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.media-imdb.com/twilight/?PageType=homepage&Geo=ES&tw_ord=a8193e5167d1024de476e49b7cd239ff738cb17b&timestamp=2021-05-15T09%3A52%3A22GMT&Client=chrome&Site=consumer&Operation.1=ads_js_request_to_done&OperationTiming.1=291&Operation.2=inline40.got_ad&OperationTiming.2=1804&ord=6141945519326797"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.imdb.com/api/_ajax/metrics/ops/"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aax-eu.amazon-adsystem.com/x/px/QikDKTm3HNETjBLlKN5IU4EAAAF5b3DzUQMAAADKAaa0CVk/v/%7B%22wh%22:600,%22ww%22:800,%22sx%22:0,%22sy%22:0,%22ah%22:90,%22aw%22:728,%22top%22:68,%22left%22:28.5,%22v%22:%7B%22p%22:50,%22t%22:1,%22def%22:%22iab%22%7D,%22ptv%22:0,%22ttv%22:1621072347.542%7D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:132-5364475-6947118:7T59S624WEBHTR2FYNF0$uedata=s:undefined%3Fld%26v%3D0.216833.0%26id%3D7T59S624WEBHTR2FYNF0%26sw%3D800%26sh%3D600%26vw%3D785%26vh%3D600%26m%3D1%26sc%3D7T59S624WEBHTR2FYNF0%26ue%3D3%26bb%3D308%26be%3D775%26fp%3D334%26fcp%3D452%26pc%3D4288%26tc%3D-1471%26na_%3D-1471%26ul_%3D-1621072343324%26_ul%3D-1621072343324%26rd_%3D-1621072343324%26_rd%3D-1621072343324%26fe_%3D-1471%26lk_%3D-1254%26_lk%3D-1230%26co_%3D-1230%26_co%3D-1176%26sc_%3D-1216%26rq_%3D-1176%26rs_%3D-68%26_rs%3D283%26dl_%3D-57%26di_%3D915%26de_%3D916%26_de%3D916%26_dc%3D4287%26ld_%3D4288%26_ld%3D-1621072343324%26ntd%3D-1%26ty%3D0%26rc%3D0%26hob%3D0%26hoe%3D4%26ld%3D4290%26t%3D1621072347614%26ctb%3D1%26rt%3D__ld%3A82-5-32-32-9-1-1%26csmtags%3Dfls-na-amazon-com%7Cadblk_no%7Cnoadrender%3Ainline20%7Cnoadrender%3Ainline40%26viz%3Dvisible%3A3%26pty%3Dhome%26spty%3Dmain%26pti%3Dundefined%26tid%3D7T59S624WEBHTR2FYNF0%26aftb%3D1:4293"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:132-5364475-6947118:7T59S624WEBHTR2FYNF0$uedata=s:undefined%3Fld%26v%3D0.216833.0%26id%3D7T59S624WEBHTR2FYNF0%26sc0%3DLoadFonts%26bb0%3D359%26be0%3D931%26pc0%3D931%26ld0%3D931%26t0%3D1621072344255%26sc1%3DAdAJAXRequest%26bb1%3D443%26pc1%3D764%26ld1%3D764%26t1%3D1621072344088%26sc2%3Dtaboola%26bb2%3D725%26be2%3D730%26pc2%3D3485%26ld2%3D3485%26t2%3D1621072346809%26sc3%3DcsmCELLSframework%26bb3%3D887%26pc3%3D888%26ld3%3D888%26t3%3D1621072344212%26sc4%3DcsmCELLSpdm%26bb4%3D888%26pc4%3D904%26ld4%3D904%26t4%3D1621072344228%26sc5%3DcsmCELLSvpm%26bb5%3D904%26pc5%3D905%26ld5%3D905%26t5%3D1621072344229%26sc6%3DcsmCELLSfem%26bb6%3D905%26pc6%3D905%26ld6%3D905%26t6%3D1621072344229%26sc7%3DLoadSis%26bb7%3D1999%26be7%3D2141%26pc7%3D3487%26ld7%3D3487%26t7%3D1621072346811%26sc8%3Dadplacements%3Ainline20%26bb8%3D2151%26af8%3D2172%26cf8%3D2177%26be8%3D3117%26pc8%3D3823%26ld8%3D3819%26t8%3D1621072347143%26sc9%3Dadplacements%3Ainline40%26bb9%3D2255%26af9%3D2274%26cf9%3D2277%26be9%3D3131%26pc9%3D4076%26ld9%3D4071%26t9%3D1621072347395%26sc10%3Dinline40%26bb10%3D2255%26be10%3D2270%26af10%3D2278%26pc10%3D4074%26ld10%3D4074%26t10%3D1621072347398%26sc11%3Dinline40.3P%26bb11%3D2255%26be11%3D2270%26af11%3D2278%26cf11%3D4074%26pc11%3D4074%26ld11%3D4074%26t11%3D1621072347398%26ctb%3D1:4293"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/31YXrY93hfL.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:132-5364475-6947118:7T59S624WEBHTR2FYNF0$uedata=s:undefined%3Fat%26v%3D0.216833.0%26id%3D7T59S624WEBHTR2FYNF0%26ctb%3D1%26m%3D1%26sc%3D7T59S624WEBHTR2FYNF0%26pc%3D4350%26at%3D4350%26t%3D1621072347674%26pty%3Dhome%26spty%3Dmain%26pti%3Dundefined%26tid%3D7T59S624WEBHTR2FYNF0%26aftb%3D1%26ui%3D3:4350"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.graphql.imdb.com/"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNjcyYjg0M2ItMzMyZS00NmM1LTlhZDMtN2MxN2RhNWY4YTkwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY414_CR6,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY414_CR1,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX280_CR0,14,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTRkYmJlY2ItNmFlZi00OWVhLTg1ZTctOGE0MjM5ZGMwMmY4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX280_CR0,14,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTI0OGQzOWEtZWY1ZC00MTFjLThmODAtYWQ3MDk4ZGEyNGYyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTcxYTk3MWQtZThlMS00ZjQ0LTg0NjktNGVkNWM2MTAyYWJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX280_CR0,9,280,414_.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/serving/unload/?version=15&unload=3698573678672671524@@45926107,839908213720637998,100|1685|0|0|0|0|0|0|0||230|1|||||1|0|0|3wPExTATKGpcPlakbYq96cjGIEWyAz5co0MlwgvinpqFVDHoTw2zx4m3nyX34Xgm0|||11|"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://m.media-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://trc.taboola.com/imdbcom/log/3/bulk?route=AM%3AIL%3AV&lti=deflated&bulkSize=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://fls-na.amazon.com/1/batch/1/OE/"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/serving/unload/?version=15&unload=1233711981162983010@@45926099,1873054140539067912,0|0|0|0|0|0|0|0|0||0|1|||||1|0|0|WiOWeMZ4aO5cPlakbYq96WJdmF64Rd2k1VmqSYXm4TB7DfXm3dpCoYm3nyX34Xgm0|||11|"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://images-na.ssl-images-amazon.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://track.adform.net/serving/unload/?version=15&unload=3698573678672671524@@45926107,839908213720637998,100|1801|0|0|0|0|0|0|0||246|1|||||1|0|0|3wPExTATKGpcPlakbYq96cjGIEWyAz5co0MlwgvinpqFVDHoTw2zx4m3nyX34Xgm0|||01|"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://fls-na.amazon.com/1/batch/1/OE/"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.imdb.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=47474747; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 47474747,
+      "preload": true
+    },
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "1",
+      "key": "7T59S624WEBHTR2FYNF0"
+    },
+    {
+      "content": "7T59S624WEBHTR2FYNF0",
+      "key": "csmtid"
+    },
+    {
+      "content": "{\"pid\":\"ithnkb-yrflfu-ipmsxp-l3r4m3\",\"tid\":\"ithnkb-yrflfu-ipmsxp-l3r4m3\",\"lastInteraction\":{},\"initialized\":true}",
+      "key": "csa-tabbed-browsing"
+    },
+    {
+      "content": "https://www.imdb.com/",
+      "key": "CSM_previousURL"
+    }
+  ],
+  "site_url": "https://www.imdb.com\n",
+  "third_parties": {
+    "fqdns": [
+      "aax-eu.amazon-adsystem.com",
+      "cdn.taboola.com",
+      "d1zcggttmijv1z.cloudfront.net",
+      "fls-na.amazon.com",
+      "images-na.ssl-images-amazon.com",
+      "images.taboola.com",
+      "m.media-amazon.com",
+      "s.media-imdb.com",
+      "s1.adform.net",
+      "sb.scorecardresearch.com",
+      "track.adform.net",
+      "trc.taboola.com",
+      "unagi.amazon.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 140
+  },
+  "tracking": {
+    "num_tracker_cookies": 6,
+    "num_tracker_requests": 92,
+    "trackers": [
+      "aax-eu.amazon-adsystem.com",
+      "cdn.taboola.com",
+      "fls-na.amazon.com",
+      "images-na.ssl-images-amazon.com",
+      "images.taboola.com",
+      "m.media-amazon.com",
+      "s.media-imdb.com",
+      "s1.adform.net",
+      "sb.scorecardresearch.com",
+      "track.adform.net",
+      "trc.taboola.com",
+      "unagi.amazon.com"
+    ]
+  }
+}

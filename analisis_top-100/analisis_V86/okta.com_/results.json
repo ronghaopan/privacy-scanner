@@ -1,0 +1,3591 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "www.okta.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "DriftPlaybook",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 14,
+      "value": "B"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_okta_attribution",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 75,
+      "value": "{%22utm_page%22:%22/%22%2C%22utm_date%22:%2205/16/2021%22}"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_okta_session_attribution",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 83,
+      "value": "{%22utm_page%22:%22/%22%2C%22utm_date%22:%2205/16/2021%22}"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1652711748,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203,
+      "name": "_okta_original_attribution",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 84,
+      "value": "{%22utm_page%22:%22/%22%2C%22utm_date%22:%2205/16/2021%22}"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1684247749,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "_mkto_trk",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 63,
+      "value": "id:855-QAH-699&token:_mch-okta.com-1621175749065-93158"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "SimpleSAMLSessionID",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": true,
+      "size": 51,
+      "value": "fdb4457f91dac71e344918277cc0e3f2"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621179349,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 10804,
+      "name": "_web_myokta_signed_in",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 34,
+      "value": "1621175749221"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621177549,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9004,
+      "name": "drift_campaign_refresh",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 58,
+      "value": "9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9"
+    },
+    {
+      "domain": ".nr-data.net",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "JSESSIONID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 26,
+      "value": "e454f80d0a59fb74"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1652711750,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543205,
+      "name": "OptanonConsent",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 282,
+      "value": "isIABGlobal=false&datestamp=Sun+May+16+2021+16%3A35%3A50+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.5.0&hosts=&consentId=556d7ad7-f985-4fde-a1bc-5486dc96aa88&interactionCount=0&landingPath=https%3A%2F%2Fwww.okta.com%2F&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1628951750,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783205,
+      "name": "_gcl_au",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 31,
+      "value": "1.1.644624857.1621175751"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1924992000,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 303823455,
+      "name": "gtmNamespaceDeclared",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 24,
+      "value": "true"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621177550,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9005,
+      "name": "_documentReferrerSet",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 29,
+      "value": "(not set)"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1831415750,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 210247205,
+      "name": "sessionCount",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 13,
+      "value": "1"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621177550,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9005,
+      "name": "sessionIsLive",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 49,
+      "value": "e0de99cb-d815-4ab2-92c3-1426de581f11"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621177550,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9005,
+      "name": "localHour",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 11,
+      "value": "16"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621177550,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9005,
+      "name": "_protocolSet",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 18,
+      "value": "https:"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654871752.019263,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703207.01926303,
+      "name": "MUID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "value": "1F35007B7E336F23121D10427F186E9E"
+    },
+    {
+      "domain": ".6sc.co",
+      "expires": 1684247752.690738,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079207.69073796,
+      "name": "6suuid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 46,
+      "value": "5e08100203640000c72da1604b000000f4ba0f00"
+    },
+    {
+      "domain": ".postrelease.com",
+      "expires": 1652711751.244049,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543206.244049072,
+      "name": "opt_out",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 8,
+      "value": "1"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1621262163,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93618,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "value": "GA1.2.711949767.1621175751"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1621175811,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7266,
+      "name": "_dc_gtm_UA-15777010-1",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 22,
+      "value": "1"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1621175811,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7266,
+      "name": "_dc_gtm_UA-15777010-23",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 23,
+      "value": "1"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1621175811,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7266,
+      "name": "_gat_UA-15777010-7",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 19,
+      "value": "1"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1621175811,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7266,
+      "name": "_gat_UA-15777010-1",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 19,
+      "value": "1"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1684247763,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079218,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "value": "GA1.2.1330027670.1621175751"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1621175811,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7266,
+      "name": "_dc_gtm_UA-15777010-7",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 22,
+      "value": "1"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1621262152,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93607,
+      "name": "_uetsid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 39,
+      "value": "03ad85b0b65411eb8ed4b1deace75eb7"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1622579752,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 1411207,
+      "name": "_uetvid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 39,
+      "value": "03ae7400b65411eb93f46f33b78634ea"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1652711752,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543207,
+      "name": "_wchtbl_uid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Strict",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "eb9eb9b4-905d-4a3b-8c41-9885e651dd3e"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_wchtbl_sid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Strict",
+      "secure": true,
+      "session": true,
+      "size": 47,
+      "value": "7f6b5010-3693-45ec-be3b-9c9a20b6e430"
+    },
+    {
+      "domain": ".adnxs.com",
+      "expires": 1628951752.311108,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783207.311108112,
+      "name": "uuid2",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 24,
+      "value": "8929130761138092146"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1684247752,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079207,
+      "name": "_gd_visitor",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "d305aeb7-804d-4d30-892a-43bc2ef42655"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621190152,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 21607,
+      "name": "_gd_session",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "bc32172e-afb5-4e79-8ee1-f95387288854"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623767752.269381,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599207.2693810463,
+      "name": "UserMatchHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 94,
+      "value": "AQJ_Q7BVFcrRHwAAAXl1mtYdxOkl9uSD8R0sKLPDXaKycmVfaWDoTUN3DpTa85f3NyjAVxN3d1KOWQ"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623767752.269489,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599207.26948905,
+      "name": "AnalyticsSyncHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 106,
+      "value": "AQJmU1xpfUyrCQAAAXl1mtYdVKtyhsVpoku3UU0-1Xv3nxSrrX8T8CrVhzF5QZEzIfFsXzRTa4h-kOEq2Z0Tbg"
+    },
+    {
+      "domain": ".ads.linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "value": "v=2&lang=en-us"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1684289604.269557,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121059.269557,
+      "name": "bcookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 49,
+      "value": "\"v=2&0cdfb987-9d37-4acc-840e-460a46016591\""
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1621262152.269606,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93607.26960611343,
+      "name": "lidc",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 108,
+      "value": "\"b=VGST05:s=V:r=V:a=V:p=V:g=2202:u=1:i=1621175752:t=1621262152:v=2:sig=AQFus4CgjHJJmknIbZMzh3PWbK7SQnmd\""
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1684247752,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079207,
+      "name": "_gd_svisitor",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 52,
+      "value": "5e08100203640000c72da1604b000000f4ba0f00"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621780552,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 612007,
+      "name": "_an_uid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 8,
+      "value": "0"
+    },
+    {
+      "domain": ".twitter.com",
+      "expires": 1684247752.544618,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079207.54461789,
+      "name": "personalization_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "\"v1_Fn6Ad3iBqxm161LaQsLCUA==\""
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "value": "v=2&lang=es-es"
+    },
+    {
+      "domain": ".www.linkedin.com",
+      "expires": 1684289605.567696,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121060.567696095,
+      "name": "bscookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 96,
+      "value": "\"v=1&202105161435528aea52e6-e9b7-4722-86eb-9df273a700d0AQEN06pf2wOpywR1RXVI35U9-NY3_K5j\""
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621179352,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 10807,
+      "name": "_wchtbl_do_not_process",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Strict",
+      "secure": true,
+      "session": false,
+      "size": 23,
+      "value": "1"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1621179352,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 10807,
+      "name": "_wchtbl_pixel_sync",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Strict",
+      "secure": true,
+      "session": false,
+      "size": 19,
+      "value": "0"
+    },
+    {
+      "domain": ".okta.com",
+      "expires": 1684247753,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079208,
+      "name": "_ga_QKMSDV5369",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 48,
+      "value": "GS1.1.1621175750.1.0.1621175753.57"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1654871754.214722,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703209.21472192,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 70,
+      "value": "AHWqTUlw4ApQch1rqgu6ikB2bH87nJHivTByFbquLgsXfeDA0BJ-Fnd0U-1hGfCLwUw"
+    },
+    {
+      "domain": ".steelhousemedia.com",
+      "expires": 1715783755.979182,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 94615210.979182,
+      "name": "guid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 40,
+      "value": "051e6c0c-b654-11eb-903a-f16e125a399c"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1684247754,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079209,
+      "name": "drift_aid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 45,
+      "value": "8db264fd-2e9b-49dd-b83e-7d4e25f3fb8b"
+    },
+    {
+      "domain": "www.okta.com",
+      "expires": 1684247754,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079209,
+      "name": "driftt_aid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 46,
+      "value": "8db264fd-2e9b-49dd-b83e-7d4e25f3fb8b"
+    },
+    {
+      "domain": ".px.steelhousemedia.com",
+      "expires": 1715783755.979064,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 94615210.97906399,
+      "name": "tt",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 94,
+      "value": "H4sIAAAAAAAAAKtWMjY0NrGMN7IwtlCyMjQzMjQ0NzU3NbUwtNBRKlOyMtJR8guKR1ZjgCxibmkMFKkFADPuZJBGAAAA"
+    },
+    {
+      "domain": ".steelhousemedia.com",
+      "expires": 1715783755.979147,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 94615210.97914696,
+      "name": "rt",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 28,
+      "value": "\"MzEzNDk6MTYyMTE3NTc1NQ==\""
+    },
+    {
+      "domain": ".adsrvr.org",
+      "expires": 1652711756.482533,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543211.482532978,
+      "name": "TDID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 40,
+      "value": "87e0b500-fb1d-423a-ba9d-d1905bdea430"
+    },
+    {
+      "domain": ".adsrvr.org",
+      "expires": 1652711756.482643,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543211.48264289,
+      "name": "TDCPM",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 37,
+      "value": "CAEYBSABKAIyCwi8nc3Y1KDMORAFOAE."
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 17,
+    "first_party_short": 19,
+    "third_party_long": 16,
+    "third_party_short": 3,
+    "trackers": [
+      "6sc.co",
+      "adnxs.com",
+      "adsrvr.org",
+      "bing.com",
+      "doubleclick.net",
+      "linkedin.com",
+      "nr-data.net",
+      "postrelease.com",
+      "steelhousemedia.com",
+      "twitter.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.okta.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 3,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 3,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 17,
+    "window.navigator.languages": 8,
+    "window.navigator.mimeTypes": 2,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 16,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 45,
+    "window.navigator.vendor": 1,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 16,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-15777010-1",
+      "UA-15777010-23",
+      "UA-15777010-7"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "677b05668ec09871d7f8b006de25faf98db70686858829776c2b46b97ba8f76f",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 High Assurance Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1646391600.0,
+      "not_valid_before": 1583276400.0,
+      "serial_number": 16424260555258213314875875256595867868,
+      "subject": {
+        "commonName": "www.okta.com",
+        "countryName": "US",
+        "localityName": "San Francisco",
+        "organizationName": "Okta, Inc.",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://www.okta.com/contact-sales/",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "3.5.1"
+  },
+  "local_storage": [
+    {
+      "content": "{\"data\":\"{}\"}",
+      "key": "intellimize_integrations_117351982"
+    },
+    {
+      "content": "[]",
+      "key": "DRIFT_openTabs"
+    },
+    {
+      "content": "[{\"landingPage\":\"/\",\"date\":\"2021-5-16\",\"cid\":\"1330027670.1621175751\",\"source\":\"(direct)\",\"medium\":\"(none)\",\"referrer\":\"\"}]",
+      "key": "__storejs_adMind_sources"
+    },
+    {
+      "content": "{\"total\":1,\"daysSinceLastVisit\":0,\"lastVisit\":1621175755037,\"firstVisit\":1621175755037,\"lastSessionId\":\"5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f\",\"/\":1,\"currentSessionStartedAt\":1621175755037}",
+      "key": "DRIFT_visitCounts"
+    },
+    {
+      "content": "[\"4726cb73-5556-4213-b784-866eaef2f013_1621434951894\"]",
+      "key": "_tab_ids"
+    },
+    {
+      "content": "{\"dismissed\":false,\"locale\":{\"country\":{\"code\":\"es\",\"name\":\"Spain\"}},\"time\":1621175748841}",
+      "key": "Okta.locale"
+    },
+    {
+      "content": "{\"company\":{\"country\":\"\",\"city\":\"\",\"state\":\"\"},\"segments\":[],\"scores\":{}}",
+      "key": "_6senseCompanyDetails"
+    },
+    {
+      "content": "NaN",
+      "key": "lastDriftSessionNumber"
+    },
+    {
+      "content": "{\"data\":\"{\\\"c\\\":false,\\\"ct\\\":1621175747,\\\"vr\\\":2,\\\"s\\\":{\\\"st\\\":1621175747,\\\"id\\\":\\\"1621175747-501c-af7e-9258cd0c4636\\\",\\\"t\\\":1621175748},\\\"cpg\\\":{\\\"217054223\\\":{\\\"exp\\\":{\\\"417200841\\\":{\\\"i\\\":true,\\\"it\\\":1621175747,\\\"v\\\":\\\"617038964\\\",\\\"vt\\\":1621175748,\\\"mv\\\":\\\"6f29709-11c\\\",\\\"gpvid\\\":\\\"f75e6b6d-f8c8-4b90-a1f7-fd298b0aeacf\\\",\\\"gsid\\\":\\\"1621175747-501c-af7e-9258cd0c4636\\\"}}},\\\"217054473\\\":{\\\"exp\\\":{\\\"417201682\\\":{}}}},\\\"uu\\\":{\\\"217054223:v\\\":1621175747,\\\"217054223:417200841:617038964:v\\\":1621175747}}\"}",
+      "key": "intellimize_117351982"
+    },
+    {
+      "content": "Tue, 01 Jun 2021 20:35:52 GMT",
+      "key": "_uetvid_exp"
+    },
+    {
+      "content": "{\"data\":\"R1AIa0ZQDi5rRlBCeQ9RUFUnKwAQDiljBwEIOitZFhAlYwcWBi0rWVNVb3xGR1UJa0ZQEyMjERETKyMER1V4a0cjVnx8RVNQf3lAVEJ4DVFQVS82BAcVIysaAQIHIRAHCzlrRlBCeQ9RVSVvfEZWVn18RFJfeHxRUFVvfTVHUAhrRlAKJSoRDjEvPAcLCCRrRlBCeQ9RUFV8KEZbUHp3WVNWKWtGUEJ4DVFQVSwrFRYSOCsiBwQ+IQZHVXhrRyNCfQxRUFUPGFFRI35/Q1BXenZGUEp8f0NSU3t4QlVCeHxRUSZnfFpTV3p+TVdTeHhDV1N/fUVaQngNUVBVDxhRUSN+f0NQV3p2RlBKfH9DUlRydkxaQnh8UVEmZ3xaU1JzekxTX3N6QlZVeXhCR1UJa0ZQIhxrRyZTe3lGUldyfEZPUXt5RFZWfHhCR1V4a0cjSnhgRFJWfXxHVlV/f0ZQVHt/R0dQDmtDJkJ4DVFQVX5/Q1BXenZAU0J4fFFRJm95NkdVeCMbBgImGBEQFCMhGkdVeGtHI0J4fEIEVXN5RFtKe38XR1V4a0YhQnh8EgcGPjsGBzEvLQANFW98RkdUC2tDIEJ4fDE0QnkKQFNQeH5EWlN7Y0JTUHp9TFtRfmtGUEJ5D1lXSXl4R1dVfnhDWlZyeENSU295MEdQDmtGIUJ4fEBTUHh+RFtXeWtGUEJ5D1FVJW98Rg8ILisYNAI4PR0NCW98RkdUC2tGUFEsfE1VV3NjRVMEb3xGR1UJa0ZQAS8vABcVLxgRARMlPFFQVW99NUdQCGtGUCIca0cmU3t5RlJXc35HT1F7eURWVnl2QUdVeGtHI0p4YEdQVHx3RFBefXdCUF94d1FQJG98Ricxb30wVlZ9fERSXnp9WVRWfX5AU1RyelFQVW99NU9VZH1GUlF/fkdXX3N2R1pQf2tGIUJ4fDE0QnkKQFNQeH5EW1d5Y0JTUHp9TVBWc2tGUEJ5D1lQSXh7QFdSeHdEUlVyeUBWU298N0dVeAsiR1QOekVVVXp+TVJUZ3hFVVd5d0ZTX298RkdUC2NGTFR9e0dVVnl6R1ZTc31HUVRveTBHUA5rRiFCeHxAU1B4fkRbUnhrRlBCeQ9RVSVvfEYPCC4rGDQCOD0dDQlvfEZHVAtrRlBRLHxNVVdzY0VTBG98RkdVCWtGUAEvLwAXFS8YEQETJTxRUFVvfTVHUAhrRlAiHGtHJlN7eUZSV3N7Rk9Re3lEUV55dkdHVXhrRyNKeGBFV1RzdkVTUH9/TFdVfHxDR1UJa0ZQIhxrRyZTe3lGUldze0ZPUXt5RFFeeXZAR1V4a0cjSnhgRFdWf31GWlR8f0FXV31/TEdQDmtDJkJ4DVFQVX5/Q1BXe35HVkJ4fFFRJm95NkdVeCMbBgImGBEQFCMhGkdVeGtHI0J4fEIAUXp6FgNKKHxHAUJ4fFFQJG98RgQCKzoBEAIcKxcWCDhrRlBCeQ9RVSVvfEYnMW99MFZWfXxEU1d5ellUVn1+R1tRfntRUFVvfTVSSXx4TVpffXtAU1N8d0NXUHxrRiFCeHwxNEJ5CkBTUHh+RVJUfmNCU1B6fU1UU35rRlBCeQ9ZUklzfExTVnN/QlJVf3hEVlZ/a0MmQn0KUVAkb3xGVlZ9fERTV3l7UVBVb301R1AIa0ZQCiUqEQ4xLzwHCwgka0ZQQnkPUVBVfCxCUlMoL1kAVXktUVBVb3w3R1V4KBEDEz88ETQCKTobEEJ4fFFRJm95NkdVeAsiR1QOekVVVXp/RFFSZ3hFVVd5d0JWX298RkdUC2NETFB/ekBUX3N8TFRReHhGV1BvfDdHVXgLIkdUDnpFVVV6f0RRUmd4RVVXeXdCVl5vfEZHVAt+WlBTfH5EU1R8fkBRUXJ7TFpfb3kwR1AOa0YhQnh8QFNQeH5FUlR8a0ZQQnkPUVUlb3xGDwguKxg0Ajg9HQ0Jb3xGR1QLa0ZQUSh4RFYFK2MWUFQpa0ZQQngNUVBVLCsVFhI4KyIHBD4hBkdVeGtHI0J9DFFQVQ8YUVEjfn9DUFd7fkdUSnx/Q1JUc3hAVUJ4fFFRJnpgR1FffXxDVl5zekRWXn52R0dVCWtGUCIca0cmU3t5RlJWen1CT1F7eURRXnx6QkdVeGtHI1dkf0JQUnt7RltVen5CUlF4eEdHUA5rQyZCeA1RUFV+f0NQV3t6RlNCeHxRUSZveTZHVXgjGwYCJhgREBQjIRpHVXhrRyNCeHxCBFVzeURbSnt/F0dVeGtGIUJ4fBIHBj47BgcxLy0ADRVvfEZHVAtrQyBCeHwxNEJ5CkBTUHh+RVZVe2NCU1B6ekVSUnhrRlBCeQ9ZUEl5f0NUVHx+RFdRcnhEVFJ8a0YhQnh8MTRCeQpAU1B4fkVWVXtjQlNQenpFUlJ5a0ZQQnkPWVBJeHhGVFF9ekFaX3x2RlBUfmtGIUJ4fDE0QnkKQFNQeH5FVlV7Y0JTUHp6RVJSfmtGUEJ5D1lQSXl/QFFVe3dNVl95d0RaVXlrQyZCfQpRUCRvfEZWVn18RFNTeHZRUFVvfTVHUAhrRlAKJSoRDjEvPAcLCCRrRlBCeQ9RUFV8KEZbUHp3WVNWKWtGUEJ4DVFQVSwrFRYSOCsiBwQ+IQZHVXhrRyNCfQxRUFUPGFFRI35/Q1BXe3pGWkp8f0NSU3t+Q1ZCeHxRUSZnfFpQUnJ9Q1RXfn9HWlV9ekJVQngNUVBVDxhRUSN+f0NQV3t6RlpKfH9DUlN7fkNRQnh8UVEmZ3xaUFN9d01TVH59TFFVeHhAVUJ9ClFVI298N0dVeHpFVVV6f0BRVG98RkdUC2tDIEJ4fBkNAy8iIgcVOScbDEJ4fFFRJm98RlQBeHdDUl5nf0UBQnh8UVAkb3xGBAIrOgEQAhwrFxYIOGtGUEJ5D1FVJW98Ricxb30wVlZ9fERTU3l9WVRWfX5AU1dzflFQVW99NU9VZHxCVl98dkFQVXt5Q1ZVcmtGIUJ4fDE0QnkKQFNQeH5FVlR5Y0JTUHp6RVJfc2tGUEJ5D1lQSXh7QlpSfnpAVVR6e0FaXnxrQyZCfQpRUCRvfEZWVn18RFNSenZRUFVvfTVHUAhrRlAKJSoRDjEvPAcLCCRrRlBCeQ9RUFV8KEZbUHp3WVNWKWtGUEJ4DVFQVSwrFRYSOCsiBwQ+IQZHVXhrRyNCfQxRUFUPGFFRI35/Q1BXe3tEWkp8f0NSU3t9QFBCeHxRUSZnf1pSVnp3R1NfenZBVFd6f0JHVQlrRlAiHGtHJlN7eUZSVn9+TE9Re3lEVlZ5ekVHVXhrRyNKe2BFVlR7f0dQVX95QFJefX5GR1AOa0MmQngNUVBVfn9DUFd7eEVQQnh8UVEmb3k2R1V4IxsGAiYYERAUIyEaR1V4a0cjQnh8QgRVc3lEW0p7fxdHVXhrRiFCeHwSBwY+OwYHMS8tAA0Vb3xGR1QLa0MgQnh8MTRCeQpAU1B4fkVUVnhjQlNQenpFVFJ8a0ZQQnkPWVBJeH5DVV97ekxSUH1+QVRVb3w3R1V4CyJHVA56RVVVen9CU1VneEVVV35/QldSb3xGR1QLY0ZMVHp4QlNVfH5GU1d8eUZRUm95MEdQDmtGIUJ4fEBTUHh+RVRfeGtGUEJ5D1FVJW98Rg8ILisYNAI4PR0NCW98RkdUC2tGUFEsfE1VV3NjRVMEb3xGR1UJa0ZQAS8vABcVLxgRARMlPFFQVW99NUdQCGtGUCIca0cmU3t5RlJWfHZGT1F7eURWVnN8TUdVeGtHI0p+YEFWXn93RVdeenhNWlF/eFFQJG98Ricxb30wVlZ9fERTUXJ8WVRWfX5AU154dlFQVW99NU9TZHtMUVF/ekZUUHh7Q1pTfWtDJkJ9ClFVI295MA==\"}",
+      "key": "intellimize_policy_117351982"
+    },
+    {
+      "content": "{\"data\":\"{\\\"id\\\":\\\"ef951ee6df.1621175747\\\",\\\"custom\\\":{},\\\"internal\\\":{\\\"ts\\\":\\\"DN\\\",\\\"userAlias\\\":{\\\"__marketoCookie\\\":\\\"_mch-okta.com-1621175749065-93158\\\"}}}\"}",
+      "key": "intellimize_attributes_117351982"
+    },
+    {
+      "content": "{\"data\":\"{\\\"twenty-percent-roll\\\":45}\"}",
+      "key": "intellimize_api_117351982"
+    },
+    {
+      "content": "Mon, 17 May 2021 14:35:52 GMT",
+      "key": "_uetsid_exp"
+    },
+    {
+      "content": "{\"kn3ivuny969s\":[2317199]}",
+      "key": "DRIFT_SESSION_CAMPAIGNS"
+    },
+    {
+      "content": "eyJhbGciOiJIUzI1NiJ9.eyJmaWx0ZXIiOiIoQHd3d2NvbW1vbmNvbnRlbnR0eXBlIE5PVCBAc2ZrYmlkKSBPUiAoQHNma2JpZCAoQHNmaXN2aXNpYmxlaW5wa2I9XCJ0cnVlXCIpKSIsInVzZXJHcm91cHMiOlsiT2t0YSBHdWVzdCBQcm9maWxlIl0sInNlYXJjaEh1YiI6Ind3dy1va3RhLWNvbSIsInY4Ijp0cnVlLCJvcmdhbml6YXRpb24iOiJva3RhcHJvZHVjdGlvbjlvdW52Y3hhIiwidXNlcklkcyI6W3sicHJvdmlkZXIiOiJFbWFpbCBTZWN1cml0eSBQcm92aWRlciIsIm5hbWUiOiJhbm9ueW1vdXMiLCJ0eXBlIjoiVXNlciJ9XSwicm9sZXMiOlsicXVlcnlFeGVjdXRvciJdLCJ1c2VydHlwZSI6Ikd1ZXN0IiwiZXhwIjoxNjIxMjYyMTUwLCJpYXQiOjE2MjExNzU3NTB9.AWNwI7sn-pV8vRjAodcWnT65LFHA5W7tYBWsIQAHVxk",
+      "key": "coveo.access_token"
+    },
+    {
+      "content": "03ae7400b65411eb93f46f33b78634ea",
+      "key": "_uetvid"
+    },
+    {
+      "content": "{\"data\":\"ef951ee6df.1621175747\"}",
+      "key": "intellimize_user_117351982"
+    },
+    {
+      "content": "03ad85b0b65411eb8ed4b1deace75eb7",
+      "key": "_uetsid"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.okta.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/"
+    },
+    {
+      "mime_type": "font/opentype",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/fonts/ABCWhyte/ABCWhyte-Medium.otf"
+    },
+    {
+      "mime_type": "font/opentype",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/fonts/ABCWhyte/ABCWhyte-Book.otf"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.intellimize.co/client/117351982.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/css/css_N2IN2NVDFJ8T801scCc_8yhaEDYfz_tSEo-gE7CcZUQ.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/css/global.css?qt2hyj"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/css/css__d1OmTzi5UjUCSx3Gb2wk-sbcyE7bFLVpvzTT9sejcY.css"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/images/logo.svg?v2"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Workforce-ID-Solutions-Remote-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Workforce-ID-Solutions-Zero%20Trust-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Workforce-ID-Solutions-Onboarding%250D-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Workforce-ID-Solutions-IT%20efficiency-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Cloud-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Workforce-ID-Solutions-External%20collaboration-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Workforce-ID-Solutions-Office%20365-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Customer-id-solutions-Digital-platform-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Customer-id-solutions-User-trust-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Customer-id-solutions-Modern-identity-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Customer-id-solutions-Build-scalable-apps-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Customer-id-solutions-Secure-APIs-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Customer-id-solutions-Account-protection-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Customer-id-solutions-Integrate-Apps-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_SSO_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_Universal-Directory_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_ASA_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_API-Access-Mgmt_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_Authentication_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_User-Mgmt_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_B2B-Integration_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_MFA_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_Lifecycle-Mgmt_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/WEB_Icon_Product_Access-Gateway_40x40-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Coding-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Docs-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/mark-icons-Directory-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Webinar-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_MessagingConversation-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Launch2-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Datasheet2-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_AppsLaptop-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Calendar_0.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_IdentitySecurity-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Training-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Certification-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Partners4-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_OrgPhysicalBuildingPremises-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_GroupOfPeopleUsers-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Handshake2-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Team-goal-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_OrganizationPeople-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_OrgEmployee-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Global-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Heart-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Handshake1-Nav.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Icon_T1_100x100_Money2-Nav.svg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/2021-02/a1_r06_v16_transp_cropped_1024px_f0000.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/images/featured-product-tiles/customer-420x420.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/images/featured-product-tiles/workforce-420x420.png"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/images/icon-globe.svg"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/js/js_t50NnuB1F68BDeQMvEnJSsGvnbe03nsVQOBZOHt2p6w.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/modules/custom/okta_coveo_search/js/load_scripts.js?v=1.x"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/js/js_SoEUSj2HEfZCQ3VMg8SZs58vrcECNTkmYdKzCUr9EVU.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/js/external/drift_attribution.min.js?v=1.x"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geoip-js.com/js/apis/geoip2/v2.1/geoip2.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/js/js__XYkYrSZPHGvsIvBaljzie002ztSt1xXh97tiyQLblQ.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://117351982.intellimizeio.com/storage.html"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://log.intellimize.co/clientlogger?ll=e&cid=117351982&rid=557c1929-1a0a-44ca-8a58-afcda02fcb21&pvid=f75e6b6d-f8c8-4b90-a1f7-fd298b0aeacf&hpurl=https%3A%2F%2Fwww.okta.com%2F&uid=ef951ee6df.1621175747&v=v3.756fc06&m=Audience%20(187595019)%20code%20execution%20failed%20Cannot%20read%20property%20%27segments%27%20of%20null&en=TypeError&es=TypeError%3A%20Audience%20(187595019)%20code%20execution%20failed%20Cannot%20read%20property%20%27segments%27%20of%20null%0A%20%20%20%20at%20Object.hasSegment%20(eval%20at%20e.eval%20(https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A99508)%2C%20%3Canonymous%3E%3A633%3A67)%0A%20%20%20%20at%20eval%20(eval%20at%20e.eval%20(https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A99508)%2C%20%3Canonymous%3E%3A3%3A23)%0A%20%20%20%20at%20eval%20(eval%20at%20e.eval%20(https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A99508)%2C%20%3Canonymous%3E%3A4%3A3)%0A%20%20%20%20at%20eval%20(%3Canonymous%3E)%0A%20%20%20%20at%20Function.e.eval%20(https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A99508)%0A%20%20%20%20at%20e.evalBoolean%20(https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A99180)%0A%20%20%20%20at%20t.matches%20(https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A129196)%0A%20%20%20%20at%20https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A320680%0A%20%20%20%20at%20Array.filter%20(%3Canonymous%3E)%0A%20%20%20%20at%20e.reinitialize%20(https%3A%2F%2Fapi.intellimize.co%2Fclient%2F117351982.js%3A40%3A320653)"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://log.intellimize.co/logger?et=pv&ieuid=ef951ee6df.1621175747&isftu=true&icip=2.59.233.173&o.pid=117351982&vs=visible&cgv=v3.756fc06&rid=557c1929-1a0a-44ca-8a58-afcda02fcb21&pvid=f75e6b6d-f8c8-4b90-a1f7-fd298b0aeacf&sid=1621175747-501c-af7e-9258cd0c4636&pid=metric-scope-two-stage-12&pts=1621175746&cs=i&hpurl=https%3A%2F%2Fwww.okta.com%2F&iuad=a723eaef13dc6ab6c00ec78c708dcf3c&lut=1621175747334&ltz=Europe%2FMadrid&bww=800&bwh=600&so=landscape&ia=%7B%22ts%22%3A%22DN%22%7D&pids=%5B%22137695481%22%2C%22137695708%22%2C%22137696613%22%2C%22137696631%22%2C%22137696651%22%2C%22137696652%22%5D&aids=%5B%22187594789%22%5D"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.intellimize.co/integration-data/117351982?intellimizeUserId=ef951ee6df.1621175747&requestTimestamp=1621175746&requestHash=ZP4t74ta3HkzwnDhyC1Ojw%3D%3D"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KXMLV58"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W6V5JSK"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/sites/default/files/css/css__d1OmTzi5UjUCSx3Gb2wk-sbcyE7bFLVpvzTT9sejcY.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/images/backgrounds/tile-cube-1.png"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/sites/default/files/css/css__d1OmTzi5UjUCSx3Gb2wk-sbcyE7bFLVpvzTT9sejcY.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/images/backgrounds/cta-centered-top-right-white.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/sites/default/files/css/css__d1OmTzi5UjUCSx3Gb2wk-sbcyE7bFLVpvzTT9sejcY.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/images/backgrounds/cta-centered-bottom-right-white.svg"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/fonts/ABCWhyte/ABCWhyte-Book.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/fonts/ABCWhyte/ABCWhyte-Medium.woff"
+    },
+    {
+      "mime_type": "video/webm",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://www-assets.okta.com/homepage/a1_r06_v16_transp_cropped_mov_1M_crf63_1024px.webm"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://munchkin.marketo.net/munchkin.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://log.intellimize.co/logger?et=v&o.cgd=217054223&o.eid=417200841&o.vid=617038964&icft=true&ivft=true&mv=6f29709-11c&isp=true&iss=false&ifb=false&fb=%5B%5D&ictxt=%7B%22TS%22%3A%5B%22DN%22%5D%2C%22TZ%22%3A%5B%22Europe%2FMadrid%22%5D%2C%22DP%22%3A%5B%22DT%22%5D%2C%22WP%22%3A%5B%22WE%22%5D%2C%22PID%22%3A%5B%22137695481%22%2C%22137695708%22%2C%22137696613%22%2C%22137696631%22%2C%22137696651%22%2C%22137696652%22%5D%2C%22IFTU%22%3A%5B%22true%22%5D%2C%22AID%22%3A%5B%22187594789%22%5D%7D&ieuid=ef951ee6df.1621175747&isftu=true&icip=2.59.233.173&o.pid=117351982&vs=visible&cgv=v3.756fc06&rid=557c1929-1a0a-44ca-8a58-afcda02fcb21&pvid=f75e6b6d-f8c8-4b90-a1f7-fd298b0aeacf&sid=1621175747-501c-af7e-9258cd0c4636&pid=metric-scope-two-stage-12&pts=1621175746&cs=i&hpurl=https%3A%2F%2Fwww.okta.com%2F&iuad=a723eaef13dc6ab6c00ec78c708dcf3c&lut=1621175748489&ltz=Europe%2FMadrid&bww=800&bwh=600&so=landscape&ia=%7B%22ts%22%3A%22DN%22%7D&pids=%5B%22137695481%22%2C%22137695708%22%2C%22137696613%22%2C%22137696631%22%2C%22137696651%22%2C%22137696652%22%5D&aids=%5B%22187594789%22%5D"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://log.intellimize.co/clientlogger?ll=e&cid=117351982&rid=557c1929-1a0a-44ca-8a58-afcda02fcb21&pvid=f75e6b6d-f8c8-4b90-a1f7-fd298b0aeacf&hpurl=https%3A%2F%2Fwww.okta.com%2F&uid=ef951ee6df.1621175747&v=v3.756fc06&m=iFrame%20did%20not%20load%20in%201000%20ms"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/oktaapi/myokta/session"
+    },
+    {
+      "mime_type": "application/vnd.maxmind.com-city+json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geoip-js.com/geoip/v2.1/city/me?referrer=https%3A%2F%2Fwww.okta.com"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/modules/custom/okta_coveo_search/js/lib/CoveoJsSearch.Lazy.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/include/1621176000000/kn3ivuny969s.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://munchkin.marketo.net/160/munchkin.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://855-qah-699.mktoresp.com/webevents/visitWebPage?_mchNc=1621175749067&_mchCn=&_mchId=855-QAH-699&_mchTk=_mch-okta.com-1621175749065-93158&_mchHo=www.okta.com&_mchPo=&_mchRu=%2F&_mchPc=https%3A&_mchVr=160&_mchEcid=&_mchHa=&_mchRe=&_mchQp="
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://log.intellimize.co/user-alias"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://log.intellimize.co/user-alias"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/ae06a559-1e13-4071-9511-910ac107cf0a/ae06a559-1e13-4071-9511-910ac107cf0a.json"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/chat"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js-agent.newrelic.com/nr-1208.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/modules/custom/okta_coveo_search/js/okta_coveo_search.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://wt1ugse0be.execute-api.us-west-2.amazonaws.com/prod/token/?site=www"
+    },
+    {
+      "mime_type": "video/webm",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/videos/featured-product-tiles/customer.webm"
+    },
+    {
+      "mime_type": "video/webm",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/videos/featured-product-tiles/workforce.webm"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/runtime~main.9fbac000.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/39.00daf76c.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/24.51b9fb55.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/19.afca98a9.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/31.66558c5d.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/18.afae54c8.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/20.b1014b02.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/36.9240267e.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/34.e9aa1a63.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/14.b0278960.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~493df0b3.62d159f1.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~970f9218.c5d671ef.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~89e24786.52bc12fb.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~53ca99a6.c6e33c8e.chunk.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://bam.nr-data.net/1/NRJS-8ab1426d2abb8b83c8a?a=429312246&v=1208.49599aa&to=ZV1aYUIFChZSWkBZDlwXeVZEDQsLHH1GRRFTVGRbXwABOXBWWkQTXVRUUEI4KgpXXGJZBEV7V1tEFgsJX1xGHV9EUV1C&rst=3935&ck=1&ref=https://www.okta.com/&ap=834&be=771&fe=3702&dc=2643&perf=%7B%22timing%22:%7B%22of%22:1621175745870,%22n%22:0,%22f%22:1,%22dn%22:538,%22dne%22:589,%22c%22:589,%22s%22:603,%22ce%22:638,%22rq%22:638,%22rp%22:686,%22rpe%22:766,%22dl%22:698,%22di%22:2344,%22ds%22:2643,%22de%22:2824,%22dc%22:3678,%22l%22:3701,%22le%22:3712%7D,%22navigation%22:%7B%7D%7D&fp=2314&fcp=2314&at=SRpZFwofGRg%3D&jsonp=NREUM.setToken"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.5.0/otBannerSdk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/37.1524c45f.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/35.cfdb5c47.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/29.2a721b89.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/32.71167ac0.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/32.3cd5627d.chunk.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/ae06a559-1e13-4071-9511-910ac107cf0a/79730750-cc42-49da-a8b1-2290dbbfe4b2/en.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/runtime~main.9fbac000.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/39.00daf76c.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/24.51b9fb55.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/19.afca98a9.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/31.66558c5d.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/18.afae54c8.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/20.b1014b02.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/36.9240267e.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/34.e9aa1a63.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/14.b0278960.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~493df0b3.62d159f1.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~970f9218.c5d671ef.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~89e24786.52bc12fb.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/main~53ca99a6.c6e33c8e.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/37.1524c45f.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/35.cfdb5c47.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/29.2a721b89.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/32.71167ac0.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/32.3cd5627d.chunk.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.5.0/assets/otFlat.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.5.0/assets/otPcTab.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/0.45eb4005.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/1.0af467a5.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/28.9cdbaf61.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/2.939f0edf.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/2.4cd53141.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/27.02e62d23.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/27.8a04ae12.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/0.45eb4005.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/33.e776e5b0.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/33.94f6fafc.chunk.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/modules/custom/okta_coveo_search/js/lib/Omnibox.min__769a55a4390a49bbd611.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/modules/custom/okta_coveo_search/js/lib/SearchButton.min__769a55a4390a49bbd611.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-QKMSDV5369&l=dataLayer&cx=c"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/js/external/steelhouse-tracking.min.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.ads-twitter.com/uwt.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://bat.bing.com/bat.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://j.6sc.co/6si.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/js/external/metadata-io.min.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "g",
+      "url": "https://j.mrpdata.net/u.gif?g=hylzdeMFK2xY9OTPHW2IwV1JeT+7B3yHQrxqSRJtAAw=&pd=eyJ3ZWJ0cmFja2VyIjoiMi4wIn3e4bPXaJOLfs6WjnYOMJNA&gtmcb=1665667607"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://jadserve.postrelease.com/rt.gif?ntv_tg=473396d05bd542a08209aa3438b16501&ord=940764906"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.ml-attr.com/getuid?https%3a%2f%2fattr.ml-api.io%2f%3fdomain%3dwww.okta.com%26pId%3d%24UID"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://jadserve.postrelease.com/rt.gif?ntv_tg=473396d05bd542a08209aa3438b16501&ord=207956142"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/themes/custom/okta_www_theme/js/external/chartable.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/1.0af467a5.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/7.07aa08a5.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/7.d2b06f0f.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/4.83e6fbb0.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/2.939f0edf.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/2.4cd53141.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/8.be5de6bd.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/8.e88f9167.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/6.f255bf33.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/6.d3be9570.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/3.0ea1fc6e.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/3.630f5bec.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/5.aa6aede7.chunk.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/css/25.0f3076d4.chunk.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/25.1eac91ab.chunk.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-15777010-1&cid=1330027670.1621175751&jid=759145879&gjid=32115668&_gid=711949767.1621175751&_u=YGBAgEABAAAAAE~&z=1854428804"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-15777010-23&cid=1330027670.1621175751&jid=1779807265&gjid=1258509162&_gid=711949767.1621175751&_u=YGDAgEABAAAAAE~&z=1959497387"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=Intellimize&ea=Tracking%20Campaign&el=intellimize_active&_u=YGDACEABBAAAAG~&jid=957954028&gjid=1602770106&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&_r=1&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175750877&cd36=intellimize_active&cd53=GTM-KXMLV58&z=28610332&cd52=477"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=ScrollTracking&ea=10%25&el=%2F&_u=YGDACEABBAAAAG~&jid=693553299&gjid=860759853&cid=1330027670.1621175751&tid=UA-15777010-1&_gid=711949767.1621175751&_r=1&gtm=2wg5c1KXMLV58&z=1684406780"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=pageview&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=YGBAgEAB~&jid=759145879&gjid=32115668&cid=1330027670.1621175751&tid=UA-15777010-1&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&z=802754979"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=pageview&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=YGDAgEABAAAAAE~&jid=1779807265&gjid=1258509162&cid=1330027670.1621175751&tid=UA-15777010-23&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=pageview&z=1389077393&cd52=357"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=ScrollTracking&ea=10%25&el=%2F&_u=YGDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175750952&cd53=GTM-KXMLV58&z=565417143&cd52=404"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-QKMSDV5369&gtm=2oe5c1&_p=1189924423&sr=800x600&_gaz=1&ul=es-es&cid=1330027670.1621175751&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dt=Okta%20%7C%20Identity%20for%20the%20internet&sid=1621175750&sct=1&seg=0&en=page_view&_fv=1&_ss=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-QKMSDV5369&cid=1330027670.1621175751&gtm=2oe5c1&aip=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-QKMSDV5369&cid=1330027670.1621175751&gtm=2oe5c1&aip=1&z=743080903"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=15020&time=1621175751811&url=https%3A%2F%2Fwww.okta.com%2F"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://secure.adnxs.com/getuid?https%3a%2f%2fattr.ml-api.io%2f%3fdomain%3dwww.okta.com%26pId%3d%24UID"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-1&cid=1330027670.1621175751&jid=759145879&_u=YGBAgEABAAAAAE~&z=343852534"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-1&cid=1330027670.1621175751&jid=759145879&_u=YGBAgEABAAAAAE~&z=343852534"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-23&cid=1330027670.1621175751&jid=1779807265&_u=YGDAgEABAAAAAE~&z=1002731784"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-23&cid=1330027670.1621175751&jid=1779807265&_u=YGDAgEABAAAAAE~&z=1002731784"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=pageview&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=aHDAiEABBAAAAG~&jid=643577956&gjid=1823387048&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=pageview&cd28=1621175751900&cd53=GTM-KXMLV58&cd56=New&cd57=1&cd58=4726cb73-5556-4213-b784-866eaef2f013&cd1=false&cd2=false&cd29=16&cd30=(not%20set)&cd31=1&cd32=https%3A&cd33=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F86.0.4240.75%20Safari%2F537.36&cd34=e0de99cb-d815-4ab2-92c3-1426de581f11&cd35=1330027670.1621175751&cd54=0&cd55=NAVIGATE&z=633005066&cd52=744"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-15777010-7&cid=1330027670.1621175751&jid=957954028&gjid=1602770106&_gid=711949767.1621175751&_u=YGDACEABBAAAAG~&z=1813259284"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-15777010-1&cid=1330027670.1621175751&jid=693553299&gjid=860759853&_gid=711949767.1621175751&_u=YGDACEABBAAAAG~&z=1031006286"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://bat.bing.com/p/action/5175358"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://bat.bing.com/action/0?ti=5175358&Ver=2&mid=67eb2c84-3fe0-4f4c-b11f-5e338dbc79e5&sid=03ad85b0b65411eb8ed4b1deace75eb7&vid=03ae7400b65411eb93f46f33b78634ea&vids=1&pi=0&lg=es-ES&sw=800&sh=600&sc=24&tl=Okta%20%7C%20Identity%20for%20the%20internet&p=https%3A%2F%2Fwww.okta.com%2F&r=&lt=3712&evt=pageLoad&msclkid=N&sv=1&rn=665841"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006913831/?random=1621175752039&cv=9&fst=1621175752039&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg5c1&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fwww.okta.com%2F&tiba=Okta%20%7C%20Identity%20for%20the%20internet&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://c.6sc.co/"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://secure.adnxs.com/getuidj"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.chtbl.com/track"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.chtbl.com/track"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://dx.steelhousemedia.com/spx?dxver=4.0.0&shaid=31349&tdr=&plh=https%3A%2F%2Fwww.okta.com%2F&cb=26497137565132030term=value"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://b.6sc.co/img.gif?token=5400c5b6d4c7c0376f36ed7c5ebbc828&svisitor=&visitor=d305aeb7-804d-4d30-892a-43bc2ef42655&session=bc32172e-afb5-4e79-8ee1-f95387288854&event=play&q=%7B%22event_id%22%3A%22%22%2C%22event_value%22%3A%22https%3A%2F%2Fwww-assets.okta.com%2Fhomepage%2Fa1_r06_v16_transp_cropped_mov_1M_crf63_1024px.webm%2Chttps%3A%2F%2Fwww-assets.okta.com%2Fhomepage%2Fhomepage-hero-safari-friendly.mp4%22%7D&isIframe=false&m=%7B%22description%22%3A%22Okta%20is%20one%20trusted%20platform%20to%20secure%20every%20identity%2C%20from%20customers%20to%20your%20workforce%20with%20Single%20Sign-On%2C%20Multi-factor%20Authentication%2C%20Lifecycle%20Management%2C%20and%20more.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Okta%20%7C%20Identity%20for%20the%20internet%22%7D&cb=75752118&r=&thirdParty=%7B%7D&pageURL=https%3A%2F%2Fwww.okta.com%2F"
+    },
+    {
+      "mime_type": "video/webm",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://www-assets.okta.com/homepage/a1_r06_v16_transp_cropped_mov_1M_crf63_1024px.webm"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-7&cid=1330027670.1621175751&jid=957954028&_u=YGDACEABBAAAAG~&z=217398399"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-7&cid=1330027670.1621175751&jid=957954028&_u=YGDACEABBAAAAG~&z=217398399"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-1&cid=1330027670.1621175751&jid=693553299&_u=YGDACEABBAAAAG~&z=278979133"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-15777010-1&cid=1330027670.1621175751&jid=693553299&_u=YGDACEABBAAAAG~&z=278979133"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://secure.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fattr.ml-api.io%252f%253fdomain%253dwww.okta.com%2526pId%253d%2524UID"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=nuwe7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.okta.com%2F"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.co/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=nuwe7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.okta.com%2F"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://b.6sc.co/img.gif?token=5400c5b6d4c7c0376f36ed7c5ebbc828&svisitor=5e08100203640000c72da1604b000000f4ba0f00&visitor=d305aeb7-804d-4d30-892a-43bc2ef42655&session=bc32172e-afb5-4e79-8ee1-f95387288854&event=a_pageload&q=%7B%7D&isIframe=false&m=%7B%22description%22%3A%22Okta%20is%20one%20trusted%20platform%20to%20secure%20every%20identity%2C%20from%20customers%20to%20your%20workforce%20with%20Single%20Sign-On%2C%20Multi-factor%20Authentication%2C%20Lifecycle%20Management%2C%20and%20more.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Okta%20%7C%20Identity%20for%20the%20internet%22%7D&cb=75752369&r=&thirdParty=%7B%7D&pageURL=https%3A%2F%2Fwww.okta.com%2F"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D15020%26time%3D1621175751811%26url%3Dhttps%253A%252F%252Fwww.okta.com%252F%26liSync%3Dtrue"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://epsilon.6sense.com/v1/company/details"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://epsilon.6sense.com/v1/company/details"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://attr.ml-api.io/?domain=www.okta.com&pId=8929130761138092146"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/1p-user-list/1006913831/?random=1621175752039&cv=9&fst=1621173600000&num=1&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg5c1&sendb=1&frm=0&url=https%3A%2F%2Fwww.okta.com%2F&tiba=Okta%20%7C%20Identity%20for%20the%20internet&async=1&fmt=3&is_vtc=1&random=2017403366&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/pagead/1p-user-list/1006913831/?random=1621175752039&cv=9&fst=1621173600000&num=1&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg5c1&sendb=1&frm=0&url=https%3A%2F%2Fwww.okta.com%2F&tiba=Okta%20%7C%20Identity%20for%20the%20internet&async=1&fmt=3&is_vtc=1&random=2017403366&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
+    },
+    {
+      "mime_type": "video/webm",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://www-assets.okta.com/homepage/a1_r06_v16_transp_cropped_mov_1M_crf63_1024px.webm"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metrics.api.drift.com/monitoring/metrics/widget/init/v2"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.googleapis.com/css?family=Open%20Sans|Open%20Sans:bold&display=swap"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metrics.api.drift.com/monitoring/metrics/widget/init/v2"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=15020&time=1621175751811&url=https%3A%2F%2Fwww.okta.com%2F&liSync=true"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://embeds.driftcdn.com/embeds/kn3ivuny969s.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://px.steelhousemedia.com/st?ga_tracking_id=UA-15777010-7&ga_client_id=1330027670.1621175751&shpt=Okta%20%7C%20Identity%20for%20the%20internet&ga_info=%7B%22status%22%3A%22OK%22%2C%22ga_tracking_id%22%3A%22UA-15777010-7%22%2C%22ga_client_id%22%3A%221330027670.1621175751%22%2C%22shpt%22%3A%22Okta%20%7C%20Identity%20for%20the%20internet%22%2C%22dcm_cid%22%3A%22undefined.undefined%22%2C%22dcm_gid%22%3A%22711949767.1621175751%22%2C%22ga_gclid%22%3A%221330027670.1621175751%22%2C%22execution_workflow%22%3A%7B%22iteration%22%3A1%2C%22getClientIdByGA%22%3A%22OK%22%2C%22ga_gclid%22%3A%22OK%22%2C%22shpt%22%3A%22OK%22%2C%22dcm_cid%22%3A%22OK%22%2C%22dcm_gid%22%3A%22OK%22%7D%7D&dcm_cid=undefined.undefined&dcm_gid=711949767.1621175751&dxver=4.0.0&shaid=31349&plh=https%3A%2F%2Fwww.okta.com%2F&cb=26497137565132030term%3Dvalue&shadditional=googletagmanager%3Dtrue%2C"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://10287553.fls.doubleclick.net/activityi;src=10287553;type=conve0;cat=pagel0;ord=7553061133600;gtm=2wg5c1;auiddc=644624857.1621175751;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u11=https%3A%2F%2Fwww.okta.com%2F;~oref=https%3A%2F%2Fwww.okta.com%2F?"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=6sense&ea=API%20available&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175753770&cd53=GTM-KXMLV58&cd56=New&cd57=1&cd58=4726cb73-5556-4213-b784-866eaef2f013&cd82=&cd84=&cd85=&cd97=&z=5292537&cd52=479"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "about:blank",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://10287553.fls.doubleclick.net/activityi;dc_pre=CIzAwqe2zvACFdLD3godrpUFng;src=10287553;type=conve0;cat=pagel0;ord=7553061133600;gtm=2wg5c1;auiddc=644624857.1621175751;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u11=https%3A%2F%2Fwww.okta.com%2F;~oref=https%3A%2F%2Fwww.okta.com%2F?"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Dignity-Health_logo_white.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Albertsons_white.png"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/Hitachi_logo_white.svg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/images/customer/logo/Nasdaq_logo-white.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/siemens_white_logo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2020-10/carmax.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/major-league-baseball-logo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/images/customer/logo/t-mobile-logo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-01/takeda-logo-white.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://10287553.fls.doubleclick.net/activityi;dc_pre=CIzAwqe2zvACFdLD3godrpUFng;src=10287553;type=conve0;cat=pagel0;ord=7553061133600;gtm=2wg5c1;auiddc=644624857.1621175751;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u11=https%3A%2F%2Fwww.okta.com%2F;~oref=https%3A%2F%2Fwww.okta.com%2F?",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CIzAwqe2zvACFdLD3godrpUFng;src=10287553;type=conve0;cat=pagel0;ord=7553061133600;gtm=2wg5c1;auiddc=*;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u11=https%3A%2F%2Fwww.okta.com%2F;~oref=https%3A%2F%2Fwww.okta.com%2F"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ww.steelhousemedia.com/gs"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metrics.api.drift.com/monitoring/metrics/event2/bulk"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metrics.api.drift.com/monitoring/metrics/event2/bulk"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-02/OIN.svg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://bootstrap.api.drift.com/widget_bootstrap"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=ScrollTracking&ea=25%25&el=%2F&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175755087&cd53=GTM-KXMLV58&cd56=New&cd57=1&cd58=4726cb73-5556-4213-b784-866eaef2f013&z=1268584742&cd52=463"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=ScrollTracking&ea=25%25&el=%2F&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-1&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&z=1646879890"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://px.steelhousemedia.com/st?ga_tracking_id=UA-15777010-7&ga_client_id=1330027670.1621175751&shpt=Okta%20%7C%20Identity%20for%20the%20internet&ga_info=%7B%22status%22%3A%22OK%22%2C%22ga_tracking_id%22%3A%22UA-15777010-7%22%2C%22ga_client_id%22%3A%221330027670.1621175751%22%2C%22shpt%22%3A%22Okta%20%7C%20Identity%20for%20the%20internet%22%2C%22dcm_cid%22%3A%22undefined.undefined%22%2C%22dcm_gid%22%3A%22711949767.1621175751%22%2C%22ga_gclid%22%3A%221330027670.1621175751%22%2C%22execution_workflow%22%3A%7B%22iteration%22%3A1%2C%22getClientIdByGA%22%3A%22OK%22%2C%22ga_gclid%22%3A%22OK%22%2C%22shpt%22%3A%22OK%22%2C%22dcm_cid%22%3A%22OK%22%2C%22dcm_gid%22%3A%22OK%22%7D%7D&dcm_cid=undefined.undefined&dcm_gid=711949767.1621175751&dxver=4.0.0&shaid=31349&plh=https%3A%2F%2Fwww.okta.com%2F&shadditional=googletagmanager%3Dtrue%2C&cb=1621175754432594&shguid=71686f1e-8f8b-36c4-a345-953321dccb6e&shgts=1621175755564"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://targeting.api.drift.com/hours/availability/combined/kn3ivuny969s"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://targeting.api.drift.com/hours/availability/combined/kn3ivuny969s"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://event.api.drift.com/track"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://event.api.drift.com/track"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=steelhouse&ttd_tpi=1&ttd_puid=051e6c0c-b654-11eb-903a-f16e125a399c&gdpr=&gdpr_consent="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://insight.adsrvr.org/track/evnt/?adv=ybpqtoh&ct=0:to071dx&fmt=3"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.okta.com/sites/default/files/media/image/2021-02/zero-trust_homepage.svg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/core/assets/js/44.a62fd4b8.chunk.js"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://js.driftt.com/core/assets/css/2.939f0edf.chunk.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/deploy/assets/static/fonts/BrandonText-Regular.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://js.driftt.com/core/assets/css/2.939f0edf.chunk.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/deploy/assets/static/fonts/BrandonText-Bold.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://match.adsrvr.org/track/cmb/generic?ttd_pid=steelhouse&ttd_tpi=1&ttd_puid=051e6c0c-b654-11eb-903a-f16e125a399c&gdpr=&gdpr_consent="
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://px.steelhousemedia.com/tdsync?tdid=87e0b500-fb1d-423a-ba9d-d1905bdea430&shguid=051e6c0c-b654-11eb-903a-f16e125a399c"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://event.api.drift.com/identify"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://event.api.drift.com/identify"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://targeting.api.drift.com/targeting/evaluate_with_log"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://targeting.api.drift.com/targeting/evaluate_with_log"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=ScrollTracking&ea=50%25&el=%2F&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175756588&cd53=GTM-KXMLV58&cd56=New&cd57=1&cd58=4726cb73-5556-4213-b784-866eaef2f013&z=859598880&cd52=462"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=ScrollTracking&ea=50%25&el=%2F&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-1&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&z=338595258"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://flow.api.drift.com/flows/render_initial"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://flow.api.drift.com/flows/render_initial"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://conversation.api.drift.com/campaigns/2317199/enroll"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://conversation.api.drift.com/campaigns/2317199/enroll"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metrics.api.drift.com/monitoring/metrics/add/bulk"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metrics.api.drift.com/monitoring/metrics/add/bulk"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://conversation.api.drift.com/conversations/3138206817/permaclosed"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://targeting.api.drift.com/impressions/widget"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://conversation.api.drift.com/conversations/3138206817/permaclosed"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://targeting.api.drift.com/impressions/widget"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://fonts.googleapis.com/css?family=Open%20Sans|Open%20Sans:bold&display=swap",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=2&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=Drift%20Widget&ea=Playbook%20Fired&el=Playbook%20ID%3A%202221457&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175750877&cd36=intellimize_active&cd53=GTM-KXMLV58&z=1034911536&cd52=463"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=3&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=Drift%20Widget&ea=Message%20Received&el=Conversation%3A%203138206817&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175750877&cd36=intellimize_active&cd53=GTM-KXMLV58&z=2035516420&cd52=467"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://conversation.api.drift.com/conversations/end_users/widget/conversation_context/3138206817"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://conversation.api.drift.com/conversations/end_users/widget/conversation_context/3138206817"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://metrics.api.drift.com/monitoring/metrics/event2/bulk"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://messaging.api.drift.com/conversations/3138206817/messages/page/v2?limit=30&withReceipts=true"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://js.driftt.com/core/chat",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://messaging.api.drift.com/conversations/3138206817/messages/page/v2?limit=30&withReceipts=true"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=4&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=Drift%20Widget&ea=Message%20Received&el=Conversation%3A%203138206817&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175750877&cd36=intellimize_active&cd53=GTM-KXMLV58&z=2066121363&cd52=467"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://js.driftt.com/core?embedId=kn3ivuny969s&forceShow=false&skipCampaigns=false&sessionId=5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f&sessionStarted=1621175749&campaignRefreshToken=9e741c07-7ca0-4ab3-b695-9e7a2a10f1c9&hideController=false&pageLoadStartTime=1621175746636&mode=CHAT",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://driftt.imgix.net/https%3A%2F%2Fdriftt.imgix.net%2Fhttps%253A%252F%252Fs3.amazonaws.com%252Fcustomer-api-avatars-prod%252F137163%252F43075141a7ecafe39f4d474630b64e79vsvzzuyeh9gg%3Ffit%3Dmax%26fm%3Dpng%26h%3D200%26w%3D200%26s%3Dc4f41c1ac0c1689cf714f21e9cbccf19?fit=max&fm=png&h=200&w=200&s=459e40e9b20d07092f3150decb4e14b1"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js.driftt.com/conductor/assets/4.7e67eece.chunk.js"
+    },
+    {
+      "mime_type": "audio/mpeg",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://js.driftt.com/conductor/assets/media/notification.d46d7db1.mp3"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-QKMSDV5369&gtm=2oe5c1&_p=1189924423&sr=800x600&ul=es-es&cid=1330027670.1621175751&_s=2&dl=https%3A%2F%2Fwww.okta.com%2F&dt=Okta%20%7C%20Identity%20for%20the%20internet&sid=1621175750&sct=1&seg=0&en=6sense_api_available&_et=1836&up.sixsense_country=&up.sixsense_company_state=&up.sixsense_city=&up.sixsense_segments="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://bam.nr-data.net/events/1/NRJS-8ab1426d2abb8b83c8a?a=429312246&v=1208.49599aa&to=ZV1aYUIFChZSWkBZDlwXeVZEDQsLHH1GRRFTVGRbXwABOXBWWkQTXVRUUEI4KgpXXGJZBEV7V1tEFgsJX1xGHV9EUV1C&rst=13936&ck=1&ref=https://www.okta.com/"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.okta.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1189924423&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.okta.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Okta%20%7C%20Identity%20for%20the%20internet&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=Timer&ea=15%20Seconds&ev=15&_u=aHDACEABBAAAAG~&jid=&gjid=&cid=1330027670.1621175751&tid=UA-15777010-7&_gid=711949767.1621175751&gtm=2wg5c1KXMLV58&cd51=event&cd28=1621175763955&cd53=GTM-KXMLV58&cd56=New&cd57=1&cd58=4726cb73-5556-4213-b784-866eaef2f013&z=1144822678&cd52=460"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "header_value": "report-uri /report-csp-violation",
+      "report-uri": [
+        "/report-csp-violation"
+      ]
+    },
+    "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=315360000",
+      "includeSubDomains": false,
+      "max-age": 315360000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "\"5f305223-4a00-4ee8-a1cc-c6c4cb4bd63f\"",
+      "key": "DRIFT_SESSION_ID"
+    },
+    {
+      "content": "4726cb73-5556-4213-b784-866eaef2f013_1621434951894",
+      "key": "_tab_id"
+    },
+    {
+      "content": "1621175749",
+      "key": "DRIFT_SESSION_STARTED"
+    },
+    {
+      "content": "[\"https://www.okta.com/\"]",
+      "key": "_nav_path"
+    },
+    {
+      "content": "true",
+      "key": "_isCurrentSession"
+    }
+  ],
+  "site_url": "https://www.okta.com\n",
+  "third_parties": {
+    "fqdns": [
+      "10287553.fls.doubleclick.net",
+      "117351982.intellimizeio.com",
+      "855-qah-699.mktoresp.com",
+      "adservice.google.com",
+      "analytics.google.com",
+      "analytics.twitter.com",
+      "api.intellimize.co",
+      "attr.ml-api.io",
+      "b.6sc.co",
+      "bam.nr-data.net",
+      "bat.bing.com",
+      "bootstrap.api.drift.com",
+      "c.6sc.co",
+      "cdn.cookielaw.org",
+      "conversation.api.drift.com",
+      "driftt.imgix.net",
+      "dx.steelhousemedia.com",
+      "embeds.driftcdn.com",
+      "epsilon.6sense.com",
+      "event.api.drift.com",
+      "flow.api.drift.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "geoip-js.com",
+      "geolocation.onetrust.com",
+      "googleads.g.doubleclick.net",
+      "insight.adsrvr.org",
+      "j.6sc.co",
+      "j.mrpdata.net",
+      "jadserve.postrelease.com",
+      "js-agent.newrelic.com",
+      "js.driftt.com",
+      "log.intellimize.co",
+      "match.adsrvr.org",
+      "messaging.api.drift.com",
+      "metrics.api.drift.com",
+      "munchkin.marketo.net",
+      "px.ads.linkedin.com",
+      "px.steelhousemedia.com",
+      "s.ml-attr.com",
+      "secure.adnxs.com",
+      "snap.licdn.com",
+      "static.ads-twitter.com",
+      "stats.g.doubleclick.net",
+      "t.co",
+      "targeting.api.drift.com",
+      "web.chtbl.com",
+      "wt1ugse0be.execute-api.us-west-2.amazonaws.com",
+      "ww.steelhousemedia.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.google.es",
+      "www.googleadservices.com",
+      "www.googletagmanager.com",
+      "www.linkedin.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 204
+  },
+  "tracking": {
+    "num_tracker_cookies": 19,
+    "num_tracker_requests": 106,
+    "trackers": [
+      "10287553.fls.doubleclick.net",
+      "855-qah-699.mktoresp.com",
+      "adservice.google.com",
+      "analytics.google.com",
+      "analytics.twitter.com",
+      "api.intellimize.co",
+      "b.6sc.co",
+      "bam.nr-data.net",
+      "bat.bing.com",
+      "c.6sc.co",
+      "cdn.cookielaw.org",
+      "dx.steelhousemedia.com",
+      "event.api.drift.com",
+      "geoip-js.com",
+      "googleads.g.doubleclick.net",
+      "insight.adsrvr.org",
+      "j.6sc.co",
+      "jadserve.postrelease.com",
+      "js-agent.newrelic.com",
+      "log.intellimize.co",
+      "match.adsrvr.org",
+      "metrics.api.drift.com",
+      "munchkin.marketo.net",
+      "px.ads.linkedin.com",
+      "px.steelhousemedia.com",
+      "s.ml-attr.com",
+      "secure.adnxs.com",
+      "snap.licdn.com",
+      "static.ads-twitter.com",
+      "stats.g.doubleclick.net",
+      "t.co",
+      "targeting.api.drift.com",
+      "web.chtbl.com",
+      "ww.steelhousemedia.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.google.es",
+      "www.googleadservices.com",
+      "www.googletagmanager.com"
+    ]
+  }
+}

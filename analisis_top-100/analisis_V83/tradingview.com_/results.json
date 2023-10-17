@@ -1,0 +1,2310 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".google.com",
+      "expires": 1636990131.571888,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 15818402.57188797,
+      "name": "NID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 178,
+      "value": "215=hv3H77o1tuekuiZH_wh1l23HHD9LVMXqclAABofeBm-RJzkxS7rKuGu2P_TXdV9-UltMlmtUx77dyK8_iA5iKXXP3DEc_HWJC4vgKqE7Sr5ELbsG2dNJSahr4yTKubr-yNGwLDVlHK9rRIrh_25W7yu2zNEiMd-gudvwmrHKe2A"
+    },
+    {
+      "domain": ".facebook.com",
+      "expires": 1628954931.967719,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783202.967719078,
+      "name": "fr",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "value": "06fWhK2bWtEkPbvRs..BgoToz...1.0.BgoToz."
+    },
+    {
+      "domain": ".twitter.com",
+      "expires": 1684250932.149557,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079203.14955711,
+      "name": "personalization_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "\"v1_7kcykOLF42Wq2KIz8CbSpw==\""
+    },
+    {
+      "domain": ".tradingview.com",
+      "expires": 1621180732,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9003,
+      "name": "_sp_ses.cf1a",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 13,
+      "value": "*"
+    },
+    {
+      "domain": ".tradingview.com",
+      "expires": 1684250932,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079203,
+      "name": "_sp_id.cf1a",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 119,
+      "value": "3438bd61-26a0-4360-9864-831f654f4b23.1621178933.1.1621178933.1621178933.faff8706-a428-4791-9d32-48b739032b5d"
+    },
+    {
+      "domain": ".tradingview.com",
+      "expires": 1684250933,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "value": "GA1.2.1352616269.1621178933"
+    },
+    {
+      "domain": ".tradingview.com",
+      "expires": 1621265333,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93604,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "value": "GA1.2.476840512.1621178933"
+    },
+    {
+      "domain": ".tradingview.com",
+      "expires": 1621178993,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7264,
+      "name": "_gat_gtag_UA_24278967_1",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 24,
+      "value": "1"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 3,
+    "first_party_short": 2,
+    "third_party_long": 3,
+    "third_party_short": 0,
+    "trackers": [
+      "facebook.com",
+      "twitter.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [
+      "ev=PageView"
+    ],
+    "facebook_pixel": true
+  },
+  "failed_requests": [],
+  "final_url": "https://www.tradingview.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [
+        {
+          "arguments": [
+            "3000",
+            719,
+            113
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "3500",
+            719,
+            73
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "4000",
+            719,
+            32
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Jun",
+            53,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Sep",
+            246,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Dec",
+            433,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Mar",
+            611,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "3000",
+            719,
+            115
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "3500",
+            719,
+            74
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "4000",
+            719,
+            33
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Jun",
+            34,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Sep",
+            232,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Dec",
+            424,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Mar",
+            606,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "3000",
+            719,
+            115
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "3500",
+            719,
+            74
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "4000",
+            719,
+            33
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Jun",
+            34,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Sep",
+            232,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Dec",
+            424,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Mar",
+            606,
+            132
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        }
+      ],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 2,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 1,
+    "window.navigator.indexDB": 5,
+    "window.navigator.language": 0,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 2,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 2,
+    "window.navigator.plugins": 1,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 29,
+    "window.navigator.vendor": 2,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 2,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-24278967-1"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "cac1b754f43b42724830c6879cfe059fc8840dc29ea7e02daa3df0d52f38b99f",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Amazon",
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "organizationalUnitName": "Server CA 1B"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1649541599.0,
+      "not_valid_before": 1615417200.0,
+      "serial_number": 12119204123935670410786621196926445611,
+      "subject": {
+        "commonName": "*.tradingview.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": true,
+      "is_ready": true
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.7.2"
+  },
+  "local_storage": [
+    {
+      "content": "[2,0,1621178932248]",
+      "key": "pushStreamMultiplexerState.connectionStatus"
+    },
+    {
+      "content": "2",
+      "key": "tv.logger.loglevel"
+    },
+    {
+      "content": "7523",
+      "key": "tradingview.globalNotification"
+    },
+    {
+      "content": "{\"tabs\":[[\"3d98656f-7837-482b-b344-bee300ee3aac\",\"visible\"]],\"ts\":1621178953621}",
+      "key": "activeBrowserTabsCounter"
+    },
+    {
+      "content": "true",
+      "key": "tvlocalstorage.available"
+    },
+    {
+      "content": "true",
+      "key": "languagePopupShown"
+    },
+    {
+      "content": "[]",
+      "key": "snowplowOutQueue_snowplowTracker_tv_cf_get"
+    },
+    {
+      "content": "1684250933022",
+      "key": "snowplowOutQueue_snowplowTracker_tv_cf_get.expires"
+    },
+    {
+      "content": "[\"d3299262-b2d1-4b33-87f1-3abb3e13c846\",1621178953618,1621178953618]",
+      "key": "pushStreamMultiplexerState.mark"
+    },
+    {
+      "content": "false",
+      "key": "tv.logger.logHighRate"
+    },
+    {
+      "content": "ignored",
+      "key": "cookieBanner"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.tradingview.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/localization/translations/en.958c4c882333b681.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/backend_connector.b13ac21764df4f93b3e7.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/runtime.6d482a29275df8812154.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/vendors.7b0470cdcd3faf278c5e.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/category.5d667347bfa18eabac02.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/category.97d1c8165098806fabf1.js"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/svg/idea-image-placeholder.svg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/3827955-Kq4F.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/212362-RzO4.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/2532952-1s4k.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/1431574-mXSm.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/176130.png"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/print.fa37e5dcc54c351361d6.css"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/162386.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/4283970-UPYj.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/6991428-zfpb.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/17473575-B5wY.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/8295260-FuHb.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/10426253-A3rJ.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/17173422-8AaV.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/1043646-c55J.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/7735421-CpGg.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/2391780-mRvv.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/6075193-xc7F.png"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/static/bundles/category.5d667347bfa18eabac02.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/f2394ed819503eb7f0a874456e314113.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/static/bundles/category.5d667347bfa18eabac02.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/15b6fa167d02a7ec0b4f5c31f28ae59d.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/static/bundles/category.5d667347bfa18eabac02.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/3a6ccafa14a8b5a1fc4b218163a5f378.svg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/5170542-NuhU.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/6751500-CcR5.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/1700890-Ib3J.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/13500552-DuSQ.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/6171439-LZyQ.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/269138-zUUy.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/5111589-MGS2.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/4750002-Z5lG.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/875112-sevS.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/2457997-4Jdy.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/102678-wkOj.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/2510019-qwsg.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/636609.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/3475354-YuAd.png"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/US.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/EU.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/GB.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/JP.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/AU.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/CA.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/CH.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/metal/silver.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/crude-oil.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/natural-gas.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/wheat.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/cotton.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/crypto-total-market-cap.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/DE.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/country/IN.svg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/5839748-KhqS_mid.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/13867310-hi7Y_mid.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/3475024-Gpth_mid.png"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/walt-disney.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/facebook.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/svg/desktop-landing/desktop-logo-footer-light.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/svg/desktop-landing/desktop-logo-footer-dark.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/svg/app-store-badge/light-theme/app-store-badge-en.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/svg/app-store-badge/dark-theme/app-store-badge-en.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/svg/google-play-badge/light-theme/google-play-badge-en.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/svg/google-play-badge/dark-theme/google-play-badge-en.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f389.svg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tradingview.s3.amazonaws.com/timeline/timeline_image__en_16782231.png?v=2"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/17.cf9820a9983bac342091.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/158.61d958b76fab7b9aec89.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/268.32deacacb3d350a75fee.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/360.541b09cd5bb3155d2b15.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/393.4396e27b1aa4fa1e9bfe.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/431.157b994efc767e476846.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/async-css.af8daeaa28a60b3d01a4.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/check_language/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/174.ed981fc85358f2e8151f.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/conversion.7c079e86bd2147fb9cd0.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/gdpr-notification.8d87610c64c9736f3069.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/203.d3adad215cc97372da8f.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/open-support-dialog-on-load.8f8637ca51d47b7f9757.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/open-payment-order-dialog-on-load.70194dc06c333a6aefaf.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/open-coins-dialog-on-load.8c19affd2acbb053a786.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/0.98c64f68058fcb618fc7.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/11.3140e8cb507ad2593c76.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/112.85d85d0d4bbe67413fa8.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/130.1f33026fd12bb2fb7ea8.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/131.7d69351d640a5bb7859f.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/132.f3c61a0cd1a1f44c0511.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/370.c5f180d371b4b454c8cd.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/567.944805f27158f99534ca.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/16.b2495a6cbf1839c6901a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/292.1d1f2de72cf63d676d2c.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/tv-user-link-popup.038f65c4dafd0741134e.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://accounts.google.com/gsi/client"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/88.7a392e15043b545415d9.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/108.f53d23eddb54dd845d3d.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/103.b5193173d7fff806949f.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/120.73ba06f9c4a84ff9d59a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/125.b4c96b8dfec279c1232e.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/141.15b73dc7cd99d81457b2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/197.410db53935c912d08eb8.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/297.8140850a98ed2482759a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/380.51db6f5d1481f6712e39.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/price-alerts-dispatcher.f64d735f86eb92ecf16a.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/90.f26cf815053a9771760d.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/102.7c9893e7aefb9a9b0171.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/111.ea5bfde98b49b0b07049.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/586.256ca0ce298528ae171b.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/96.8dede480e82005160f28.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/donation-notification.fb89f22feb36a5b7ef20.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/images/favicon/manifest.json"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/361.212c0972c1b9d9232809.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/482.de0faadfb070b10a4748.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/338.70184b8187a0961c1271.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/feed-widget-idea.5206b567add84bf61bd6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/42.282874ad090ea52165ac.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/43.83e63a77b6e5f3342db7.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/48.565193e6a0be98d3b372.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/250.543f3f4da02114b41848.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/46.868f36c803c17320c661.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/create-tab-labels-impl.d510df9eb8dc62aa1995.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/412.9a2fcfd6b0fb43526a2c.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/638.a994820af9556b1d3dff.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/feed-widget-timeline.d6e0829701644b06e3bb.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news-headlines.tradingview.com/headlines/?category=base&client=web&country=US&lang=en&locale=en"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/9.53e1f477a8d8ccd61cce.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/47.1684388549f14a0bf276.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/194.c1c156434a750e1b6998.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/212.678f404df0e5f6563625.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/213.c43c30795c70319c5080.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/267.cc82149c19e4073bd290.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/275.5c9f1adb01e403a0d2a4.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/346.4ea20955d2ff635de008.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/399.6ce2396c31d8080ed4c1.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/532.62f3e83b48cdfe6790ad.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/121.33c47ab822272ea546d1.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/143.3a308f9dbf2faa35f81d.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/175.bd3a47aeff9a18913351.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/185.a0aa85111e594d725336.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/239.24053ecba4369a1d3553.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/309.39ccf48e346d470522de.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/328.7bbd8d174196594d548c.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/458.7885426335b1635d7a88.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/17.b3d546249fd0f15defff.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/158.bf299d6ffb759d0dd321.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/268.db94d01cc82d141662d2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/360.84581e2aeba6b8ffbd40.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/393.fee944592a20eed12a70.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/431.30537e39e2f4c9f1f503.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.facebook.com/tr?id=1508275579478794&ev=PageView&noscript=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://analytics.twitter.com/i/adsct?txn_id=o2eg2&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.co/i/adsct?txn_id=o2eg2&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0%22"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://hotlist.tradingview.com/hotlist/US/volume_gainers/"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/b51b73c5dc965960d789d4616c9372e5.svg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=UA-24278967-1"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/snowplow-tracker.3a864a73400a133b8e3d.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/31.a04d1d3e7da1e2dac5f7.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/392.85c6a726e85087539e19.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/254.eb9398ba813487c90a23.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/333.2e4db5c81354e048574d.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/global-notification-tools.7996cc20a9909e0446f0.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/524.3e5a358db0cffd6527bb.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/tv-header-search.370aac51474ee2757782.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/585.08c63333aed3b7dd03fe.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/cookies-notification.c43fd4d3b33e7e15d753.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://accounts.google.com/gsi/style"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/85.5727a67c560d1471f577.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/397.496502cfaeabb7053b7b.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/83.eb40c9593aa2d7692047.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/black-friday-countdown.256d59635c9e6deeb20c.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tv-live-stream-us.tradingview.com/WebRTCAppEE/previews/2bd5gn_gq0ZhGMf3YbBHI.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/userpics/577981-8h2O.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://snowplow-pixel.tradingview.com/i?stm=1621178932583&e=pv&url=https%3A%2F%2Fwww.tradingview.com%2F&page=Free%20Stock%20Charts%2C%20Stock%20Quotes%20and%20Trade%20Ideas%20%E2%80%94%20TradingView&tv=js-2.14.0&tna=tv_cf&aid=tradingview&p=web&tz=Europe%2FBerlin&lang=es-ES&cs=UTF-8&res=800x600&cd=24&cookie=1&eid=f0ca4c72-92c0-4577-b6d0-1293d672c701&dtm=1621178932575&vp=800x600&ds=785x33840&vid=1&sid=faff8706-a428-4791-9d32-48b739032b5d&duid=3438bd61-26a0-4360-9864-831f654f4b23&cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJiNDJkZDIxYS05OTQ2LTQ1OGYtOWNlZC1iYTFiNjk0YTJlMjYifX0seyJzY2hlbWEiOiJpZ2x1Om9yZy53My9QZXJmb3JtYW5jZVRpbWluZy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJuYXZpZ2F0aW9uU3RhcnQiOjE2MjExNzg5MjkzNjQsInVubG9hZEV2ZW50U3RhcnQiOjAsInVubG9hZEV2ZW50RW5kIjowLCJyZWRpcmVjdFN0YXJ0IjowLCJyZWRpcmVjdEVuZCI6MCwiZmV0Y2hTdGFydCI6MTYyMTE3ODkyOTM2NCwiZG9tYWluTG9va3VwU3RhcnQiOjE2MjExNzg5Mjk1NzksImRvbWFpbkxvb2t1cEVuZCI6MTYyMTE3ODkyOTYzNywiY29ubmVjdFN0YXJ0IjoxNjIxMTc4OTI5NjM3LCJjb25uZWN0RW5kIjoxNjIxMTc4OTI5NjgyLCJzZWN1cmVDb25uZWN0aW9uU3RhcnQiOjE2MjExNzg5Mjk2NTAsInJlcXVlc3RTdGFydCI6MTYyMTE3ODkyOTY4MywicmVzcG9uc2VTdGFydCI6MTYyMTE3ODkzMDA5MCwicmVzcG9uc2VFbmQiOjE2MjExNzg5MzAyMzYsImRvbUxvYWRpbmciOjE2MjExNzg5MzAxMDAsImRvbUludGVyYWN0aXZlIjoxNjIxMTc4OTMxMDYzLCJkb21Db250ZW50TG9hZGVkRXZlbnRTdGFydCI6MTYyMTE3ODkzMTg2NSwiZG9tQ29udGVudExvYWRlZEV2ZW50RW5kIjoxNjIxMTc4OTMxOTE1LCJkb21Db21wbGV0ZSI6MCwibG9hZEV2ZW50U3RhcnQiOjAsImxvYWRFdmVudEVuZCI6MH19XX0"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/529.80884ff2b6294a4e60ad.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/tv-device-menu.56f219b3217d4037363c.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/110.81abab3dfb2b9a5bdff1.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/208.cbed34e5d65c74327279.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/216.45ba1ecddb6d4baf211b.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/528.9d56ab0d8cccc39f28bc.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/183.1e0673ee4e7b3ed516da.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/symbolsearch.dd92f4ade2fc0bee6019.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/f3458791e4c411de5724dcf56a953453.svg"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/89.e6636586d0db9ee1e6e6.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/theme-switcher.5ddc53568008919efc24.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/521.caf7928e12df53631f8b.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/501.2ca02c5f56a240cb3fd5.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/559.9356720d24b3268641a6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/558.9b419de55108b522955e.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://snowplow-pixel.tradingview.com/i?stm=1621178932892&e=ue&ue_px=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS50cmFkaW5ndmlldy9iYWNrZW5kX3Nlc3Npb25zL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7ImJhY2tlbmRfc2Vzc2lvbl9pZCI6IjwwLjExNTg4LjI3Nz5fc2ZvLWNoYXJ0cy00LXdlYmNoYXJ0LTVAc2ZvLWNvbXB1dGUtNF94IiwidHlwZV9ldmVudCI6MH19fQ&tv=js-2.14.0&tna=tv_cf&aid=tradingview&p=web&tz=Europe%2FBerlin&lang=es-ES&cs=UTF-8&res=800x600&cd=24&cookie=1&eid=c284468c-2358-4361-a3ad-c50ae98f115f&dtm=1621178932676&vp=800x600&ds=785x33840&vid=1&sid=faff8706-a428-4791-9d32-48b739032b5d&duid=3438bd61-26a0-4360-9864-831f654f4b23&url=https%3A%2F%2Fwww.tradingview.com%2F&cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJiNDJkZDIxYS05OTQ2LTQ1OGYtOWNlZC1iYTFiNjk0YTJlMjYifX0seyJzY2hlbWEiOiJpZ2x1Om9yZy53My9QZXJmb3JtYW5jZVRpbWluZy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJuYXZpZ2F0aW9uU3RhcnQiOjE2MjExNzg5MjkzNjQsInVubG9hZEV2ZW50U3RhcnQiOjAsInVubG9hZEV2ZW50RW5kIjowLCJyZWRpcmVjdFN0YXJ0IjowLCJyZWRpcmVjdEVuZCI6MCwiZmV0Y2hTdGFydCI6MTYyMTE3ODkyOTM2NCwiZG9tYWluTG9va3VwU3RhcnQiOjE2MjExNzg5Mjk1NzksImRvbWFpbkxvb2t1cEVuZCI6MTYyMTE3ODkyOTYzNywiY29ubmVjdFN0YXJ0IjoxNjIxMTc4OTI5NjM3LCJjb25uZWN0RW5kIjoxNjIxMTc4OTI5NjgyLCJzZWN1cmVDb25uZWN0aW9uU3RhcnQiOjE2MjExNzg5Mjk2NTAsInJlcXVlc3RTdGFydCI6MTYyMTE3ODkyOTY4MywicmVzcG9uc2VTdGFydCI6MTYyMTE3ODkzMDA5MCwicmVzcG9uc2VFbmQiOjE2MjExNzg5MzAyMzYsImRvbUxvYWRpbmciOjE2MjExNzg5MzAxMDAsImRvbUludGVyYWN0aXZlIjoxNjIxMTc4OTMxMDYzLCJkb21Db250ZW50TG9hZGVkRXZlbnRTdGFydCI6MTYyMTE3ODkzMTg2NSwiZG9tQ29udGVudExvYWRlZEV2ZW50RW5kIjoxNjIxMTc4OTMxOTE1LCJkb21Db21wbGV0ZSI6MCwibG9hZEV2ZW50U3RhcnQiOjAsImxvYWRFdmVudEVuZCI6MH19XX0"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/580.7d074e9d142a85d93a88.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/time-frame-view-renderer.7eab2ec1b8e5c31f370b.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/gtm/js?id=GTM-TVZD48S&t=gtag_UA_24278967_1&cid=1352616269.1621178933&aip=true"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/amc-entertainment-holdings.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/bionano-genomics.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/plug-power.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/apple.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/nio.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3-symbol-logo.tradingview.com/palantir.svg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&aip=1&a=1858257220&t=pageview&_s=1&dl=https%3A%2F%2Fwww.tradingview.com%2F&ul=es-es&de=UTF-8&dt=Free%20Stock%20Charts%2C%20Stock%20Quotes%20and%20Trade%20Ideas%20%E2%80%94%20TradingView&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=aGBAAUADQAAAAC~&jid=1376496309&gjid=1479934002&cid=1352616269.1621178933&tid=UA-24278967-1&_gid=476840512.1621178933&_r=1&gtm=2ou5c1&z=1634657334"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://accounts.google.com/gsi/status?client_id=236720109952-v7ud8uaov0nb49fk5qm03as8o7dmsb30.apps.googleusercontent.com&as=Cw7P932E0TIVHQYRsubE0g"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-24278967-1&cid=1352616269.1621178933&jid=1376496309&gjid=1479934002&_gid=476840512.1621178933&_u=aGBAAUACQAAAAC~&z=889083261"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s3.tradingview.com/p/pOArHJIB_mid.webp"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/337.cfe3a15e3a829ea24b00.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.tradingview.com/static/bundles/protobuf-handler.9fe219953c82ea56653d.js"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://data.tradingview.com/ping"
+    },
+    {
+      "mime_type": null,
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://telemetry.tradingview.com/site-free/report"
+    },
+    {
+      "mime_type": null,
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://telemetry.tradingview.com/free/report"
+    },
+    {
+      "mime_type": null,
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://telemetry.tradingview.com/news/report"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://telemetry.tradingview.com/site-free/report"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://telemetry.tradingview.com/free/report"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.tradingview.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://telemetry.tradingview.com/news/report"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "default-src": [
+        "'self'",
+        "https:",
+        "data:",
+        "blob:",
+        "wss:",
+        "'unsafe-inline'"
+      ],
+      "header_value": "default-src 'self' https: data: blob: wss: 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://*.tradingview.com/ https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://maps.googleapis.com/ https://www.google-analytics.com/ https://www.googletagmanager.com/gtag/ https://*.doubleclick.net/ https://*.googleadservices.com/ https://adservice.google.com/ https://www.google.com/ https://*.googlesyndication.com/ https://*.ampproject.org/ https://accounts.google.com/ https://*.paypal.com/ https://platform.twitter.com 'nonce-hyMEdD03i0LxATAT'; report-uri /csp-report/",
+      "report-uri": [
+        "/csp-report/"
+      ],
+      "script-src": [
+        "'self'",
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "blob:",
+        "https://*.tradingview.com/",
+        "https://www.recaptcha.net/recaptcha/",
+        "https://www.gstatic.com/recaptcha/",
+        "https://maps.googleapis.com/",
+        "https://www.google-analytics.com/",
+        "https://www.googletagmanager.com/gtag/",
+        "https://*.doubleclick.net/",
+        "https://*.googleadservices.com/",
+        "https://adservice.google.com/",
+        "https://www.google.com/",
+        "https://*.googlesyndication.com/",
+        "https://*.ampproject.org/",
+        "https://accounts.google.com/",
+        "https://*.paypal.com/",
+        "https://platform.twitter.com",
+        "'nonce-hyMEdD03i0LxATAT'"
+      ]
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": "origin-when-cross-origin",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=63072000; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 63072000,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.tradingview.com\n",
+  "third_parties": {
+    "fqdns": [
+      "accounts.google.com",
+      "analytics.twitter.com",
+      "stats.g.doubleclick.net",
+      "t.co",
+      "tradingview.s3.amazonaws.com",
+      "twemoji.maxcdn.com",
+      "www.facebook.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 13
+  },
+  "tracking": {
+    "num_tracker_cookies": 2,
+    "num_tracker_requests": 8,
+    "trackers": [
+      "analytics.twitter.com",
+      "stats.g.doubleclick.net",
+      "t.co",
+      "www.facebook.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com"
+    ]
+  }
+}

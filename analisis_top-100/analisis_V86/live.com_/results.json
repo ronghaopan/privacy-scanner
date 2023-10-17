@@ -1,0 +1,660 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "outlook.live.com",
+      "expires": 1652710087.499243,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.49924302,
+      "name": "ClientId",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 40,
+      "value": "3B3B267910CF4F7ABA0033C8ADA50B56"
+    },
+    {
+      "domain": ".live.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "logonLatency",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": true,
+      "size": 36,
+      "value": "LGN01=637567708875232738"
+    },
+    {
+      "domain": ".microsoft.com",
+      "expires": 1652710088.494565,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543202.49456501,
+      "name": "MC1",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 81,
+      "value": "GUID=8ae83305516d480981d39e600282a974&HASH=8ae8&LV=202105&V=4&LU=1621174088528"
+    },
+    {
+      "domain": ".microsoft.com",
+      "expires": 1621175888.494801,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 9002.494801044464,
+      "name": "MS0",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 35,
+      "value": "e0dd74585e0440d49acb9c2508370941"
+    },
+    {
+      "domain": "outlook.live.com",
+      "expires": 1652710088,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543202,
+      "name": "MSFPC",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 83,
+      "value": "GUID=8ae83305516d480981d39e600282a974&HASH=8ae8&LV=202105&V=4&LU=1621174088528"
+    },
+    {
+      "domain": "outlook.live.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "OWAPF",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 40,
+      "value": "p:11111111&v:15.20.4129.28&l:mouse&"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 2,
+    "first_party_short": 2,
+    "third_party_long": 1,
+    "third_party_short": 1,
+    "trackers": [
+      "microsoft.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://outlook.live.com/owa/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 1,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 0,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 1,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 7,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "0fb65588966271362b6b994a07007f2ae735ccd49ffcabb7a58d9993e9535b03",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert Cloud Services CA-1",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1654164000.0,
+      "not_valid_before": 1591048800.0,
+      "serial_number": 4205321745829552824683702623598112058,
+      "subject": {
+        "commonName": "Outlook.live.com",
+        "countryName": "US",
+        "localityName": "Redmond",
+        "organizationName": "Microsoft Corporation",
+        "stateOrProvinceName": "Washington"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": true
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-384",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://support.microsoft.com/en-us/contactus/",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "3.2.1"
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.live.com/",
+    "https://outlook.live.com/owa/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.live.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://outlook.live.com/owa/"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://az725175.vo.msecnd.net/scripts/jsll-4.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/javascripts/vh-check.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/javascripts/jquery-3.2.1.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/javascripts/lazyload.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/javascripts/jquery.onscreen.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/javascripts/detect-os.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/javascripts/dom-scripts.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/mobile-scenario-triptych-android-01.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/mobile-scenario-triptych-android-02.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/mobile-scenario-triptych-android-03.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/mobile-scenario-triptych-ios-01.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/mobile-scenario-triptych-ios-02.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/mobile-scenario-triptych-ios-03.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://web.vortex.data.microsoft.com/collect/v1/t.js?ver=%272.1%27&name=%27Ms.Webi.PageView%27&time=%272021-05-16T14%3A08%3A08.097Z%27&os=%27Unix%27&appId=%27JS%3AOutlookCom%27&-ver=%271.0%27&-impressionGuid=%27d4103711-152e-4e5d-9960-bf95c3ae705c%27&-pageName=%27Undefined%27&-uri=%27https%3A%2F%2Foutlook.live.com%2Fowa%2F%27&-resHeight=600&-resWidth=800&-pageTags=%27%7B%22metaTags%22%3A%7B%7D%7D%27&-behavior=0&*baseType=%27Ms.Content.PageView%27&*cookieEnabled=true&*isJs=true&*title=%27Outlook%3A%20calendario%20y%20correo%20electr%C3%B3nico%20personales%20gratuitos%20de%20Microsoft%27&*isLoggedIn=false&*flashInstalled=false&ext-javascript-ver=%271.1%27&ext-javascript-libVer=%274.3.5%27&ext-javascript-domain=%27outlook.live.com%27&ext-javascript-userConsent=false&$mscomCookies=false"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://outlook.live.com/owa/prefetch.aspx"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/fabric-close-x.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/download-app-badge-ios.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/download-app-badge-android.svg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/masthead-alt-06-wide-large.jpg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/ms-wordmark-white.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/triangle-up.svg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/outlook-icon.jpg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/security-feature-microsoft.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/security-feature-encryption.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/security-feature-attachments.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/premium-diamond-03.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/security-feature-onedrive.svg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/productivity-app-drop-shadow.jpg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/hotmail-ornament.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/glyph-apple.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/glyph-googleplay.svg"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/fonts/segoeui-semibold.woff"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/fonts/segoeui-regular.woff"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/arrow-rightward-blue.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/efficient-commuter.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/everything-in-one-place-scenario-base.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/everything-in-one-place-scenario-02.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/everything-in-one-place-scenario-03.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/everything-in-one-place-scenario-04.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ow2.res.office365.com/owalanding/2021.4.9.04/images/everything-in-one-place-scenario-05.png"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://outlook.live.com/owa/prefetch.aspx",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r4.res.office365.com/owa/prem/15.20.4129.28/scripts/boot.worldwide.0.mouse.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://outlook.live.com/owa/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://web.vortex.data.microsoft.com/collect/v1?$mscomCookies=false&ext-javascript-msfpc=%27GUID%3D8ae83305516d480981d39e600282a974%26HASH%3D8ae8%26LV%3D202105%26V%3D4%26LU%3D1621174088528%27"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://outlook.live.com/owa/prefetch.aspx",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r4.res.office365.com/owa/prem/15.20.4129.28/scripts/boot.worldwide.1.mouse.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://outlook.live.com/owa/prefetch.aspx",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r4.res.office365.com/owa/prem/15.20.4129.28/scripts/boot.worldwide.2.mouse.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://outlook.live.com/owa/prefetch.aspx",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r4.res.office365.com/owa/prem/15.20.4129.28/scripts/boot.worldwide.3.mouse.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://outlook.live.com/owa/prefetch.aspx",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r4.res.office365.com/owa/prem/15.20.4129.28/resources/images/0/sprite1.mouse.png"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://outlook.live.com/owa/prefetch.aspx",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r4.res.office365.com/owa/prem/15.20.4129.28/resources/images/0/sprite1.mouse.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://outlook.live.com/owa/prefetch.aspx",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r4.res.office365.com/owa/prem/15.20.4129.28/resources/styles/0/boot.worldwide.mouse.css"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 31536000,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": null,
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.live.com\n",
+  "third_parties": {
+    "fqdns": [
+      "az725175.vo.msecnd.net",
+      "ow2.res.office365.com",
+      "r4.res.office365.com",
+      "web.vortex.data.microsoft.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 48
+  },
+  "tracking": {
+    "num_tracker_cookies": 2,
+    "num_tracker_requests": 3,
+    "trackers": [
+      "az725175.vo.msecnd.net",
+      "web.vortex.data.microsoft.com"
+    ]
+  }
+}

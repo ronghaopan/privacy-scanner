@@ -1,0 +1,1594 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".bing.com",
+      "expires": 1654767064.08431,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202.084310055,
+      "name": "MUID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "34BBDD75918C6605290BCD4D9024678D"
+    },
+    {
+      "domain": "www.bing.com",
+      "expires": 1654767064.084559,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202.084558964,
+      "name": "MUIDB",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 37,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "34BBDD75918C6605290BCD4D9024678D"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_EDGE_S",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 47,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "F=1&SID=38E0E6D7074E62872BC9F6EF06E663C6"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654767064.084663,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202.084662914,
+      "name": "_EDGE_V",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 8,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654767064.084718,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202.08471799,
+      "name": "SRCHD",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 14,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AF=NOFORM"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654767064.084764,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202.084764004,
+      "name": "SRCHUID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 57,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "V=2&GUID=73522EE342684AD2BDBC3673F80A084E&dmnchg=1"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654767064.72079,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202.72078991,
+      "name": "_HPVN",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 292,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "CS=eyJQbiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMS0wNS0xNVQwMDowMDowMFoiLCJJb3RkIjowLCJEZnQiOm51bGwsIk12cyI6MCwiRmx0IjowLCJJbXAiOjJ9"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654767064,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202,
+      "name": "SRCHUSR",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 35,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "DOB=20210515&T=1621071063000"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654767064,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703202,
+      "name": "SRCHHPGUSR",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 87,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "SRCHLANGV2=es&BRW=NOTP&BRH=S&CW=800&CH=600&DPR=1&UTC=120&DM=0&WTS=63756667863"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1652607065.356032,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203.356031895,
+      "name": "_RwBf",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 106,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "mtu=0&g=0&cid=&o=2&p=&c=&t=0&s=0001-01-01T00:00:00.0000000+00:00&ts=2021-05-15T09:31:04.3288793+00:00"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_SS",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 65,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "SID=38E0E6D7074E62872BC9F6EF06E663C6&R=0&RB=0&GB=0&RG=200&RP=0"
+    },
+    {
+      "domain": "www2.bing.com",
+      "expires": 1654767065.40737,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703203.40737009,
+      "name": "MUIDB",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 37,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "34BBDD75918C6605290BCD4D9024678D"
+    },
+    {
+      "domain": ".bing.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "ipv6",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 25,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "hit=1621074664323&t=4"
+    },
+    {
+      "domain": "login.microsoftonline.com",
+      "expires": 1623663064.771211,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 2599202.771210909,
+      "name": "buid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 200,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0.ARoAMe_N-B6jSkuT5F9XHpElWnmtoZ62_ZpPi8MrcPluNMcBAAA.AQABAAEAAAD--DLA3VO7QrddgJg7WevrFDuuBftABoooRfKYbeMThXy9juO1wzhpkjvsi9M3cKtjFvlOIfI9srJOcpYoq37jWr5IdeKaxrLHoJhw3dBabh8uZL3aHA5iZi-Lb_IQRCggAA"
+    },
+    {
+      "domain": "login.microsoftonline.com",
+      "expires": 1623663064.77133,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 2599202.771330118,
+      "name": "fpc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AhXIwXjS5EBAiIaqKlAxACOCeMQLAQAAANiLMdgOAAAA"
+    },
+    {
+      "domain": ".login.microsoftonline.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "esctx",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 211,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AQABAAAAAAD--DLA3VO7QrddgJg7WevrdDrcbgOCjAs-_NS3LrFv6mMmdtJqiFvHruUlrSywyrsntDG1RX3emKZOWVrqLTMwTLXT6bWnVAW1a2kkwOW9si7kBb092VOOsHLtFu-ZVHyiUo5J1AsZMVbN5MstcbHLpXvYTZUxcuVqDb5TFE8O9nq1gyuXXH5YK7MbCwoQdIYgAA"
+    },
+    {
+      "domain": "login.microsoftonline.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "x-ms-gateway-slice",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 24,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "estsfd"
+    },
+    {
+      "domain": "login.microsoftonline.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "stsservicecookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 22,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "estsfd"
+    },
+    {
+      "domain": ".login.live.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "uaid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1e11503685cc4aa4a4c05c56efa8f8be"
+    },
+    {
+      "domain": ".login.live.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "MSPRequ",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 35,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "id=264960&lt=1621071064&co=1"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 10,
+    "first_party_short": 3,
+    "third_party_long": 2,
+    "third_party_short": 5,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.bing.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 0,
+    "window.appVersion": 0,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 0,
+    "window.mimeTypes": 0,
+    "window.platform": 0,
+    "window.plugins": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0,
+    "window.useragent": 27
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "d5315e007f9b4fc4ce55220e9a0aa375351ec90eb163bd23aa38f634f24c3064",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Microsoft RSA TLS CA 01",
+        "countryName": "US",
+        "organizationName": "Microsoft Corporation"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1633996870.0,
+      "not_valid_before": 1618185670.0,
+      "serial_number": 2386183965634006665862742437455934914988633559,
+      "subject": {
+        "commonName": "www.bing.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": true,
+      "is_ready": true
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-384",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.bing.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?id=OHR.ParanalStars_ROW3691246078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/tTYvPx7tTTs8RfyiH5ZeVq0fCDM.br.css"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&Type=Event.CPT&DATA={%22pp%22:{%22S%22:%22L%22,%22FC%22:-1,%22BC%22:-1,%22SE%22:-1,%22TC%22:-1,%22H%22:-1,%22BP%22:145,%22CT%22:148,%22IL%22:1},%22net%22:%22undefined%22}&P=SERP&DA=DUB02"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/lsp.aspx?"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/vZb9JY5gjQGprCpIRq4TD2IWPRc.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/fwImfEEDzHUJPpsuajnTSIAWpI4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/qT9tXQ1S0N63ywOz1OsP9Mm6xQM.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/T0lAQLm87gv5AUytm5v9--Y-Yj0.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/EQzAskuAH6b-JRyTiMVHCIVSOg4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/hUDr5cv9tKe-5diQ3VKxU8ZfGLQ.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/BZ4UfIeWu9BfKpat2kZG4pw6tmo.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/ZW8LH3PisO4gltwIEbY0N_vx3Uo.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/xrUJJ8sN8ucbiFbMJle3n0IfRwU.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/LXu4eYVt3NhFk3Ud9ZbhZ_PYFaA.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/JXkjDPywJD9oeuWPLy7bD8Jc6mw.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/ilbkF5vv0sk3tJ8LDY0Nm39p12g.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/23q8CO0yCt1v5XmvFfuEDvwSp-g.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/TFQelnVQseKo8S3sA_Zh33yg_rQ.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/uObc-DdxqYlW3v2ThFF8gzRXABc.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/-QoOpHP6A3PgwMhZbTU9ZejR8H4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/8CgcSSLayxEVUBf0swP_bQGMId8.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/V_fBQ_iVmAgE_Ta_T-6BNXc0ZY4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/C7TuoP5bfHv-CZlMHZy7yfvI4Fk.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/XJ8OmILbNhm0zU9tdkuGYeXVPRQ.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/cZtdzRCLBNqcqeKWXmqlWdd0Chw.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/pqFWGnKBRdI0HvcGxln7rQM1Sg0.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/jqTogFimeR6IbRU356bMp74nuBw.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/qBT20v-Hzf1mkUL9GgpZwLSrQDA.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/9PGf9nJWMXKPBoH-0umo8w5ur8g.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/upt7Ri3AVBCCNSuZMRK4rMBqXWQ.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/fwImfEEDzHUJPpsuajnTSIAWpI4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/qT9tXQ1S0N63ywOz1OsP9Mm6xQM.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/T0lAQLm87gv5AUytm5v9--Y-Yj0.br.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/images/sbi?mmasync=1&ptn=Homepage&IID=SBI&IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 400,
+      "status_text": "",
+      "url": "https://www.bing.com/hp/api/v1/trivia?format=json&id=HPQuiz_20210515_ParanalStars&"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/hp/api/v1/msnpopularnow?&format=json&ecount=20&efirst=0&&"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/hp/api/model"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22T%22%3A%22CI.Init%22%2C%22TS%22%3A1621071063462%2C%22Name%22%3A%22Base%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22width%22%3A%22800%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1621071063463%2C%22Name%22%3A%22NOTP%22%2C%22FID%22%3A%22BRW%22%7D%2C%7B%22height%22%3A%22600%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1621071063463%2C%22Name%22%3A%22S%22%2C%22FID%22%3A%22BRH%22%7D%2C%7B%22RawDPR%22%3A%221%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1621071063463%2C%22Name%22%3A%221%22%2C%22FID%22%3A%22DPR%22%7D%2C%7B%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1621071063463%2C%22Name%22%3A%221%22%2C%22FID%22%3A%22Mutation%22%7D%2C%7B%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1621071063463%2C%22Name%22%3A%220%22%2C%22FID%22%3A%22DM%22%7D%2C%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fimages%2Fsbi%3Fmmasync%3D1%26ptn%3DHomepage%26IID%3DSBI%26IG%3DC6E00B18D7FE4C5FA8F41AEC49D1C319%26%22%2C%22format%22%3A%22dom%22%2C%22time%22%3A962%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063679%2C%22Name%22%3A%22requested%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fv1%2Ftrivia%3Fformat%3Djson%26id%3DHPQuiz_20210515_ParanalStars%26%22%2C%22format%22%3A%22json%22%2C%22time%22%3A964%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063681%2C%22Name%22%3A%22requested%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fv1%2Fmsnpopularnow%3F%26format%3Djson%26ecount%3D20%26efirst%3D0%26%26%22%2C%22format%22%3A%22json%22%2C%22time%22%3A965%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063682%2C%22Name%22%3A%22requested%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fmodel%22%2C%22format%22%3A%22json%22%2C%22time%22%3A966%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063683%2C%22Name%22%3A%22requested%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/EQzAskuAH6b-JRyTiMVHCIVSOg4.br.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22comp%22%3A%22loaded%22%2C%22time%22%3A978%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063695%2C%22Name%22%3A%22speech%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "audio/mpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/vs/ec/start.mp3"
+    },
+    {
+      "mime_type": "audio/mpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/vs/ec/stop.mp3"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fimages%2Fsbi%3Fmmasync%3D1%26ptn%3DHomepage%26IID%3DSBI%26IG%3DC6E00B18D7FE4C5FA8F41AEC49D1C319%26%22%2C%22format%22%3A%22dom%22%2C%22status%22%3A200%2C%22time%22%3A1000%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063717%2C%22Name%22%3A%22fetched%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/hUDr5cv9tKe-5diQ3VKxU8ZfGLQ.br.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fv1%2Fmsnpopularnow%3F%26format%3Djson%26ecount%3D20%26efirst%3D0%26%26%22%2C%22format%22%3A%22json%22%2C%22status%22%3A200%2C%22time%22%3A1060%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063777%2C%22Name%22%3A%22fetched%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fmodel%22%2C%22format%22%3A%22json%22%2C%22status%22%3A200%2C%22time%22%3A1076%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063793%2C%22Name%22%3A%22fetched%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/kiGH9ukZK6Q4hvtDtwwVc1yvueg.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/N55Tc-oLNOuzZam9OghLsR0GD5U.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/H_VmuFPRwWZ4UrVl0mPztnf3z5U.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/n_C4vBfAV3O9RfkGjfduaZoxjAs.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/kBH4DSEA84cgV7IKw7_Bwvm2NpI.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/n1U5gwBiwMo7s-fWOh2kSe3Kils.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/CMm2G4GK3T9XHTMByeN2QI1OVUs.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/b4Jy0kwhnsWcsDQyuzAEsN7RmhQ.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/ELqKWpA6KkapLUFbOLS-IQ2zfXc.jpg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fimages%2Fsbi%3Fmmasync%3D1%26ptn%3DHomepage%26IID%3DSBI%26IG%3DC6E00B18D7FE4C5FA8F41AEC49D1C319%26%22%2C%22format%22%3A%22dom%22%2C%22time%22%3A1108%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063825%2C%22Name%22%3A%22parsed%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fv1%2Ftrivia%3Fformat%3Djson%26id%3DHPQuiz_20210515_ParanalStars%26%22%2C%22format%22%3A%22json%22%2C%22status%22%3A400%2C%22time%22%3A1109%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063826%2C%22Name%22%3A%22fetched%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fmodel%22%2C%22format%22%3A%22json%22%2C%22time%22%3A1127%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063844%2C%22Name%22%3A%22parsed%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fv1%2Fmsnpopularnow%3F%26format%3Djson%26ecount%3D20%26efirst%3D0%26%26%22%2C%22format%22%3A%22json%22%2C%22time%22%3A1130%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063847%2C%22Name%22%3A%22parsed%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gL4vR.img&ehk=HavXt44AH3BFn24olXzBXwwkiLQPKpQipHgPV4VLqXI%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKX9e.img&ehk=IZLozNmWJox09tCwnK1CPOLDcOv227o2CfEPBxnH08o%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gL2za.img&ehk=R9JyL1QKjqTES5mp4ZRucZFfebgBMsc0eE484SXGLbw%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKL3x.img&ehk=SoUtn%2f%2bbiQ3ybfiFDjhzgqsVYD5I5MzjkQWEtR5qo0A%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gL4ub.img&ehk=i7m0DysvQribaLVbpuWExH4DbVtCrS2HQW2AD4Vherw%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKITJ.img&ehk=Nz4s2zunGuaTZgruiPEmeqWAgNMH067NxTX1HOZiyi0%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKSmU.img&ehk=57d8OtWoUdwaWUnm1bLCAVlA1sg1fNgwRxru3I3bVCk%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKYN6.img&ehk=WUVocsXPz3rVf%2bBDD3N4Fqd0QKxFDV9qfxkskiO%2bh40%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKSR6.img&ehk=5XwVeNxmvfcrsI6tlNxf7a4kw2XMxje60%2fTpyIgWatE%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKB7q.img&ehk=1dSmW19%2bCW0LtGEC7JAhyhX1ppHDFV2rVHHXyer%2fZ6I%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKNZj.img&ehk=8p5mc5hZ4Jpb5rNtZyg1bX2fM8afeAmEwJB%2bfhMEd9Y%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKW5F.img&ehk=QlBJyuuXtnPBe3xn%2bLmA96Ixpg2bkSfZhQX59rMiTbU%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKG1l.img&ehk=clmvlne6%2bmI4Z%2bTjUGA7BskF9KDVQksWBZ3R2K2NyCo%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKSAh.img&ehk=HAswFiOyVwGqRXxvlk3aHVvvj6hAKlVyYX4pEQF3PRY%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKPOk.img&ehk=Fe%2bJzCLnTiNB7WoKKOVf%2f4%2b%2bxRGtlSeazQWMFB0qrOQ%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKdea.img&ehk=WmaGnTHTph%2boCOYsZ2RCDU5%2fX3ZF5num3TJyqmuZEAk%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKKPS.img&ehk=8tlRw%2bCrZR0A5E4LL1PyyF7GAQdEzzJy0h8k5wpTZG4%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1d0DdO.img&ehk=mWOnTAlOj%2bjgZsb7EHnOuJHpRfnYJl83tXyD8UHr2KY%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKKwk.img&ehk=RWoFMQT72YrdmX%2fk7C0b0U5jtBW4Hntfd8ByqPQe9GU%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKIe7.img&ehk=Ldrzbyi86PYrKWq40IrH4HUMTbzV283jaWUKSXtl6Uk%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/th?u=https%3a%2f%2fimg-s-msn-com.akamaized.net%2ftenant%2famp%2fentityid%2fBB1gKRxb.img&ehk=K%2fAfc86ozZvGn42H4EGXe9GMdBKOCaS0gXJWarhFk2o%3d&w=150&h=150&c=8&rs=2&pid=WP0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/notifications/render?bnptrigger=%7B%22PartnerId%22%3A%22HomePage%22%2C%22IID%22%3A%22Bnp%22%2C%22Attributes%22%3A%7B%22RawRequestURL%22%3A%22%2F%22%7D%7D&IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&IID=Bnp"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22useFetch%22%2C%22url%22%3A%22%2Fhp%2Fapi%2Fv1%2Ftrivia%3Fformat%3Djson%26id%3DHPQuiz_20210515_ParanalStars%26%22%2C%22format%22%3A%22json%22%2C%22time%22%3A1177%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063894%2C%22Name%22%3A%22parsed%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22func%22%3A%22carousel%22%2C%22count%22%3A1%2C%22time%22%3A1219%2C%22T%22%3A%22CI.Data%22%2C%22TS%22%3A1621071063936%2C%22Name%22%3A%22fetched%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/BZ4UfIeWu9BfKpat2kZG4pw6tmo.br.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22Count%22%3A21%2C%22time%22%3A1272%2C%22T%22%3A%22CI.Show%22%2C%22TS%22%3A1621071063989%2C%22Name%22%3A%22ProactiveNewsTiles%22%2C%22FID%22%3A%22HP%22%7D%5D"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/ZW8LH3PisO4gltwIEbY0N_vx3Uo.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/xL4gor1DPYxfpnkFH5psPIRp1Ks.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/ID7QsFaE3B6gp3ZqR_nvz5UkWE8.br.js"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/Jl2vUSlEIqWjk-99MuYp4W74zvQ.svg"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/xrUJJ8sN8ucbiFbMJle3n0IfRwU.br.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/eF3rIdIG4fsLyPy7mzgRnjCDKIA.png"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/LXu4eYVt3NhFk3Ud9ZbhZ_PYFaA.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/JXkjDPywJD9oeuWPLy7bD8Jc6mw.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/ilbkF5vv0sk3tJ8LDY0Nm39p12g.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/23q8CO0yCt1v5XmvFfuEDvwSp-g.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/TFQelnVQseKo8S3sA_Zh33yg_rQ.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/uObc-DdxqYlW3v2ThFF8gzRXABc.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/-QoOpHP6A3PgwMhZbTU9ZejR8H4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/8CgcSSLayxEVUBf0swP_bQGMId8.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/V_fBQ_iVmAgE_Ta_T-6BNXc0ZY4.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/C7TuoP5bfHv-CZlMHZy7yfvI4Fk.br.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token+code&nonce=59956791-7713-40f3-bb45-0d2d1e96cb88&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fconditional&scope=openid&response_mode=form_post&msafed=0&prompt=none&state=%7b%22ig%22%3a%22C6E00B18D7FE4C5FA8F41AEC49D1C319%22%7d"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/XJ8OmILbNhm0zU9tdkuGYeXVPRQ.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/cZtdzRCLBNqcqeKWXmqlWdd0Chw.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/pqFWGnKBRdI0HvcGxln7rQM1Sg0.br.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rewardsapp/ncheader?ver=21030558&IID=SERP.5019&IG=C6E00B18D7FE4C5FA8F41AEC49D1C319"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/jqTogFimeR6IbRU356bMp74nuBw.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/qBT20v-Hzf1mkUL9GgpZwLSrQDA.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/9PGf9nJWMXKPBoH-0umo8w5ur8g.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/upt7Ri3AVBCCNSuZMRK4rMBqXWQ.br.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rewardsapp/reportActivity?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&IID=SERP.5026&&src=hp"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/mdulUzF-nBnguugHKeTz1-RNEzg.br.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/b2jK53ShtA2vbaZAckacg90Gv6k.br.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www2.bing.com/ipv6test/test"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/ipv6test/test?FORM=MONITR"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1621071063&rver=6.0.5286.0&wp=MBI_SSL&wreply=https:%2F%2fwww.bing.com%2Fsecure%2FPassport.aspx%3Fpopup%3D1%26ssl%3D1&lc=3082&id=264960&checkda=1"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/iYOkEzWcE-j5AjMtmhlo4ZL7Xnw.br.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/rp/4JLY1piYhqHlgi_KIJtjy5OFXo4.br.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/l?IG=C6E00B18D7FE4C5FA8F41AEC49D1C319&CID=34BBDD75918C6605290BCD4D9024678D&TYPE=Event.ClientInst&DATA=%5B%7B%22T%22%3A%22CI.ClientInst%22%2C%22TS%22%3A1621071064222%2C%22Name%22%3A%22OrgId%22%2C%22FID%22%3A%22NoSignInAttempt%22%7D%2C%7B%22Fallback%22%3A%221%22%2C%22ShowAnimation%22%3A%22%22%2C%22RedDotAnimation%22%3A%22true%22%2C%22FID%22%3A%22ModernRewardsFlyout%22%2C%22EventName%22%3A%22AnimationLoad%22%2C%22T%22%3A%22CI.Load%22%2C%22TS%22%3A1621071064370%2C%22Name%22%3A%22AnimationLoad%22%7D%5D"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://login.microsoftonline.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/orgid/idtoken/conditional"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.bing.com/secure/Passport.aspx?popup=1&ssl=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.bing.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.bing.com/fd/ls/lsp.aspx"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 31536000,
+      "preload": true
+    },
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": null,
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.bing.com\n",
+  "third_parties": {
+    "fqdns": [
+      "login.live.com",
+      "login.microsoftonline.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 2
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}

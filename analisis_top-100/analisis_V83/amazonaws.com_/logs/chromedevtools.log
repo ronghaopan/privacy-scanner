@@ -1,0 +1,12 @@
+2021-05-16 17:31:53,237: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-16 17:32:00,064: [INFO] Scan module `chromedevtools` will be retried (scanner.py:186)
+2021-05-16 17:32:00,065: [INFO] Finished chromedevtools (scanner.py:201)
+2021-05-16 17:32:00,066: [INFO] Starting chromedevtools (scanner.py:177)
+2021-05-16 17:32:00,793: [ERROR] Neither responses, nor failed requests. (chromescan.py:514)
+Traceback (most recent call last):
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 498, in scan
+    content = scanner.scan(browser, result, logger, options)
+  File "/home/ronghao/TFG/privacyscanner-master/privacyscanner/scanmodules/chromedevtools/chromescan.py", line 643, in scan
+    raise NotReachableError('Not reachable for unknown reasons.')
+privacyscanner.scanmodules.chromedevtools.chromescan.NotReachableError: Not reachable for unknown reasons.
+2021-05-16 17:32:06,911: [INFO] Finished chromedevtools (scanner.py:201)

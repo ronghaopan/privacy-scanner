@@ -1,0 +1,1226 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".medium.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "__cfruid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 59,
+      "value": "62d3d21499a0223434986f11e6cc97b531f545c3-1621179083"
+    },
+    {
+      "domain": ".medium.com",
+      "expires": 1652715083.063955,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.06395507,
+      "name": "uid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 18,
+      "value": "lo_510160d91515"
+    },
+    {
+      "domain": ".medium.com",
+      "expires": 1652715083.064108,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.064107895,
+      "name": "sid",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 69,
+      "value": "1:bUWRLDJOUOCMBsRA1Qvl6knPPPiWdOPgtnl1/JAgIBsdpmTtd7lz6dzaxcSzsggG"
+    },
+    {
+      "domain": ".medium.com",
+      "expires": 1636731086,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 15559204,
+      "name": "optimizelyEndUserId",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 34,
+      "value": "lo_510160d91515"
+    },
+    {
+      "domain": "medium.com",
+      "expires": 1621783886,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 612004,
+      "name": "lightstep_guid/lite-web",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 39,
+      "value": "4537150560d00425"
+    },
+    {
+      "domain": "medium.com",
+      "expires": 1621783886,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 612004,
+      "name": "lightstep_session_id",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 36,
+      "value": "676468fc79990905"
+    },
+    {
+      "domain": ".google.com",
+      "expires": 1636990286.475546,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 15818404.475545883,
+      "name": "NID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 178,
+      "value": "215=qPKHT_PNtxpdcPFGhbJVac12YMQpCZv2HgtTIdvjPPgqEiCyreWWffLE6pTtsZsbcCOqcCh0i_cLIXBncnfN_xlIUjq30RyUwwwYoVXWpaMdPeZ68BXyeXPuTgjLZAHzCEcwXEiUhQA9INKmPUXR_Ym1e5oZvpSdxFl24A4_HEE"
+    },
+    {
+      "domain": ".medium.com",
+      "expires": 1684251086,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 29,
+      "value": "GA1.2.616972399.1621179087"
+    },
+    {
+      "domain": ".medium.com",
+      "expires": 1621265486,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93604,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "value": "GA1.2.218298293.1621179087"
+    },
+    {
+      "domain": ".medium.com",
+      "expires": 1621179146,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7264,
+      "name": "_gat",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 5,
+      "value": "1"
+    },
+    {
+      "domain": ".app.link",
+      "expires": 1652715087.146412,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.146411896,
+      "name": "_s",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 66,
+      "value": "Q0KR5mRcxW8qUez7cLgTqKXXo9m8TcHn7jqbGw5DDuWfFSWsGusjtBeArLlSWpn6"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 7,
+    "first_party_short": 2,
+    "third_party_long": 2,
+    "third_party_short": 0,
+    "trackers": [
+      "app.link"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://medium.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 3,
+    "window.navigator.languages": 6,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 1,
+    "window.navigator.product": 1,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 45,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 1,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-24232453-2"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "596ab86277ce7a2610b201632b1d8c9c732f26577058bd0f371f724fd2d90663",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Cloudflare Inc ECC CA-3",
+        "countryName": "US",
+        "organizationName": "Cloudflare, Inc."
+      },
+      "key": {
+        "curve": "secp256r1",
+        "size": 256,
+        "type": "ECC"
+      },
+      "not_valid_after": 1628027999.0,
+      "not_valid_before": 1620252000.0,
+      "serial_number": 18314809973608067038265688119981867024,
+      "subject": {
+        "commonName": "medium.com",
+        "countryName": "US",
+        "localityName": "San Francisco",
+        "organizationName": "Cloudflare, Inc.",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": true,
+      "is_ready": true
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "{}",
+      "key": "optimizely_data$$lo_510160d91515$$16180790160$$layer_map"
+    },
+    {
+      "content": "{\"lastSessionTimestamp\":1621179086007,\"sessionId\":\"341ba6ac-f6dd-43b4-9f07-8f9ee9229603\"}",
+      "key": "optimizely_data$$lo_510160d91515$$16180790160$$session_state"
+    },
+    {
+      "content": "{}",
+      "key": "optimizely_data$$pending_events"
+    },
+    {
+      "content": "[]",
+      "key": "optimizely_data$$lo_510160d91515$$16180790160$$layer_states"
+    },
+    {
+      "content": "false",
+      "key": "viewer-status|is-logged-in"
+    },
+    {
+      "content": "{}",
+      "key": "optimizely_data$$lo_510160d91515$$16180790160$$variation_map"
+    },
+    {
+      "content": "{}",
+      "key": "optimizely_data$$lo_510160d91515$$16180790160$$tracker_optimizely"
+    },
+    {
+      "content": "{\"profile\":{\"visitorId\":\"lo_510160d91515\",\"customBehavior\":{},\"first_session\":true,\"browserId\":\"gc\",\"browserVersion\":\"83.0.4103.116\",\"device\":\"desktop\",\"device_type\":\"desktop_laptop\",\"referrer\":null,\"source_type\":\"direct\",\"cookies\":{},\"currentTimestamp\":1621179086036,\"offset\":-120},\"metadata\":{\"visitorId\":{},\"events\":{},\"customBehavior\":{},\"first_session\":{},\"browserId\":{},\"browserVersion\":{},\"device\":{},\"device_type\":{},\"referrer\":{},\"source_type\":{},\"cookies\":{},\"currentTimestamp\":{},\"offset\":{}}}",
+      "key": "optimizely_data$$lo_510160d91515$$16180790160$$visitor_profile"
+    },
+    {
+      "content": "{\"session_id\":\"922498834864479653\",\"identity_id\":\"922498834869101454\",\"link\":\"https://link.medium.com/a/key_live_ofxXr2qTrrU9NqURK8ZwEhknBxiI6KBm?%24identity_id=922498834869101454\",\"data\":\"{\\\"+clicked_branch_link\\\":false,\\\"+is_first_session\\\":true}\",\"browser_fingerprint_id\":\"OTIyNDk4ODMwODMxOTU5NjA1\",\"has_app\":false,\"identity\":\"lo_510160d91515\"}",
+      "key": "branch_session_first"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.medium.com/",
+    "https://medium.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.medium.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://glyph.medium.com/css/unbound.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.optimizely.com/js/16180790160.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/manifest.7fc0b2c7.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/6484.96815e61.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/main.2eff701b.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/5573.159bf40f.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/instrumentation.8ea15b6a.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/reporting.65aadb14.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/3466.f84b8e22.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/4586.1d9fc9c3.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/2176.958ba593.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/7131.edd58179.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/2797.e2440987.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/9794.fc4b0fa2.chunk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn-client.medium.com/lite/static/js/Homepage.679b6c8a.chunk.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/max/770/1*qcAZgT4Sk37MPSTGBH2KUw.png"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://glyph.medium.com/css/unbound.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://glyph.medium.com/font/df9ba7f/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-500-normal.woff"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://glyph.medium.com/css/unbound.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://glyph.medium.com/font/cf896f3/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-700-normal.woff"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://glyph.medium.com/css/unbound.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://glyph.medium.com/font/b492c44/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-400-normal.woff"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://glyph.medium.com/css/unbound.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://glyph.medium.com/font/4a44748/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/gt-super-400-normal.woff"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/graphql"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/graphql"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a16180790160.cdn.optimizely.com/client_storage/a16180790160.html"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/max/385/1*qcAZgT4Sk37MPSTGBH2KUw.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://accounts.google.com/gsi/client"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/clientele/reports/performance/"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/clientele/reports/performance/"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.branch.io/branch-latest.min.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://app.link/_r?sdk=web2.58.1&branch_key=key_live_ofxXr2qTrrU9NqURK8ZwEhknBxiI6KBm&callback=branch_callback__0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=530001004&t=pageview&_s=1&dl=https%3A%2F%2Fmedium.com%2F&ul=es-es&de=UTF-8&dt=Medium%20%E2%80%93%20Where%20good%20ideas%20find%20you.&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=IEBAAEABAAAAAC~&jid=840304197&gjid=1075257819&cid=616972399.1621179087&tid=UA-24232453-2&_gid=218298293.1621179087&_r=1&_slc=1&z=757187477"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/graphql"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://glyph.medium.com/css/unbound.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://glyph.medium.com/font/b492c44/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-400-normal.woff"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/graphql"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*tV1rvL2CjWXajfvmTatgow.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*j3YqKZ2cbnGn-XNFZs0ulQ.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*pfjoZOu08t9b-HHXv68ETg.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/2*7XgqvddKiVCAv9yG4e74WQ.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*eLxNtw6hQ4-3HrHda5BCCw.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*yUgN8MYtbqSiNj4olJUcHw.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*07lesGIGjBy3AqvnMCFx8Q.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/0*HuxS4P08wdqSakma"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*8ndrLe4Ldljn8ba1A-FbFA.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*T36iyGk8HI3iFINw27SAjQ.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*JgvK8XYmhPr8Hz3thMOx2A.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*pKOfOAOvx-fWzfITATgGRg.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/0*RJx8Bih14Dk7_vD5"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*uRk4AIAaQuWNtE8ofIYrcw.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*h76N_nzHglfKrukQcHgbCA.jpeg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://logx.optimizely.com/v1/events"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightstep.medium.systems/api/v0/reports"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightstep.medium.systems/api/v0/reports"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api2.branch.io/v1/open"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://accounts.google.com/gsi/style"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://accounts.google.com/gsi/status?client_id=216296035834-k1k6qe060s2tp2a2jam4ljdcms00sttg.apps.googleusercontent.com&as=m44vRhN8fBC3O3%2FKDlNaHw"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/clientele/reports/performance/"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browser-http-intake.logs.datadoghq.com/v1/input/pub853ea8d17ad6821d9f8f11861d23dfed"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://browser-http-intake.logs.datadoghq.com/v1/input/pub853ea8d17ad6821d9f8f11861d23dfed"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api2.branch.io/v1/profile"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api2.branch.io/v1/pageview"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*8OIW1rabg1zNia0RjTm0KQ.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*SGH_idNjze-mCcjo9hilkw.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*uWbn_ZpGom5xlrE-bX-EuQ.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*QsIbwFDqZ9IjpgMa-kJKug.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*NOKmgmX9LJzkYgE80D2MSA.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/2*WCWpog6WqKnaXo5lhsRLZA.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*M9V5xxduQmF8nQvdBAbgNw.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*xF11-TSkpJSCgLc75f-DFw.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/0*Z8Xa5zS4c_zn9AAf"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*suDnvWWEvtqQCxA2NEHoRA.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*LDMv3nzRaYsgklB02Z0t8Q.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*NGMJddsIZom8zesaLXEJzw.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/0*8AcADGT7unhMOsRq"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/2*AJmmIubVIjhk24VDLSenkw.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*Dp27yITrSLMqeKnqzBomvg.jpeg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*sWYNqFzF3qKnoFJtSjvF9w.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*SGJbRLYtMgkSWDAUX-7oeQ.jpeg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*yyPfzFFnOvoVPj_kskZbFw.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/0*SvCpgJ0ADaapvndl"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*adOHJKQ8PsJkFMQgRWstIg.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*Diwc1DIGQArX7GSHdVtlXA.jpeg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*TyRLQdZO7NdPATwSeut8gg.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/0*pnFD6UZOXflpSIDJ"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*eW9ok1r8OF5IghZyf68RIw.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*ux38LMPZ56xD7gGZ8HVroA.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*NtFBQxy0CSE_Z5J9mJ6FNA.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*RbCfP6q01ZywMjFHcVqL4w.jpeg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*iXi22BBwZoGKomUJTe-xAw.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/0*QAViKAWi5fJj02uG"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*JMlnrwOmAUGovsl9pLrRbw.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*sGAjw6YtEtd2a4NNnr1FJg.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*Dts3mq5N3zRr28m98LYOJw.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*UEYB2oOrWUVtlEKJ8JUFMQ.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/20/20/1*kR2NLgq4rxSAPYjwXpDXOQ.jpeg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://miro.medium.com/fit/c/200/134/1*_av9WYZYeeUIn3f1skJQOw.png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api2.branch.io/v1/pageview"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightstep.medium.systems/api/v0/reports"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightstep.medium.systems/api/v0/reports"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightstep.medium.systems/api/v0/reports"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://medium.com/_/batch"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightstep.medium.systems/api/v0/reports"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://medium.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lightstep.medium.systems/api/v0/reports"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "frame-ancestors": [
+        "medium.com"
+      ],
+      "header_value": "frame-ancestors medium.com"
+    },
+    "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=15552000; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 15552000,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": null,
+    "X-XSS-Protection": null
+  },
+  "session_storage": [
+    {
+      "content": "{\"session_id\":\"922498834864479653\",\"identity_id\":\"922498834869101454\",\"link\":\"https://link.medium.com/a/key_live_ofxXr2qTrrU9NqURK8ZwEhknBxiI6KBm?%24identity_id=922498834869101454\",\"data\":\"{\\\"+clicked_branch_link\\\":false,\\\"+is_first_session\\\":true}\",\"browser_fingerprint_id\":\"OTIyNDk4ODMwODMxOTU5NjA1\",\"has_app\":false,\"identity\":\"lo_510160d91515\"}",
+      "key": "branch_session"
+    },
+    {
+      "content": "{\"timestamp_micros\":1621179093403185,\"samples\":[{\"delayMicros\":493253,\"offsetMicros\":147851.5},{\"delayMicros\":167266,\"offsetMicros\":-3244},{\"delayMicros\":169779,\"offsetMicros\":-1211.5},{\"delayMicros\":185973,\"offsetMicros\":-7623.5},{\"delayMicros\":432233,\"offsetMicros\":126092.5}]}",
+      "key": "lightstep/clock_state/lightstep.medium.systems"
+    }
+  ],
+  "site_url": "https://www.medium.com\n",
+  "third_parties": {
+    "fqdns": [
+      "a16180790160.cdn.optimizely.com",
+      "accounts.google.com",
+      "api2.branch.io",
+      "app.link",
+      "browser-http-intake.logs.datadoghq.com",
+      "cdn.branch.io",
+      "cdn.optimizely.com",
+      "lightstep.medium.systems",
+      "logx.optimizely.com",
+      "www.google-analytics.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 23
+  },
+  "tracking": {
+    "num_tracker_cookies": 1,
+    "num_tracker_requests": 18,
+    "trackers": [
+      "a16180790160.cdn.optimizely.com",
+      "api2.branch.io",
+      "app.link",
+      "browser-http-intake.logs.datadoghq.com",
+      "cdn.branch.io",
+      "cdn.optimizely.com",
+      "lightstep.medium.systems",
+      "logx.optimizely.com",
+      "www.google-analytics.com"
+    ]
+  }
+}

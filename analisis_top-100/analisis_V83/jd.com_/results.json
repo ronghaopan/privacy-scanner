@@ -1,0 +1,664 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".jd.com",
+      "expires": 1636729346,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 15559204,
+      "name": "__jda",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 72,
+      "value": "122270672.1621177346432538067706.1621177346.1621177346.1621177346.1"
+    },
+    {
+      "domain": ".jd.com",
+      "expires": 1621179146,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9004,
+      "name": "__jdb",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 52,
+      "value": "122270672.1.1621177346432538067706|1.1621177346"
+    },
+    {
+      "domain": ".jd.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "__jdc",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 14,
+      "value": "122270672"
+    },
+    {
+      "domain": ".jd.com",
+      "expires": 1622473346,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 1303204,
+      "name": "__jdv",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 44,
+      "value": "122270672|direct|-|none|-|1621177346435"
+    },
+    {
+      "domain": ".mercury.jd.com",
+      "expires": 1636729346.683281,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 15559204.683280945,
+      "name": "cud",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 35,
+      "value": "7da6007a3d2eb9d2164558f53d6f3a5b"
+    },
+    {
+      "domain": ".mercury.jd.com",
+      "expires": 1636729346.683329,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 15559204.683329105,
+      "name": "cvt",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 4,
+      "value": "1"
+    },
+    {
+      "domain": ".mercury.jd.com",
+      "expires": 1621179146.683367,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9004.683367013931,
+      "name": "csn",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 4,
+      "value": "1"
+    },
+    {
+      "domain": ".jd.com",
+      "expires": 1636729346.683406,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 15559204.683406115,
+      "name": "__jdu",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 27,
+      "value": "1621177346432538067706"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 5,
+    "first_party_short": 3,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://global.jd.com/",
+  "fingerprinting": {
+    "canvas": {
+      "call_stack": [
+        {
+          "args": [],
+          "functionName": "getWebglFp",
+          "location": {
+            "columnNumber": 33279,
+            "lineNumber": 0
+          },
+          "url": ""
+        },
+        {
+          "args": [
+            [
+              "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36",
+              "es-ES",
+              "applewebkit_chrome",
+              "537.36",
+              "linux",
+              "NA",
+              24,
+              "600x800",
+              -120,
+              "sessionStorageKey",
+              "localStorageKey",
+              "indexedDbKey",
+              "openDatabase",
+              "NA",
+              "Linux x86_64",
+              4,
+              "44100",
+              "NA",
+              "",
+              "cw:yes~cfp:undefined"
+            ]
+          ],
+          "functionName": "webglKey",
+          "location": {
+            "columnNumber": 28952,
+            "lineNumber": 0
+          },
+          "url": ""
+        },
+        {
+          "args": [
+            null
+          ],
+          "functionName": "get",
+          "location": {
+            "columnNumber": 24880,
+            "lineNumber": 0
+          },
+          "url": ""
+        },
+        {
+          "args": [],
+          "functionName": "",
+          "location": {
+            "columnNumber": 62759,
+            "lineNumber": 0
+          },
+          "url": ""
+        },
+        {
+          "args": null,
+          "functionName": "",
+          "location": {
+            "columnNumber": 62902,
+            "lineNumber": 0
+          },
+          "url": ""
+        },
+        {
+          "args": null,
+          "functionName": "",
+          "location": {
+            "columnNumber": 0,
+            "lineNumber": 0
+          },
+          "url": "https://gias.jd.com/js/td.js"
+        }
+      ],
+      "calls": [
+        {
+          "arguments": [
+            "image/webp"
+          ],
+          "method": "HTMLCanvasElement.toDataURL"
+        },
+        {
+          "arguments": [
+            "Cwwm aa fjorddbank glbyphs veext qtuiz, \ud83d\ude03",
+            2,
+            15
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Cwwm aa fjorddbank glbyphs veext qtuiz, \ud83d\ude03",
+            4,
+            45
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [],
+          "method": "HTMLCanvasElement.toDataURL"
+        },
+        {
+          "arguments": [],
+          "method": "HTMLCanvasElement.toDataURL"
+        }
+      ],
+      "is_fingerprinting": true
+    },
+    "webGL": {
+      "calls": [
+        {
+          "arguments": [
+            5,
+            0,
+            3
+          ],
+          "method": "WebGLRenderingContext.drawArrays"
+        },
+        {
+          "arguments": [],
+          "method": "WebGLRenderingContext.getSupportedExtensions"
+        }
+      ],
+      "have_webGL": true
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 1,
+    "window.navigator.appName": 2,
+    "window.navigator.appVersion": 1,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 1,
+    "window.navigator.indexDB": 3,
+    "window.navigator.language": 4,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 1,
+    "window.navigator.platform": 12,
+    "window.navigator.plugins": 4,
+    "window.navigator.product": 2,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 21,
+    "window.navigator.vendor": 1,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 3,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "4e7d6554883488e8a5d4aeb6d92736a8efe14e3dbdaefa92a8a06c928f45f70c",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "GlobalSign RSA OV SSL CA 2018",
+        "countryName": "BE",
+        "organizationName": "GlobalSign nv-sa"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1638088974.0,
+      "not_valid_before": 1597108021.0,
+      "serial_number": 9569783962220322900207065437,
+      "subject": {
+        "commonName": "*.jd.com",
+        "countryName": "CN",
+        "localityName": "beijing",
+        "organizationName": "BEIJING JINGDONG SHANGKE INFORMATION TECHNOLOGY CO., LTD.",
+        "stateOrProvinceName": "beijing"
+      },
+      "version": "v3"
+    },
+    "cipher": "CHACHA20_POLY1305",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "max-age-too-short",
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": "15.4.2",
+    "jQuery": "1.6.4"
+  },
+  "local_storage": [
+    {
+      "content": "d44799d75726f8072ce9434a3280e5a1",
+      "key": "cfvalmdjrr"
+    },
+    {
+      "content": "1621177349132",
+      "key": "timecfjrr"
+    },
+    {
+      "content": "cw:yes~cfp:undefined",
+      "key": "cfjrrval"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.jd.com/",
+    "https://global.jd.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www.jd.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://global.jd.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css,jdf/1.0.0/unit/shortcut/5.0.0/shortcut.css,jdf/1.0.0/unit/global-header/5.0.0/global-header.css,jdf/1.0.0/unit/myjd/5.0.0/myjd.css,jdf/1.0.0/unit/nav/5.0.0/nav.css,jdf/1.0.0/unit/shoppingcart/5.0.0/shoppingcart.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/portalstatic/common.min.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://misc.360buyimg.com/jdf/??/1.0.0/unit/base/5.0.0/base.js,/lib/jquery-1.6.4.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.360buyimg.com/mtd/pc/cms/js/o2_ua.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.360buyimg.com/mtd/pc/base/1.0.0/base.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/portalstatic/static/pc.config.46114046.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/portalstatic/static/vendor.dll.8e1ea8ba.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.360buyimg.com/webstatic/getprice/1.0.0/js/price.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/o2cms/lib/nerv/1.4.4/nerv.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/component-static/library/pc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd5a6__5ee34e5afc685b3ecdd0f087.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd5a7__5ee34e58fc685b3ecdd0f078.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd5a8__5ee34e5afc685b3ecdd0f08a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd5a9__5fa90cbc7e292cb70199df98.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/atom-assets/js/console.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://misc.360buyimg.com/jdf/2.0.0/ui/ui/1.0.0/ui.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5d1b5daa81f09f0f005de7cb__5ee34e59fc685b3ecdd0f07c.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd5a4__5f0d0db797e1ca3c844508e9.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://wl.jd.com/wl.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mercury.jd.com/log.gif?t=www.100000&m=UA-J2011-1&pin=-&uid=1621177346432538067706&sid=1621177346432538067706|1&v=je%3D0%24sc%3D24-bit%24sr%3D800x600%24ul%3Des-es%24cs%3DUTF-8%24dt%3D%E4%BA%AC%E4%B8%9C%E5%85%A8%E7%90%83%E7%89%88-%E4%B8%93%E4%B8%9A%E7%9A%84%E7%BB%BC%E5%90%88%E7%BD%91%E4%B8%8A%E8%B4%AD%E7%89%A9%E5%95%86%E5%9F%8E%24hn%3Dglobal.jd.com%24fl%3D-%24os%3Dlinux%24br%3Dchrome%24bv%3D83.0.4103.116%24wb%3D1621177346%24xb%3D1621177346%24yb%3D1621177346%24zb%3D1%24cb%3D1%24usc%3Ddirect%24ucp%3D-%24umd%3Dnone%24uct%3D-%24lt%3D0%24ct%3D1621177346423%24tad%3D-%24mba_finger%3Dv001eyJiIjoiIiwiYyI6IiIsImQiOiJMaW51eCB4ODZfNjQiLCJmIjo4LCJnIjowLCJoIjoiIiwiaSI6MCwiaiI6IjIwMjEtMDUtMTYgMTc6MDI6MjYiLCJrIjoiZjVhNTI0YjY4MjAyMmQ1MmUwZTlhMjRmZjQzNDlkNWYiLCJsIjoiNDRhOTdiYTk2YjkwMzNiNTIyNmM5ZTMxNGFjY2Y0YmEiLCJtIjoiIiwibiI6IiIsIm8iOjAsInAiOiI4MDAqNjAwIn0%3D%24fpftime%3D9%24pinid%3D-%24jdv%3D122270672%7Cdirect%7C-%7Cnone%7C-%7C1621177346435%24dataver%3D0.1&ref=&rm=1621177346447"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd58f__5ee34e5cfc685b3ecdd0f09e.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd5a0__5ee34e5bfc685b3ecdd0f093.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd57e__5ee34e5dfc685b3ecdd0f0b3.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd591__5ee34e5afc685b3ecdd0f08c.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd58a__5ee34e59fc685b3ecdd0f079.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd580__5f0d103397e1ca3c84450931.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gias.jd.com/js/td.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gia.jd.com/y.html?v=0.8805614050108663&o=global.jd.com/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://global.jd.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://storage.360buyimg.com/quark-platform/component/standard/5cd436279a6ea5003becd579__5ee34e5dfc685b3ecdd0f0b1.js"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=3600",
+      "includeSubDomains": false,
+      "max-age": 3600,
+      "preload": false
+    },
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": null,
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.jd.com\n",
+  "third_parties": {
+    "fqdns": [
+      "misc.360buyimg.com",
+      "static.360buyimg.com",
+      "storage.360buyimg.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 25
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}

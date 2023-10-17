@@ -1,0 +1,546 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".spotify.com",
+      "expires": 1736696480.035947,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 115524001.03594708,
+      "name": "sp_m",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": true,
+      "session": false,
+      "size": 6,
+      "value": "es"
+    },
+    {
+      "domain": ".spotify.com",
+      "expires": 1652715680.090038,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.09003806,
+      "name": "sp_t",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 40,
+      "value": "66698c2f-bc85-4dcd-99fb-d59543b04ecf"
+    },
+    {
+      "domain": ".spotify.com",
+      "expires": 1621266080.090119,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93601.09011888504,
+      "name": "sp_new",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 7,
+      "value": "1"
+    },
+    {
+      "domain": ".spotify.com",
+      "expires": 1621266080.090167,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93601.0901670456,
+      "name": "sp_landing",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "https%3A%2F%2Fwww.spotify.com%2Fes%2F"
+    },
+    {
+      "domain": ".spotify.com",
+      "expires": 1652715682,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203,
+      "name": "OptanonConsent",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 350,
+      "value": "isIABGlobal=false&datestamp=Sun+May+16+2021+17%3A41%3A22+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.16.0&hosts=&consentId=38766bd2-8fdb-4fff-b01b-86159a0cc7e8&interactionCount=0&landingPath=https%3A%2F%2Fwww.spotify.com%2Fes%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Ci00%3A0%2CSTACK3%3A0%2CSTACK11%3A0%2CSTACK20%3A0"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 5,
+    "first_party_short": 0,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.spotify.com/es/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 2,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 2,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 1,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 4,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 45,
+    "window.navigator.vendor": 1,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "da68274c847f566e13605f0e775f927f5f35b9026dd0e90d9316dcd6a844714b",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert TLS RSA SHA256 2020 CA1",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1651615199.0,
+      "not_valid_before": 1619992800.0,
+      "serial_number": 11767234447097337128812452375807500809,
+      "subject": {
+        "commonName": "*.spotify.com",
+        "countryName": "SE",
+        "localityName": "Stockholm",
+        "organizationName": "Spotify AB"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://www.spotify.com/es/about-us/contact/",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.spotify.com/",
+    "https://www.spotify.com/es/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.spotify.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.spotify.com/es/"
+    },
+    {
+      "mime_type": "binary/octet-stream",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://open.scdn.co/fonts/CircularSpUIv3T-Book.woff2"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://open.scdn.co/fonts/CircularSpUIv3T-Black.woff2"
+    },
+    {
+      "mime_type": "binary/octet-stream",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://open.scdn.co/fonts/CircularSpUIv3T-Bold.woff2"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/css/2f4526c4b98180155608.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/webpack-245f049e565ebf942e09.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/framework.d2ae4074d0a54d95f68e.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/commons.d5c041062ae3e939643a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/main-640681069fba54e17228.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/6e9419c1bccce61023f02ee819dff6814184d391.0241fe6f6cd5fabfe1b1.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/pages/_app-4578f5d7ad522236a8bd.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/ce4979a9db944261743eda0ad7acf5d76a5d07ee.4ce1f4822d09f8999c31.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/ce4979a9db944261743eda0ad7acf5d76a5d07ee_CSS.210d3c80a2b0e2401248.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/a7c24a8fa4f581b04b69e21cd2b487cf614305d6.850012c55724c56775b6.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/chunks/pages/%5Blocale%5D-17ea57bae47f4d2305f3.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleoptimize.com/optimize.js?id=GTM-P9JKJ53"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/558IaOPaMvb5LYw0z21qD/_buildManifest.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/_next/static/558IaOPaMvb5LYw0z21qD/_ssgManifest.js"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www-growth.scdn.co/static/home/bursts-tablet.svg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://apresolve.spotify.com/?type=dealer&type=spclient"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.spotify.com/api/masthead/v1/masthead?market=es&forceOneTrust=true"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.spotify.com/api/growth-events/wwwanalyticsnonauth"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/50da44be-0564-43df-b139-329aedcf267b/50da44be-0564-43df-b139-329aedcf267b.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.16.0/otBannerSdk.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/50da44be-0564-43df-b139-329aedcf267b/0bb1437e-7fc5-453d-8295-b19834bf67c0/es.json"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/vendorlist/iab2Data.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.16.0/otTCF.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.16.0/assets/otFlat.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.16.0/assets/otPcCenter.json"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://gew-spclient.spotify.com/gabo-receiver-service/public/v3/events"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.spotify.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://gew-spclient.spotify.com/gabo-receiver-service/public/v3/events"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "base-uri": [
+        "'none'"
+      ],
+      "connect-src": [
+        "https:",
+        "wss:"
+      ],
+      "form-action": [
+        "https:"
+      ],
+      "frame-ancestors": [
+        "'self'",
+        "https://*.spotify.com",
+        "https://*.spotify.net"
+      ],
+      "header_value": "base-uri 'none'; connect-src https: wss:; form-action https:; frame-ancestors 'self' https://*.spotify.com https://*.spotify.net; object-src 'none'; script-src 'nonce-bf330bf6c05f4046a476ceb9be756838' 'strict-dynamic' 'unsafe-inline' 'unsafe-eval' https:",
+      "object-src": [
+        "'none'"
+      ],
+      "script-src": [
+        "'nonce-bf330bf6c05f4046a476ceb9be756838'",
+        "'strict-dynamic'",
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "https:"
+      ]
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000",
+      "includeSubDomains": false,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "deny",
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.spotify.com\n",
+  "third_parties": {
+    "fqdns": [
+      "cdn.cookielaw.org",
+      "geolocation.onetrust.com",
+      "open.scdn.co",
+      "www-growth.scdn.co",
+      "www.googleoptimize.com",
+      "www.googletagmanager.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 28
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 10,
+    "trackers": [
+      "cdn.cookielaw.org",
+      "www.googleoptimize.com",
+      "www.googletagmanager.com"
+    ]
+  }
+}

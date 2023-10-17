@@ -1,0 +1,1786 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".msn.com",
+      "expires": 1652607910.267817,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543202.26781702,
+      "name": "marketPref",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 15,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "es-es"
+    },
+    {
+      "domain": ".msn.com",
+      "expires": 1652607910.267716,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543202.26771593,
+      "name": "PreferencesMsn",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 291,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "eyJIb21lUGFnZSI6eyJTdHJpcGVzIjpbXSwiTWVTdHJpcGVNb2R1bGVzIjpbXSwiTWFya2V0Q29uZmlndXJhdGlvbiI6eyJNYXJrZXQiOiJlcy1lcyIsIlN1cHByZXNzUHJvbXB0IjpmYWxzZSwiUHJlZmVycmVkTGFuZ3VhZ2VDb2RlIjoiZXMtZXMiLCJDb3VudHJ5Q29kZSI6IkVTIn19LCJFeHBpcnlUaW1lIjo2Mzc4ODIwNDcwOTE2OTk0ODEsIlZlcnNpb24iOjF90"
+    },
+    {
+      "domain": ".media.net",
+      "expires": 1652607910.652578,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543202.652578115,
+      "name": "visitor-id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 32,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "2640735108087708000V10"
+    },
+    {
+      "domain": ".msn.com",
+      "expires": 1652607910.746073,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543202.746073008,
+      "name": "MC1",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 81,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GUID=26c3f56c78394373b29c8db6ce6c1478&HASH=26c3&LV=202105&V=4&LU=1621071910656"
+    },
+    {
+      "domain": ".msn.com",
+      "expires": 1621073710.74615,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9002.746150016785,
+      "name": "MS0",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 35,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "c697656b37214f8f894fff5f8931f0b8"
+    },
+    {
+      "domain": ".media.net",
+      "expires": 1637055911.582913,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15991203.582912922,
+      "name": "gdpr_status",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 12,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".media.net",
+      "expires": 1652607911.076654,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543203.076653957,
+      "name": "data-v",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 17,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "{{APID}}~~1"
+    },
+    {
+      "domain": ".advertising.com",
+      "expires": 1652694311.433678,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31629603.43367791,
+      "name": "APID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "UP3dbe3519-b562-11eb-a266-029f25568940"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1654767911.396932,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703203.39693189,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 70,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AHWqTUm1rh2O4siKCkT3V3JqR9AIpiXyODGtKlq7L4vxhj06FuvHtUYu_G48icWKP4k"
+    },
+    {
+      "domain": ".media.net",
+      "expires": 1622281511.582998,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 1216803.5829980373,
+      "name": "data-g",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "CAESEMg4Om-nuLXCoLLQUZQw23s~~1"
+    },
+    {
+      "domain": ".msn.com",
+      "expires": 1652607911,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203,
+      "name": "OptanonConsent",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 320,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "isIABGlobal=false&datestamp=Sat+May+15+2021+11%3A45%3A11+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.13.0&hosts=&consentId=260a3682-cad1-4530-9e96-2fd2fd79aefe&interactionCount=0&landingPath=https%3A%2F%2Fwww.msn.com%2Fes-es%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CSTACK42%3A0"
+    },
+    {
+      "domain": ".analytics.yahoo.com",
+      "expires": 1652694312.173711,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31629604.17371106,
+      "name": "IDSYNC",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 15,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "18xa~1y4x"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1640995199.173776,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 19930491.17377591,
+      "name": "APID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "UP3dbe3519-b562-11eb-a266-029f25568940"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1621158312.173808,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93604.17380809784,
+      "name": "APIDTS",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 16,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621071912"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1652629512.173836,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31564804.173835993,
+      "name": "A3",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 96,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "d=AQABBCeYn2ACEK2j-k1ftsKeuMaG4Q5SSmwFEgEBAQHpoGCpYAAAAAAA_eMAAA&S=AQAAAua6mzF50qg-lF0aGWcqAGE"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 4,
+    "first_party_short": 1,
+    "third_party_long": 10,
+    "third_party_short": 0,
+    "trackers": [
+      "advertising.com",
+      "doubleclick.net",
+      "media.net",
+      "yahoo.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [
+    {
+      "error_type": "d",
+      "url": "https://www.bing.com/rp/rms_pr.png"
+    }
+  ],
+  "final_url": "https://www.msn.com/es-es/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 0,
+    "window.appVersion": 0,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 2,
+    "window.indexDB": 0,
+    "window.language": 0,
+    "window.mimeTypes": 0,
+    "window.platform": 0,
+    "window.plugins": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0,
+    "window.useragent": 47
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "c75d00958ecd11f76d9fa8cfdc87801933af4dcd5c3a8ebf288ec7965ad97769",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Microsoft RSA TLS CA 02",
+        "countryName": "US",
+        "organizationName": "Microsoft Corporation"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1634672538.0,
+      "not_valid_before": 1603136538.0,
+      "serial_number": 2832194957523352255058037357722656245679189687,
+      "subject": {
+        "commonName": "*.msn.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "max-age-too-short"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-384",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "2.1.1"
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.msn.com/",
+    "https://www.msn.com/es-es/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/es-es/"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/sc/f8/f77b07.woff2"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/es-es/homepage/_sc/css/d7cb56b9-2d766a18/direction=ltr.locales=es-es.themes=start.dpi=resolution1x/af-3dccb4-4f1754d1/45-ff9b18-2d8c3c8a/ca-9c582f-491caa4c/60-a25ca6-6afa84ff/d1-ac77c5-f30d5d05/5b-557500-3136911a/31-d818fe-267d49e0/49-0d67f3-feaf21fa/bf-1655d3-bae7c25b/f5-5c0439-ecdc80c3/a5-c016a6-e8e1efc6/36-c0b615-4e5cd0ee/8a-ac1024-eb5d7a7/3f-1fbfe4-6397bdd4/6b-6fc997-846eb25/4c-1b2656-6019ddb8/b2-9425eb-72d94145/d7-972503-1ff68540/32-e3fe26-dbd5a09/d3-037701-358c786e/be-7cadd3-e0a4caac/f0-a0bd1f-bb3f087/54-714b60-c3222e3f/a6-942846-a1a2fb72/2d-0e97d4-185735b?ver=20210513_20989933&fdhead=msnallexpusers,muidflt14cf,muidflt29cf,muidflt51cf,muidflt56cf,pneedge1cf,audexhp2cf,audexhp3cf,jacesconfiant,compliancehz1cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,bbh20200521msn,prong1t,csmoney3cf,prg-adspeek&csopd=20210511231046&csopdb=20210512073937"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/_h/975a7d20/webcore/externalscripts/jquery/jquery-2.1.1.min.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/es-es/homepage/_sc/js/d7cb56b9-a6d0821f/direction=ltr.locales=es-es.themes=start.dpi=resolution1x/7e-dab54c-68ddb2ab/c2-c00def-404bb297/6b-f329df-5fb59b05/e2-064fcc-68ddb2ab/a5-6f908a-ea887171/46-736d08-68ddb2ab/2f-8d79ab-68ddb2ab/45-5d3d50-cae48929/3b-5fdca4-a25c0ee9/c5-01be2e-5e4e4a89/c3-382991-68ddb2ab/21-3f483d-68ddb2ab/7b-4a4fc9-243aa040/a5-cc5510-903fe39b/cc-373628-c0dd38b9/68-4d16fb-68ddb2ab/52-478955-68ddb2ab?ver=20210513_20989933&fdhead=msnallexpusers,muidflt14cf,muidflt29cf,muidflt51cf,muidflt56cf,pneedge1cf,audexhp2cf,audexhp3cf,jacesconfiant,compliancehz1cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,bbh20200521msn,prong1t,csmoney3cf,prg-adspeek&csopd=20210511231046&csopdb=20210512073937"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBX3ZE9.img?h=27&w=27&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBXafIW.img?h=27&w=27&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB11p0rL.img?h=27&w=27&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBPqViB.img?h=27&w=27&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1aXvMO.img?h=27&w=27&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1cEP3G.img?h=27&w=27&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/sc/9b/e151e5.gif"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBih5H.img?m=6&o=true&u=true&n=true&w=30&h=30"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKpXK.img?h=372&w=628&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1237&y=284"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/sc/64/a8a064.gif"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://static-global-s-msn-com.akamaized.net/hp-neu/es-es/homepage/_sc/css/d7cb56b9-2d766a18/direction=ltr.locales=es-es.themes=start.dpi=resolution1x/af-3dccb4-4f1754d1/45-ff9b18-2d8c3c8a/ca-9c582f-491caa4c/60-a25ca6-6afa84ff/d1-ac77c5-f30d5d05/5b-557500-3136911a/31-d818fe-267d49e0/49-0d67f3-feaf21fa/bf-1655d3-bae7c25b/f5-5c0439-ecdc80c3/a5-c016a6-e8e1efc6/36-c0b615-4e5cd0ee/8a-ac1024-eb5d7a7/3f-1fbfe4-6397bdd4/6b-6fc997-846eb25/4c-1b2656-6019ddb8/b2-9425eb-72d94145/d7-972503-1ff68540/32-e3fe26-dbd5a09/d3-037701-358c786e/be-7cadd3-e0a4caac/f0-a0bd1f-bb3f087/54-714b60-c3222e3f/a6-942846-a1a2fb72/2d-0e97d4-185735b?ver=20210513_20989933&fdhead=msnallexpusers,muidflt14cf,muidflt29cf,muidflt51cf,muidflt56cf,pneedge1cf,audexhp2cf,audexhp3cf,jacesconfiant,compliancehz1cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,bbh20200521msn,prong1t,csmoney3cf,prg-adspeek&csopd=20210511231046&csopdb=20210512073937",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/_h/57566d09/webcore/fonts/SegoeUI/WestEuropean/Segoe-UI.woff2"
+    },
+    {
+      "mime_type": "application/font-woff2",
+      "referer": "https://static-global-s-msn-com.akamaized.net/hp-neu/es-es/homepage/_sc/css/d7cb56b9-2d766a18/direction=ltr.locales=es-es.themes=start.dpi=resolution1x/af-3dccb4-4f1754d1/45-ff9b18-2d8c3c8a/ca-9c582f-491caa4c/60-a25ca6-6afa84ff/d1-ac77c5-f30d5d05/5b-557500-3136911a/31-d818fe-267d49e0/49-0d67f3-feaf21fa/bf-1655d3-bae7c25b/f5-5c0439-ecdc80c3/a5-c016a6-e8e1efc6/36-c0b615-4e5cd0ee/8a-ac1024-eb5d7a7/3f-1fbfe4-6397bdd4/6b-6fc997-846eb25/4c-1b2656-6019ddb8/b2-9425eb-72d94145/d7-972503-1ff68540/32-e3fe26-dbd5a09/d3-037701-358c786e/be-7cadd3-e0a4caac/f0-a0bd1f-bb3f087/54-714b60-c3222e3f/a6-942846-a1a2fb72/2d-0e97d4-185735b?ver=20210513_20989933&fdhead=msnallexpusers,muidflt14cf,muidflt29cf,muidflt51cf,muidflt56cf,pneedge1cf,audexhp2cf,audexhp3cf,jacesconfiant,compliancehz1cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,bbh20200521msn,prong1t,csmoney3cf,prg-adspeek&csopd=20210511231046&csopdb=20210512073937",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/sc/91/e383e0.woff2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://web.vortex.data.msn.com/collect/v1?$mscomCookies=false"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/scripttemplates/otSDKStub.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA42EPc.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKX89.img?h=256&w=306&m=6&q=60&u=t&o=t&l=f&f=jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKofs.img?h=256&w=306&m=6&q=60&u=t&o=t&l=f&f=jpg"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=389413611&size=306x271&https=1"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=843497852&size=306x271&https=1"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/consent/55a804ab-e5c6-4b97-9319-86263d365d28/55a804ab-e5c6-4b97-9319-86263d365d28.json"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=389413611&size=306x271&https=1",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/checksync.php?&vsSync=1&cs=1&hb=1&cv=37&ndec=1&cid=8HBDZ75S8&prvid=77%2C184%2C188%2C226&itype=HB-CM&rtime=13&https=1&gdpr=1&gdprconsent=1&usp_status=0&usp_consent=1&dcfp=gdpr,usp"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=389413611&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/rtbsmpubs.php?&gdpr=1&gdprconsent=1&usp_enf=1&usp_status=0&cid=8HBDZ75S8&region=nv&ptrid=8PR68Q253&requestString=762401367*4%7C300x250%7C8CUD27CIC%7C389413611%7C&crid=762401367&sd=-1&requrl=https%3A%2F%2Fwww.msn.com%2F&bl=1&rt=5&dn=https://contextual.media.net&https=1&act=headerBid&prvReqId=106168518527980961621071910609&erTr=0&hlt=1&ugd=4&adt=desktop&tr=0.5346853105623868&ndec=1&scrsize=800x600&taginfo=%7B%7D&pageinfo=%7B%22vw%22%3A284%2C%22vh%22%3A271%2C%22ph%22%3A271%7D&itype=HB-CM&cc=ES&ct=MADRID&bt=1&gcp=1&isRefresh=0&callback=window.hbCMBidxc.rtbsheaderBid3S0"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/scripttemplates/6.4.0/otBannerSdk.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=843497852&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/checksync.php?&vsSync=1&cs=1&hb=1&cv=37&ndec=1&cid=8HBDZ75S8&prvid=77%2C184%2C188%2C226&itype=HB-CM&rtime=14&https=1&gdpr=1&gdprconsent=1&usp_status=0&usp_consent=1&dcfp=gdpr,usp"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=843497852&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/rtbsmpubs.php?&gdpr=1&gdprconsent=1&usp_enf=1&usp_status=0&cid=8HBDZ75S8&region=nv&ptrid=8PR68Q253&requestString=862789427*4%7C300x250%7C8CUD27CIC%7C843497852%7C&crid=862789427&sd=-1&requrl=https%3A%2F%2Fwww.msn.com%2F&bl=1&rt=5&dn=https://contextual.media.net&https=1&act=headerBid&prvReqId=217570977196730321621071910764&erTr=0&hlt=1&ugd=4&adt=desktop&tr=0.3705463280324468&ndec=1&scrsize=800x600&taginfo=%7B%7D&pageinfo=%7B%22vw%22%3A284%2C%22vh%22%3A271%2C%22ph%22%3A271%7D&itype=HB-CM&cc=ES&ct=MADRID&bt=1&gcp=1&isRefresh=0&callback=window.hbCMBidxc.rtbsheaderBid3S0"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lg3.media.net/bping.php?&gdpr=1&prid=8PRVV7640&cid=8CUD27CIC&crid=843497852&vi=1621071910603869462&ugd=4&lf=6&cc=ES&lper=50&wsip=2886781338&r=1621071910729&requrl=https%3A%2F%2Fwww.msn.com%2F&vgd_l2type=setting&vgd_sbSup=1&vgd_is_amp=0&vgd_asn=209835&vgd_gdprcs=1&vgd_uspa=0&hvsid=00000162107191071900374807045408&gdpr=1&vgd_end=1"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=389413611&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/checksync.php?&vsSync=1&cs=1&hb=1&cv=37&ndec=1&cid=8HBDZ75S8&prvid=77%2C184%2C188%2C226&itype=HB-CM&rtime=220&https=1&gdpr=1&gdprconsent=1&usp_status=0&usp_consent=1&dcfp=gdpr,usp"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/consent/55a804ab-e5c6-4b97-9319-86263d365d28/6f0cca92-2dda-4588-a757-0e009f333603/es-es.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/consent/55a804ab-e5c6-4b97-9319-86263d365d28/iab2Data.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/scripttemplates/6.4.0/otTCF.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=389413611&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/803288796/fcmain.js?cb=window._mNDetails.initAd&&gdpr=1&cid=8CUD27CIC&cpcd=PoijqApHabCGZjihskHbew%3D%3D&crid=389413611&size=306x271&cc=ES&https=1&vif=2&requrl=https%3A%2F%2Fwww.msn.com%2F&nse=5&vi=1621071910885289620&ugd=4&rtbs=1&nb=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://c21lg-d.media.net/log?logid=kfk&evtid=cs&del=1&vsid=2640735108087708000V10&origin=1&flt=0&pvgid[]=data-p&pvgid[]=data-b&pvgid[]=data-t&pvgid[]=data-sov&pvgid[]=data-r1&pvgid[]=data-pb&pvgid[]=data-xu&pvgid[]=data-tx&pvgid[]=data-c&pvgid[]=data-bs&pvgid[]=data-ct"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cm.g.doubleclick.net/pixel?cs=1&google_nid=media&google_cm=1&google_hm=MjY0MDczNTEwODA4NzcwODAwMFYxMA%3D%3D&google_sc=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 451,
+      "status_text": "",
+      "url": "https://id.rlcdn.com/710489.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/checksync.php?&vsSync=1&cs=1&hb=1&cv=37&ndec=1&cid=8HBDZ75S8&prvid=77%2C184%2C188%2C226&itype=HB-CM&rtime=13&https=1&gdpr=1&gdprconsent=1&usp_status=0&usp_consent=1&dcfp=gdpr,usp",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://contextual.media.net/cksync.php?cs=1&type=vzn&ovsid={{APID}}&redirect=https%3A%2F%2Fpixel.advertising.com%2Fups%2F58222%2Fsync%3F_origin%3D1%26uid%3D%24UID"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://cs.media.net/scksync?cs=1&type=brx&ovsid=setstatuscode&redirect=https%3A%2F%2Fups.analytics.yahoo.com%2Fups%2F58222%2Fsync%3F_origin%3D1%26uid%3D%3CDSP_USER_ID%3E"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=843497852&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/checksync.php?&vsSync=1&cs=1&hb=1&cv=37&ndec=1&cid=8HBDZ75S8&prvid=77%2C184%2C188%2C226&itype=HB-CM&rtime=194&https=1&gdpr=1&gdprconsent=1&usp_status=0&usp_consent=1&dcfp=gdpr,usp"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://c21lg-d.media.net/log?logid=kfk&evtid=cs&del=1&vsid=2640735108087708000V10&origin=1&flt=0&pvgid[]=data-p&pvgid[]=data-b&pvgid[]=data-t&pvgid[]=data-sov&pvgid[]=data-r1&pvgid[]=data-pb&pvgid[]=data-xu&pvgid[]=data-tx&pvgid[]=data-c&pvgid[]=data-bs&pvgid[]=data-ct"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cm.g.doubleclick.net/pixel?cs=1&google_nid=media&google_cm=1&google_hm=MjY0MDczNTEwODA4NzcwODAwMFYxMA%3D%3D&google_sc=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 451,
+      "status_text": "",
+      "url": "https://id.rlcdn.com/710489.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/checksync.php?&vsSync=1&cs=1&hb=1&cv=37&ndec=1&cid=8HBDZ75S8&prvid=77%2C184%2C188%2C226&itype=HB-CM&rtime=14&https=1&gdpr=1&gdprconsent=1&usp_status=0&usp_consent=1&dcfp=gdpr,usp",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://contextual.media.net/cksync.php?cs=1&type=vzn&ovsid={{APID}}&redirect=https%3A%2F%2Fpixel.advertising.com%2Fups%2F58222%2Fsync%3F_origin%3D1%26uid%3D%24UID"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://cs.media.net/scksync?cs=1&type=brx&ovsid=setstatuscode&redirect=https%3A%2F%2Fups.analytics.yahoo.com%2Fups%2F58222%2Fsync%3F_origin%3D1%26uid%3D%3CDSP_USER_ID%3E"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://c21lg-d.media.net/log?logid=kfk&evtid=cs&del=1&vsid=2640735108087708000V10&origin=1&flt=0&pvgid[]=data-p&pvgid[]=data-b&pvgid[]=data-t&pvgid[]=data-sov&pvgid[]=data-r1&pvgid[]=data-pb&pvgid[]=data-xu&pvgid[]=data-tx&pvgid[]=data-c&pvgid[]=data-bs&pvgid[]=data-ct"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cm.g.doubleclick.net/pixel?cs=1&google_nid=media&google_cm=1&google_hm=MjY0MDczNTEwODA4NzcwODAwMFYxMA%3D%3D&google_sc=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 451,
+      "status_text": "",
+      "url": "https://id.rlcdn.com/710489.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://cs.media.net/scksync?cs=1&type=brx&ovsid=setstatuscode&redirect=https%3A%2F%2Fups.analytics.yahoo.com%2Fups%2F58222%2Fsync%3F_origin%3D1%26uid%3D%3CDSP_USER_ID%3E"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://pixel.advertising.com/ups/58222/sync?_origin=1&uid=0000EEA"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=389413611&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/48/nrrV57728.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=843497852&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/803288796/fcmain.js?cb=window._mNDetails.initAd&&gdpr=1&cid=8CUD27CIC&cpcd=PoijqApHabCGZjihskHbew%3D%3D&crid=843497852&size=306x271&cc=ES&https=1&vif=2&requrl=https%3A%2F%2Fwww.msn.com%2F&nse=5&vi=1621071910603869462&ugd=4&rtbs=1&nb=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://pixel.advertising.com/ups/58222/sync?_origin=1&uid=0000EEA"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/scripttemplates/6.4.0/assets/otFlat.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/es-es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.msn.com/_h/9c38ab9f/webcore/externalscripts/oneTrustV2/scripttemplates/6.4.0/assets/v2/otPcCenter.json"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cm.g.doubleclick.net/pixel?cs=1&google_nid=media&google_cm=1&google_hm=MjY0MDczNTEwODA4NzcwODAwMFYxMA%3D%3D&google_sc=1&google_tc="
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=2640735108087708000V10"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cm.g.doubleclick.net/pixel?cs=1&google_nid=media&google_cm=1&google_hm=MjY0MDczNTEwODA4NzcwODAwMFYxMA%3D%3D&google_sc=1&google_tc="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cm.g.doubleclick.net/pixel?cs=1&google_nid=media&google_cm=1&google_hm=MjY0MDczNTEwODA4NzcwODAwMFYxMA%3D%3D&google_sc=1&google_tc="
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://pixel.advertising.com/ups/58222/sync?_origin=1&uid=0000EEA&verify=true"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://c21lg-d.media.net/log?logid=kfk&evtid=cs&del=1&vsid=2640735108087708000V10&origin=1&flt=0&pvgid[]=data-p&pvgid[]=data-b&pvgid[]=data-t&pvgid[]=data-sov&pvgid[]=data-r1&pvgid[]=data-pb&pvgid[]=data-xu&pvgid[]=data-tx&pvgid[]=data-c&pvgid[]=data-bs&pvgid[]=data-ct"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cm.g.doubleclick.net/pixel?cs=1&google_nid=media&google_cm=1&google_hm=MjY0MDczNTEwODA4NzcwODAwMFYxMA%3D%3D&google_sc=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 451,
+      "status_text": "",
+      "url": "https://id.rlcdn.com/710489.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://cs.media.net/scksync?cs=1&type=brx&ovsid=setstatuscode&redirect=https%3A%2F%2Fups.analytics.yahoo.com%2Fups%2F58222%2Fsync%3F_origin%3D1%26uid%3D%3CDSP_USER_ID%3E"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cvision.media.net/new/300x300/3/104/98/226/eb485c9d-9855-479d-8b21-d4a60c42d24a.jpg?v=9"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://pixel.advertising.com/ups/58222/sync?_origin=1&uid=0000EEA&verify=true"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=2640735108087708000V10"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cs.media.net/cksync?type=g&cs=1&google_gid=CAESEMg4Om-nuLXCoLLQUZQw23s&google_cver=1"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/medianet.php?cid=8CUD27CIC&crid=843497852&size=306x271&https=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://contextual.media.net/48/nrrV57728.js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cvision.media.net/new/286x175/3/116/30/12/fc62c357-1afc-489f-b0da-98ec7edc43d5.jpg?v=9"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cvision.media.net/new/286x175/3/238/136/246/46a64e19-d1cf-494e-8a93-1a179ccdaae9.jpg?v=9"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=0000EEA&apid=UP3dbe3519-b562-11eb-a266-029f25568940"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cs.media.net/cksync?type=g&cs=1&google_gid=CAESEB43nxkrWxD0IIL6qM061QM&google_cver=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cs.media.net/cksync?type=g&cs=1&google_gid=CAESEMg4Om-nuLXCoLLQUZQw23s&google_cver=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cs.media.net/cksync?type=g&cs=1&google_gid=CAESECECTMz8DYMFyTYjdxqk2iE&google_cver=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=0000EEA&apid=UP3dbe3519-b562-11eb-a266-029f25568940"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=0000EEA"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lg3.media.net/bql.php?&vgd_l2type=setting&v=1&gdpr=1&hvsid=00000162107191057200374807042915&geo=40.40|-3.68&dlper=25&lper=50&bdrid=7&fp=fiFsNK5_u8K3hTuUvZciW7D-BZZvTPkP8V_fmEKpNTGg4hUpXS-nUPR5JbDDNdOIK9qpfH7L4Udj45Oq8ZYSG4jCM7-nYjuC2HsQcKBHGJYMxKJgeXheSw%3D%3D&lpid=&tsid=2142&q=&prv=&type=&ps=&cme=qe_cKSwS6DfbUeFxYotfjK3nhxRVwY4w61JP2CToF6SyPJeuG4JtNsJN-kfVJOYpu8_Gm1ZyhcYccmtJ_8ZVd2tx7zghFdFN6DO2efjb2s161CqVDRSvPDKmHSZN2Dq4wU7-OD6LNRPdC1nUDdu0B_vNCOFWygiQh03hXMj2ammSp8f8QxNJk7b7eK0T4oUHsX2pUhJ2DcBLcD1gqhNbDh1t1gxyaxSE%7C%7CNDHRnZ9Gz3KXlI-i9OnZqQ%3D%3D%7C5gDUJdTGiJzedmq9hanWYg%3D%3D%7CsRBSg3CPSiQ%3D%7CYdjFvixrVaHKWoanJxQ7pIbs71hugNrT_9Dy98sN7BWy2BfEaXWmxhyhDaws9VAg%7CN7fu2vKt8_s%3D%7CdRVVu3jGf04K61ilb1pRt0WCwV8ZWoPWzc7-D2J3DuBHew2u0172rtB6_VV26ND-zL1lfKcARoP8G0xWgG-cfbwC5zOJn2jC3KBR3dwigqMns-xlVdV4o-ZPkAqWt77qRY-HFGD8yXrAWPggpE3XAGM_im_OuF7ffjNxdH60cHQK9V_EC1EMQ6rq590WJAM9zZ5GI_FBELOCJBpqMr6rzl-keJrQGNUwtO_4NPhCKZs%3D%7C&hint=&td=&cc=ES&wsip=2886928735&bca=0&ugd=4&vgd_fm_lang=ES&vgd_chost=contextual.media.net&vgd_fcic=0&vgde_kbbh=ufNoNufzNuN&vgde_setid=NufozNuN&&rc=0&ksu=269&vgd_opp_id=615271447047605321621071910602&fdkt=244&kwd[]=El%20coche%20el%C3%A9ctrico%20m%C3%A1s%20barato%20en%20Espa%C3%B1a&kwt[]=244&kbc[]=1202994873&kwp[]=1&kid[]=329825162&kbc2[]=c%3D16%7C%7Cir%3D1%7C%7Ciid%3D6720068%7C%7Cps%3D1.404%7C%7Crpc%3D0.59%7C%7Clvl%3D5.00&ktd[]=1126176412271360&rand=1621071911372&cid=8CUD27CIC&vwid=1621071910885289620&vi=1621071910885289620&l3ch=1&slnkp=no&bdrct=0.00&vgd_rt=246&bto=102&tdAdd[]=rtbsd%3D10&tdAdd[]=ib=0&vgd_uspa=0&vgd_l1rakh=1621071910130032779&vgd_lhl=567&tdAdd[]=%7C%40%7Cabp%3A1%3A2&vgd_ifrmode=11&sttm=1621071910572&upk=1621071911.11251&hvsid=00000162107191057200374807042915&verid=9999999&vgd_hbReqId=T1621067840C8S29U124&vgd_gdprcs=1&vgd_isiolc=1&rtbsd=10&matm=1621071911385&vgd_ltime=1124&vgd_ltimesrc=2&abpl=2&kbbq=%26asn%3D209835&tdAdd[]=nw%3DNone&tdAdd[]=nwType%3DNone&tdAdd[]=asnum%3D209835&tdAdd[]=proxy%3DNone&tdAdd[]=comp%3DNone&vgd_bkwds=&vgd_l2ch=1&vgd_l1ch=1&vgd_pdtid=1&vgd_implt=3&vgd_sbSup=1&vgd_l2wsip=2886928735&vgd_nrrsf=nrr&vgd_nrrv=57728&vgd_nrrs=57728&vgd_nrrmf=48&vgd_cntrdt=SF%7Ccontextual.media.net&vgd_cty=MADRID&vgd_l1hcsd=N4%7C3172&vgd_sethcsd=A16%7C2924&vgd_tcf_cmp=1&vgd_cfud=190728&vgd_is_amp=0&vgd_optout=0&vgd_ect=4g&vgd_rensize=284_272&vgd_scr_h=600&vgd_scr_w=800&vgd_mbr=1&vgd_l1rpth=%2Fmedianet.php&oRurl=http%3A%2F%2Fcdng%2Ffcmain.js%3F%26esi%3D1%26%26fvips%3D0%26vpf%3D000%26chost%3Dcontextual.media.net%26cb%3Dwindow._mNDetails.initAd%26%26gdpr%3D1%26cid%3D8CUD27CIC%26cpcd%3DPoijqApHabCGZjihskHbew%253D%253D%26crid%3D389413611%26size%3D306x271%26cc%3DES%26https%3D1%26vif%3D2%26requrl%3Dhttps%253A%252F%252Fwww.msn.com%252F%26nse%3D5%26vi%3D1621054956756953867%26ugd%3D4%26rtbs%3D1%26nb%3D1%26blacpfl%3D1%26baeFlag%3D0%26blapd%3D0%26isOffice%3D0&tdAdd[]=uiparams%3D%3Brend_w%3A284%3Brend_h%3A272&vgd_end=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=0000EEA"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=2640735108087708000V10&verify=true"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lg3.media.net/bql.php?&vgd_l2type=setting&v=1&gdpr=1&hvsid=00000162107191071900374807045408&geo=40.40|-3.68&dlper=25&lper=50&bdrid=7&fp=fiFsNK5_u8K3hTuUvZciW7lVJZGU_8d5qMoIBQ5h5zyN28S_OJPHIXl0ZrkwPBQR0wqg5EXdB4cKnwYbKYIFirH9JVPCxrPUKx3Hpo4pwV-Rgtt07-veLg%3D%3D&lpid=&tsid=2142&q=&prv=&type=&ps=&cme=bVrPDVBFwJwX56WkUh9ijEAPuYNfg6Rxv_BT0FQz22iv2e5Gn0PeXZ4Up1RjtzLNQ7jDeBsFNKXZCTPMAHdIx7ya-CzNFX6LumtBqMLMRU7Qbz5fVUTjBnjTBDYHTULsaVK9jYV7UrO-vY6BJWCyx9r5KPzWMkkNWABWsqb0yh8mTJOpd2gnxndEDKsyc69Jsd-uBsP5Z00rj_GIlvSRjFl8aHw5W6pr%7C%7CNDHRnZ9Gz3KXlI-i9OnZqQ%3D%3D%7C5gDUJdTGiJzedmq9hanWYg%3D%3D%7CsRBSg3CPSiQ%3D%7CYdjFvixrVaHKWoanJxQ7pIbs71hugNrT_zzfTnjrTk0TElA14FsEbWkZKikQHPfJ%7CN7fu2vKt8_s%3D%7CYgbON0zFBso29cKWlaBe-TSYxEPDExd70iNJ1DehpXb791MfKdQHzmi85d2rbR6XW_1bOISvYSVVrvl2xYe6rPUzdoJagbMK7PKGuFxigiQIGAsPf95Fxf3KrTgIe4Ayu3Cu-nXHiyNTIoEYybk4AnJ8-h8coFfhxZ3eVyZQI9Vtc3UitrTh348x4oisjMZYyNtkAGyf2Be1VUIQ4xP_Q53b1XRKP3LWduxBWYSuNqw%3D%7C&hint=&td=&cc=ES&wsip=2886942492&bca=0&ugd=4&vgd_fm_lang=ES&vgd_chost=contextual.media.net&vgd_fcic=0&vgde_kbbh=ufNoNufzNuN&vgde_setid=NufozNuN&&rc=0&ksu=241&vgd_opp_id=362810626712259471621071910757&fdkt=244&kwd[]=El%20SUV%20de%20lujo%20de%20Seat&kwt[]=244&kbc[]=1202994874&kwp[]=1&kid[]=329604337&kbc2[]=o_r%3D0.35%7C%7Cp_r%3D0.28%7C%7Cl_r%3D62%7C%7Cc%3D-2%7C%7Cir%3D1%7C%7Ciid%3D12664009%7C%7Crpc%3D0.27%7C%7Clvl%3D5.00&ktd[]=1126175606964992&kwd[]=Ofertas%20en%20furgonetas%20camper&kwt[]=244&kbc[]=1202994874&kwp[]=2&kid[]=329712935&kbc2[]=o_r%3D0.59%7C%7Cp_r%3D0.68%7C%7Cl_r%3D62%7C%7Cc%3D0%7C%7Cir%3D1%7C%7Ciid%3D3726144%7C%7Cps%3D0.752%7C%7Crpc%3D0.17%7C%7Clvl%3D5.00&ktd[]=1126175606964992&rand=1621071911434&cid=8CUD27CIC&vwid=1621071910603869462&vi=1621071910603869462&l3ch=1&slnkp=no&bdrct=0.00&vgd_rt=358&bto=102&tdAdd[]=rtbsd%3D10&tdAdd[]=ib=0&vgd_uspa=0&vgd_l1rakh=1621071910141944255&vgd_lhl=567&tdAdd[]=%7C%40%7Cabp%3A1%3A2&vgd_ifrmode=11&sttm=1621071910719&upk=1621071911.28254&hvsid=00000162107191071900374807045408&verid=9999999&vgd_hbReqId=T1621067519C8S37U693&vgd_gdprcs=1&vgd_isiolc=1&rtbsd=10&matm=1621071911462&vgd_ltime=1007&vgd_ltimesrc=2&abpl=2&kbbq=%26asn%3D209835&tdAdd[]=nw%3DNone&tdAdd[]=nwType%3DNone&tdAdd[]=asnum%3D209835&tdAdd[]=proxy%3DNone&tdAdd[]=comp%3DNone&vgd_bkwds=El%20coche%20el%C3%A9ctrico%20m%C3%A1s%20barato%20en%20Espa%C3%B1a%7C&vgd_l2ch=1&vgd_l1ch=1&vgd_pdtid=1&vgd_implt=3&vgd_sbSup=1&vgd_l2wsip=2886942492&vgd_nrrsf=nrr&vgd_nrrv=57728&vgd_nrrs=57728&vgd_nrrmf=48&vgd_cntrdt=SF%7Ccontextual.media.net&vgd_cty=MADRID&vgd_l1hcsd=N4%7C3172&vgd_sethcsd=A16%7C2924&vgd_tcf_cmp=1&vgd_cfud=190728&vgd_is_amp=0&vgd_optout=0&vgd_ect=4g&vgd_rensize=284_272&vgd_scr_h=600&vgd_scr_w=800&vgd_mbr=1&vgd_l1rpth=%2Fmedianet.php&oRurl=http%3A%2F%2Fcdng%2Ffcmain.js%3F%26esi%3D1%26%26fvips%3D0%26vpf%3D000%26chost%3Dcontextual.media.net%26cb%3Dwindow._mNDetails.initAd%26%26gdpr%3D1%26cid%3D8CUD27CIC%26cpcd%3DPoijqApHabCGZjihskHbew%253D%253D%26crid%3D843497852%26size%3D306x271%26cc%3DES%26https%3D1%26vif%3D2%26requrl%3Dhttps%253A%252F%252Fwww.msn.com%252F%26nse%3D5%26vi%3D1621057221876739494%26ugd%3D4%26rtbs%3D1%26nb%3D1%26blacpfl%3D1%26baeFlag%3D0%26blapd%3D0%26isOffice%3D0&tdAdd[]=uiparams%3D%3Brend_w%3A284%3Brend_h%3A272&vgd_end=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=0000EEA&apid=UP3dbe3519-b562-11eb-a266-029f25568940&verify=true"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=0000EEA&verify=true"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=2640735108087708000V10&verify=true"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://contextual.media.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://ups.analytics.yahoo.com/ups/58222/sync?_origin=1&uid=0000EEA&apid=UP3dbe3519-b562-11eb-a266-029f25568940&verify=true"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/hp-neu/es-es/homepage/_sc/js/d7cb56b9-2923b6c2/direction=ltr.locales=es-es.themes=start.dpi=resolution1x/17-361657-68ddb2ab?ver=20210513_20989933&fdhead=msnallexpusers,muidflt14cf,muidflt29cf,muidflt51cf,muidflt56cf,pneedge1cf,audexhp2cf,audexhp3cf,jacesconfiant,compliancehz1cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,bbh20200521msn,prong1t,csmoney3cf,prg-adspeek&csopd=20210511231046&csopdb=20210512073937"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKDHX.img?h=372&w=628&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1521&y=1553"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBViiHq.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gK7Wj.img?h=84&w=104&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1066&y=385"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB2o9XC.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL7Cq.img?h=84&w=104&m=6&q=60&u=t&o=t&l=f&f=jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB7MCHb.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gA5f6.img?h=84&w=104&m=6&q=60&u=t&o=t&l=f&f=jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKX9e.img?h=84&w=104&m=6&q=60&u=t&o=t&l=f&f=jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB4iMuL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1cN7E3.img?h=84&w=104&m=6&q=60&u=t&o=t&l=f&f=jpg&x=493&y=264"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBJBjIt.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKTSd.img?h=84&w=104&m=6&q=60&u=t&o=t&l=f&f=jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBHMj9x.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://web.vortex.data.msn.com/collect/v1?$mscomCookies=false"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://web.vortex.data.msn.com/collect/v1?$mscomCookies=false"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://srtb.msn.com/auction"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://srtb.msn.com/auction"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gLbLf.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=335&y=246"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBH3Kvo.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1b9Bu4.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=1693&y=1005"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gzH5h.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=1201&y=624"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBy9h3Z.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1fyjIz.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=694&y=541"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL4vR.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAmivWa.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL2za.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBACtJx.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKL3x.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBMRnEl.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL4ub.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=492&y=451"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKITJ.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=620&y=347"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKITR.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKSmU.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dpspZ.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=898&y=630"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1fL67Z.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=475&y=239"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBiBMZy.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL1NA.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=459&y=152"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBlm1kf.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKQuD.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=882&y=547"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB12c3O.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKWGw.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=682&y=193"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAoOODa.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gIRoo.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=1599&y=394"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gtP3z.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=353&y=135"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dB6pc.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=788&y=410"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL4l2.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=598&y=123"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL7i4.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=620&y=466"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKPHM.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=604&y=109"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKPb8.img?h=197&w=306&m=6&q=60&u=t&o=t&l=f&x=514&y=729"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAaAHvn.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBiBypI.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gL772.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=184&y=184"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1e6WJA.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKDI3.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=1596&y=797"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1c6Snr.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gKL1D.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=1283&y=572"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1drmOH.img?h=82&w=100&m=6&q=60&u=t&o=t&l=f&x=636&y=179"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBHmrFJ.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAoOOxf.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.yimg.com/lo/api/res/1.2/qBhL.UTsMN8chRmkH8KvYQ--~A/Zmk9ZmlsbDt3PTYyMjtoPTM2ODthcHBpZD1nZW1pbmk7cT0xMDA-/https://s.yimg.com/av/ads/1620144714018-2162.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zem.outbrainimg.com/p/srv/sha/7a/c3/d2/b1ed8a1dacb2e41c6bcd8e1222c621f6bc.jpg?w=311&h=333&fit=crop&crop=center&fm=jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zem.outbrainimg.com/p/srv/sha/52/36/7b/8932145379b32a64770f92b2b321a47a13.jpg?w=311&h=333&fit=crop&crop=center&fm=jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zem.outbrainimg.com/p/srv/sha/d9/b4/64/ce4833b6a81869a54cad2be27ac1ef5d46.jpg?w=622&h=368&fit=crop&crop=faces,center&thomcrop&fm=jpg&auto=enhance&testgroup"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zem.outbrainimg.com/p/srv/sha/97/cd/a9/8515bbca4fdcbea661e14d7cc6aebd53fb.jpg?w=311&h=333&fit=crop&crop=center&thomcrop&fm=jpg&vib=40&testgroup"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zem.outbrainimg.com/p/srv/sha/86/e1/be/667b64fd502ab19d41d0464206935806b0.jpg?w=311&h=333&fit=fill&fill=blur&thomcrop&fm=jpg&vib=40&testgroup"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zem.outbrainimg.com/p/srv/sha/8b/85/17/20d0c6535e61b7dd82a51cf85333ac6e9b.jpg?w=622&h=368&fit=crop&crop=center&thomcrop&fm=jpg&testgroup"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://img.img-taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ce_sharpen%2Ch_75%2Cw_100%2Cc_pad%2Cb_auto/http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F42ff32ea8fd72299702a953d0a910795.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://zem.outbrainimg.com/p/srv/sha/65/47/fb/3735193edb3db0106c1e923eb48ea2f123.jpg?w=300&h=194&fit=crop&crop=center&fm=jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://r.bing.com/rp/rms_pr.png"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://www.bing.com/rp/rms_pr.png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.msn.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://web.vortex.data.msn.com/collect/v1?$mscomCookies=false"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Content-Security-Policy": {
+      "block-all-mixed-content": [],
+      "connect-src": [
+        "'self'",
+        "data:",
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "https:",
+        "blob:",
+        "https://*.trouter.io:443",
+        "https://*.trouter.skype.com:443",
+        "wss://*.trouter.io:443",
+        "wss://*.trouter.skype.com:443"
+      ],
+      "default-src": [
+        "'self'",
+        "data:",
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "https:",
+        "blob:"
+      ],
+      "header_value": "default-src 'self' data: 'unsafe-inline' 'unsafe-eval' https: blob:; media-src 'self' https: blob:; worker-src 'self' https: blob:; block-all-mixed-content; connect-src 'self' data: 'unsafe-inline' 'unsafe-eval' https: blob: https://*.trouter.io:443 https://*.trouter.skype.com:443 wss://*.trouter.io:443 wss://*.trouter.skype.com:443;",
+      "media-src": [
+        "'self'",
+        "https:",
+        "blob:"
+      ],
+      "worker-src": [
+        "'self'",
+        "https:",
+        "blob:"
+      ]
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=1209600; includeSubDomains; preload",
+      "includeSubDomains": true,
+      "max-age": 1209600,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1",
+      "is_active": null,
+      "mode": null
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.msn.com\n",
+  "third_parties": {
+    "fqdns": [
+      "c21lg-d.media.net",
+      "cm.g.doubleclick.net",
+      "contextual.media.net",
+      "cs.media.net",
+      "cvision.media.net",
+      "geolocation.onetrust.com",
+      "id.rlcdn.com",
+      "img.img-taboola.com",
+      "lg3.media.net",
+      "pixel.advertising.com",
+      "r.bing.com",
+      "s.yimg.com",
+      "static-global-s-msn-com.akamaized.net",
+      "ups.analytics.yahoo.com",
+      "www.bing.com",
+      "zem.outbrainimg.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 145
+  },
+  "tracking": {
+    "num_tracker_cookies": 10,
+    "num_tracker_requests": 66,
+    "trackers": [
+      "c21lg-d.media.net",
+      "cm.g.doubleclick.net",
+      "contextual.media.net",
+      "cs.media.net",
+      "cvision.media.net",
+      "id.rlcdn.com",
+      "lg3.media.net",
+      "pixel.advertising.com",
+      "s.yimg.com",
+      "ups.analytics.yahoo.com",
+      "zem.outbrainimg.com"
+    ]
+  }
+}

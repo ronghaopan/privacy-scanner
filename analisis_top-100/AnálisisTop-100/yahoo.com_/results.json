@@ -1,0 +1,561 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".www.yahoo.com",
+      "expires": 1621070445.743435,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7230.743434906006,
+      "name": "RRC",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 22,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "st=1621070415&cnt=1"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1621072215.836296,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9000.836296081543,
+      "name": "GUCS",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 12,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AUf743hm"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1652628017.186477,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31564802.186476946,
+      "name": "B",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 23,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "9ih8549g9v4if&b=3&s=ne"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 1,
+    "first_party_short": 2,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_5b993d1b-e5e1-4d68-b95c-66cb880037f2",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 0,
+    "window.appVersion": 0,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 0,
+    "window.mimeTypes": 0,
+    "window.platform": 0,
+    "window.plugins": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0,
+    "window.useragent": 1
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "727cb9e5f58b90c665e7eba344e43ffb8d86b485c18cb845f67622595006aed1",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 High Assurance Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1632952799.0,
+      "not_valid_before": 1617660000.0,
+      "serial_number": 1548783578419236097448648363001803178,
+      "subject": {
+        "commonName": "consent.oath.com",
+        "countryName": "US",
+        "localityName": "Sunnyvale",
+        "organizationName": "Oath Inc",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-256",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.yahoo.com/",
+    "https://es.yahoo.com/?p=us",
+    "https://guce.yahoo.com/consent?brandType=eu&gcrumb=R_vjeGY&lang=es-ES&done=https%3A%2F%2Fes.yahoo.com%2F%3Fp%3Dus",
+    "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_5b993d1b-e5e1-4d68-b95c-66cb880037f2"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www.yahoo.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://es.yahoo.com/?p=us"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://guce.yahoo.com/consent?brandType=eu&gcrumb=R_vjeGY&lang=es-ES&done=https%3A%2F%2Fes.yahoo.com%2F%3Fp%3Dus"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_5b993d1b-e5e1-4d68-b95c-66cb880037f2"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.yimg.com/oa/build/css/site-ltr-5ccbe489.css"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edge-mcdn.secure.yahoo.com/ybar/cerebro_min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.yimg.com/oa/build/js/site-0034eb05.js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://s.yimg.com/oa/build/css/site-ltr-5ccbe489.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.yimg.com/oa/build/images/es-ES-home_d1a78a3e59eb7288.jpeg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edge-mcdn.secure.yahoo.com/ybar/exp.json"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://v-a4r6d4ynmb.wc.yahoodns.net/i.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://v-b9uay6zlbr.wc.yahoodns.net/i.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://v-c1rs2x7krp.wc.yahoodns.net/pixel.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://dns-sxzek2z9d.sombrero.yahoo.net/pixel.gif"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d1vl8wytztdz.cloudfront.net/pixel.gif?rand=dxcrwsfi4"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://edge-mcdn-beacon.secure.yahoo.com/noquery/pixel.gif?rand=dtu8yydzd"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://yahoovod.hs.llnwd.net/pixel.gif?rand=4mc3jdg9u"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://vop-yahoo.secure.footprint.net/pixel.gif?rand=p96lpez9s"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://edgecast-vod.yahoo.net/pixel2.gif?rand=2o8q8nwz2"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://vop-yahoo.akamaized.net/pixel.gif?rand=l6baeik3x"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://ybar-mcdn-report.wc.yahoodns.net/cs/W3sibiI6ImNsb3VkZnJvbnQiLCJtIjpbMTc0MS40MzAwMDAwMDAwMzY3LDAsMCwxNzQxLjQzMDAwMDAwMDAzNjcsMTc2OS42OTQ5OTk5OTk5NTYsMTgxMS4wOTAwMDAwMDAxNDkzLDE4MTEuMDkwMDAwMDAwMTQ5MywxODIzLjMwMDAwMDAwMDAxNzUsMTg0NC4xOTUwMDAwMDA1ODE4LDE4NDQuNzI0OTk5OTk5OTI1OCwxODU4Ljk0OTk5OTk5OTgyMjUsMTg2MC40NjQ5OTk5OTk3NDkxXSwiciI6MCwicyI6MTYyMTA3MDQxNzAzOCwiZSI6MTYyMTA3MDQxNzE2NywicSI6ImltYWdlIiwiYiI6InVuZGVmaW5lZCJ9LHsibiI6InljcyIsIm0iOlsxNzQyLjQ5NTAwMDAwMDQxNzMsMCwwLDE3NDIuNDk1MDAwMDAwNDE3MywxNzQyLjQ5NTAwMDAwMDQxNzMsMTc0Mi40OTUwMDAwMDA0MTczLDE3NDIuNDk1MDAwMDAwNDE3MywxNzQyLjQ5NTAwMDAwMDQxNzMsMTc0Mi40OTUwMDAwMDA0MTczLDE4NjYuODgwMDAwMDAwNDkyMSwxODgxLjQyMDAwMDAwMDYxNjcsMTg4My41MjAwMDAwMDAzMTddLCJyIjowLCJzIjoxNjIxMDcwNDE3MDM5LCJlIjoxNjIxMDcwNDE3MTk0LCJxIjoiaW1hZ2UiLCJiIjoiZHR1OHl5ZHpkIn0seyJuIjoibGltZWxpZ2h0IiwibSI6WzE3NDMuMzcwMDAwMDAwMTQwOSwwLDAsMTc0My4zNzAwMDAwMDAxNDA5LDE4NjEuODY5OTk5OTk5NzI2MSwxODg3LjIwOTk5OTk5OTg2ODIsMTg4Ny4yMDk5OTk5OTk4NjgyLDE4OTkuOTI1MDAwMDAwNjIxNCwxOTIwLjU2MDAwMDAwMDQ3NzksMTkyMC43MjQ5OTk5OTk5NDc2LDE5MzMuMjgwMDAwMDAwMTk1MywxOTM1LjUxMDAwMDAwMDI0OTRdLCJyIjowLCJzIjoxNjIxMDcwNDE3MDM5LCJlIjoxNjIxMDcwNDE3MjQzLCJxIjoiaW1hZ2UiLCJiIjoidW5kZWZpbmVkIn0seyJuIjoiY29yZWRucyIsIm0iOlsxNzQwLjEzMDAwMDAwMDEzNTYsMCwwLDE3NDAuMTMwMDAwMDAwMTM1NiwxNzQwLjEzMDAwMDAwMDEzNTYsMTc0MC4xMzAwMDAwMDAxMzU2LDE3NDAuMTMwMDAwMDAwMTM1NiwxNzQwLjEzMDAwMDAwMDEzNTYsMTc0MC4xMzAwMDAwMDAxMzU2LDE3ODIuODIwMDAwMDAwMzU2MiwxOTg2Ljk3NDk5OTk5OTgwMiwxOTg4Ljg2NTAwMDAwMDI2XSwiciI6MCwicyI6MTYyMTA3MDQxNzAzOCwiZSI6MTYyMTA3MDQxNzI5NiwicSI6ImltYWdlIiwiYiI6InN4emVrMno5ZCJ9LHsibiI6ImFrYW1haSIsIm0iOlsxNzQ2LjQzMDAwMDAwMDE0NTgsMCwwLDE3NDYuNDMwMDAwMDAwMTQ1OCwxOTM2LjkxMDAwMDAwMDM1MjcsMTk1NS41NTUwMDAwMDA0NTg3LDE5NTUuNTU1MDAwMDAwNDU4NywxOTc2LjQ3NTAwMDAwMDM5MTQsMjAwNi4xNTAwMDAwMDAxNjE1LDIwMDguODI0OTk5OTk5ODg4LDIwMjYuNTIwMDAwMDAwMzQ2LDIwMjguOTcwMDAwMDAwMjk5NV0sInIiOjAsInMiOjE2MjEwNzA0MTcwMzksImUiOjE2MjEwNzA0MTczMzUsInEiOiJpbWFnZSIsImIiOiJ1bmRlZmluZWQifSx7Im4iOiJlZGdlY2FzdCIsIm0iOlsxNzQ1LjM5NDk5OTk5OTkxNjgsMCwwLDE3NDUuMzk0OTk5OTk5OTE2OCwxODg5LjQ3NDk5OTk5OTk0NzYsMTkxMS45NjUwMDAwMDAyMzY2LDE5MTEuOTY1MDAwMDAwMjM2NiwyMDIyLjMyNDk5OTk5OTkwOTgsMjI1MC45OTAwMDAwMDA0NTYzLDIyNTEuMTcwMDAwMDAwNDU2NiwyMzY4LjQ0NTAwMDAwMDA2NSwyMzcyLjkyNTAwMDAwMDU3NzddLCJyIjowLCJzIjoxNjIxMDcwNDE3MDM5LCJlIjoxNjIxMDcwNDE3NjgxLCJxIjoiaW1hZ2UiLCJiIjoidW5kZWZpbmVkIn0seyJuIjoibGV2ZWwzIiwibSI6WzE3NDQuNTEwMDAwMDAwNDQ1OSwwLDAsMTc0NC41MTAwMDAwMDA0NDU5LDE4ODguNTYwMDAwMDAwMzI1LDE5MDguOTEwMDAwMDAwMTA1NCwxOTA4LjkxMDAwMDAwMDEwNTQsMjA3OC4zMzAwMDAwMDAyNzgyLDI0MjQuOTMwMDAwMDAwMTMxMywyNDI1LjA1NTAwMDAwMDYxMTUsMjU5NC4yOTAwMDAwMDAwMDEsMjU5Ni41MzUwMDAwMDA1ODU2XSwiciI6MCwicyI6MTYyMTA3MDQxNzAzOSwiZSI6MTYyMTA3MDQxNzkwMywicSI6ImltYWdlIiwiYiI6InVuZGVmaW5lZCJ9XQ=="
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://ybar-a4r6d4ynmbreport.wc.yahoodns.net/cs/W3sibiI6InZwaXhpZWEiLCJtIjpbMTczNS42MTUwMDAwMDA1MDczLDAsMCwxNzM1LjYxNTAwMDAwMDUwNzMsMTczOC4wODk5OTk5OTk4MjkyLDE3NjEuMzk1MDAwMDAwNDQ4LDE3NjEuMzk1MDAwMDAwNDQ4LDE5MDQuNjgwMDAwMDAwNTUzMywyMDU3LjA3NTAwMDAwMDYyMywyMDU3LjQyMDAwMDAwMDA5MywyMjA3LjAzNTAwMDAwMDM2LDIyMTIuMTU1MDAwMDAwMTY2XSwiciI6MCwicyI6MTYyMTA3MDQxNzAzOCwiZSI6MTYyMTA3MDQxNzUyMywicSI6ImltYWdlIiwiYiI6ImE0cjZkNHlubWIifV0="
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://ybar-c1rs2x7krpreport.wc.yahoodns.net/cs/W3sibiI6InZwaXhpZWMiLCJtIjpbMTczOC4xOTQ5OTk5OTk5MDUxLDAsMCwxNzM4LjE5NDk5OTk5OTkwNTEsMTc0Ny43NTUwMDAwMDAzMjQ4LDE3NzYuNDU1MDAwMDAwMTY5LDE3NzYuNDU1MDAwMDAwMTY5LDE5NTYuMDYwMDAwMDAwNDM0MiwyMTQzLjUyNTAwMDAwMDQwOSwyMTQzLjk2NTAwMDAwMDIwNzUsMjQxMy4yNzk5OTk5OTk3NTg3LDI0MTQuODAwMDAwMDAwNDY4Nl0sInIiOjAsInMiOjE2MjEwNzA0MTcwMzgsImUiOjE2MjEwNzA0MTc3MjEsInEiOiJpbWFnZSIsImIiOiJjMXJzMng3a3JwIn1d"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "No Content",
+      "url": "https://csp.yahoo.com/beacon/csp?src=guce"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://consent.yahoo.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://ybar-b9uay6zlbrreport.wc.yahoodns.net/cs/W3sibiI6InZwaXhpZWIiLCJtIjpbMTczNi45MjUwMDAwMDAxNTU3LDAsMCwxNzM2LjkyNTAwMDAwMDE1NTcsMTc0Ny41NDAwMDAwMDAyOTkyLDE3NzIuOTE1MDAwMDAwNDY2NSwxNzcyLjkxNTAwMDAwMDQ2NjUsMjA2Ny4wMjAwMDAwMDA0MTE1LDIzNzEuMzEwMDAwMDAwNDQ5LDIzNzUuMTAwMDAwMDAwMjAyMywyNjcyLjg2NTAwMDAwMDQ1NjMsMjY3NC4xNDAwMDAwMDAwNzk1XSwiciI6MCwicyI6MTYyMTA3MDQxNzAzOCwiZSI6MTYyMTA3MDQxNzk4MCwicSI6ImltYWdlIiwiYiI6ImI5dWF5NnpsYnIifV0="
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000; includeSubDomains",
+      "includeSubDomains": true,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.yahoo.com\n",
+  "third_parties": {
+    "fqdns": [
+      "d1vl8wytztdz.cloudfront.net",
+      "dns-sxzek2z9d.sombrero.yahoo.net",
+      "edgecast-vod.yahoo.net",
+      "s.yimg.com",
+      "v-a4r6d4ynmb.wc.yahoodns.net",
+      "v-b9uay6zlbr.wc.yahoodns.net",
+      "v-c1rs2x7krp.wc.yahoodns.net",
+      "vop-yahoo.akamaized.net",
+      "vop-yahoo.secure.footprint.net",
+      "yahoovod.hs.llnwd.net",
+      "ybar-a4r6d4ynmbreport.wc.yahoodns.net",
+      "ybar-b9uay6zlbrreport.wc.yahoodns.net",
+      "ybar-c1rs2x7krpreport.wc.yahoodns.net",
+      "ybar-mcdn-report.wc.yahoodns.net"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 18
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 13,
+    "trackers": [
+      "d1vl8wytztdz.cloudfront.net",
+      "dns-sxzek2z9d.sombrero.yahoo.net",
+      "edgecast-vod.yahoo.net",
+      "v-a4r6d4ynmb.wc.yahoodns.net",
+      "v-b9uay6zlbr.wc.yahoodns.net",
+      "v-c1rs2x7krp.wc.yahoodns.net",
+      "vop-yahoo.akamaized.net",
+      "vop-yahoo.secure.footprint.net",
+      "yahoovod.hs.llnwd.net",
+      "ybar-a4r6d4ynmbreport.wc.yahoodns.net",
+      "ybar-b9uay6zlbrreport.wc.yahoodns.net",
+      "ybar-c1rs2x7krpreport.wc.yahoodns.net",
+      "ybar-mcdn-report.wc.yahoodns.net"
+    ]
+  }
+}

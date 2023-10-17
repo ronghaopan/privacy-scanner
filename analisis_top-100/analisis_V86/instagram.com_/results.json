@@ -1,0 +1,470 @@
+{
+  "chrome_error": null,
+  "cookies": [],
+  "cookiestats": {
+    "first_party_long": 0,
+    "first_party_short": 0,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.instagram.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 3,
+    "window.navigator.language": 0,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 2,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 2,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 6,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "58e8d4b62fbec40b784a5a4f7821b7991894f6e1e4d4b5ceae0e8b1badca6778",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 High Assurance Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1627768799.0,
+      "not_valid_before": 1619906400.0,
+      "serial_number": 12304583283197299553396071739001475821,
+      "subject": {
+        "commonName": "*.www.instagram.com",
+        "countryName": "US",
+        "localityName": "Menlo Park",
+        "organizationName": "Facebook, Inc.",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": true,
+      "is_ready": true
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.instagram.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/ConsumerUICommons.css/d95fa04b40fd.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/Consumer.css/60432d729e4b.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/LandingPage.css/8f3e856ac244.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/Vendor.js/48e0f28aa478.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/es_ES.js/fa61b368b2a0.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/e7427dcfb98f.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/6f3c4fe3132a.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/c4ca4238a0b9.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/Consumer.js/24fc280a4322.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/LandingPage.js/c0a06a1e2b08.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/FeedPageContainer.js/a21e7fdd2622.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/FeedPageContainer.css/2d1a983909a0.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect.facebook.net/en_US/sdk.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/BDClientSignalCollectionTrigger.js/f2a3e4fb3bc2.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/qp/batch_fetch_web/"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/images/homepage/screenshot1.jpg/d6bf0c928b5a.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/images/homepage/screenshot2.jpg/6f03eb85463c.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/images/homepage/screenshot3.jpg/f0c687aa6ec2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/images/homepage/screenshot4.jpg/842fe5699220.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/images/homepage/screenshot5.jpg/0a2d3016f375.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.instagram.com/static/bundles/es6/ConsumerUICommons.css/d95fa04b40fd.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/bundles/es6/sprite_core_32f0a4f27407.png/32f0a4f27407.png"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=beae00a6b3e707eac5859d5ed45f2d0b&ua=modern_es6"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.facebook.com/x/oauth/status?client_id=124024574287414&input_token&origin=1&redirect_uri=https%3A%2F%2Fwww.instagram.com%2F&sdk=joey&wants_cookie_data=true"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/images/appstore-install-badges/badge_ios_castilian_spanish-es.png/bec9a7397c42.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/static/images/appstore-install-badges/badge_android_spanish-es.png/723534f78879.png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.instagram.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instagram.com/ajax/bz"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "connect-src": [
+        "'self'",
+        "https://instagram.com",
+        "https://www.instagram.com",
+        "https://*.www.instagram.com",
+        "https://graph.instagram.com",
+        "https://*.graph.instagram.com",
+        "https://graphql.instagram.com",
+        "https://*.cdninstagram.com",
+        "https://api.instagram.com",
+        "https://i.instagram.com",
+        "https://*.i.instagram.com",
+        "wss://www.instagram.com",
+        "wss://edge-chat.instagram.com",
+        "https://*.facebook.com",
+        "https://*.fbcdn.net",
+        "https://*.facebook.net",
+        "chrome-extension://boadgeojelhgndaghljhdicfkmllpafd",
+        "blob:"
+      ],
+      "default-src": [
+        "'self'",
+        "https://www.instagram.com"
+      ],
+      "font-src": [
+        "data:",
+        "https://*.fbcdn.net",
+        "https://*.instagram.com",
+        "https://*.cdninstagram.com"
+      ],
+      "frame-src": [
+        "'self'",
+        "https://instagram.com",
+        "https://www.instagram.com",
+        "https://*.instagram.com",
+        "https://staticxx.facebook.com",
+        "https://www.facebook.com",
+        "https://web.facebook.com",
+        "https://connect.facebook.net",
+        "https://m.facebook.com"
+      ],
+      "header_value": "report-uri https://www.instagram.com/security/csp_report/; default-src 'self' https://www.instagram.com; img-src data: blob: https://*.fbcdn.net https://*.instagram.com https://*.cdninstagram.com https://*.facebook.com https://*.fbsbx.com; font-src data: https://*.fbcdn.net https://*.instagram.com https://*.cdninstagram.com; media-src 'self' blob: https://www.instagram.com https://*.cdninstagram.com https://*.fbcdn.net; manifest-src 'self' https://www.instagram.com; script-src 'self' https://instagram.com https://www.instagram.com https://*.www.instagram.com https://*.cdninstagram.com wss://www.instagram.com https://*.facebook.com https://*.fbcdn.net https://*.facebook.net 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' https://*.www.instagram.com https://www.instagram.com 'unsafe-inline'; connect-src 'self' https://instagram.com https://www.instagram.com https://*.www.instagram.com https://graph.instagram.com https://*.graph.instagram.com https://graphql.instagram.com https://*.cdninstagram.com https://api.instagram.com https://i.instagram.com https://*.i.instagram.com wss://www.instagram.com wss://edge-chat.instagram.com https://*.facebook.com https://*.fbcdn.net https://*.facebook.net chrome-extension://boadgeojelhgndaghljhdicfkmllpafd blob:; worker-src 'self' blob: https://www.instagram.com; frame-src 'self' https://instagram.com https://www.instagram.com https://*.instagram.com https://staticxx.facebook.com https://www.facebook.com https://web.facebook.com https://connect.facebook.net https://m.facebook.com; object-src 'none'; upgrade-insecure-requests",
+      "img-src": [
+        "data:",
+        "blob:",
+        "https://*.fbcdn.net",
+        "https://*.instagram.com",
+        "https://*.cdninstagram.com",
+        "https://*.facebook.com",
+        "https://*.fbsbx.com"
+      ],
+      "manifest-src": [
+        "'self'",
+        "https://www.instagram.com"
+      ],
+      "media-src": [
+        "'self'",
+        "blob:",
+        "https://www.instagram.com",
+        "https://*.cdninstagram.com",
+        "https://*.fbcdn.net"
+      ],
+      "object-src": [
+        "'none'"
+      ],
+      "report-uri": [
+        "https://www.instagram.com/security/csp_report/"
+      ],
+      "script-src": [
+        "'self'",
+        "https://instagram.com",
+        "https://www.instagram.com",
+        "https://*.www.instagram.com",
+        "https://*.cdninstagram.com",
+        "wss://www.instagram.com",
+        "https://*.facebook.com",
+        "https://*.fbcdn.net",
+        "https://*.facebook.net",
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "blob:"
+      ],
+      "style-src": [
+        "'self'",
+        "https://*.www.instagram.com",
+        "https://www.instagram.com",
+        "'unsafe-inline'"
+      ],
+      "upgrade-insecure-requests": [],
+      "worker-src": [
+        "'self'",
+        "blob:",
+        "https://www.instagram.com"
+      ]
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000",
+      "includeSubDomains": false,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "0",
+      "is_active": null,
+      "mode": null
+    }
+  },
+  "session_storage": [
+    {
+      "content": "{\"authResponse\":null,\"status\":\"unknown\",\"expiresAt\":1621260833148}",
+      "key": "fbssls_124024574287414"
+    }
+  ],
+  "site_url": "https://www.instagram.com\n",
+  "third_parties": {
+    "fqdns": [
+      "connect.facebook.net",
+      "www.facebook.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 3
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}

@@ -1,0 +1,3081 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "www.dropbox.com",
+      "expires": 1715783462.871668,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 94615200.8716681,
+      "name": "__Host-ss",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Strict",
+      "secure": true,
+      "session": false,
+      "size": 19,
+      "value": "IMOnvN9YPI"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1778855462.871856,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 157687200.87185597,
+      "name": "locale",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 11,
+      "value": "es_ES"
+    },
+    {
+      "domain": "www.dropbox.com",
+      "expires": 1778855462.871942,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 157687200.87194204,
+      "name": "gvc",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 55,
+      "value": "MzMwNjEyMjI0NTc4NTIyMjY0MzI1MjU2MjM5NDU5NDMxNDYyNzk5"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1715783462.872061,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 94615200.87206101,
+      "name": "t",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 25,
+      "value": "8AuEbNTKM1R8GnfsOZfkMuQc"
+    },
+    {
+      "domain": "www.dropbox.com",
+      "expires": 1715783462.872101,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 94615200.87210107,
+      "name": "__Host-js_csrf",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 38,
+      "value": "8AuEbNTKM1R8GnfsOZfkMuQc"
+    },
+    {
+      "domain": "www.dropbox.com",
+      "expires": 1778855465,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 157687203,
+      "name": "cookie_notif",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 16,
+      "value": "seen"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1652711466,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543204,
+      "name": "utag_main",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 150,
+      "value": "v_id:0179759678880016ab4eb16dd5ab00068002806000590$_sn:1$_se:2$_ss:0$_st:1621177266165$ses_id:1621175466123%3Bexp-session$_pn:1%3Bexp-session"
+    },
+    {
+      "domain": ".twitter.com",
+      "expires": 1684247466.66483,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079204.66482997,
+      "name": "personalization_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "value": "\"v1_nE5J/v+aI9LcN+Fa9i0ISw==\""
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1654871466.779839,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703204.77983904,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 67,
+      "value": "AHWqTUkBQinmEhRjmiwrBXcrxF4dvWc5FFyEdN4grRZmtWw7RQROCJfDGQKNFNoQ"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1684247466,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "value": "GA1.2.1600989019.1621175467"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1621261866,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93604,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 31,
+      "value": "GA1.2.1285707498.1621175467"
+    },
+    {
+      "domain": "tags.srv.stackadapt.com",
+      "expires": 1652711466.840743,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543204.840743065,
+      "name": "sa-user-id",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 96,
+      "value": "s%3A0-d37a8cb4-10ee-45b3-7f40-66018a220f6c.B4k8TEr9GT0pwUGoANtZQ3X5dP3qGTr3QCmVt4yPTKY"
+    },
+    {
+      "domain": ".srv.stackadapt.com",
+      "expires": 1652711466.840799,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543204.840799093,
+      "name": "sa-user-id-v2",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 121,
+      "value": "s%3A0-d37a8cb4-10ee-45b3-7f40-66018a220f6c%24ip%242.59.233.173.7Bt3Y4arLMmI4h6mwWPvoZfS6tnFRRkQj%2B8YGri5KCw"
+    },
+    {
+      "domain": ".dotomi.com",
+      "expires": 1655217059.906338,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 34048797.90633798,
+      "name": "cjae",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 16,
+      "value": "iPd8KjakD6T2"
+    },
+    {
+      "domain": ".dotomi.com",
+      "expires": 1655217059.906377,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 34048797.90637708,
+      "name": "DotomiUser",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 32,
+      "value": "400404139830546876$0$1"
+    },
+    {
+      "domain": ".krxd.net",
+      "expires": 1636727483,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559221,
+      "name": "_kuid_",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 14,
+      "value": "OH7eTiqm"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623767467.006572,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599205.006572008,
+      "name": "UserMatchHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 94,
+      "value": "AQLvSGwYUeQpLQAAAXl1lnvXgoYX4Ripj-p3pEsPvJXFwkO1-8kC8SXBUPTeovZzdf8kr0rJJ-Q0rA"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623767467.006647,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599205.00664711,
+      "name": "AnalyticsSyncHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 106,
+      "value": "AQIafKjm8OHabwAAAXl1lnvXPyqgxXiyaR3_aV83SOTkEGpqZYElReUiHovYglYd1qnmELJ5kPTh6d-eq767lw"
+    },
+    {
+      "domain": ".ads.linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "value": "v=2&lang=en-us"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1684289319.00674,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121057.00674009,
+      "name": "bcookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 49,
+      "value": "\"v=2&f66e7ffa-711a-4f67-8e87-3b666c9f56ed\""
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1621261867.006795,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93605.0067949295,
+      "name": "lidc",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 108,
+      "value": "\"b=VGST05:s=V:r=V:a=V:p=V:g=2202:u=1:i=1621175466:t=1621261866:v=2:sig=AQFkv9JSmQYg6_d0ohNSioVZnsGJffDn\""
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "value": "v=2&lang=es-es"
+    },
+    {
+      "domain": ".www.linkedin.com",
+      "expires": 1684289320.220448,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121058.22044802,
+      "name": "bscookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 96,
+      "value": "\"v=1&202105161431079fbb9447-f783-49b3-892a-7e38bad97181AQFvsDlcSN6Epojnt-Bt7JQwXhNBugIo\""
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1652711468,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543206,
+      "name": "_biz_uid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 40,
+      "value": "b48b264b14b244d4b9a83b9a590b390f"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1621177268,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9006,
+      "name": "_biz_sid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 14,
+      "value": "2b6edd"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1652711468,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543206,
+      "name": "_biz_nA",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 8,
+      "value": "1"
+    },
+    {
+      "domain": ".bizible.com",
+      "expires": 1652711468.691569,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543206.69156909,
+      "name": "_BUID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 37,
+      "value": "b48b264b14b244d4b9a83b9a590b390f"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1652711468,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543206,
+      "name": "_biz_pendingA",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 19,
+      "value": "%5B%5D"
+    },
+    {
+      "domain": ".bizibly.com",
+      "expires": 1652711469.235465,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 31543207.23546505,
+      "name": "_BUID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 37,
+      "value": "dabc3259d44c32516e45f2a8551fefe5"
+    },
+    {
+      "domain": ".dropbox.com",
+      "expires": 1652711469,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543207,
+      "name": "_biz_flagsA",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 90,
+      "value": "%7B%22Version%22%3A1%2C%22XDomain%22%3A%221%22%2C%22ViewThrough%22%3A%221%22%7D"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 13,
+    "first_party_short": 1,
+    "third_party_long": 14,
+    "third_party_short": 2,
+    "trackers": [
+      "bizible.com",
+      "dotomi.com",
+      "doubleclick.net",
+      "krxd.net",
+      "linkedin.com",
+      "stackadapt.com",
+      "twitter.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.dropbox.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 2,
+    "window.navigator.language": 1,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 1,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 13,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 1,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-279179-2"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "e07ea69a5703cfc7f2bb878f6e170208955499e2a84836c45147e6a628ec0c03",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 High Assurance Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1637535599.0,
+      "not_valid_before": 1603753200.0,
+      "serial_number": 3051431641745328431962561490709192621,
+      "subject": {
+        "commonName": "*.dropbox.com",
+        "countryName": "US",
+        "localityName": "San Francisco",
+        "organizationName": "Dropbox, Inc",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": true,
+      "is_ready": true
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://www.dropbox.com/contact",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": "16.11.0",
+    "jQuery": "2.2.4"
+  },
+  "local_storage": [
+    {
+      "content": "1621175468353",
+      "key": "hql_session_value"
+    },
+    {
+      "content": "CgYYPCBkKAASCAip2YSFBhAAGgYIkLzEsQ8=",
+      "key": "amp-sink-cache"
+    },
+    {
+      "content": "1621175483149",
+      "key": "hql_session_last_used"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.dropbox.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/fonts/paper-atlasgrotesk/AtlasGrotesk-Regular-Web-vflk7bxjs.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/fonts/paper-atlasgrotesk/AtlasGrotesk-Medium-Web-vfl38XiTL.woff2"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/page_success/head?dws_page_name=index&path=%2F&request_id=2998ae57e7ca413d834bba772e27daf3&time=1621175462"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/alameda_bundle/alameda_bundle_chrome_es_ES-vflYkaZfP.js"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBBook23-vflX-NIwB.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBBook20-vfl6-4ZSp.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBMedium20-vflI3qtaE.woff2"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/logo_catalog/wordmark--dropbox_m1.svg"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/page_success/start?dws_page_name=index&path=%2F&request_id=2998ae57e7ca413d834bba772e27daf3&time=1621175462"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://dropbox.com/hstsping"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/font_paper_atlas_grotesk-vflEbKJso.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/maestro_layout-vflhmarDL.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/prod_assets_web_modules/jquery-vflYfRgmF.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-react.min-vflUULRC5.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/obsidian/logo-vflbo_vhR.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/components/rebrand_navigation-vfltPllY0.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/rebrand_page-vflRHf7MF.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/spectrum/index.web-vflmHVRF-.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/recaptcha_v2_challenge-vfl5GXpO2.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/login_or_register-vflZ9ry5P.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/components/login_form-vflgnZctA.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/rebrand/elements/homepage_login_register_panel-vfl34IZ3V.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/spectrum-arbor/index.web-vfl7e1o1I.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/dig-components/index.web-vfl12MBWX.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces_rebrand_page-vflNBoNkz.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_hero-vflWV1DRG.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/jtbd_plank-vfleciVQi.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_headline-vflN8bJGX.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_carousel-vflxx1e1q.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_twin_cards-vflPM0nIC.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_integrations-vflKlbVDF.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_quad_block-vflw0gzUl.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_block-vfl14kDL7.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/index/pisces/pisces_rebrand_survey_hero-vflhfxCPZ.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/universal_nav/universal_nav-vflSeQXyq.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/foundation-vfl4TNsHm.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/dropbox/2015/top_notification_bar-vflah4sEI.css"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/top-notification-x-white-vflCh9Pt1.svg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/hero/pisces_rebrand_hero_animation-vflyzdfbq.gif"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/hero/pisces_rebrand_hero-vfldFcE21.jpg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/quad/syncing-vfl5qmpJE.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/quad/share-vfllC7nq_.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/quad/shield-vflEXMD4H.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/quad/comment-vflqWafTI.svg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/zoom-vflXO7bPa.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/slack-vflFiSnnH.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/adobe-vflp_kDbN.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/office-vfl5CA_Ct.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/google-vflmLc5Ew.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/trello-vflbRRGGc.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/canvas-vfl5h3icj.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/octa/asana-vflg0U89v.png"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/page_success/end?dws_page_name=index&path=%2F&request_id=2998ae57e7ca413d834bba772e27daf3&time=1621175463"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/eu_cookie_bar-vflNTY_WN.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-dig-b.min-vflt4XaMI.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-timing.min-vflXW7qT7.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-external.min-vflEPekXz.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-react-libs.min-vflHjk_jd.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-dig-d.min-vflkitrQ9.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-dig-a.min-vflk4FAnE.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-dig-icons.min-vflYOO579.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-core-analytics.min-vflH7G7jB.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-legacy-ab.min-vfl2tWcHz.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-api_v2.min-vflgCp0KM.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-mcl-mobile-menu.min-vfl3DzzYJ.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-coreui.min-vflj21gRN.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-captcha.min-vfll9Px9z.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-api_v2-extra.min-vfl92U03r.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-login-pages-externals.min-vflUU-glx.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-checkout.min-vflQuYYAc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/common/error.min-vflSpbqtB.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/common/inputs/checkbox.min-vflbiRnVa.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/common/inputs/text.min-vfluXTer2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/common/stats.min-vfljFZBmX.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/common/types.min-vflkAGKwn.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/2fa/authenticator_form.min-vflRXk5j0.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/2fa/email_form.min-vflBBOkua.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/2fa/phone_form.min-vflAGwnTx.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/2fa/seckey_form.min-vflue70YR.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/2fa/trust_checkbox.min-vfljvkSRt.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/api.min-vflYIgbVf.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/apple_login_button.min-vfl8dY-o_.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/credentials_form.min-vflzK6puE.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/form.min-vflYTWOIB.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/google_login_button.min-vfl6eRYyJ.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/login_error.min-vflCPCCos.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/sso_utils.min-vfl89u31j.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/login/types.min-vflq9gXKW.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/register/form.min-vflE3Y0Z8.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/register/google_register_button.min-vflFAIOVp.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/register/name_fields.min-vfl8Asigu.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/register/types.min-vflsyngPr.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/auth/register/view.min-vflsnLPcU.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-login-pages.min-vflJ96Ju0.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-browse-and-home.min-vfl1NuwYn.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-exception-reporting.min-vfl42YWlW.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-core.min-vfl_738BK.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-modules-unneeded-for-home.min-vfl6xa1NO.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/deprecated_ajax/ajax_minimal.min-vfliIZglf.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-login-and-register-pages.min-vflvzznSc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-index-page.min-vflXMzspW.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-pricing.min-vflbTgTOW.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-profile_services.min-vfl_toKOH.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/prompt/api/rendering.min-vfl_M6dvJ.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-loadable.min-vflhEk6Gb.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-file_viewer.min-vflky6Eti.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-coreui-forms.min-vfldiX8Vd.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-business.min-vflyNjlWY.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-plans.min-vflHteiok.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/components/pisces_rebrand_block.min-vflJ1NZGn.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/jtbd_plank_image_paths.min-vflhkq89X.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/pisces_rebrand_page.min-vflJyZmpB.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/pisces_rebrand_page_content.min-vflxNSVcR.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/jtbd_plank.min-vflY5S3Nw.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/pisces_rebrand_carousel.min-vflDcRDeo.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/pisces_rebrand_headline.min-vfl97O3lM.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/pisces_rebrand_hero.min-vfl_fmaGD.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/pisces_rebrand_integrations.min-vflhMXoWw.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/pisces_rebrand_quad_block.min-vfl4RZZnp.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/pisces_rebrand_survey_hero.min-vfl8FwT5n.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/index/planks/pisces_rebrand_twin_cards.min-vfl6aufos.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-legacy-dig-migration.min-vflB0HrFq.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-embedded_app_search.min-vflpZ8WxM.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/prompt/button.min-vfl_V4xSM.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/prompt/campaign_state_manager.min-vflDouEuG.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/prompt/hardcoded_top_notifications/eu_cookie_bar.min-vflI3Y_Dc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-prompt.min-vflIBboJx.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/react/prompt/top_notification.min-vflStHT4c.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-universal-nav.min-vflQHjG5v.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-core-security.min-vfl4-rfng.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/top_notification_bar.min-vfltpGDYT.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/upsell/legacy_prompt_event_logging.min-vfl9kVpZC.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-maestro-nav.min-vflsYnsbx.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-i18n-legacy.min-vflKfiplk.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-i18n.min-vflZN5AE3.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-dig-vendor.min-vfl50-eCW.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-spectrum-arbor-2.min-vfle7slod.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-spectrum-arbor.min-vfla95e2P.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-spectrum-arbor-3.min-vflw4Pyvl.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-mcl-snackbar.min-vflf4qmdA.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-mcl-icons.min-vflcbV0fb.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-mcl-home.min-vflJt797z.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/langpack/icu-es_ES.json?18762"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://cfl.dropboxstatic.com/static/css/rebrand/elements/homepage_login_register_panel-vfl34IZ3V.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/logo_catalog/logotype_m1-vfltuHich.svg"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://cfl.dropboxstatic.com/static/css/index/components/rebrand_navigation-vfltPllY0.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/fonts/atlasgrotesk/AtlasGrotesk-Regular-Web-vflg7ta4-.woff"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/2/client_metrics/record"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/quote_personal-vflAiN62C.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/quote_mvmt-vfllU3yAu.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/logo_mvmt-vflT_jzsd.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/quote_sundance-vflXLuB8R.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/logo_sundance-vflUR_DEy.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/quote_simusolar-vfl4S6yP9.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/logo_simusolar-vflGmj6a1.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/quote_family-vflBjquIW.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/quote_dentsu-vfligotgE.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/logo_dentsu-vflLxXfeN.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/quote_university_of_sydney-vflHO8kCC.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/customers/logo_university_of_sydney-vfl5vWc0b.png"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://marketing.dropbox.com/?referrer="
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/prompt/log_impression?campaign_id=1126&delta_from_request_start_ms=3419&version_id=10751"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/components/exp_cards-vfls5BO1G.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/legacy_packages/components-vflwFi1IV.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/scooter/scooter-scoped-vflpl9JSl.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/recaptcha_challenge-vflrcf67y.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/components/button-vfllw60O5.css"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://cfl.dropboxstatic.com/static/css/index/rebrand_page-vflRHf7MF.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/rebrand/ob-button-close-vflzGggYo.svg"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tags.tiqcdn.com/utag/dropbox/main/prod/utag.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/recaptcha-vflIN6j39.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/components/password_strength_meter-vfljnpJyO.css"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://cfl.dropboxstatic.com/static/css/rebrand/elements/homepage_login_register_panel-vfl34IZ3V.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/checkmark-vfl56VRyi.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://cfl.dropboxstatic.com/static/css/rebrand/elements/homepage_login_register_panel-vfl34IZ3V.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/google-logo-color-vflpJqkMT.svg"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=dropbox/main/202103101641&cb=1621175466162"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=UA-279179-2"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tags.tiqcdn.com/utag/dropbox/main/prod/utag.42.js?utv=ut4.46.202103101641"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.ads-twitter.com/uwt.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.krxd.net/controltag/tpxf4nq03.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tags.tiqcdn.com/utag/dropbox/main/prod/utag.175.js?utv=ut4.46.202103101641"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tags.tiqcdn.com/utag/dropbox/main/prod/utag.179.js?utv=ut4.46.202103101641"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tags.tiqcdn.com/utag/dropbox/main/prod/utag.169.js?utv=ut4.46.202103101641"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.adsrvr.org/up_loader.1.1.0.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tags.srv.stackadapt.com/events.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.bizible.com/scripts/bizible.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://10499192.fls.doubleclick.net/activityi;src=10499192;type=unive0;cat=dbxun0;sync_id=AABh0yYdZPgJjFmO_MNQ2M4-o9Fwt9g12q726pAL3jw2FQ;ord=9956311853943.209?"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www.emjcd.com/u?METHOD=IMG"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/recaptcha/api.js?hl=es-ES&onload=recaptchaOnloadCallback&render=explicit"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-sharing-confirmation-modals.min-vfl_tVUss.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/components/bubble_dropdown_v2-vflhhYVBe.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://dropboxcaptcha.com/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=nvx41&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=1&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=o3jx0&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=1&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.co/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=nvx41&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=1&tw_document_href=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.co/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=o3jx0&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=1&tw_document_href=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.krxd.net/ctjs/controltag.js.0631b7d64dbbd3656a8b7368ad227a04"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=4373&time=1621175466365&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://10499192.fls.doubleclick.net/activityi;dc_pre=CPX0qp61zvACFQUA0wodqGMHVw;src=10499192;type=unive0;cat=dbxun0;sync_id=AABh0yYdZPgJjFmO_MNQ2M4-o9Fwt9g12q726pAL3jw2FQ;ord=9956311853943.209?"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/recaptcha/releases/f-bnnOuahiYKuei7dmAd3kgv/recaptcha__es.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://insight.adsrvr.org/track/up?adv=7osz1jr&ref=&upid=vwygxao&upv=1.1.0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://insight.adsrvr.org/track/up?adv=2ro94sc&ref=&upid=o9lxggc&upv=1.1.0&orderid=AABh0yYdZPgJjFmO_MNQ2M4-o9Fwt9g12q726pAL3jw2FQ"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-753970383&l=dataLayer&cx=c"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://dropboxcaptcha.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://dropboxcaptcha.com/funcaptcha.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://10499192.fls.doubleclick.net/activityi;dc_pre=CPX0qp61zvACFQUA0wodqGMHVw;src=10499192;type=unive0;cat=dbxun0;sync_id=AABh0yYdZPgJjFmO_MNQ2M4-o9Fwt9g12q726pAL3jw2FQ;ord=9956311853943.209?",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/ddm/fls/i/dc_pre=CPX0qp61zvACFQUA0wodqGMHVw;src=10499192;type=unive0;cat=dbxun0;sync_id=AABh0yYdZPgJjFmO_MNQ2M4-o9Fwt9g12q726pAL3jw2FQ;ord=9956311853943.209;~oref=https://marketing.dropbox.com/%3Freferrer%3D"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/753970383/?random=1621175466563&cv=9&fst=1621175466563&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&sendb=1&ig=1&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://cj.dotomi.com/hn65eylhz5/fmr/lpj/24/24/3/25?q=gfXmahW%3DbfZ%3c%3c0CC8B%3A%2F%2FFFF.x52vw.v75%3ARJ%2FD%3c%3cZ%3c0CC8B%3A%2F%2F5tA3xC16z.wA78u7G.v75%2F%3FAxyxAAxA%3D%3c%3cK%3cK%3cJ%3cJ%3c"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://beacon.krxd.net/optout_check?callback=Krux.ns.dropboxmain.kxjsonp_optOutCheck"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consumer.krxd.net/consent/get/7fe1f424-c09d-4781-af13-2352d2ee4229?idt=device&dt=kxcookie&callback=Krux.ns.dropboxmain.kxjsonp_consent_get_0"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1719292139&t=pageview&_s=1&dl=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&ul=es-es&de=windows-1252&dt=Dropbox&sd=24-bit&sr=800x600&vp=&je=0&_u=4EBAAUAB~&cid=1600989019.1621175467&tid=UA-279179-2&_gid=1285707498.1621175467&gtm=2ou5c1&z=549145974"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/1p-user-list/753970383/?random=1621175466563&cv=9&fst=1621173600000&num=1&guid=ON&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&async=1&fmt=3&is_vtc=1&random=924191071&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/pagead/1p-user-list/753970383/?random=1621175466563&cv=9&fst=1621173600000&num=1&guid=ON&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&async=1&fmt=3&is_vtc=1&random=924191071&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.krxd.net/controltag/tpxf4nq03.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://adservice.google.com/ddm/fls/i/dc_pre=CPX0qp61zvACFQUA0wodqGMHVw;src=10499192;type=unive0;cat=dbxun0;sync_id=AABh0yYdZPgJjFmO_MNQ2M4-o9Fwt9g12q726pAL3jw2FQ;ord=9956311853943.209;~oref=https://marketing.dropbox.com/%3Freferrer%3D",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.es/ddm/fls/i/dc_pre=CPX0qp61zvACFQUA0wodqGMHVw;src=10499192;type=unive0;cat=dbxun0;sync_id=AABh0yYdZPgJjFmO_MNQ2M4-o9Fwt9g12q726pAL3jw2FQ;ord=9956311853943.209;~oref=https://marketing.dropbox.com/%3Freferrer%3D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=1719292139&t=timing&_s=2&dl=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&ul=es-es&de=windows-1252&dt=Dropbox&sd=24-bit&sr=800x600&vp=&je=0&plt=189&pdt=5&dns=39&rrt=1&srt=37&tcp=49&dit=189&clt=189&_gst=759&_gbt=1077&_cst=411&_cbt=721&_u=4EBAAUAB~&cid=1600989019.1621175467&tid=UA-279179-2&_gid=1285707498.1621175467&gtm=2ou5c1&z=1027017439"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tags.srv.stackadapt.com/sa.css"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tags.srv.stackadapt.com/sa.jpeg"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/753970383/?random=1621175466910&cv=9&fst=1621175466910&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&ig=1&data=event%3Dgtag.config&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleadservices.com/pagead/conversion/753970383/?random=1621175466915&cv=9&fst=1621175466915&num=1&label=KP0BCI75_5cBEM_ZwucC&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&ig=1&data=event%3Dconversion&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.krxd.net/ctjs/controltag.js.0631b7d64dbbd3656a8b7368ad227a04"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://consumer.krxd.net/consent/get/7fe1f424-c09d-4781-af13-2352d2ee4229?idt=device&dt=kxcookie&callback=Krux.ns.dropboxmain.kxjsonp_consent_get_0"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D4373%26time%3D1621175466365%26url%3Dhttps%253A%252F%252Fmarketing.dropbox.com%252F%253Freferrer%253D%26liSync%3Dtrue"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/1p-user-list/753970383/?random=1621175466910&cv=9&fst=1621173600000&num=1&bg=ffffff&guid=ON&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&data=event%3Dgtag.config&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&async=1&fmt=3&is_vtc=1&random=176862256&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/pagead/1p-user-list/753970383/?random=1621175466910&cv=9&fst=1621173600000&num=1&bg=ffffff&guid=ON&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&data=event%3Dgtag.config&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&async=1&fmt=3&is_vtc=1&random=176862256&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/753970383/?random=1184011622&cv=9&fst=1621175466915&num=1&label=KP0BCI75_5cBEM_ZwucC&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&ig=1&data=event%3Dconversion&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&hn=www.googleadservices.com&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=qyyhYOHrCZSG9fgPytW1wAg&sscte=1&crd="
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=4373&time=1621175466365&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&liSync=true"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/1p-conversion/753970383/?random=1184011622&cv=9&fst=1621175466915&num=1&label=KP0BCI75_5cBEM_ZwucC&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&ig=1&data=event%3Dconversion&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&hn=www.googleadservices.com&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&sscte=1&crd=&is_vtc=1&ocp_id=qyyhYOHrCZSG9fgPytW1wAg&cid=CAQSKQCNIrLMZ7xFh5BuclBPAHeNQ5aJH1eki1AGqxYrsWcD9Z3kxi45uzYG&random=2165991429&resp=GooglemKTybQhCsO"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/pagead/1p-conversion/753970383/?random=1184011622&cv=9&fst=1621175466915&num=1&label=KP0BCI75_5cBEM_ZwucC&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&ig=1&data=event%3Dconversion&frm=2&url=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&tiba=Dropbox&hn=www.googleadservices.com&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&sscte=1&crd=&is_vtc=1&ocp_id=qyyhYOHrCZSG9fgPytW1wAg&cid=CAQSKQCNIrLMZ7xFh5BuclBPAHeNQ5aJH1eki1AGqxYrsWcD9Z3kxi45uzYG&random=2165991429&resp=GooglemKTybQhCsO&ipr=y"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://tags.srv.stackadapt.com/saq_pxl?uid=I1Qi2gT1DIv-5-PGkBSiBw&is_js=true&landing_url=https%3A%2F%2Fwww.dropbox.com&t=Dropbox&host=https://marketing.dropbox.com"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/alternate_wtl_browser_performance_info"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/alternate_wtl"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log_js_sw_data"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-embedded_app.min-vflQRajcM.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/ux_analytics/lazy_ux_analytics.min-vflUnRRc7.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/ux_analytics/ux_variants.min-vflKM7V8R.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/ux_analytics/window_history_listeners.min-vflSSI8x4.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/ux_analytics_pagelet.min-vflXZITVc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/modules/clean/flash_pagelet.min-vfl6jCS3R.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-rebrand-core.min-vflfTF9V9.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/prod_assets_web_modules/zxcvbn-vfl_2LhK9.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_remote_work-es_ES-vflBE3iwf.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_family-es_ES-vfl07wZ47.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_productivity-es_ES-vflccgJOR.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_projects-es_ES-vfldxDKMx.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_passwords-es_ES-vflryfsym.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_recovery-es_ES-vflFXO8Hw.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_manage_team-es_ES-vfldZsT89.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/jtbd/use_case_e_signature-es_ES-vfl5Qjcbu.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/segmentation/business_segmentation-vflWkgvVJ.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/index/pisces/segmentation/individual_segmentation-vfl3Kdbtk.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-locale-selector.min-vflzzm42C.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log/ux_analytics"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.bizible.com/m/ipv?_biz_r=&_biz_h=-417244810&_biz_u=b48b264b14b244d4b9a83b9a590b390f&_biz_s=2b6edd&_biz_l=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&_biz_t=1621175468550&_biz_i=Dropbox&_biz_n=0&rnd=248971&cdn_o=a&_biz_z=1621175468557"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.bizibly.com/u?_biz_u=b48b264b14b244d4b9a83b9a590b390f&_biz_s=2b6edd&_biz_l=https%3A%2F%2Fmarketing.dropbox.com%2F%3Freferrer%3D&_biz_t=1621175468565&_biz_i=Dropbox&rnd=28495&cdn_o=a&_biz_z=1621175468565"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/js/packaged/pkg-mcl-modal.min-vflB5jpvO.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://marketing.dropbox.com/?referrer=",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.bizible.com/xdc.js?_biz_u=b48b264b14b244d4b9a83b9a590b390f&_biz_h=-417244810&cdn_o=a&jsVer=4.21.05.13"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/components/react_locale_selector-vfluPHu5g.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/font_atlas_grotesk-vfldINMge.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/font_sharp_grotesk-vfle4tE4q.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/modal-vflp8UKYY.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/rebrand/elements/footer-vflTTdDrx.css"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log/ux_analytics"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/css/sprites/web_sprites-vflcKH0r6.css"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/icons/icon_spacer-vflN3BYt2.gif"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://cfl.dropboxstatic.com/static/css/components/react_locale_selector-vfluPHu5g.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/images/sprites/web_sprites-vflT1pLW1.png"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://cfl.dropboxstatic.com/static/css/font_paper_atlas_grotesk-vflEbKJso.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cfl.dropboxstatic.com/static/fonts/paper-atlasgrotesk/AtlasGrotesk-Bold-Web-vfl39K48X.woff2"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log/ux_analytics"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log/ux_analytics"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log/ux_analytics"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/2/event_logging/add_events"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log/ux_analytics"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.dropbox.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.dropbox.com/log/ux_analytics"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "base-uri": [
+        "'self'"
+      ],
+      "child-src": [
+        "https://www.dropbox.com/static/serviceworker/",
+        "blob:"
+      ],
+      "connect-src": [
+        "https://*",
+        "ws://127.0.0.1:*/ws"
+      ],
+      "default-src": [
+        "'none'"
+      ],
+      "font-src": [
+        "https://*",
+        "data:"
+      ],
+      "form-action": [
+        "'self'",
+        "https://www.dropbox.com/",
+        "https://dl-web.dropbox.com/",
+        "https://photos.dropbox.com/",
+        "https://paper.dropbox.com/",
+        "https://showcase.dropbox.com/",
+        "https://www.hellofax.com/",
+        "https://app.hellofax.com/",
+        "https://www.hellosign.com/",
+        "https://app.hellosign.com/",
+        "https://help.dropbox.com/",
+        "https://navi.dropbox.jp/",
+        "https://selfguidedlearning.dropboxbusiness.com/",
+        "https://instructorledlearning.dropboxbusiness.com/",
+        "https://sales.dropboxbusiness.com/",
+        "https://dropboxconnect.co.uk/",
+        "https://accounts.google.com/",
+        "https://api.login.yahoo.com/",
+        "https://login.yahoo.com/",
+        "https://experience.dropbox.com/",
+        "https://pal-test.adyen.com",
+        "https://2e83413d8036243b-Dropbox-pal-live.adyenpayments.com/"
+      ],
+      "frame-src": [
+        "https://*",
+        "carousel:",
+        "dbapi-6:",
+        "dbapi-7:",
+        "dbapi-8:",
+        "dropbox-client:",
+        "itms-apps:",
+        "itms-appss:"
+      ],
+      "header_value": "base-uri 'self' ; child-src https://www.dropbox.com/static/serviceworker/ blob: ; connect-src https://* ws://127.0.0.1:*/ws ; default-src 'none' ; font-src https://* data: ; form-action 'self' https://www.dropbox.com/ https://dl-web.dropbox.com/ https://photos.dropbox.com/ https://paper.dropbox.com/ https://showcase.dropbox.com/ https://www.hellofax.com/ https://app.hellofax.com/ https://www.hellosign.com/ https://app.hellosign.com/ https://help.dropbox.com/ https://navi.dropbox.jp/ https://selfguidedlearning.dropboxbusiness.com/ https://instructorledlearning.dropboxbusiness.com/ https://sales.dropboxbusiness.com/ https://dropboxconnect.co.uk/ https://accounts.google.com/ https://api.login.yahoo.com/ https://login.yahoo.com/ https://experience.dropbox.com/ https://pal-test.adyen.com https://2e83413d8036243b-Dropbox-pal-live.adyenpayments.com/ ; frame-src https://* carousel: dbapi-6: dbapi-7: dbapi-8: dropbox-client: itms-apps: itms-appss: ; img-src https://* data: blob: ; media-src https://* blob: ; object-src 'self' https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ ; report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-whitelist ; script-src 'unsafe-eval' https://www.dropbox.com/static/api/ https://www.dropbox.com/page_success/ https://cfl.dropboxstatic.com/static/js/ https://www.dropboxstatic.com/static/js/ https://cfl.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://www.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://cfl.dropboxstatic.com/static/previews/ https://www.dropboxstatic.com/static/previews/ https://cfl.dropboxstatic.com/static/api/ https://www.dropboxstatic.com/static/api/ https://cfl.dropboxstatic.com/static/cms/ https://www.dropboxstatic.com/static/cms/ 'nonce-DD6PvpcUSZ/8fzr2z5ER' ; style-src https://* 'unsafe-inline' 'unsafe-eval' ; worker-src https://www.dropbox.com/static/serviceworker/ blob:\nreport-uri https://www.dropbox.com/csp_log?policy_name=metaserver-dynamic ; script-src 'unsafe-eval' 'strict-dynamic' 'nonce-DD6PvpcUSZ/8fzr2z5ER' 'nonce-ysUJHRugVv/qvdmNDo+w'",
+      "img-src": [
+        "https://*",
+        "data:",
+        "blob:"
+      ],
+      "media-src": [
+        "https://*",
+        "blob:"
+      ],
+      "object-src": [
+        "'self'",
+        "https://cfl.dropboxstatic.com/static/",
+        "https://www.dropboxstatic.com/static/"
+      ],
+      "report-uri": [
+        "https://www.dropbox.com/csp_log?policy_name=metaserver-whitelist"
+      ],
+      "script-src": [
+        "'unsafe-eval'",
+        "'strict-dynamic'",
+        "'nonce-DD6PvpcUSZ/8fzr2z5ER'",
+        "'nonce-ysUJHRugVv/qvdmNDo+w'"
+      ],
+      "style-src": [
+        "https://*",
+        "'unsafe-inline'",
+        "'unsafe-eval'"
+      ],
+      "worker-src": [
+        "https://www.dropbox.com/static/serviceworker/",
+        "blob:",
+        "report-uri",
+        "https://www.dropbox.com/csp_log?policy_name=metaserver-dynamic"
+      ]
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000; includeSubDomains\nmax-age=31536000; includeSubDomains",
+      "includeSubDomains": true,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "\"8708385969406731\"",
+      "key": "uxa.visit_id"
+    },
+    {
+      "content": "1621175468144",
+      "key": "uxa.last_active_time"
+    },
+    {
+      "content": "\"https://www.dropbox.com/\"",
+      "key": "uxa.previous_url"
+    }
+  ],
+  "site_url": "https://www.dropbox.com\n",
+  "third_parties": {
+    "fqdns": [
+      "10499192.fls.doubleclick.net",
+      "adservice.google.com",
+      "adservice.google.es",
+      "analytics.twitter.com",
+      "beacon.krxd.net",
+      "cdn.bizible.com",
+      "cdn.bizibly.com",
+      "cdn.krxd.net",
+      "cfl.dropboxstatic.com",
+      "cj.dotomi.com",
+      "consumer.krxd.net",
+      "dropboxcaptcha.com",
+      "googleads.g.doubleclick.net",
+      "insight.adsrvr.org",
+      "js.adsrvr.org",
+      "px.ads.linkedin.com",
+      "snap.licdn.com",
+      "static.ads-twitter.com",
+      "t.co",
+      "tags.srv.stackadapt.com",
+      "tags.tiqcdn.com",
+      "www.emjcd.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.google.es",
+      "www.googleadservices.com",
+      "www.googletagmanager.com",
+      "www.gstatic.com",
+      "www.linkedin.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 255
+  },
+  "tracking": {
+    "num_tracker_cookies": 15,
+    "num_tracker_requests": 190,
+    "trackers": [
+      "10499192.fls.doubleclick.net",
+      "adservice.google.com",
+      "adservice.google.es",
+      "analytics.twitter.com",
+      "beacon.krxd.net",
+      "cdn.bizible.com",
+      "cdn.krxd.net",
+      "cfl.dropboxstatic.com",
+      "cj.dotomi.com",
+      "consumer.krxd.net",
+      "googleads.g.doubleclick.net",
+      "insight.adsrvr.org",
+      "js.adsrvr.org",
+      "px.ads.linkedin.com",
+      "snap.licdn.com",
+      "static.ads-twitter.com",
+      "t.co",
+      "tags.srv.stackadapt.com",
+      "www.emjcd.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.googleadservices.com",
+      "www.googletagmanager.com"
+    ]
+  }
+}

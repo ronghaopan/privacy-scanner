@@ -1,0 +1,2407 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".nytimes.com",
+      "expires": 1652715877.635846,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543224.6358459,
+      "name": "nyt-a",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 27,
+      "value": "1W_wyL10vxI8yxVg2xG3Sk"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1621201474.539197,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 28821.53919696808,
+      "name": "nyt-gdpr",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 9,
+      "value": "1"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1652715853.635155,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543200.635154963,
+      "name": "nyt-purr",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": true,
+      "session": false,
+      "size": 19,
+      "value": "cfhspnahhud"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1621201453.6352,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 28800.63520002365,
+      "name": "nyt-geo",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 9,
+      "value": "ES"
+    },
+    {
+      "domain": ".et.nytimes.com",
+      "expires": 1621181677.63593,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9024.63593006134,
+      "name": "sessionActive",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 17,
+      "value": "true"
+    },
+    {
+      "domain": ".et.nytimes.com",
+      "expires": 1652715854.127526,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.127526045,
+      "name": "sessionIndex",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 64,
+      "value": "1|1621179854066|1W_wyL10vxI8yxVg2xG3Sk|1621179854066"
+    },
+    {
+      "domain": "static01.nyt.com",
+      "expires": 1621180155,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7502,
+      "name": "nyt-check3pc",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 16,
+      "value": "true"
+    },
+    {
+      "domain": ".google.com",
+      "expires": 1636991055.744272,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15818402.744271994,
+      "name": "NID",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 178,
+      "value": "215=hZL16OoT84a95y9VxVXwEsAqXNK9i3pNc9J7Zhj1dCK0yeu90v1jw4qpZW7B6uMmn8VGYB4vcDuOtX2vO_9jUBXHy00HQQwKcz5zZxkZ4aVvFs-maINn_R0YNfSr39X4cMxDiHH5xdy0rdMjFBBzUdfx93I7AtDxX3Kj6iwCfSo"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1654875856,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703203,
+      "name": "__gads",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 92,
+      "value": "ID=788bd6487a077d30-22af359c41c80036:T=1621179856:S=ALNI_MbOZy-3ZL473InwlFBbGDhOYHvDyQ"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1654875857.723792,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703204.723792076,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 70,
+      "value": "AHWqTUn3-z8aIo47PBAwW-5VV-_RDnppgcbQo4fKBnWUspIfU3cT62mPdOwiIgsMtgc"
+    },
+    {
+      "domain": "news.google.com",
+      "expires": 1623771858,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599205,
+      "name": "OTZ",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 33,
+      "value": "5981264_48_52_123900_48_436380"
+    },
+    {
+      "domain": ".google.com",
+      "expires": 2145916800.467645,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 524744147.46764493,
+      "name": "CONSENT",
+      "path": "/",
+      "priority": "Medium",
+      "secure": true,
+      "session": false,
+      "size": 18,
+      "value": "PENDING+843"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1778946262.559382,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 157773609.55938196,
+      "name": "nyt-m",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 339,
+      "value": "0B48536A1B0049A784F0C5B44C593B6C&ft=i.0&imu=i.1&ier=i.0&iga=i.0&ird=i.0&v=i.0&rc=i.0&fv=i.0&iue=i.0&igf=i.0&igu=i.1&igd=i.0&e=i.1622534400&ira=i.0&uuid=s.2487456e-1110-4f2b-a4be-f39a7e60a80b&pr=l.4.0.0.0.0&ica=i.0&iru=i.1&iir=i.0&s=s.core&t=i.1&g=i.0&cav=i.0&n=i.2&er=i.1621179862&prt=i.0&ifv=i.0&vr=l.4.0.0.0.0&vp=i.0&iub=i.0&imv=i.0"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1655349862.652909,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34177209.65290904,
+      "name": "purr-cache",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": true,
+      "session": false,
+      "size": 24,
+      "value": "<K0<r<C_<G_<S0"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1652715862.783766,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543209.78376603,
+      "name": "nyt-jkidd",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 223,
+      "value": "uid=0&lastRequest=1621179862604&activeDays=%5B0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%5D&adv=1&a7dv=1&a14dv=1&a21dv=1&lastKnownType=anon"
+    },
+    {
+      "domain": ".a.nytimes.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "jkidd-s",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 65,
+      "value": "referrer=&landing=&start=1621179862604&isNew=1&pageIndex=1"
+    },
+    {
+      "domain": ".a.nytimes.com",
+      "expires": 1652715862.783867,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543209.783866882,
+      "name": "jkidd-p",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 26,
+      "value": "prevPage=&currPage="
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1621209599.7839,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 36946.78390002251,
+      "name": "b2b_cig_opt",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 41,
+      "value": "%7B%22isCorpUser%22%3Afalse%7D"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1621209599.783932,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 36946.783931970596,
+      "name": "edu_cig_opt",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 40,
+      "value": "%7B%22isEduUser%22%3Afalse%7D"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1684251866,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079213,
+      "name": "walley",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 32,
+      "value": "GA1.2.456776622.1621179856"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1621266266,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93613,
+      "name": "walley_gid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 37,
+      "value": "GA1.2.1284444949.1621179864"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1621179923,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7270,
+      "name": "_gat_UA-58630905-2",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 19,
+      "value": "1"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1628955863,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783210,
+      "name": "_gcl_au",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 31,
+      "value": "1.1.680178614.1621179864"
+    },
+    {
+      "domain": "www.nytimes.com",
+      "expires": 1655307864,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34135211,
+      "name": "_cb_ls",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 7,
+      "value": "1"
+    },
+    {
+      "domain": "www.nytimes.com",
+      "expires": 1655307864,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34135211,
+      "name": "_cb",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 20,
+      "value": "3UQt5Bumte9DI_nVe"
+    },
+    {
+      "domain": "www.nytimes.com",
+      "expires": 1655307864,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34135211,
+      "name": "_chartbeat2",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 74,
+      "value": ".1621179864689.1621179864689.1.BE6nd-Cn4oSWBY0m_tBEd0HjBPXRrf.1"
+    },
+    {
+      "domain": "www.nytimes.com",
+      "expires": 1621181664,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9011,
+      "name": "_cb_svref",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 13,
+      "value": "null"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1621784665,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 612012,
+      "name": "RT",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 125,
+      "value": "\"z=1&dm=nytimes.com&si=8e03f4ff-a07b-47b5-913a-24801513fc86&ss=korcmknb&sl=1&tt=9lz&bcn=%2F%2F6852bd04.akstat.io%2F&ld=9mg\""
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1936539868,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 315367215,
+      "name": "iter_id",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 210,
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhaWQiOiI2MGExM2RkY2U3ODU0MDAwMDFjZWRjODciLCJjb21wYW55X2lkIjoiNWMwOThiM2QxNjU0YzEwMDAxMmM2OGY5IiwiaWF0IjoxNjIxMTc5ODY4fQ.E4DPPnDc2fHeBOtmjahiWU3Mhh8Qfun06XFquQG8fc8"
+    },
+    {
+      "domain": ".nytimes.com",
+      "expires": 1652715876.091584,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543223.091583967,
+      "name": "datadome",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": true,
+      "session": false,
+      "size": 114,
+      "value": "Hpl_Uk.A9iY~X9GhL_pmPjStw96.w2NPPrNtTDKTNyAPHGFbK63rRV1XZ1J~aGkmMuxu8POZ_AT6DtWduW0hzGEiqOUjOZrBzinbP3QcQ1"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 17,
+    "first_party_short": 8,
+    "third_party_long": 4,
+    "third_party_short": 1,
+    "trackers": [
+      "doubleclick.net",
+      "google.com",
+      "nyt.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.nytimes.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": [
+        {
+          "arguments": [
+            "WEBGL_debug_renderer_info"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        }
+      ],
+      "have_webGL": true
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 4,
+    "window.navigator.appVersion": 2,
+    "window.navigator.buildID": 2,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 1,
+    "window.navigator.language": 7,
+    "window.navigator.languages": 1,
+    "window.navigator.mimeTypes": 7,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 1,
+    "window.navigator.platform": 8,
+    "window.navigator.plugins": 17,
+    "window.navigator.product": 1,
+    "window.navigator.productSub": 1,
+    "window.navigator.userAgent": 140,
+    "window.navigator.vendor": 4,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 11,
+    "window.screen.pixelDepth": 1
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-58630905-2"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "5a718da6e2d2691e0e2dfded6cc0699af6e0a6489f195539bf21748857e3f7f7",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Sectigo RSA Domain Validation Secure Server CA",
+        "countryName": "GB",
+        "localityName": "Salford",
+        "organizationName": "Sectigo Limited",
+        "stateOrProvinceName": "Greater Manchester"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1649196000.0,
+      "not_valid_before": 1578006000.0,
+      "serial_number": 246278432993500618323383319638534804149,
+      "subject": {
+        "commonName": "nytimes.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "null",
+      "key": "_cb_svref"
+    },
+    {
+      "content": "1655307864696",
+      "key": "_cb_expires"
+    },
+    {
+      "content": "{\"user_traits\":{\"eduSubscriber\":\"\",\"userType\":\"anon\"},\"unauthorized_request_count\":1,\"tracking_last_updated\":1621179868}",
+      "key": "iterate_hq"
+    },
+    {
+      "content": "ls-web_none_none_none_v3-1-16.434395220040077711_20210516154414",
+      "key": "als_test_clientside"
+    },
+    {
+      "content": "1655307864696",
+      "key": "_chartbeat2_expires"
+    },
+    {
+      "content": "",
+      "key": "bt"
+    },
+    {
+      "content": "3UQt5Bumte9DI_nVe",
+      "key": "_cb"
+    },
+    {
+      "content": "{\"items\":{},\"expires\":1621181665794}",
+      "key": "_boomr_akamaiXhrRetry"
+    },
+    {
+      "content": "anon",
+      "key": "sub"
+    },
+    {
+      "content": ".1621179864689.1621179864689.1.BE6nd-Cn4oSWBY0m_tBEd0HjBPXRrf.1",
+      "key": "_chartbeat2"
+    },
+    {
+      "content": "1621181664712",
+      "key": "_cb_svref_expires"
+    },
+    {
+      "content": "adv_1,engagement_0,type_anon,ckgf,diggf,frmckf,frmcoref,frmeduf,frmhdf,frmxwf,gatef,gifteef,gifterf,optf,xwgf,logf,abf",
+      "key": "mktg"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.nytimes.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/global-69acc7c8fb6a313ed7e8641e4a88bf30.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/adslot-d992cb628e4f35e5dbed.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2017/01/29/podcasts/the-daily-album-art/the-daily-album-art-square320-v4.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/02/11/podcasts/00argument-albumart/00argument-albumart-square320.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/03/09/podcasts/stillprocessing-2021-albumartwork/stillprocessing-2021-albumartwork-square320.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-AQD9/home-fader-hp-2-slides-slide-AQD9-master1050-v3.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-AQD9/home-fader-hp-2-slides-slide-AQD9-square640-v4.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-JXHC/home-fader-hp-2-slides-slide-JXHC-master1050-v2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-JXHC/home-fader-hp-2-slides-slide-JXHC-square640-v2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-YJ4O/home-fader-hp-2-slides-slide-YJ4O-master1050-v2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-YJ4O/home-fader-hp-2-slides-slide-YJ4O-square640-v3.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-848L/home-fader-hp-2-slides-slide-848L-master1050.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-848L/home-fader-hp-2-slides-slide-848L-square640.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-UQ8W/home-fader-hp-2-slides-slide-UQ8W-master1050.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-UQ8W/home-fader-hp-2-slides-slide-UQ8W-square640-v2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-MO8I/home-fader-hp-2-slides-slide-MO8I-master1050.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-MO8I/home-fader-hp-2-slides-slide-MO8I-square640-v2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-662S/home-fader-hp-2-slides-slide-662S-master1050.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-662S/home-fader-hp-2-slides-slide-662S-square640.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-MDQS/home-fader-hp-2-slides-slide-MDQS-master1050.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-MDQS/home-fader-hp-2-slides-slide-MDQS-square640.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-J6H7/home-fader-hp-2-slides-slide-J6H7-master1050.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-J6H7/home-fader-hp-2-slides-slide-J6H7-square640.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-68D6/home-fader-hp-2-slides-slide-68D6-master1050-v2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-2-slides-slide-68D6/home-fader-hp-2-slides-slide-68D6-square640-v2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/05/05/us/00VIRUS-REOPENING-NORTHDAKOTA2/merlin_187112637_edf2e7b1-8e1d-4d2a-aeb3-6afbec655bd2-articleLarge.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/start-19879827.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/index-42e250fd.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/preload-helper-9f12a5fd.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/index-a9f92df2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/singletons-6b53f818.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/paths-547b6a6d.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/pages/$layout.svelte-5894f379.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/env-f042d71c.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/navigation-9e49acea.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/index-cbce0d97.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/yootils.es-5f329d3a.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/pages/embeds/[type]-dashboard/index.html.svelte-07d9e1fc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/decompress-f157068f.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/index-89e9751b.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/_commonjsHelpers-fc0519d0.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/godzown-e5d5fadc.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/chunks/index-1207797d.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/assets/start-a8cd1609.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/assets/pages/$layout.svelte-e2da0c1e.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/assets/index-157f4ed9.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/assets/pages/embeds/[type]-dashboard/index.html.svelte-4a73d388.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/assets/index-e92f8b28.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/assets/index-e58e36bb.css"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/06/14/multimedia/14-sunday-weekender-vid-cover/14-sunday-weekender-vid-cover-articleLarge.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/vendor-361a3a5156942fc91866.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/home-f3c81edffa06ee56f867.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/main-062ba26c359cc3d05e45.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://samizdat-graphql.nytimes.com/graphql/v2"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.go-mpulse.net/boomerang/ATH8A-MAMN8-XPXCH-N5KAX-8D239"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://samizdat-graphql.nytimes.com/graphql/v2"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news.google.com/swg/js/v1/swg.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://als-svc.nytimes.com/als?uri=https%3A%2F%2Fwww.nytimes.com%2Fpages%2Findex.html&typ=&prop=nyt&plat=web"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/franklin/franklin-normal-700.b44c88f09ca7ce914b836d4ae72891b8.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/franklin/franklin-normal-500.d6c06a3d84a57100edad5bf9b84ff739.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/franklin/franklin-normal-800.fdc7cad17deeec2db1fe2f9f8c0520ed.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/cheltenham/cheltenham-normal-700.530cfb72378419eedb60da7e266ad5f1.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/imperial/imperial-normal-400.6131cd77b6e216c7693ed925f4309ffc.woff2"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/ads/tpc-check.html"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/cheltenham-small/cheltenham-small-normal-400.108ce298d451197b23fefceb3e36959f.woff2"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93625_1_16virus-reopening-promo_wg_720p.mp4"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/icon-loading.png"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/franklin/franklin-normal-300.bc7be4c5d8cacb780f896c5cbe0c0d7f.woff2"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nytimes.com/newsgraphics/2020/12/09/vaccine-distribution-tracker/assets/scoop-vaccine-distribution-tracker-threeByTwoSmallAt2X.png"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/cheltenham/cheltenham-normal-200.40ccfe2cc61a71e6617e56162d49b896.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://g1.nyt.com/fonts/css/web-fonts.b1c035e4560e0216caf8f03326e0430712b61041.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/cheltenham/cheltenham-normal-500.a22ae3ed1e775ce90ced16f1822f4ddc.woff2"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/05/14/multimedia/00sicklecell-forest-HP/00sicklecell-forest-HP-threeByTwoMediumAt2X-v3.jpg?format=pjpg&quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/05/16/business/16Spooked-cover-illo/16Spooked-cover-illo-threeByTwoSmallAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/05/16/fashion/13DOGECOIN-1/13DOGECOIN-1-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93626_1_15weekender-sunday-promo-cine_wg_720p.mp4"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/_app/error.svelte-99fa578c.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051001.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/page/navigation.json"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news.google.com/swg/js/v1/swg-button.css"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news.google.com/swg/_/ui/v1/serviceiframe?_=450327"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news.google.com/swg/js/v1/loader.svg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news.google.com/swg/_/api/v1/publication/nytimes.com/entitlements"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://c.go-mpulse.net/api/config.json?key=ATH8A-MAMN8-XPXCH-N5KAX-8D239&d=www.nytimes.com&t=5403933&v=1.720.0&sl=0&si=6a5d5ee4-d737-4c37-824e-57253d3ef883-qt7idp&plugins=ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao="
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/data/embeds/top-stories-dashboard/data.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/data/vaccine_summary.json"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news.google.com/swg/js/v1/swg-button.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.es.7pnJe3WyHJ0.es5.O/am=AkA/d=1/excm=_b,_tp,serviceiframeview/ed=1/dg=0/wt=2/rs=ABXTjI6pvpXW5TwgTuj5g_MJeSC0wS2Kqg/m=_b,_tp"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 404,
+      "status_text": "",
+      "url": "https://www.nytimes.com/svc/int/godzown/u/2020-03-16-coronavirus-maps"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2020/12/09/vaccine-distribution-tracker/assets/summary.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.es/adsid/integrator.js?domain=www.nytimes.com"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/adsid/integrator.js?domain=www.nytimes.com"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=3306018521221984&correlator=1887969127573177&output=ldjh&impl=fif&eid=31060889%2C44743002&vrg=2021051001&ptt=17&npa=1&sc=1&sfv=1-0-38&ecs=20210516&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C1605x300&fluid=height&prev_scp=div%3Ddfp-ad-top%26pos%3Dtop%26request_time%3D2346&cust_params=cookie%3Dunknown%26als_test_clientside%3Dweb_none_none_none_v3-1-16.434395220040077711_20210516154414%26mktg%3Dadv_1%252Cengagement_0%252Ctype_anon%252Cckgf%252Cdiggf%252Cfrmckf%252Cfrmcoref%252Cfrmeduf%252Cfrmhdf%252Cfrmxwf%252Cgatef%252Cgifteef%252Cgifterf%252Coptf%252Cxwgf%252Clogf%252Cabf%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26vp%3Dmedium%26als_test%3D1621179338364%26prop%3Dnyt%26plat%3Dweb%26gscat%3Dneg_mastercard%252Cgs_politics%252Cneg_hearts%252Cneg_ibmtest%252Cgs_entertain%252Cgs_politics_misc%252Cgs_politics_american%252Cgs_science%252Cneg_ibm%252Cgv_death_injury%252Cgs_science_environ%252Cgs_t%26abra_dfp%3Dmkt_dfp_intl_pricing_low_conv_2_50cents%252Cdfp_1p_ver_2_fp%252Cmkt_dfp_intl_pricing_med_conv_2_75cents%252Cdfp_mwtest_2_vendorb%252Cmkt_dfp_ods_1_test%252Cdfp_1p2_0_control%252Cdfp_als_home_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_als_1_als%252Cmkt_dfp_hd_paywall_zip_0_control%252Cdfp_mt_0_control%252Cdfp_amzn_2_adslot_priority%252Cmc_dfp_topbar_bar_regi_1019_0_control%252Cmc_dfp_topbar_bar_anon_1019_0_control%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_prebid_0321_0_control%252Cdfp_covid_msg_0121_0_control%252Csa_referral_dfp_april2020_test_2_yellow_moment%26sov%3D2%26page_view_id%3Dev_PcCQQNE2Hf3C-AWZa_ikX%26uap%3Dbrowser%26aid%3D1W_wyL10vxI8yxVg2xG3Sk%26purr%3Dnpa&cookie_enabled=1&bc=31&abxe=1&lmt=1621179338&dt=1621179856022&dlt=1621179853644&idt=2309&frm=20&biw=785&bih=600&oid=3&adxs=-7&adys=15&adks=555271088&ucis=1&ifi=1&u_tz=120&u_his=2&u_java=false&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&flash=0&url=https%3A%2F%2Fwww.nytimes.com%2F&vis=1&dmc=8&scr_x=0&scr_y=0&psz=800x0&msz=800x0&ga_vid=456776622.1621179856&ga_sid=1621179856&ga_hid=316053977&ga_fc=false&fws=4&ohw=785&btvi=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fe838be1956ff0a3816a33329ca7a206.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/activeview/js/current/osd.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/svc/int/functions/geoip"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-38/js/ext.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.es.7pnJe3WyHJ0.es5.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.EUfhyMeSD5k.L.B1.O/am=AkA/d=1/exm=_b,_tp/excm=_b,_tp,serviceiframeview/ed=1/wt=2/rs=ABXTjI417oroPTCOmhIyjpZW6F4SwDCbxA/m=byfTOb,lsjVmc,LEikZe"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.es.7pnJe3WyHJ0.es5.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.EUfhyMeSD5k.L.B1.O/am=AkA/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,serviceiframeview/ed=1/wt=2/rs=ABXTjI417oroPTCOmhIyjpZW6F4SwDCbxA/m=xUdipf,blwjVc,fKUV3e,aurFic,ws9Tlc,COQbmf,U0aPgd,zG9H6c,NwH0H,OmgaI,NpD4ec,x60fie,gychg,lfpdyf,ZfAoz,PQaYAf,lPKSwe,yDVVkb,iTsyac,KG2eXe,tfTN8c,DfBslb"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssGFIzwfeOqnZ3kjHl3EF5sN1P7bNPQT1ThIC0wpE2ns9AMaS6jGXVtQMEC-PAXpjq2x4ZpXNc5fmZQW2owE3JvkxFSBjA1uxp5gM2a6N3lRoeKbz917Y89ZjkfGmamWbI-p3RS6qhQGUqUHtiJn6XU7FB_TGZ46zOhr7O6zwbBmi3pgEt5f86IZqQCesyZOnj3-tAUlOaAU7yCdKTxI6mV-OZHyCOwfZFWFZp1GQVCohLpbTjNtfnHGc_uKzV2lnpdbIIHFYc5efHuv8WVbN4xTpjSPjkf049tjJWwDayEhSo5DBK89DlN_5iQyf-x8EZSqp1CUL2ciRHyIQt3J5hi&sai=AMfl-YQRgJoManWdXlb1B1s80e49Qy7veo88Ay1FgTXkISv0OHvCIMVaUX__9gi9ebLTXaxX6nxek4HQwMI4QR23tWwsmmxPPsnMDuAHpxpAnic7DSfR-2goIr3cT6P1BD4&sig=Cg0ArKJSzObk3tBbKPRdEAE&urlfix=1&adurl="
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/subscription/ads/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/flex"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ad.doubleclick.net/ddm/trackimpj/N296811.6440THENEWYORKTIMESCOMPA/B23732868.271009808;dc_trk_aid=465846108;dc_trk_cid=130982939;ord=219054492;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/data/counties.json"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/icon-search.svg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://news.google.com/_/SubscribewithgoogleClientUi/data/batchexecute?rpcids=SlvRf&f.sid=-5141204108234899613&bl=boq_subscribewithgoogleclientserver_20210513.11_p0&hl=es&soc-app=673&soc-platform=1&soc-device=1&_reqid=63858&rt=c"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.es.7pnJe3WyHJ0.es5.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.EUfhyMeSD5k.L.B1.O/am=AkA/d=1/exm=COQbmf,DfBslb,KG2eXe,LEikZe,NpD4ec,NwH0H,OmgaI,PQaYAf,U0aPgd,ZfAoz,_b,_tp,aurFic,blwjVc,byfTOb,fKUV3e,gychg,iTsyac,lPKSwe,lfpdyf,lsjVmc,tfTN8c,ws9Tlc,x60fie,xUdipf,yDVVkb,zG9H6c/excm=_b,_tp,serviceiframeview/ed=1/wt=2/rs=ABXTjI417oroPTCOmhIyjpZW6F4SwDCbxA/m=Wt6vjf,_latency,FCpbqb,WhJNk,EFQ78c,hKSk3e"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.es.7pnJe3WyHJ0.es5.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.EUfhyMeSD5k.L.B1.O/am=AkA/d=1/exm=COQbmf,DfBslb,EFQ78c,FCpbqb,KG2eXe,LEikZe,NpD4ec,NwH0H,OmgaI,PQaYAf,U0aPgd,WhJNk,Wt6vjf,ZfAoz,_b,_latency,_tp,aurFic,blwjVc,byfTOb,fKUV3e,gychg,hKSk3e,iTsyac,lPKSwe,lfpdyf,lsjVmc,tfTN8c,ws9Tlc,x60fie,xUdipf,yDVVkb,zG9H6c/excm=_b,_tp,serviceiframeview/ed=1/wt=2/rs=ABXTjI417oroPTCOmhIyjpZW6F4SwDCbxA/m=lwddkf"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.es.7pnJe3WyHJ0.es5.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.EUfhyMeSD5k.L.B1.O/am=AkA/d=1/exm=COQbmf,DfBslb,EFQ78c,FCpbqb,KG2eXe,LEikZe,NpD4ec,NwH0H,OmgaI,PQaYAf,U0aPgd,WhJNk,Wt6vjf,ZfAoz,_b,_latency,_tp,aurFic,blwjVc,byfTOb,fKUV3e,gychg,hKSk3e,iTsyac,lPKSwe,lfpdyf,lsjVmc,lwddkf,tfTN8c,ws9Tlc,x60fie,xUdipf,yDVVkb,zG9H6c/excm=_b,_tp,serviceiframeview/ed=1/wt=2/rs=ABXTjI417oroPTCOmhIyjpZW6F4SwDCbxA/m=n73qwf,mI3LFb,UUJqVe,lazG7b,MpJwZc,qCSYWe,mdR7q,MI6k7c,kjKdXe"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://play.google.com/log?format=json&hasfast=true"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://news.google.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/subscription/ads/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/flex",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mwcm.nyt.com/dam/mkt_assets/crs/banners/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/lib/main_flex-EU.css"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.nytimes.com/subscription/ads/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/flex",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mwcm.nyt.com/dam/mkt_assets/crs/banners/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/lib/images/wordmark-Master-large-optimised-BLK.svg"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ad.doubleclick.net/ddm/trackimpj/N296811.6440THENEWYORKTIMESCOMPA/B23732868.271009808;dc_pre=CImCy8zFzvACFY5CHQkdAecLtg;dc_trk_aid=465846108;dc_trk_cid=130982939;ord=219054492;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/sodar/UFYwWwmt.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstFgBJQjOJYKSx4UqBjd0CrPIGI3OCTbo1VNjyCrmCGcSfzg0FrbOh3rSXqWwniZ5umWalec57b_oodDIfGd4wXyd1NnrZ6xGAjD8xe4E6Z2TXcbjkmIcgu02qsq47myJSBxuTUeBeKoAf1QyYzXSQ68Tllzg9CvsDgwWd1LzonFL0Zy2ZxliWyRXCcojW71e1JzFZM3lYgVre_eQAQbsOVF-e1NkfcDGMSGVuSrox77fbVdHPFzCJBMW6cLmUq0bkEe05211G-rTNMBj-URpQUGc4WJSQKrH9ehEFxHsL9y7gc20SeCQ&sai=AMfl-YQyLX94JqJX85Hv7oPb_L8PYUuqGPaiqDVFlJNuGl8-GE8098VW9A2-jncFH3R4mw52gzFPtdTI2LmobEngwZ56tBJhOreMuDN20FKvLFESzVnbjVkqkWSrArzyu54&sig=Cg0ArKJSzEPpiSFMOsK9EAE&urlfix=1&adurl="
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://mwcm.nyt.com/dam/mkt_assets/crs/banners/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/lib/main_flex-EU.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/cheltenham/cheltenham-normal-200.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://mwcm.nyt.com/dam/mkt_assets/crs/banners/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/lib/main_flex-EU.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/franklin/franklin-normal-700.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://mwcm.nyt.com/dam/mkt_assets/crs/banners/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/lib/main_flex-EU.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/franklin/franklin-normal-500.woff"
+    },
+    {
+      "mime_type": "font/woff",
+      "referer": "https://mwcm.nyt.com/dam/mkt_assets/crs/banners/ASSTDV-2231-APR-Sale-LimitedTimeOffer-INYT-2021-Internal/lib/main_flex-EU.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://g1.nyt.com/fonts/family/cheltenham/cheltenham-normal-300.woff"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/sodar/Enqz_20U.html"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/vendors~audio~byline~capsule~clientSideCapsule~collections~explainer~home~liveblog~paidpost~slidesho~b1468c2d-f20b8abb6fb69f9d7185.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/vendors~audio~capsule~clientSideCapsule~collections~explainer~home~liveblog~paidpost~story~trending~video-596ae37870af61daa675.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/vi-assets/static-assets/vendors~audio~capsule~clientSideCapsule~collections~explainer~home~liveblog~paidpost~story~video-9919df76c1dc23f31e32.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://dd.nytimes.com/tags.js"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93625_1_16virus-reopening-promo_wg_720p.mp4"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/sodar/Enqz_20U.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93626_1_15weekender-sunday-promo-cine_wg_720p.mp4"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://dd.nytimes.com/js/"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjstcENsfJ6o40gkdctGecMgGKl6IVGhDVwvoYsHgN9NSOMEJwO_-o5JUPrBxpQh-gN3AI7Jualru5E8BR2suceAAxU9vtQY-o9V4IJmWaK0&sig=Cg0ArKJSzCIxbY3WjWzbEAE&id=lidar2&mcvt=1003&p=0,0,274,800&mtos=0,1003,1003,1003,1003&tos=0,1003,0,0,0&v=20210514&bin=7&avms=nio&bs=0,0&mc=0.98&if=1&app=0&itpl=7&adk=555271088&rs=4&met=mue&la=0&cr=0&osd=1&vs=4&rst=1621179856486&dlt=593&rpt=2463&isd=0&msd=0&r=v&fum=1"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://meter-svc.nytimes.com/meter.js?sourceApp=vi&url=https%3A%2F%2Fwww.nytimes.com%2F&referer=https%3A%2F%2Fwww.nytimes.com%2F&pageviewID=ev_PcCQQNE2Hf3C-AWZa_ikX"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.nytimes.com/api/market"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://content.api.nytimes.com/svc/weather/v2/current-and-seven-day-forecast.json"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://purr.nytimes.com/v1/purr-cache"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.nytimes.com/svc/nyt/data-layer?sourceApp=nyt-vi&referrer=&assetUrl=https%3A%2F%2Fwww.nytimes.com%2F&jkcb=1621179862429"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/06/15/arts/15snl/15snl-threeByTwoSmallAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/05/23/books/review/23klein1-COVER/23klein1-threeByTwoSmallAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2018/04/02/opinion/michelle-goldberg/michelle-goldberg-thumbLarge.png?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2018/05/11/opinion/timothy-egan/timothy-egan-thumbLarge.png?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2021/05/14/opinion/14vaccine/14vaccine-threeByTwoSmallAt2X-v3.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93625_1_16virus-reopening-promo_wg_480p.mp4"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93626_1_15weekender-sunday-promo-cine_wg_480p.mp4"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=316053977&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nytimes.com%2F&dr=&ul=es-es&de=UTF-8&dt=The%20New%20York%20Times%20-%20Breaking%20News%2C%20US%20News%2C%20World%20News%20and%20Videos&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=dock&ea=impression&el=gdpr&ev=0&_u=YAhAAEABAAAAAC~&jid=203273700&gjid=1790695488&cid=456776622.1621179856&tid=UA-58630905-2&_gid=1284444949.1621179864&_r=1&gtm=2wg5c1P528B3&cg1=homepage&cg2=null&cg3=homepage&cg4=null&cd1=https%3A%2F%2Fwww.nytimes.com%2F&cd2=https%3A%2F%2Fwww.nytimes.com%2F&cd3=&cd9=9&cd14=null&cd21=Homepage&cd26=null&cd27=null&cd28=null&cd29=null&cd30=null&cd36=&cd42=nyt-vi&cd48=null&cd49=&cd51=nyt-vi&cd52=&cd54=null&cd57=0&cd58=0&cd59=&cd60=&cd61=0&cd63=1W_wyL10vxI8yxVg2xG3Sk&cd67=0&cd95=&cd122=&cd123=&cd124=&cd125=&cd126=&cd127=&cd129=NaN&cd135=&cd139=&cd141=&cd142=&cd162=&cd163=&cd164=1W_wyL10vxI8yxVg2xG3Sk&cd172=desktop&cd173=desktop&z=342405491"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://5290727.fls.doubleclick.net/activityi;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=9037760135793;gtm=2wg5c1;auiddc=680178614.1621179864;u4=;u5=undefined;u6=undefined;u7=1W_wyL10vxI8yxVg2xG3Sk;u8=;u10=;u11=1;u12=100000005877499;u13=undefined;u14=undefined;u15=undefined;u16=nyt-vi;u17=https%3A%2F%2Fwww.nytimes.com%2F;~oref=https%3A%2F%2Fwww.nytimes.com%2F?"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.chartbeat.com/js/chartbeat.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a1.nyt.com/analytics/show-ads.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=316053977&t=pageview&_s=1&dl=https%3A%2F%2Fwww.nytimes.com%2F&dr=&ul=es-es&de=UTF-8&dt=The%20New%20York%20Times%20-%20Breaking%20News%2C%20US%20News%2C%20World%20News%20and%20Videos&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=aAjAAEABAAAAAC~&jid=&gjid=&cid=456776622.1621179856&tid=UA-58630905-2&_gid=1284444949.1621179864&gtm=2wg5c1P528B3&cg1=homepage&cg2=null&cg3=homepage&cg4=null&cd1=https%3A%2F%2Fwww.nytimes.com%2F&cd2=https%3A%2F%2Fwww.nytimes.com%2F&cd3=&cd4=Homepage&cd9=9&cd10=null&cd13=null&cd14=null&cd15=earned&cd16=referring_links&cd17=100000005877499&cd21=Homepage&cd23=Homepage&cd26=null&cd27=null&cd28=null&cd29=null&cd30=null&cd36=&cd37=0&cd42=nyt-vi&cd48=null&cd49=blurb_under_100&cd51=nyt-vi&cd52=&cd54=null&cd55=0&cd56=anon&cd57=0&cd58=0&cd59=&cd60=&cd61=0&cd63=1W_wyL10vxI8yxVg2xG3Sk&cd65=anon&cd67=0&cd95=&cd122=&cd123=&cd124=&cd125=&cd126=&cd127=&cd129=NaN&cd135=&cd139=&cd141=&cd142=&cd162=&cd163=&cd164=1W_wyL10vxI8yxVg2xG3Sk&cd172=desktop&cd173=tablet&z=231282693"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://insight.adsrvr.org/track/pxl/?adv=bomn82o&ct=0:s2f54xh&fmt=3&ttl=43200&gtmcb=1121936687"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mwcm.nytimes.com/capi/metered_assets/?plat=web&mc=0&mr=1&ma=1&counted=false&granted=true&us=anon&context-type=&areas=barOne&areas=dock&areas=welcomeAd"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93625_1_16virus-reopening-promo_wg_480p.mp4"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://tpc.googlesyndication.com/sodar/Enqz_20U.html",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar&v=30&t=2&bgai=BBfmy0j2hYOXmIpTensEPx7ynkAkAAAAAOAHgBAI&bg=!KCulK2_NAAY59bwoOfU7ACkAdvg8WoYyZ8cva6v-c1VZIIsYa_MeiXQ5y4Cyz53FTBkDUNLGKnIJ4wIAAAscUgAAAPpoAQeZAnt7OITa9HqURDVz4orsmM5rSQO8ScKYVVxa9iB78yKjz95H8y-hx771Wg2fihCNeTYn6Wpb3WoKxiVWefbEqyRfVbpIgnP4__MDPLMCWbp5xj5ZTawv32y9t5YbfeylpP-XvnAxyK4UB6K-rPmOII1DCrU-xzcXhZGuO7NJnl7cuhARS5uSmYSEQLh82WEJomHHgVo2gunPGZztJus-vA08e_SoH1OfnKpV9FA9ti8TOwGv4TsatF6J44aIPu5JFyIiFvlMIHm04B2P_Vrv6bydqNakIctChHFnHe-lTpY0u65O_BsnNVkl5fphDCySg0Xttjn3M0t0-2xCKPvvrGfxQP5Ukn7uEHJ13S1HecC-xZ-87OH5JnnIwzklNMMFkCYyQocMlVX443CYcsXy8FTtPiKJgkSDexLmJE1k3leApjw3cW7Z6PMXWi5FljNH0xspWuLxBsro-dwUJqUQhBV7HEfmIV8ddAlO5p6PbGRg-nciwn-XcSwTKES1pIGx9C_C8SDj0i2c_T6L-HZcJO7_PFeMrnZp-3lE-znTqd7iC-4s-aPzs-mqCRodLhQikUH7OawGZox_3E6gQ3i6_tlht2ugfi2XED2RxnvuN_2S3X9qCULh9UCfW550anlXpy_JA49tprMjuWI15o-Ha9N7cOf_9uXcOvd-3ZvXGYRhT3rC_eAgxMDtVfwwHD25vTblUDyJ7F8B2pB-ExEPvnwQ4DaULN1TPDh0Blae4jqmNo1L1DO_PiAI_E1At7F_ctOCOv_uGaEq2XvTkZrhDDHik2zBYtSTNS2WFLCDJXTLoOimg55UPJeJWWT0jAKBNxCh8IyXIgGjCGMn5A"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93626_1_15weekender-sunday-promo-cine_wg_480p.mp4"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "about:blank",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://5290727.fls.doubleclick.net/activityi;dc_pre=COnbw8_FzvACFcIi0wodopAM0w;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=9037760135793;gtm=2wg5c1;auiddc=680178614.1621179864;u4=;u5=undefined;u6=undefined;u7=1W_wyL10vxI8yxVg2xG3Sk;u8=;u10=;u11=1;u12=100000005877499;u13=undefined;u14=undefined;u15=undefined;u16=nyt-vi;u17=https%3A%2F%2Fwww.nytimes.com%2F;~oref=https%3A%2F%2Fwww.nytimes.com%2F?"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pnytimes.chartbeat.net/ping?h=nytimes.com&p=nytimes.com%2F&u=3UQt5Bumte9DI_nVe&d=nytimes.com&g=16698&g0=Homepage&g1=No%20Author&n=1&f=00001&c=0&x=0&m=0&y=4739&o=793&w=600&j=45&R=1&W=0&I=0&E=0&e=0&r=&b=11399&t=DXTJkjBrUr6IQyrtCCJSq1vTRgAk&V=126&i=The%20New%20York%20Times%20-%20Breaking%20News%2C%20US%20News%2C%20World%20News%20and%20Videos&tz=-120&_acct=anon&sn=1&sv=BE6nd-Cn4oSWBY0m_tBEd0HjBPXRrf&sd=1&im=06672ff3&_"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93626_1_15weekender-sunday-promo-cine_wg_480p.mp4"
+    },
+    {
+      "mime_type": "video/mp4",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "",
+      "url": "https://vp.nyt.com/video/2021/05/15/93625_1_16virus-reopening-promo_wg_480p.mp4"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://5290727.fls.doubleclick.net/activityi;dc_pre=COnbw8_FzvACFcIi0wodopAM0w;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=9037760135793;gtm=2wg5c1;auiddc=680178614.1621179864;u4=;u5=undefined;u6=undefined;u7=1W_wyL10vxI8yxVg2xG3Sk;u8=;u10=;u11=1;u12=100000005877499;u13=undefined;u14=undefined;u15=undefined;u16=nyt-vi;u17=https%3A%2F%2Fwww.nytimes.com%2F;~oref=https%3A%2F%2Fwww.nytimes.com%2F?",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=COnbw8_FzvACFcIi0wodopAM0w;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=9037760135793;gtm=2wg5c1;auiddc=*;u4=;u5=undefined;u6=undefined;u7=1W_wyL10vxI8yxVg2xG3Sk;u8=;u10=;u11=1;u12=100000005877499;u13=undefined;u14=undefined;u15=undefined;u16=nyt-vi;u17=https%3A%2F%2Fwww.nytimes.com%2F;~oref=https%3A%2F%2Fwww.nytimes.com%2F"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2021051001&st=env"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://platform.iteratehq.com/loader.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://6852bd04.akstat.io/"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt?c=pptxgn8xi"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt?c=pptxgn8xi"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2.js"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static01.nyt.com/images/2015/03/16/opinion/Tufekci-Zeynep-circular/Tufekci-Zeynep-circular-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2/222/runner.html"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j90&a=316053977&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nytimes.com%2F&dr=&ul=es-es&de=UTF-8&dt=The%20New%20York%20Times%20-%20Breaking%20News%2C%20US%20News%2C%20World%20News%20and%20Videos&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=scroll&ea=scroll_start&_u=aAjAAEABAAAAAC~&jid=&gjid=&cid=456776622.1621179856&tid=UA-58630905-2&_gid=1284444949.1621179864&gtm=2wg5c1P528B3&cg1=homepage&cg2=null&cg3=homepage&cg4=null&cd1=https%3A%2F%2Fwww.nytimes.com%2F&cd2=https%3A%2F%2Fwww.nytimes.com%2F&cd3=&cd4=Homepage&cd9=9&cd10=null&cd13=null&cd14=null&cd15=earned&cd16=referring_links&cd17=100000005877499&cd21=Homepage&cd23=Homepage&cd26=null&cd27=null&cd28=null&cd29=null&cd30=null&cd36=&cd37=0&cd42=nyt-vi&cd48=null&cd49=blurb_under_100&cd51=nyt-vi&cd52=&cd54=null&cd55=0&cd56=anon&cd57=0&cd58=0&cd59=&cd60=&cd61=0&cd63=1W_wyL10vxI8yxVg2xG3Sk&cd65=anon&cd67=0&cd95=&cd122=&cd123=&cd124=&cd125=&cd126=&cd127=&cd129=NaN&cd135=&cd139=&cd141=&cd142=&cd162=&cd163=&cd164=1W_wyL10vxI8yxVg2xG3Sk&cd172=desktop&cd173=tablet&z=148542310"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://tpc.googlesyndication.com/sodar/sodar2/222/runner.html",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://platform.iteratehq.com/sdk-prod-ba4e20fc64e035307504.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://platform.iteratehq.com/style-49e408b8c1e44beafa1b.css"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://2-59-233-173_s-2-22-234-66_ts-1621179866-clienttons-s.akamaihd.net/eum/results.txt"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar2&v=222&t=2&li=gpt_2021051001&jk=3306018521221984&bg=!UVKlUhbNAAY59bwoOfU7ACkAdvg8WhKmtdr44YEbmlrj8qjXvNwA70by0dSF_RBGlt0Tk-to3BExFAIAAAEHUgAAABFoAQcKACoV0f4TPdG96s5ZAhBDrCyW4KH3DmqTDiNeelxiNJxHckOE4CjGfCquKdSZAkDYAJH543UqCOs8yQytWfYd39SJe2M_Ik7afTfLM5Mee1mgUZuPnKLTluetQpXBlK5-Owg1AYxL6Ic3fiJl5DNtVMayI0UE81jCB8lf1PxCmJ-_nuGY0om-xB6-zVWH4nX0rijg21stbO_wbFmftI5oHpf4iR_K_NNkr98K5wHXIxc1rC1IujAH8Ps1JgdpkGqHvjf1_o1YpEAnmD8IX0QiVVoNNuSG2AzJ1qvKzGo2MTAW7lJMyLCuKFJ8R4-LFlQLLO_U176-03P3sOsgVriub4S-KddFVKPcYzowbi3NKcoMTg3A1MY3Y5UOY_tSMGLR9pEMPtA0YLwN9PfqumxmpKrwGPwh1Yh0TjBKnvi4eoHES5SPArdGlQe1M36xOeohgNPea7_ynbKhNcVOR1DHvsr1bVheNemCaSkIN_jq5A7iQH5Y4k_tnNLBwdiNOWaKB18j5-WQJK9CtyQjXmUT-lV799-1kOitTjH8vNQ0_QPWo6J69x6kNj7SpyCmb-f1eJrcdX04MB4gfwZgfdDgxy9ZFssTZAZbcCiRP_QRGaxUe4rprFnAHEPeAW2ZxNKSFCmilFbOJDkmumWpYot7mhLV0TFmfBy0hF9EcJRr4s8Le8ZkDgYiuJQX_-evMx5EPWODcw6FxvK-wXApRYnOH3pcHIUV2dMYjnJ4SyYgFWzsUFiqghr7KdMiKh8ZKP4xKxN64vqNFvKhcb22LbgStF-iBVE0avn0FOF2YU_s9XhQsD-3U_9MXuWAujr5Eio"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://ai56tlki66nucyfbhxna-pptxgn-afc44e6da-clientnsv4-s.akamaihd.net/eum/results.txt"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://iteratehq.com/api/v1/surveys/embed"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://iteratehq.com/api/v1/surveys/embed"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://dd.nytimes.com/js/"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://a.et.nytimes.com/track"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.nytimes.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pnytimes.chartbeat.net/ping?h=nytimes.com&p=nytimes.com%2F&u=3UQt5Bumte9DI_nVe&d=nytimes.com&g=16698&g0=Homepage&g1=No%20Author&n=1&f=00001&c=0.25&x=221&m=221&y=4739&o=793&w=600&j=30&R=1&W=0&I=0&E=6&e=6&r=&b=11399&t=DXTJkjBrUr6IQyrtCCJSq1vTRgAk&V=126&tz=-120&_acct=anon&sn=2&sv=BE6nd-Cn4oSWBY0m_tBEd0HjBPXRrf&sd=1&im=06672ff3&_"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "child-src": [
+        "https:",
+        "data:",
+        "blob:"
+      ],
+      "connect-src": [
+        "https:",
+        "wss:",
+        "blob:"
+      ],
+      "default-src": [
+        "data:",
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "https:"
+      ],
+      "font-src": [
+        "data:",
+        "https:"
+      ],
+      "form-action": [
+        "https:"
+      ],
+      "header_value": "upgrade-insecure-requests; default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss: blob:; media-src data: https: blob:; object-src https:; child-src https: data: blob:; form-action https:; report-uri https://csp.nytimes.com/report;",
+      "img-src": [
+        "data:",
+        "https:",
+        "blob:"
+      ],
+      "media-src": [
+        "data:",
+        "https:",
+        "blob:"
+      ],
+      "object-src": [
+        "https:"
+      ],
+      "report-uri": [
+        "https://csp.nytimes.com/report"
+      ],
+      "script-src": [
+        "data:",
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "https:",
+        "blob:"
+      ],
+      "style-src": [
+        "data:",
+        "'unsafe-inline'",
+        "https:"
+      ],
+      "upgrade-insecure-requests": []
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=63072000; preload",
+      "includeSubDomains": false,
+      "max-age": 63072000,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.nytimes.com\n",
+  "third_parties": {
+    "fqdns": [
+      "2-59-233-173_s-2-22-234-66_ts-1621179866-clienttons-s.akamaihd.net",
+      "5290727.fls.doubleclick.net",
+      "6852bd04.akstat.io",
+      "a1.nyt.com",
+      "ad.doubleclick.net",
+      "adservice.google.com",
+      "adservice.google.es",
+      "ai56tlki66nucyfbhxna-pptxgn-afc44e6da-clientnsv4-s.akamaihd.net",
+      "c.go-mpulse.net",
+      "fe838be1956ff0a3816a33329ca7a206.safeframe.googlesyndication.com",
+      "fonts.gstatic.com",
+      "g1.nyt.com",
+      "insight.adsrvr.org",
+      "iteratehq.com",
+      "mwcm.nyt.com",
+      "news.google.com",
+      "pagead2.googlesyndication.com",
+      "platform.iteratehq.com",
+      "play.google.com",
+      "pnytimes.chartbeat.net",
+      "s.go-mpulse.net",
+      "securepubads.g.doubleclick.net",
+      "static.chartbeat.com",
+      "static01.nyt.com",
+      "tpc.googlesyndication.com",
+      "trial-eum-clientnsv4-s.akamaihd.net",
+      "trial-eum-clienttons-s.akamaihd.net",
+      "vp.nyt.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com",
+      "www.googletagservices.com",
+      "www.gstatic.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 164
+  },
+  "tracking": {
+    "num_tracker_cookies": 5,
+    "num_tracker_requests": 76,
+    "trackers": [
+      "5290727.fls.doubleclick.net",
+      "6852bd04.akstat.io",
+      "ad.doubleclick.net",
+      "adservice.google.com",
+      "adservice.google.es",
+      "c.go-mpulse.net",
+      "fe838be1956ff0a3816a33329ca7a206.safeframe.googlesyndication.com",
+      "insight.adsrvr.org",
+      "news.google.com",
+      "pagead2.googlesyndication.com",
+      "platform.iteratehq.com",
+      "play.google.com",
+      "pnytimes.chartbeat.net",
+      "s.go-mpulse.net",
+      "securepubads.g.doubleclick.net",
+      "static.chartbeat.com",
+      "static01.nyt.com",
+      "tpc.googlesyndication.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com",
+      "www.googletagservices.com"
+    ]
+  }
+}

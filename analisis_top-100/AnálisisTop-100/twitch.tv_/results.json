@@ -1,0 +1,1203 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".twitch.tv",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "server_session_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 49,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "8a54be2c87804e15a0193e10d60eeea3"
+    },
+    {
+      "domain": ".twitch.tv",
+      "expires": 1655285756.023691,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34221601.02369094,
+      "name": "unique_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "EVQXO3HPj5Nq9epd7AISPZ1QcmeJJolB"
+    },
+    {
+      "domain": ".twitch.tv",
+      "expires": 1655285756.023774,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34221601.02377391,
+      "name": "unique_id_durable",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 49,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "EVQXO3HPj5Nq9epd7AISPZ1QcmeJJolB"
+    },
+    {
+      "domain": ".twitch.tv",
+      "expires": 1654767356.0238,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 33703201.023799896,
+      "name": "twitch.lohp.countryCode",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 25,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "ES"
+    },
+    {
+      "domain": ".twitch.tv",
+      "expires": 1655285757,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 34221602,
+      "name": "api_token",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 50,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "twilight.79b1e17abb00e2fea6ed89cf22af913e"
+    },
+    {
+      "domain": ".scorecardresearch.com",
+      "expires": 1683279373.025692,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 62215218.025691986,
+      "name": "UID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1W95GBLLTPQZ2N8UPHEHHIg1621071361"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 4,
+    "first_party_short": 1,
+    "third_party_long": 1,
+    "third_party_short": 0,
+    "trackers": [
+      "scorecardresearch.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.twitch.tv/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 0,
+    "window.appVersion": 13,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 1,
+    "window.mimeTypes": 0,
+    "window.platform": 1,
+    "window.plugins": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0,
+    "window.useragent": 36
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "c1413386de03a0f602913a5994000389feab2b9764ce253842795937c2416799",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "GlobalSign Atlas R3 DV TLS CA 2020",
+        "countryName": "BE",
+        "organizationName": "GlobalSign nv-sa"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1653227815.0,
+      "not_valid_before": 1618927016.0,
+      "serial_number": 2092982509646487304853686935371937316,
+      "subject": {
+        "commonName": "*.androidtv.tv.twitch.tv"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "{\"value\":{\"Espa\u00f1ol\":66,\"Multijugador\":94,\"IRL\":38,\"Juego de aventuras\":136,\"Shooter en primera persona\":160,\"Shooter\":66,\"Acci\u00f3n\":60,\"Mundo abierto\":105,\"Supervivencia\":103,\"Estrategia\":81,\"Terror\":56,\"Compras\":74,\"Para toda la familia\":132,\"Blogs de v\u00eddeo en directo\":168,\"Juego de rol\":92},\"__expireTimeEpoch\":1626255361798}",
+      "key": "tag-size-cache-uv.2"
+    },
+    {
+      "content": "\"0dbfff706ad80ca0\"",
+      "key": "sentry_device_id"
+    },
+    {
+      "content": "\"64249b48b151375c\"",
+      "key": "local_storage_app_session_id"
+    },
+    {
+      "content": "\"EVQXO3HPj5Nq9epd7AISPZ1QcmeJJolB\"",
+      "key": "local_copy_unique_id"
+    },
+    {
+      "content": "{}",
+      "key": "algoliasearch-client-js"
+    },
+    {
+      "content": "\"2aca69fe0e5b02ba\"",
+      "key": "local_storage_device_id"
+    },
+    {
+      "content": "{\"42074427644\":4996}",
+      "key": "livestreamResumeTimes"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.twitch.tv/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://www.twitch.tv/"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://p.twitchcdn.net/v3/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,default,fetch,Intl.~locale.en,Math.sign,Object.entries%7Calways%7Cgated,Object.values%7Calways%7Cgated,String.prototype.repeat,URL,HTMLCanvasElement.prototype.toBlob,IntersectionObserver"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/config/settings.9331ae8e8cf160e3d29f6a11b641b836.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/core-a8ecbaf3f172e0e179bc.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/vendor-4d44de0c60adc8339916.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/core-dbfcfa988a9258b6cd88.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "referer": "https://static.twitchcdn.net/assets/core-a8ecbaf3f172e0e179bc.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/inter-latin-variable-wghtOnly-normal-a05a0d687a088c4efed3.woff2"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/core.locales.es-f2ed082fc94625edfd0b.js"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "referer": "https://static.twitchcdn.net/assets/core-a8ecbaf3f172e0e179bc.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/Roobert-SemiBold-2c9de19c87721c9bcb39.woff2"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.front-c427985628406975be41.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.front-c391aecfc6f31f7bb5b0.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/player-core-variant-b-bac7cb68c26ee2c1b756.js"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gql.twitch.tv/gql"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gql.twitch.tv/gql"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "blob:https://www.twitch.tv/8071ec9d-7bcd-44ed-ae5d-c96830c6b504"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gql.twitch.tv/gql"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagservices.com/tag/js/gpt.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/cookie_1x-c781cb5f409bfde1af20.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/574713ff-62db-478f-a764-0dc063eac95d-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f9c597b-8b84-431c-8c2f-63f31bb938f2-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/95ce9a93-0d8f-49d5-bd3c-fd2851eaecda-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7ad172b-dd04-4d81-bbd3-2492d4709276-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8af1f4e-43bc-41c8-85c4-14e07bd1450f-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/472ea8a6-2e96-4aa7-9141-53aec7c56097-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/92d1dcd9-4039-4b20-a4c4-6a014886f168-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b09ec0a-c6b5-4f86-ae36-fa8c1ac41e97-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc1c4283-70be-4fc0-8c88-73f03026f1af-profile_image-70x70.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa65e930-4708-4d95-9f9a-ddff2a850395-profile_image-70x70.png"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051001.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/features.verify-email-a8b019fa37693badf130.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/features.verify-email-885eb70325e82461b32e.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/features.provide-email-0e2bef88c6a4f66da460.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/features.whispers.components.whisper-threads-bar-89c81c1d3d6c4ddcab51.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/config/manifest.json?v=1"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "referer": "https://static.twitchcdn.net/assets/core-a8ecbaf3f172e0e179bc.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/Roobert-Bold-8c226ebd8e4868649a7e.woff2"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/574713ff-62db-478f-a764-0dc063eac95d-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nikitonipongotv-440x248.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f9c597b-8b84-431c-8c2f-63f31bb938f2-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blanchitooo-440x248.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Chatting-188x250.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-188x250.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-188x250.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/ttv-boxart/Resident%20Evil%20Village-188x250.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/92d1dcd9-4039-4b20-a4c4-6a014886f168-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kidi-440x248.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5c96d9-5fd0-4f52-9df1-2f0ac94c0a8c-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kikorivera-440x248.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d8d22b3-a889-4f8e-8437-a217afa7fca8-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-440x248.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/200936ea-2268-4d8f-9cb3-b01a99fbefbf-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_galletaa-440x248.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/472ea8a6-2e96-4aa7-9141-53aec7c56097-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mateoz-440x248.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b09ec0a-c6b5-4f86-ae36-fa8c1ac41e97-profile_image-50x50.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bnitez-440x248.jpg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gql.twitch.tv/gql"
+    },
+    {
+      "mime_type": "",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/clips-main-92895583b69625b36e5e.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/clips-main-e6d17dbf2b71ed2b4d31.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/core-a8ecbaf3f172e0e179bc.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/core-dbfcfa988a9258b6cd88.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/minimal-071238cdbcbacb43af76.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/minimal-c66b9f0718eab095fbf2.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.channel.components.channel-shell.components.chat-shell.components.chat-live-3c80aca4c88818edcd5b.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.channel.components.channel-shell.components.chat-shell.components.chat-live-632f4ad407fa66c9985b.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.channel.components.channel-shell.components.watch-page-track-fbd9f3e551096135e1fb.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.directory-game-78941a84eefe07820198.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.directory-game-82019e5c73bba148da79.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.following-75534d484610fdd91031.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.following-998a14bde150e106c71b.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.front-c391aecfc6f31f7bb5b0.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.front-c427985628406975be41.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.settings-2fe7b5de918e90233050.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.settings-b8e2f047ebfa9f8054cf.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.subs-cdf1ada666b6c233556f.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.subs-checkout.components.subs-checkout-page-13a31ebb444849b0a8a4.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.subs-checkout.components.subs-checkout-page-cfc646a894ba259f68c2.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.subs.components.subs-broadcaster-page-4733d852471100441b8a.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/pages.subs.components.subs-broadcaster-page-b2ea2233e5788c6fd4e6.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/player-core-base-b1fff4e93c9cb86dd5a6.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/sites.sunlight.pages.stream-summary-page-21e4d46c1827c3baec20.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/sites.sunlight.pages.stream-summary-page-8037d3273104283be6aa.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/vendor-4d44de0c60adc8339916.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/features.whispers-6e2e5c4e4cb0ce5100fa.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://static.twitchcdn.net/assets/features.whispers-d0cdf4d80dd3e59c0ba2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/beacon.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.5/v6s.js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blanchitooo-320x180.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_peroniaxdeluxe-320x180.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snoodyboo-320x180.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rajobostv-320x180.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_iesports_es-320x180.jpg"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gql.twitch.tv/gql"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gql.twitch.tv/gql"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/b?c1=2&c2=6745306&c3=1&c5=01&cs_ucfr=*null&ns__t=1621071361373&ns_c=UTF-8&cv=3.5&c8=Twitch&c7=https%3A%2F%2Fwww.twitch.tv%2F&c9="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=6745306&c3=1&c5=01&cs_ucfr=*null&ns__t=1621071361373&ns_c=UTF-8&cv=3.5&c8=Twitch&c7=https%3A%2F%2Fwww.twitch.tv%2F&c9="
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.twitch.tv/v5/channels/135629563/extensions"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://api.twitch.tv/v5/channels/135629563/extensions"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/snoodyboo-profile_image-86ca4a81f47b7790-150x150.jpeg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://countess.twitch.tv/ping.gif?u=%7B%22type%22%3A%22channel%22%2C%22id%22%3A135629563%7D"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gql.twitch.tv/gql"
+    },
+    {
+      "mime_type": "",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/p?c1=2&c2=6745306&ns_type=hidden&ns_st_sv=5.1.3.160420&ns_st_smv=5.1&ns_st_it=r&ns_st_id=1621071361533&ns_st_ec=1&ns_st_sp=1&ns_st_sc=1&ns_st_sq=1&ns_st_ppc=1&ns_st_apc=1&ns_st_spc=1&ns_st_cn=1&ns_st_ev=play&ns_st_po=0&ns_st_cl=0&ns_st_pb=1&ns_st_mp=js_api&ns_st_mv=5.1.3.160420&ns_st_pn=1&ns_st_tp=0&ns_st_ci=42074427644&ns_st_pt=0&ns_st_dpt=0&ns_st_ipt=0&ns_st_et=0&ns_st_det=0&ns_st_upc=0&ns_st_dupc=0&ns_st_iupc=0&ns_st_upa=0&ns_st_dupa=0&ns_st_iupa=0&ns_st_lpc=0&ns_st_dlpc=0&ns_st_lpa=0&ns_st_dlpa=0&ns_st_pa=0&ns_ts=1621071362961&ns_st_bc=0&ns_st_dbc=0&ns_st_bt=0&ns_st_dbt=0&ns_st_bp=0&ns_st_lt=1428&ns_st_skc=0&ns_st_dskc=0&ns_st_ska=0&ns_st_dska=0&ns_st_skd=0&ns_st_skt=0&ns_st_dskt=0&ns_st_pc=0&ns_st_dpc=0&ns_st_pp=0&ns_st_br=0&ns_st_ub=0&ns_st_ki=1200000&ns_st_pr=*null&ns_st_sn=*null&ns_st_en=*null&ns_st_ep=GM%20EUW%20%7C%7C%20!sorteo%20PS5%20!mobalytics&ns_st_ct=vc&ns_st_ge=Gaming&ns_st_st=snoodyboo&ns_st_ce=1&ns_st_ia=0&ns_st_ddt=2021-05-15&ns_st_tdt=*null&ns_st_pu=*null&ns_st_ti=*null&c3=TWITCH&c4=twitch.tv&c6=*null&c7=https%3A%2F%2Fwww.twitch.tv%2F&c8=Twitch&c9=&cs_ucfr=*null"
+    },
+    {
+      "mime_type": "",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://video-edge-1aefce.pdx01.abs.hls.ttvnw.net/v1/segment/CksSS4gPYmwZka0yi_s_O1Ojrx1a2lfjYkPMj-AI_RboNOrlxopLSrswQSfBYUd7YgezwdXw1gmkAFfKgBgTHQhKmy4QC0rkfrpgtUjig3eK01yWUx_JlA7cqvub-jaNXBLa2rmExDwsW7Y4PImQw7nGEB8SikVlgRkDxlRmn8lRATyWsx8JXGdMyDdJjhTD_DOvcTx9g8J4QGijgDb97oVje_dGAkmWvVI_Sy6wtCwScHGH59Y9dRcmOMSqfobRuU3H3WTfPb8rwsHtHt3HzivM_a2ruienSKqlVw17mRQjTftRStBUX-51wc3eDqAHf2jYDe6QJnR_WRyIG5ZQvEKzROHTK7XuvmRl0rkbrNfDA1yPwsVVYgo3AU5bKGcWjvqLZMNcUfmL7X_HxuFQoblmryyq4b-qg8Y3Nkm_Hmzrj9XHxuGMIomHynEXk5r1dFvuVC-okIcpA5WVpvJL1MBPfHuzEIwOHBHQDuKYH3Dt4suIvEyY8VhFFuJoc3XKWoxUz27-Y3Hm2xEdhtdJwpFIslUe2UzQ0F-nInRqmr4u5Ill03iwebDZaYgNEQK4s4xrj2DofFOrxTZF79jqkWX36IC3KE1Sx00AlG16DtqLk-5URTD1XgBc2lC7Pvkk2ve3iZNqQNaEHKpr6PGHrE82M29d1yTNC07QDc8vCi4HwQ16tL3493ksp0n9Z-NDkO2W368j9AuaqR6xUad88EHzeIYX2kySXWG69BeuV5YLUprszf6Mb0ZgGsAVv4cy03u05HPAL6S7m.ts"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.twitch.tv/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sb.scorecardresearch.com/p?c1=2&c2=6745306&ns_type=hidden&ns_st_sv=5.1.3.160420&ns_st_smv=5.1&ns_st_it=r&ns_st_id=1621071361533&ns_st_ec=2&ns_st_sp=1&ns_st_sc=1&ns_st_sq=1&ns_st_ppc=1&ns_st_apc=1&ns_st_spc=1&ns_st_cn=1&ns_st_ev=hb&ns_st_po=10018&ns_st_cl=0&ns_st_hc=1&ns_st_mp=js_api&ns_st_mv=5.1.3.160420&ns_st_pn=1&ns_st_tp=0&ns_st_ci=42074427644&ns_st_pt=10018&ns_st_dpt=10018&ns_st_ipt=10018&ns_st_et=10018&ns_st_det=10018&ns_st_upc=10018&ns_st_dupc=10018&ns_st_iupc=10018&ns_st_upa=10018&ns_st_dupa=10018&ns_st_iupa=10018&ns_st_lpc=10018&ns_st_dlpc=10018&ns_st_lpa=10018&ns_st_dlpa=10018&ns_st_pa=10018&ns_ts=1621071372979&ns_st_bc=0&ns_st_dbc=0&ns_st_bt=0&ns_st_dbt=0&ns_st_bp=0&ns_st_skc=0&ns_st_dskc=0&ns_st_ska=0&ns_st_dska=0&ns_st_skd=0&ns_st_skt=0&ns_st_dskt=0&ns_st_pc=0&ns_st_dpc=0&ns_st_pp=0&ns_st_br=0&ns_st_ub=0&ns_st_ki=1200000&ns_st_pr=*null&ns_st_sn=*null&ns_st_en=*null&ns_st_ep=GM%20EUW%20%7C%7C%20!sorteo%20PS5%20!mobalytics&ns_st_ct=vc&ns_st_ge=Gaming&ns_st_st=snoodyboo&ns_st_ce=1&ns_st_ia=0&ns_st_ddt=2021-05-15&ns_st_tdt=*null&ns_st_pu=*null&ns_st_ti=*null&c3=TWITCH&c4=twitch.tv&c6=*null&c7=https%3A%2F%2Fwww.twitch.tv%2F&c8=Twitch&c9=&cs_ucfr=*null"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000",
+      "includeSubDomains": false,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "\"https://www.twitch.tv/\"",
+      "key": "session_storage_last_visited_twitch_url"
+    },
+    {
+      "content": "[\"af73c0c0-05e9-46a3-890d-0da311b4e796\"]",
+      "key": "twilight.update_manager.known_builds"
+    },
+    {
+      "content": "\"d96851d0fa9bb29b\"",
+      "key": "session_storage_unique_id"
+    }
+  ],
+  "site_url": "https://www.twitch.tv\n",
+  "third_parties": {
+    "fqdns": [
+      "",
+      "d2v02itv0y9u9t.cloudfront.net",
+      "p.twitchcdn.net",
+      "sb.scorecardresearch.com",
+      "securepubads.g.doubleclick.net",
+      "static-cdn.jtvnw.net",
+      "static.twitchcdn.net",
+      "video-edge-1aefce.pdx01.abs.hls.ttvnw.net",
+      "www.googletagservices.com",
+      "www.gstatic.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 99
+  },
+  "tracking": {
+    "num_tracker_cookies": 1,
+    "num_tracker_requests": 7,
+    "trackers": [
+      "sb.scorecardresearch.com",
+      "securepubads.g.doubleclick.net",
+      "www.googletagservices.com"
+    ]
+  }
+}

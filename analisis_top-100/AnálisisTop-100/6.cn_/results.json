@@ -1,0 +1,1109 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".www.6.cn",
+      "expires": 1623665432.463413,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 2599203.463413,
+      "name": "firVist",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 17,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621073432"
+    },
+    {
+      "domain": "www.6.cn",
+      "expires": 1623665432.463592,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 2599203.4635920525,
+      "name": "_LiveGuestUser",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 51,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1132419670%7C%E6%B8%B8%E5%AE%A2npupcd"
+    },
+    {
+      "domain": ".shrek.6.cn",
+      "expires": 1936433432.643695,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 315367203.6436951,
+      "name": "__uu",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 21,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "B4162107343294275"
+    },
+    {
+      "domain": ".shrek.6.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "__ut",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 19,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "162107343289604"
+    },
+    {
+      "domain": "www.6.cn",
+      "expires": 1623665432,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 2599203,
+      "name": "shrek_uuid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 27,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "B4162107343294275"
+    },
+    {
+      "domain": ".6.cn",
+      "expires": 1623665432,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 2599203,
+      "name": "shrek_reft",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 29,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0%7C162107343289604"
+    },
+    {
+      "domain": ".6.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "shrek",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 44,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "B4162107343294275%7C162107343289604%7C0"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 5,
+    "first_party_short": 2,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.6.cn/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [
+        {
+          "arguments": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "method": "CanvasRenderingContext2D.getImageData"
+        }
+      ],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 1,
+    "window.appVersion": 0,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 0,
+    "window.mimeTypes": 0,
+    "window.platform": 1,
+    "window.plugins": 5,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0,
+    "window.useragent": 16
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "7dbf8f5c9890202f70e1f6320387b83a62e4bd7a0f120b9f9314258bd6bb49bd",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert CN RSA CA G1",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1641337199.0,
+      "not_valid_before": 1608591600.0,
+      "serial_number": 13294115282554934848259941527738745013,
+      "subject": {
+        "commonName": "*.6.cn",
+        "countryName": "CN",
+        "organizationName": "\u5317\u4eac\u82b1\u623f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "stateOrProvinceName": "\u5317\u4eac\u5e02"
+      },
+      "version": "v3"
+    },
+    "cipher": "CHACHA20_POLY1305",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.8.2"
+  },
+  "local_storage": [
+    {
+      "content": "{\"sysver\":1621047601,\"userver\":0,\"config\":{\"popup.reggift\":{\"eventname\":\"reggift\",\"stm\":1585728297,\"etm\":1903421105,\"url\":\"https://m.6.cn/appmate/newbie-gift-egg?eventname=reggift\",\"position\":\"align\",\"poptype\":\"align\",\"dayliy_times\":1000,\"con\":[{\"page\":\"index\",\"delay_tm\":2,\"show_tm\":0,\"step_tm\":0,\"role\":\"user\",\"tpltype\":[\"videoRoom\"]},{\"page\":\"room\",\"delay_tm\":10,\"show_tm\":0,\"step_tm\":0,\"role\":\"user\",\"tpltype\":[\"videoRoom\"]}],\"app_name\":{\"android\":[\"cn.v6.sixrooms\",\"cn.v6.xiuchang\",\"com.tencent.tmgp.sixrooms\"],\"ios\":[\"com.videochat.zg.iphone\"]},\"event_data\":[],\"id\":\"kopl9lt4\",\"__type\":\"popup\",\"__key\":\"popup.reggift\",\"storageKey\":\"_EVENT_POP_DATA_YOUKE\"}}}",
+      "key": "_EVENT_POP_CONFIG_YOUKE"
+    },
+    {
+      "content": "{\"reggift\":{\"st\":1,\"ptm\":1621073435058}}",
+      "key": "_EVENT_POP_DATA_YOUKE"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.6.cn/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/css/base/base_159.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/css/base/level_425.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/css/base/level2_425.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/css/feed_new_17.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/css/index_2016_271.css"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/logo.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi2.6rooms.com/live/2020/06/02/12/1010v1591071245259224740_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi2.6rooms.com/live/2021/04/02/15/1010v1617349423341741189_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi2.6rooms.com/live/2021/04/30/17/1010v1619775922409582055_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi1.6rooms.com/live/2021/01/16/20/1010v1610799487485277375_s.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/pixel.gif"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/base/app_code_v2.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/rec_icon_v2.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/news_icon-v2.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/affair_icon.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/new_anchor_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/feature_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/rec_f_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/my_follow_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/singer_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/dance_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/talk_show_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/more_hot_icon_v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/home2016/foot-logo-v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/base/index-svip-v4.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/base/head-search-v1.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/menubar_nav_bg.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/home2018/nav-i-hot.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2020/new-v2.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/home2016/img-default.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2020/video-focus-v3.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/mmlist_icon.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/home2017/headlines-hd.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2020/toutiao_top3_tag.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2020/headLines-infobg.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2020/headlines_v4.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/home2018/home-news-icon-v2.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/home2018/all_new_tags_icon_v2.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/home2016/btn-change.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2020/banner.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/home/2019/loading.gif"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/index/to-more-live-v2.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/LAB_2.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/analytic_90.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/jquery_5.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/login_23.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/swfobject_2016_3.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/z_355.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/gift_conf_40.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/base/gift_659.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/index_2016_321.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/feed_index_32.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://shrek.6.cn/live.6.cn/e6u2/rp.php?location=www.6.cn%2F&referer=&browser=mozilla%2F5.0%20(x11%3B%20linux%20x86_64)%20applewebkit%2F537.36%20(khtml%2C%20like%20gecko)%20chrome%2F90.0.4430.72%20safari%2F537.36&flash=-&msr=800%2C600&uid=0&pro=4&stamp=1621073431836"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/api/liveInfoCk.php"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/api/getIndexBigLiveListNew.php?act=new&uid=0&rich=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/api/getEventPop.php?av=0&clienttype=1&timestamp=1621073432507"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/coop/mobile/giftupdateNew.php?av=3.0&f=pc"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi0.6rooms.com/live/2021/01/18/08/1010v1610929053864694469_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2020/12/26/13/1010v1608961803040719204_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi0.6rooms.com/live/2021/01/06/15/1010v1609918226559474689_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi0.6rooms.com/live/2021/04/16/10/1010v1618541124355765913_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi2.6rooms.com/live/2021/05/03/11/1003v1620013430808573008.jpg"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/api/index/getnew.php?uid=0&rich=0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2020/02/07/10/1010v1581041024812724744_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi1.6rooms.com/live/2020/06/27/17/1010v1593251094910457118_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2021/04/10/17/1010v1618047106034877580_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi1.6rooms.com/live/2021/01/02/04/1010v1609534488858366588_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi0.xiu123.cn/live/2021/05/13/21/1013v1620911154829374254.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/h5_liveplayer/all_playerLoader_20.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vj0.6rooms.com/mini/js/h5_liveplayer/V6FlvPlayer_92.js"
+    },
+    {
+      "mime_type": "text/xml",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://rio.6rooms.com/live/?s=93831499"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/imges/room2016/sk1/logo-v4.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/tao/i/p3/7d1647dba91c7b5ff9def528af1576cb.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi0.6rooms.com/live/2021/01/18/08/1010v1610929053864694469_b.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/xml/54/73/p1621050902.js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi0.6rooms.com/live/2021/04/16/10/1010v1618541124355765913_b.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi0.6rooms.com/live/2021/05/07/15/1010v1620371540853067750_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2021/03/21/15/1010v1616313481041953381_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2021/05/05/17/1010v1620208581042836746_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi1.6rooms.com/live/2021/05/08/20/1010v1620476803661185211_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi2.6rooms.com/live/2021/04/11/17/1010v1618133995134522529_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2020/12/18/13/1010v1608268774163721565_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2021/03/23/14/1010v1616481338378329480_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi1.6rooms.com/live/2021/05/08/11/1010v1620444585185952136_s.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi3.6rooms.com/live/2021/05/05/07/1010v1620172018012718382_s.jpg"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/search.php?keyword"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sclick.6rooms.com/s.html?event=showlist&module=ipvafi4f&uuid=B4162107343294275&page=index&pageid=&rid=&data=&recid=45373816-0&from_module=&from_pageid=&from_recid=&watchid=1621073433355&reft=&platform=web&ver=1.5&func=live&ridlist=93831499%7C96885178%7C96673601%7C88278724"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sclick.6rooms.com/s.html?event=showlist&module=ipvafi4h-1&uuid=B4162107343294275&page=index&pageid=&rid=&data=&recid=45373816-0&from_module=&from_pageid=&from_recid=&watchid=1621073433355&reft=&platform=web&ver=1.5&func=live&ridlist=73634567"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sclick.6rooms.com/s.html?event=showlist&module=ipvafi4k&uuid=B4162107343294275&page=index&pageid=&rid=&data=&recid=45373816-0&from_module=&from_pageid=&from_recid=&watchid=1621073433355&reft=&platform=web&ver=1.5&func=live&ridlist=44983713%7C94937299%7C47497683%7C91066606"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sclick.xiu123.cn/s.html?url=https%3A%2F%2Fwww.6.cn%2F&event=load&module=noname&uuid=B4162107343294275&page=index&pageid=&rid=&data=&recid=45373816-0&from_module=&from_pageid=&from_recid=&watchid=1621073433355&reft=&platform=web&ver=1.5&resolution=800%2F600&reffer="
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sclick.6rooms.com/s.html?event=showlist&module=ipvafi4k&uuid=B4162107343294275&page=index&pageid=&rid=&data=&recid=45373816-0&from_module=&from_pageid=&from_recid=&watchid=1621073433355&reft=&platform=web&ver=1.5&func=live&ridlist=44983713%7C94937299%7C47497683"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://liveinfo.6rooms.com/infolog/riolog?flag=1&seq=0&duration=1241"
+    },
+    {
+      "mime_type": "video-x/flv",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://123-130-117-41.6rooms.com/httpflv/v93831499-196951326.flv"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vi2.6rooms.com/live/2021/04/11/15/1010v1618126422263279298_s.jpg"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sclick.6rooms.com/s.html?event=showlist&module=ipvafi4k&uuid=B4162107343294275&page=index&pageid=&rid=&data=&recid=45373816-0&from_module=&from_pageid=&from_recid=&watchid=1621073433355&reft=&platform=web&ver=1.5&func=live&ridlist=91066606"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://vj0.6rooms.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.6rooms.com/images/base/newBag-v3.png"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sclick.6rooms.com/s.html?event=showbtn&module=ChIndexAnchorGift&uuid=B4162107343294275&page=index&pageid=&rid=&data=&recid=45373816-0&from_module=&from_pageid=&from_recid=&watchid=1621073433355&reft=&platform=web&ver=1.5&url="
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/room/getWelfareList.php?t=1621073437505"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.6.cn/js/tpls/welfare_station_v12.html"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.xiu123.cn/images/events/welfare/icon_v6.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.6.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://vr0.xiu123.cn/images/room2020/side-close.png"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": null,
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": null,
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.6.cn\n",
+  "third_parties": {
+    "fqdns": [
+      "123-130-117-41.6rooms.com",
+      "liveinfo.6rooms.com",
+      "rio.6rooms.com",
+      "sclick.6rooms.com",
+      "sclick.xiu123.cn",
+      "vi0.6rooms.com",
+      "vi0.xiu123.cn",
+      "vi1.6rooms.com",
+      "vi2.6rooms.com",
+      "vi3.6rooms.com",
+      "vj0.6rooms.com",
+      "vr0.6rooms.com",
+      "vr0.xiu123.cn"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 92
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}

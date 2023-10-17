@@ -1,0 +1,1914 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".app-ab20.marketo.com",
+      "expires": 1621074008.396998,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": false,
+      "lifetime": 9001.39699792862,
+      "name": "__cf_bm",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 152,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "baf2525a0c0aff1879da908db3d1fa33bb5c8ec5-1621072208-1800-ATdhDABTEtJssAuuWeYwk/a1lKZbG8uO83uSr6oR/xbTsf4LXF8V3kPbAt9dpDZx4t5ZtXd2HU3vm4mYx8dpMGY="
+    },
+    {
+      "domain": ".www.instructure.com",
+      "expires": 1621158609,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93602,
+      "name": "location_is_verified",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 21,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1684144211,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.1584656061.1621072209"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1621158611,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93604,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 30,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.407318511.1621072209"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1621072269,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7262,
+      "name": "_gat",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 5,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": "www.instructure.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "ins_visitor",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 20,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "returning"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1684144210,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079203,
+      "name": "_mkto_trk",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 70,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "id:449-BVJ-543&token:_mch-instructure.com-1621072209694-47781"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1628848210,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783203,
+      "name": "_gcl_au",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 32,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1.1.1678103804.1621072210"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623664211.136141,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599204.136141062,
+      "name": "UserMatchHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 94,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AQLCbjAoTEiZQQAAAXlvbuyD1qwpa0qEeoz2lFZmsfTZeRKFc7qD2AQ8EqAded2Hn7ZO0EsN3mCtYQ"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623664211.136203,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599204.1362030506,
+      "name": "AnalyticsSyncHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 106,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AQKAcGLQIAY01AAAAXlvbuyDhbn8WEk1dOHMrAZtWVO1kYnDZVb7V7HbqOYcV9f2-crZOD17hWgEsUQ1QdUpaA"
+    },
+    {
+      "domain": ".ads.linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "v=2&lang=en-us"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1684186063.136254,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121056.13625407,
+      "name": "bcookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 49,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"v=2&8629ce03-444b-483f-8c6f-495ef4ac6335\""
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1621158611.136292,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93604.13629198074,
+      "name": "lidc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 108,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"b=VGST05:s=V:r=V:a=V:p=V:g=2202:u=1:i=1621072211:t=1621158611:v=2:sig=AQEgZIOJlo-l9_zNBSx6s1kQEXCivzqT\""
+    },
+    {
+      "domain": ".www.instructure.com",
+      "expires": 1652608211,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543204,
+      "name": "OptanonConsent",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 311,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "isIABGlobal=false&datestamp=Sat+May+15+2021+11%3A50%3A11+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.12.0&hosts=&consentId=bb37a5f4-726f-4816-b994-373a576ed887&interactionCount=0&landingPath=https%3A%2F%2Fwww.instructure.com%2Fes-es&groups=C0002%3A1%2CC0004%3A1%2CC0003%3A1%2CC0001%3A1"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1628848211,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783204,
+      "name": "_fbp",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 32,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "fb.1.1621072211231.637380514"
+    },
+    {
+      "domain": ".facebook.com",
+      "expires": 1628848211.324646,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 7783204.324645996,
+      "name": "fr",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0FuenqcJjmO7SQdos..Bgn5lT...1.0.Bgn5lT."
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "v=2&lang=es-es"
+    },
+    {
+      "domain": ".www.linkedin.com",
+      "expires": 1684186063.444756,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121056.44475603,
+      "name": "bscookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 96,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"v=1&20210515095011a612e902-bbc3-4551-80f5-9e220b791bceAQEyHQVyPnXVwECmdY-4rEB3ubKpuWkS\""
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1621072271,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7264,
+      "name": "_gat_UA-9138420-54",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 19,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".twitter.com",
+      "expires": 1684144211.960459,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079204.960458994,
+      "name": "personalization_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"v1_gRr5iz2esWftP+DWaFKRpQ==\""
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1684144212,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079205,
+      "name": "_lo_uid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 44,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "199905-1621072211417-cebec464b62e7e6a"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1621072812,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7805,
+      "name": "_lorid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 43,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "199905-1621072211417-aa0d93a5c5ce4db3"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1652608212,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543205,
+      "name": "_lo_v",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 6,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".instructure.com",
+      "expires": 1636624212,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 15559205,
+      "name": "__lotl",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 47,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "https%3A%2F%2Fwww.instructure.com%2Fes-es"
+    },
+    {
+      "domain": ".nr-data.net",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "JSESSIONID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 26,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "da5a2134c5f41ae0"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 10,
+    "first_party_short": 4,
+    "third_party_long": 7,
+    "third_party_short": 4,
+    "trackers": [
+      "facebook.com",
+      "linkedin.com",
+      "nr-data.net",
+      "twitter.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [
+      "ev=PageView"
+    ],
+    "facebook_pixel": true
+  },
+  "failed_requests": [],
+  "final_url": "https://www.instructure.com/es-es",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 1,
+    "window.appVersion": 3,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 2,
+    "window.indexDB": 0,
+    "window.language": 3,
+    "window.mimeTypes": 0,
+    "window.platform": 0,
+    "window.plugins": 3,
+    "window.screen.colorDepth": 3,
+    "window.screen.pixelDepth": 1,
+    "window.useragent": 40
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-9138420-54"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "47ecd32187de52d4922ea7506f754f772d22038203c6c717d878e0bc859aadd3",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Cloudflare Inc ECC CA-3",
+        "countryName": "US",
+        "organizationName": "Cloudflare, Inc."
+      },
+      "key": {
+        "curve": "secp256r1",
+        "size": 256,
+        "type": "ECC"
+      },
+      "not_valid_after": 1629540000.0,
+      "not_valid_before": 1597960800.0,
+      "serial_number": 3637944908077700768144597701619732626,
+      "subject": {
+        "commonName": "sni.cloudflaressl.com",
+        "countryName": "US",
+        "localityName": "San Francisco",
+        "organizationName": "Cloudflare, Inc.",
+        "stateOrProvinceName": "CA"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "max-age-too-short",
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://www.instructure.com/contact-us",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "3.5.1"
+  },
+  "local_storage": [
+    {
+      "content": "accept",
+      "key": "automaticRedirect"
+    },
+    {
+      "content": "null",
+      "key": "undefined"
+    },
+    {
+      "content": "1",
+      "key": "pa_enabled"
+    },
+    {
+      "content": "{\"stats\":{\"totalPages\":1,\"totalActivity\":0,\"totalTime\":0},\"_lo_tags\":[\"Spanish Spain\"]}",
+      "key": "lo_session"
+    },
+    {
+      "content": "[\"Spanish Spain\"]",
+      "key": "lo::behaviorTags"
+    },
+    {
+      "content": "{\"__distillery\":\"fbfa1a7_b8b8d65b-73b2-42c2-8550-b5db61d8f4ba-42e47b8dc-a39512ed2bea-3df4\"}",
+      "key": "wistia"
+    },
+    {
+      "content": "Sat May 15 2021 11:50:22 GMT+0200 (hora de verano de Europa central)",
+      "key": "lo_idleTime"
+    },
+    {
+      "content": "sid=3o2t9r41&sst=1621072211&sis=2&rv=0",
+      "key": "pa"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.instructure.com/",
+    "https://www.instructure.com/es-es"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/google_tag/primary/google_tag.script.js?qt2gk7"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/css/css_DPubWI2WQ4XVHyjwlla3xfW0-0JsO0gpCcczhl-f_1g.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://app-ab20.marketo.com/js/forms2/js/forms2.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_LgohPOhCy5jhP3pbbTnFFA2xTh6zrX0rslAiEBBPMQQ.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://munchkin.marketo.net/munchkin.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_s0OvPBdhSyBh0-x4xmB-DRZHNJLN2LEe702hgFxsMKM.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://instant.page/5.1.0"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/logo.svg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/styles/small_hq/public/image/2021-01/Canvas-NORAM-nav-highlight-funding.jpg.webp?itok=hfNgqZa3"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/styles/small_hq/public/image/2021-03/K-12-Stimulus%20Funding%20Webinar-Highlighted%20Resource%20Image-2021%20%281%29.png.webp?itok=HNczJJ8V"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/styles/small_hq/public/image/2021-01/Instructure%20Careers%20.png.webp?itok=rLQ8lC2y"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_dvDTydWB5Z-b-sUZWwkIIG9GuLLGHmKAbkB7Xe9s8mo.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.addtoany.com/menu/page.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_gTU_koiMSs-5bE_I3VhdNBEUiK7c5x0xuBQYTWJdmxo.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/modules/custom/ins_personalization/js/ins_personalization.js?v=1.x"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_Zn-8KGwVgXJ55CUEjj80VmeCr0Q4fsv7LjCzGJevwcI.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/proxima-nova/proxima_nova_reg-webfont.woff"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://pro.ip-api.com/json?key=NsI877AefRmEbY3&fields=countryCode"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/media/oembed?url=https%3A//instructure-7.wistia.com/medias/ezfj7aarf6&max_width=0&max_height=0&hash=QXw07eoehb-Rpuq9xfPfPyDMZnPHb00bm-RL6sI8BqY"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/instructure-logo-gray.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/search-red.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/canvas-login-logo.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/blobs/header-blob.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/canvas-logo.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/blobs/mid-blob-blue.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/instructure-logo.svg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/tiempos-headline/TiemposHeadlineWeb-Bold.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/proxima-nova/ProximaNova-Extrabld.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/proxima-nova/proxima_nova_bold-webfont.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_Gd-Awkz53CF1h-tiOzFWc08rbx_1RGLxw1gJQ4Jnpg8.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/icomoon/fonts/icomoon.woff"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/64605969-c347-4411-af89-6484d17a128a/64605969-c347-4411-af89-6484d17a128a.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KMN72MJ"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=1488900668&t=pageview&_s=1&dl=https%3A%2F%2Fwww.instructure.com%2F&ul=es-es&de=UTF-8&dt=Instructure%20%7C%20Educational%20Software%20Development&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=IEBAAEABAAAAAC~&jid=12521373&gjid=1865893742&cid=1584656061.1621072209&tid=UA-9138420-54&_gid=407318511.1621072209&_r=1&_slc=1&z=2070035398"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/es-es"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://munchkin.marketo.net/159/munchkin.js"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://www.instructure.com/libraries/lazysizes/lazysizes.min.js"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://www.instructure.com/ajax/dmb_notifications"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.instructure.com/media/oembed?url=https%3A//instructure-7.wistia.com/medias/ezfj7aarf6&max_width=0&max_height=0&hash=QXw07eoehb-Rpuq9xfPfPyDMZnPHb00bm-RL6sI8BqY",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://www.instructure.com/sites/default/files/css/css_REZt01W0Pj4GrqJHdPCMs0xbMA-RLlgiburyk_qeOrQ.css"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://fast.wistia.net/assets/external/E-v1.js"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://fast.wistia.net/embed/iframe/ezfj7aarf6"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://449-bvj-543.mktoresp.com/webevents/visitWebPage?_mchNc=1621072209697&_mchCn=&_mchId=449-BVJ-543&_mchTk=_mch-instructure.com-1621072209694-47781&_mchHo=www.instructure.com&_mchPo=&_mchRu=%2F&_mchPc=https%3A&_mchVr=159&_mchEcid=&_mchHa=&_mchRe=&_mchQp="
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/google_tag/primary/google_tag.script.js?qt2gk7"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/css/css_DPubWI2WQ4XVHyjwlla3xfW0-0JsO0gpCcczhl-f_1g.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://app-ab20.marketo.com/js/forms2/js/forms2.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_LgohPOhCy5jhP3pbbTnFFA2xTh6zrX0rslAiEBBPMQQ.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://munchkin.marketo.net/munchkin.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_s0OvPBdhSyBh0-x4xmB-DRZHNJLN2LEe702hgFxsMKM.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://instant.page/5.1.0"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/logo.svg"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_dvDTydWB5Z-b-sUZWwkIIG9GuLLGHmKAbkB7Xe9s8mo.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.addtoany.com/menu/page.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_gTU_koiMSs-5bE_I3VhdNBEUiK7c5x0xuBQYTWJdmxo.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/modules/custom/ins_personalization/js/ins_personalization.js?v=1.x"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/js/js_dE7wefc-F4WyyM01w8O2TrOrMAhZ1nEZWkrMNlNKCl4.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/tiempos-headline/TiemposHeadlineWeb-Bold.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/proxima-nova/proxima_nova_reg-webfont.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/proxima-nova/proxima_nova_bold-webfont.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/proxima-nova/ProximaNova-Extrabld.woff"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/fonts/icomoon/fonts/icomoon.woff"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/es-es/media/oembed?url=https%3A//instructure-7.wistia.com/medias/te2d63623n&max_width=0&max_height=0&hash=dF6H69gh8LdWequOl-dwOC8dx0BuqVC7_uNg_LSPqmo"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/instructure-logo-gray.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/search-red.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/canvas-login-logo.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/blobs/header-blob.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/canvas-logo.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/blobs/mid-blob-blue.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.instructure.com/sites/default/files/css/css_G-h75lAI13jrK65tRbYzYJDtwOqhdYANL122YjdWAa4.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/themes/custom/themekit/dist/images/svg/instructure-logo.svg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=844242417&t=pageview&_s=1&dl=https%3A%2F%2Fwww.instructure.com%2Fes-es&ul=es-es&de=UTF-8&dt=Instructure%20%7C%20Desarrollo%20de%20software%20educativo&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=AACAAEABAAAAAC~&jid=&gjid=&cid=1584656061.1621072209&tid=UA-9138420-54&_gid=407318511.1621072209&_slc=1&z=162926458"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/64605969-c347-4411-af89-6484d17a128a/64605969-c347-4411-af89-6484d17a128a.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KMN72MJ"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://munchkin.marketo.net/159/munchkin.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/libraries/lazysizes/lazysizes.min.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/es-es/ajax/dmb_notifications"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://449-bvj-543.mktoresp.com/webevents/visitWebPage?_mchNc=1621072210392&_mchCn=&_mchId=449-BVJ-543&_mchTk=_mch-instructure.com-1621072209694-47781&_mchHo=www.instructure.com&_mchPo=&_mchRu=%2Fes-es&_mchPc=https%3A&_mchVr=159&_mchEcid=&_mchHa=&_mchRe=https%3A%2F%2Fwww.instructure.com%2F&_mchQp="
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/plugins/ua/ec.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/gtm/js?id=OPT-M4BTB5B&t=gtm3&cid=1584656061.1621072209"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect.facebook.net/en_US/fbevents.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.ads-twitter.com/uwt.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d10lpsik1i8c69.cloudfront.net/w.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleoptimize.com/optimize.js?id=OPT-KKXGN39"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://rum-static.pingdom.net/pa-6014842b4994460011000343.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instructure.com/es-es/media/oembed?url=https%3A//instructure-7.wistia.com/medias/te2d63623n&max_width=0&max_height=0&hash=dF6H69gh8LdWequOl-dwOC8dx0BuqVC7_uNg_LSPqmo",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/css/css_REZt01W0Pj4GrqJHdPCMs0xbMA-RLlgiburyk_qeOrQ.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/E-v1.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/embed/iframe/te2d63623n"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/64605969-c347-4411-af89-6484d17a128a/0c879f3b-fc3a-4e75-bbcc-5efcfd3bc503/en.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otFloatingRoundedCorner.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/v2/otPcPanel.json"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=699722&time=1621072210664&url=https%3A%2F%2Fwww.instructure.com%2Fes-es"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/insideIframe.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/E-v1.js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/embed/medias/te2d63623n/swatch"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect.facebook.net/signals/config/613649908842349?v=2.9.39&r=stable"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/translations/es.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/iframeApi.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/translations/es.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://settings.luckyorange.net/?u=https%3A%2F%2Fwww.instructure.com%2Fes-es&s=199905"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.facebook.com/tr/?id=613649908842349&ev=PageView&dl=https%3A%2F%2Fwww.instructure.com%2Fes-es&rl=https%3A%2F%2Fwww.instructure.com%2F&if=false&ts=1621072211237&sw=800&sh=600&v=2.9.39&r=stable&ec=0&o=30&fbp=fb.1.1621072211231.637380514&it=1621072210750&coo=false&exp=l0&rqm=GET"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D699722%26time%3D1621072210664%26url%3Dhttps%253A%252F%252Fwww.instructure.com%252Fes-es%26liSync%3Dtrue"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.co/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=o1wf4&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.instructure.com%2Fes-es"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js-agent.newrelic.com/nr-1208.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/googleAds.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/captions.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/share-v2.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://bam.nr-data.net/1/71b0675e2c?a=1125735167&v=1208.49599aa&to=b1dSYEJTD0BSARUPDVYdcVdEWw5dHCYTExJZXmxZVVYIUm8hDggWSl1cWFVAPXx2DwMDBnFUQlVdVyJcXRYTCQ5UV0IZDkAEXVcHEw%3D%3D&rst=1476&ck=1&ref=https://www.instructure.com/es-es/media/oembed&ap=121&be=515&fe=1361&dc=550&perf=%7B%22timing%22:%7B%22of%22:1621072209978,%22n%22:0,%22f%22:1,%22dn%22:1,%22dne%22:1,%22c%22:1,%22ce%22:1,%22rq%22:3,%22rp%22:377,%22rpe%22:385,%22dl%22:418,%22di%22:549,%22ds%22:549,%22de%22:549,%22dc%22:1359,%22l%22:1360,%22le%22:1361%7D,%22navigation%22:%7B%7D%7D&at=QxBRFgpJHE4%3D&jsonp=NREUM.setToken"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=699722&time=1621072210664&url=https%3A%2F%2Fwww.instructure.com%2Fes-es&liSync=true"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/playPauseLoadingControl.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=UA-9138420-54"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/embed/captions/te2d63623n.json?callback=wistiajson1"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://fast.wistia.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://embedwistia-a.akamaihd.net/deliveries/499ccdfe0960b6a377ea168be5786df7.webp?image_crop_resized=640x360"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://js-agent.newrelic.com/nr-1208.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=o1wf4&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.instructure.com%2Fes-es"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d10lpsik1i8c69.cloudfront.net/js/clickstream.js?v=126f613"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://bam.nr-data.net/1/71b0675e2c?a=1125735167&v=1208.49599aa&to=b1dSYEJTD0BSARUPDVYdcVdEWw5dHCYTExJZXmxaX1YEb3ANDxIQV15cUUJuL1xXBzcPB09xX1pEQA5fXwcTS1xOW1VD&rst=2433&ck=1&ref=https://www.instructure.com/es-es&ap=2557&be=505&fe=2376&dc=900&perf=%7B%22timing%22:%7B%22of%22:1621072209260,%22n%22:0,%22u%22:472,%22ue%22:472,%22f%22:1,%22dn%22:1,%22dne%22:1,%22c%22:1,%22ce%22:1,%22rq%22:3,%22rp%22:446,%22rpe%22:460,%22dl%22:483,%22di%22:897,%22ds%22:899,%22de%22:1070,%22dc%22:2374,%22l%22:2375,%22le%22:2389%7D,%22navigation%22:%7B%7D%7D&fp=781&fcp=781&at=QxBRFgpJHE4%3D&jsonp=NREUM.setToken"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=844242417&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.instructure.com%2Fes-es&ul=es-es&de=UTF-8&dt=Instructure%20%7C%20Desarrollo%20de%20software%20educativo&sd=24-bit&sr=800x600&vp=785x600&je=0&ec=Client%20ID&ea=1584656061.1621072209&el=%2Fes-es&_u=SDCAAEALQAAAAC~&jid=774585221&gjid=151089502&cid=1584656061.1621072209&tid=UA-9138420-54&_gid=407318511.1621072209&_r=1&gtm=2wg5c1KMN72MJ&cd5=1584656061.1621072209&z=447811730"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://rum-collector-2.pingdom.net/img/beacon.gif?id=6014842b4994460011000343&sAW=800&sAH=600&bIW=800&bIH=600&pD=24&dPR=1&or=landscape-primary&nT=0&rC=0&nS=0&cS=1&cE=1&dLE=1&dLS=1&fS=1&hS=-1&rE=-1&rS=-1&reS=3&resS=446&resE=460&uEE=472&uES=472&dL=483&dI=897&dCLES=899&dCLEE=1070&dC=2374&lES=2375&lEE=2389&s=nt&title=Instructure%20%7C%20Desarrollo%20de%20software%20educativo&path=https%3A%2F%2Fwww.instructure.com%2Fes-es&ref=https%3A%2F%2Fwww.instructure.com%2F&sId=3o2t9r41&sST=1621072211&sIS=1&rV=0&v=1.4.1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.facebook.com/tr/?id=613649908842349&ev=Microdata&dl=https%3A%2F%2Fwww.instructure.com%2Fes-es&rl=https%3A%2F%2Fwww.instructure.com%2F&if=false&ts=1621072211782&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Instructure%20%7C%20Desarrollo%20de%20software%20educativo%22%2C%22meta%3Adescription%22%3A%22El%20software%20educativo%20de%20Instructure%20incluye%20Canvas%20LMS%2C%20utilizado%20por%20escuelas%20y%20universidades%20de%20todo%20el%20mundo.%20Descubra%20por%20qu%C3%A9%20Instructure%20es%20un%20excelente%20lugar%20para%20trabajar%20e%20invertir.%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Instructure%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.instructure.com%2Fes-es%2Fnode%2F1426%22%2C%22og%3Atitle%22%3A%22Homepage%22%2C%22og%3Aimage%22%3A%22https%3A%2F%2Finst.prod.acquia-sites.com%2Fsites%2Fdefault%2Ffiles%2Fimage%2F2021-01%2Fog-inst-homepage-comp.jpg%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.39&r=stable&ec=1&o=30&fbp=fb.1.1621072211231.637380514&it=1621072210750&coo=false&es=automatic&tm=3&exp=l0&rqm=GET"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://fast.wistia.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/styles/small_hq/public/oembed_thumbnails/RFdHL4j3i_w82i42TiZJGkESvcEc7gsEZm0kLPtgAV8.jpg.webp?itok=JSkDIQyb"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.instructure.com/es-es",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.instructure.com/sites/default/files/styles/x_small_hq/public/image/2021-01/Canvas-Segment-Higher-Ed-comp.png.webp?itok=_o26GJr-"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-9138420-54&cid=1584656061.1621072209&jid=774585221&gjid=151089502&_gid=407318511.1621072209&_u=SDCAAEALQAAAAC~&z=506251634"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-9138420-54&cid=1584656061.1621072209&jid=774585221&_u=SDCAAEALQAAAAC~&z=561563756"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-9138420-54&cid=1584656061.1621072209&jid=774585221&_u=SDCAAEALQAAAAC~&z=561563756"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/engines/hls_video.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d10lpsik1i8c69.cloudfront.net/graphics/blink_green.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d10lpsik1i8c69.cloudfront.net/graphics/logo-light.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d10lpsik1i8c69.cloudfront.net/graphics/sound-on-white.png"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://fast.wistia.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://distillery.wistia.com/x"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/images/blank.gif"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://d10lpsik1i8c69.cloudfront.net/css/reset.css"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "blob:https://www.instructure.com/5e228784-23e0-4b64-a32e-4cc30c4ed40c"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "blob:https://www.instructure.com/3b52167f-3e3f-44f2-bec7-11313f4352e3"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://fast.wistia.net/embed/iframe/te2d63623n",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/allIntegrations.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fast.wistia.net/assets/external/allIntegrations.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://fast.wistia.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pipedream.wistia.com/mput?topic=metrics"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://bam.nr-data.net/events/1/71b0675e2c?a=1125735167&v=1208.49599aa&to=b1dSYEJTD0BSARUPDVYdcVdEWw5dHCYTExJZXmxZVVYIUm8hDggWSl1cWFVAPXx2DwMDBnFUQlVdVyJcXRYTCQ5UV0IZDkAEXVcHEw%3D%3D&rst=11476&ck=1&ref=https://www.instructure.com/es-es/media/oembed"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.instructure.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://bam.nr-data.net/events/1/71b0675e2c?a=1125735167&v=1208.49599aa&to=b1dSYEJTD0BSARUPDVYdcVdEWw5dHCYTExJZXmxaX1YEb3ANDxIQV15cUUJuL1xXBzcPB09xX1pEQA5fXwcTS1xOW1VD&rst=12434&ck=1&ref=https://www.instructure.com/es-es"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=15768000",
+      "includeSubDomains": false,
+      "max-age": 15768000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "ES",
+      "key": "userCountry"
+    }
+  ],
+  "site_url": "https://www.instructure.com\n",
+  "third_parties": {
+    "fqdns": [
+      "",
+      "449-bvj-543.mktoresp.com",
+      "analytics.twitter.com",
+      "app-ab20.marketo.com",
+      "bam.nr-data.net",
+      "cdn.cookielaw.org",
+      "connect.facebook.net",
+      "d10lpsik1i8c69.cloudfront.net",
+      "distillery.wistia.com",
+      "embedwistia-a.akamaihd.net",
+      "fast.wistia.net",
+      "instant.page",
+      "js-agent.newrelic.com",
+      "munchkin.marketo.net",
+      "pipedream.wistia.com",
+      "pro.ip-api.com",
+      "px.ads.linkedin.com",
+      "rum-collector-2.pingdom.net",
+      "rum-static.pingdom.net",
+      "settings.luckyorange.net",
+      "snap.licdn.com",
+      "static.addtoany.com",
+      "static.ads-twitter.com",
+      "static.cloudflareinsights.com",
+      "stats.g.doubleclick.net",
+      "t.co",
+      "www.facebook.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.google.es",
+      "www.googleoptimize.com",
+      "www.googletagmanager.com",
+      "www.linkedin.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 86
+  },
+  "tracking": {
+    "num_tracker_cookies": 10,
+    "num_tracker_requests": 63,
+    "trackers": [
+      "449-bvj-543.mktoresp.com",
+      "analytics.twitter.com",
+      "bam.nr-data.net",
+      "cdn.cookielaw.org",
+      "connect.facebook.net",
+      "d10lpsik1i8c69.cloudfront.net",
+      "distillery.wistia.com",
+      "instant.page",
+      "js-agent.newrelic.com",
+      "munchkin.marketo.net",
+      "pipedream.wistia.com",
+      "pro.ip-api.com",
+      "px.ads.linkedin.com",
+      "rum-collector-2.pingdom.net",
+      "rum-static.pingdom.net",
+      "settings.luckyorange.net",
+      "snap.licdn.com",
+      "static.addtoany.com",
+      "static.ads-twitter.com",
+      "static.cloudflareinsights.com",
+      "stats.g.doubleclick.net",
+      "t.co",
+      "www.facebook.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "www.google.es",
+      "www.googleoptimize.com",
+      "www.googletagmanager.com"
+    ]
+  }
+}

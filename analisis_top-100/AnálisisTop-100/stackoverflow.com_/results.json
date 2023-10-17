@@ -1,0 +1,627 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".stackoverflow.com",
+      "expires": 2682374400.479656,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 1061310404.4796562,
+      "name": "prov",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 40,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "5b09afb2-91ae-447e-962f-e268b5f9bcd7"
+    },
+    {
+      "domain": ".stackoverflow.com",
+      "expires": 1684143197,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079201,
+      "name": "_ga",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 29,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.768583929.1621071198"
+    },
+    {
+      "domain": ".stackoverflow.com",
+      "expires": 1621157597,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 93601,
+      "name": "_gid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 31,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "GA1.2.1351307841.1621071198"
+    },
+    {
+      "domain": ".stackoverflow.com",
+      "expires": 1621071257,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7261,
+      "name": "_gat",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 5,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 3,
+    "first_party_short": 1,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://stackoverflow.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 0,
+    "window.appVersion": 0,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 1,
+    "window.mimeTypes": 0,
+    "window.platform": 1,
+    "window.plugins": 1,
+    "window.screen.colorDepth": 1,
+    "window.screen.pixelDepth": 0,
+    "window.useragent": 4
+  },
+  "google_analytics": {
+    "has_trackers": true,
+    "trackers_id": [
+      "UA-108242619-1"
+    ]
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "c3e68cec9641489d1b031efdb1cb9a932d15457e733b48e029a894d4750ea7b5",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "R3",
+        "countryName": "US",
+        "organizationName": "Let's Encrypt"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1626260559.0,
+      "not_valid_before": 1618484559.0,
+      "serial_number": 412414245714464895553007730354793943925944,
+      "subject": {
+        "commonName": "*.stackexchange.com"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "max-age-too-short",
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://stackoverflow.com/company/contact",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.12.4"
+  },
+  "local_storage": [
+    {
+      "content": "92b77712b125867a233539ec2da33532ee61187b3681bb067b726fdb3dc23c90,1621071196",
+      "key": "se:fkey"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.stackoverflow.com/",
+    "https://stackoverflow.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.stackoverflow.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stackoverflow.com/"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Js/stub.en.js?v=d0f0ef54ac95"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Shared/stacks.css?v=e56be0ad8624"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/stackoverflow/primary.css?v=33633edc31f6"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Shared/Product/product.css?v=e26bdc65a1f5"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Js/product-inview-animations.en.js?v=9bee9cc59d7c"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Js/product-lazy-load-images.en.js?v=5f75ca13778c"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Shared/Channels/channels.css?v=31563f9a485c"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/teams/teams-illo-free-sidebar-promo.svg?v=47faa659a05e"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/home/illo-code.svg?v=b7ee00fff9d8"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/home/illo-public.svg?v=14bd5a506009"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/home/illo-teams.svg?v=7e543f14fcc0"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/box-alt.svg?v=eb76fd9d884f"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/expensify-alt.svg?v=09697472a3f5"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/intercom-alt.svg?v=3eda71aed47c"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/microsoft-alt.svg?v=e57319450314"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/bloomberg-alt.svg?v=9fc4f6650377"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/instacart-alt.svg?v=15bd0b39b197"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/barkbox-alt.svg?v=419890745024"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/logitech-alt.svg?v=a99c74b88566"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/overstock-alt.svg?v=ed38ea932870"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/chevron-alt.svg?v=3bfd2c06a64b"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/logos/dialpad-alt.svg?v=4e63facf7f79"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/microsoft-integration/microsoft-teams-logo.svg?v=8e1ff91711d7"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/apple/Img/apple-touch-icon.png?v=daa7ff1d953e"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon.png?v=5cf7fe716a89"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/ai/Img/apple-touch-icon.png?v=f14d741b295c"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/softwareengineering/Img/apple-touch-icon.png?v=5e581fc45e58"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon.png?v=e16e1315edd6"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/salesforce/Img/apple-touch-icon.png?v=4c87c90207b3"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/home/illo-se.svg?v=f7e844293cc5"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/serverfault/Img/apple-touch-icon.png?v=6c3100d858bb"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon.png?v=0ad5b7a83e49"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/dba/Img/apple-touch-icon.png?v=cdcd5ff7b29e"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/quantumcomputing/Img/apple-touch-icon.png?v=2af3cc2b87e8"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/gamedev/Img/apple-touch-icon.png?v=0cfb55927bd2"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Sites/networkengineering/Img/apple-touch-icon.png?v=d66b1118cec8"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://cdn.sstatic.net/Sites/stackoverflow/primary.css?v=33633edc31f6",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/unified/sprites.svg?v=fcc0ea44ba27"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Img/product/teams/illo-teams-pricing-shadow.svg?v=9954fe201b05"
+    },
+    {
+      "mime_type": "font/x-woff",
+      "referer": "https://cdn.sstatic.net/Shared/Product/product.css?v=e26bdc65a1f5",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Fonts/source-sans-pro/source-sans-pro-regular-webfont.woff?v=993db0ec4347"
+    },
+    {
+      "mime_type": "font/x-woff",
+      "referer": "https://cdn.sstatic.net/Shared/Product/product.css?v=e26bdc65a1f5",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Fonts/source-sans-pro/source-sans-pro-bold-webfont.woff?v=f52ccc0bbce9"
+    },
+    {
+      "mime_type": "font/x-woff",
+      "referer": "https://cdn.sstatic.net/Shared/Product/product.css?v=e26bdc65a1f5",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Fonts/roboto-slab/roboto-slab-bold-webfont.woff?v=719d1c709127"
+    },
+    {
+      "mime_type": "font/x-woff",
+      "referer": "https://cdn.sstatic.net/Shared/Product/product.css?v=e26bdc65a1f5",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Fonts/roboto-slab/roboto-slab-regular-webfont.woff?v=a75088a46d79"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.sstatic.net/Js/full-anon.en.js?v=56b59c69bd68"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=1016891011&t=pageview&_s=1&dl=https%3A%2F%2Fstackoverflow.com%2F&dp=%2F&ul=es-es&de=UTF-8&dt=Stack%20Overflow%20-%20Where%20Developers%20Learn%2C%20Share%2C%20%26%20Build%20Careers&sd=24-bit&sr=800x600&vp=785x600&je=0&_u=YGBACEABBAAAAC~&jid=965635004&gjid=1837986000&cid=768583929.1621071198&tid=UA-108242619-1&_gid=1351307841.1621071198&_r=1&cd42=0&cd3=Home%2FIndex&z=2128664344"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://stackoverflow.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-108242619-1&cid=768583929.1621071198&jid=965635004&gjid=1837986000&_gid=1351307841.1621071198&_u=YGBACEAABAAAAC~&z=1902478154"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "frame-ancestors": [
+        "'self'",
+        "https://stackexchange.com"
+      ],
+      "header_value": "upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com",
+      "upgrade-insecure-requests": []
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=15552000",
+      "includeSubDomains": false,
+      "max-age": 15552000,
+      "preload": false
+    },
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.stackoverflow.com\n",
+  "third_parties": {
+    "fqdns": [
+      "ajax.googleapis.com",
+      "cdn.sstatic.net",
+      "stats.g.doubleclick.net",
+      "www.google-analytics.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 47
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 3,
+    "trackers": [
+      "stats.g.doubleclick.net",
+      "www.google-analytics.com"
+    ]
+  }
+}

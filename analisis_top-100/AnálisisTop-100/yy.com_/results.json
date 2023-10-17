@@ -1,0 +1,1470 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "www.yy.com",
+      "expires": 4774671444,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 3153607203,
+      "name": "hiido_ui",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 27,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0.05066921985271944"
+    },
+    {
+      "domain": ".yy.com",
+      "expires": 4774671446,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 3153607205,
+      "name": "hd_newui",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 26,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0.9605136366651095"
+    },
+    {
+      "domain": "www.yy.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "hdjs_session_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 33,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0.7325240012320728"
+    },
+    {
+      "domain": "www.yy.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "hdjs_session_time",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 30,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621071446307"
+    },
+    {
+      "domain": ".hm.baidu.com",
+      "expires": 2147385600.901694,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 526321359.90169406,
+      "name": "HMACCOUNT_BFESS",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 31,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "760D6362F6FCC531"
+    },
+    {
+      "domain": ".yy.com",
+      "expires": 1652607448,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543207,
+      "name": "Hm_lvt_c493393610cdccbddc1f124d567e36ab",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 49,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621071448"
+    },
+    {
+      "domain": ".yy.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "Hm_lpvt_c493393610cdccbddc1f124d567e36ab",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 50,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621071448"
+    },
+    {
+      "domain": ".baidu.com",
+      "expires": 1652607450.865255,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543209.865255117,
+      "name": "BAIDUID_BFESS",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 50,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "5626FBDFD5D08263E2B7C95646E9E6ED:FG=1"
+    },
+    {
+      "domain": ".passport.baidu.com",
+      "expires": 1880271451.972336,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 259207210.97233605,
+      "name": "HOSUPPORT_BFESS",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 16,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 3,
+    "first_party_short": 3,
+    "third_party_long": 3,
+    "third_party_short": 0,
+    "trackers": [
+      "baidu.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [
+    {
+      "domain_registered": true,
+      "error_type": "dns-not-resolved",
+      "url": "https://ylog.bigda.com/j.gif?act=webevent&eventid=10008953&value=1&sys=3&uid=&ui=&hostid=&source=&username=&act_type=602&time=1621071449005&sid=54880976&parm1=5164"
+    }
+  ],
+  "final_url": "https://www.yy.com/",
+  "fingerprinting": {
+    "canvas": {
+      "call_stack": [
+        {
+          "args": [],
+          "functionName": "m",
+          "location": {
+            "columnNumber": 23630,
+            "lineNumber": 0
+          },
+          "url": "https://wappass.baidu.com/static/touch/js/lib/fingerprint.js"
+        },
+        {
+          "args": [],
+          "functionName": "g",
+          "location": {
+            "columnNumber": 26237,
+            "lineNumber": 0
+          },
+          "url": "https://wappass.baidu.com/static/touch/js/lib/fingerprint.js"
+        },
+        {
+          "args": [
+            null
+          ],
+          "functionName": "F",
+          "location": {
+            "columnNumber": 957,
+            "lineNumber": 1
+          },
+          "url": "https://wappass.baidu.com/static/touch/js/lib/fingerprint.js"
+        },
+        {
+          "args": [],
+          "functionName": "",
+          "location": {
+            "columnNumber": 2341,
+            "lineNumber": 1
+          },
+          "url": "https://wappass.baidu.com/static/touch/js/lib/fingerprint.js"
+        },
+        {
+          "args": [],
+          "functionName": "",
+          "location": {
+            "columnNumber": 3408,
+            "lineNumber": 43
+          },
+          "url": "https://ppui-static-pc.cdn.bcebos.com/passApi/js/loginv4_tangram_de3c089.js"
+        },
+        {
+          "args": [
+            {
+              "isTrusted": true
+            }
+          ],
+          "functionName": "s.readyState.s.onload",
+          "location": {
+            "columnNumber": 9960,
+            "lineNumber": 43
+          },
+          "url": "https://ppui-static-pc.cdn.bcebos.com/passApi/js/loginv4_tangram_de3c089.js"
+        }
+      ],
+      "calls": [
+        {
+          "arguments": [
+            "yy.com",
+            4,
+            17
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [],
+          "method": "HTMLCanvasElement.toDataURL"
+        },
+        {
+          "arguments": [
+            "Cwm fjordbank glyphs vext quiz, \ud83d\ude03",
+            2,
+            15
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [
+            "Cwm fjordbank glyphs vext quiz, \ud83d\ude03",
+            4,
+            45
+          ],
+          "method": "CanvasRenderingContext2D.fillText"
+        },
+        {
+          "arguments": [],
+          "method": "HTMLCanvasElement.toDataURL"
+        },
+        {
+          "arguments": [],
+          "method": "HTMLCanvasElement.toDataURL"
+        }
+      ],
+      "is_fingerprinting": true
+    },
+    "webGL": {
+      "calls": [
+        {
+          "arguments": [
+            5,
+            0,
+            3
+          ],
+          "method": "WebGLRenderingContext.drawArrays"
+        },
+        {
+          "arguments": [],
+          "method": "WebGLRenderingContext.getSupportedExtensions"
+        },
+        {
+          "arguments": [
+            "EXT_texture_filter_anisotropic"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "WEBKIT_EXT_texture_filter_anisotropic"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "MOZ_EXT_texture_filter_anisotropic"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "WEBGL_debug_renderer_info"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        },
+        {
+          "arguments": [
+            "WEBGL_debug_renderer_info"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        }
+      ],
+      "have_webGL": true
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 12,
+    "window.appVersion": 6,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 4,
+    "window.language": 4,
+    "window.mimeTypes": 3,
+    "window.platform": 9,
+    "window.plugins": 8,
+    "window.screen.colorDepth": 3,
+    "window.screen.pixelDepth": 0,
+    "window.useragent": 246
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "4f573ff6128353ebded8079e044cf6abd22a22b4e8beff113da09f4868dd37e0",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Secure Site CA G2",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1641682799.0,
+      "not_valid_before": 1616108400.0,
+      "serial_number": 14972455853679533733361111334635934204,
+      "subject": {
+        "commonName": "yy.com",
+        "countryName": "CN",
+        "localityName": "\u5e7f\u5dde\u5e02",
+        "organizationName": "\u5e7f\u5dde\u6b22\u805a\u65f6\u4ee3\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "stateOrProvinceName": "\u5e7f\u4e1c\u7701"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.11.1"
+  },
+  "local_storage": [
+    {
+      "content": "{\"1621071443841601519\":1621071443842}",
+      "key": "YYPlayerInstanceIDMap"
+    },
+    {
+      "content": "1652607448444|1621071448",
+      "key": "Hm_lvt_c493393610cdccbddc1f124d567e36ab"
+    },
+    {
+      "content": "{\"version\":2,\"preferVolume\":0.5}",
+      "key": "HomePlayer"
+    },
+    {
+      "content": "1746269924750867",
+      "key": "webh5sdk_uuid"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.yy.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.yy.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_header/pc/css/index-1ec4f5f9.css?202801163253"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_footer/pc/css/index-a11c9cf8.css?202801163253"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/css/index-2a0cd144d1.css?202801163253"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/images/default_load-2ee4070232.png?202801163253"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/NjUyNjk5ZDMtNWYxYy00ZjQzLWI1YTgtMmJhNmQxODE0OWRi.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/YzZmNTllMmMtMjA1Yi00M2RkLWJjZDAtZGE1NGNjZjc1YTlh.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/MGVlYmFmODItMGRhYS00ZDE4LWJhZDctYzViOGM4Y2JmMDY5.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/NTBiM2U4YjYtNzdlNC00MWNjLWI3Y2UtYWZmYjY0NzVjZWM2.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/Y2VlZGQ1YzgtMzE0OC00OTc4LWEyNzktN2M5MjkwZjZjMjli.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2cdn.yy.com/NmE0ZGRhNTYtOGQ5OC00OGRkLWE3M2UtMTFlYzkxNWU2ODE4.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2cdn.yy.com/ZDE1NjFjYTktYTg4OC00NjI5LWI2NWEtYmMwMzVmNTJiOTI1.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mobilelivephoto.bs2dl.yy.com/2706169382_1620298310.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/NTRmZTA3YzQtNjIxOS00NDFjLWE4YzktNWY5M2Y3Zjc2NmVj.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2dl.yy.com/MTgzNDIyZWEtZDY5Yi00MGYyLWFiNDItYzliYWJjNjhjOTI4.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2cdn.yy.com/ZDg4MWM5YjQtZTQ0YS00NmVkLThiMjMtMjE1N2UwZjA2ZWVl.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2dl.yy.com/MzkxNmNlNTEtODI2YS00NTkyLWI0NWUtMzg5ZTQzNDA2Y2Vi.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://zonemin.bs2.yy.com/group16/M00/0fbac772e6694ec29a091af837f7553c.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2cdn.yy.com/YzY3MzZkNmYtM2M4Yy00MTFmLWEwMmYtZWU4MGIzNzQyMWNl.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2cdn.yy.com/YzUwOWE4ODUtYTlmZi00MTA3LThlZTgtMjBhZDc4NzdkNjc0.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mobilelivephoto.bs2dl.yy.com/2222485651_1601459570.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mobilelivephoto.bs2dl.yy.com/609288486_1621062975.952318.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyms.bs2cdn.yy.com/Y2M3YWNhYjktYjc1Zi00NDIxLTkwYjEtZTVkYjAyZjZjMWFk.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/YmQyZjdiYzQtMDczOC00ZWY2LWI4MDAtMjBiZmFjMDVlNjVh.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/ODAwMDA1MzQtMjg4ZC00MmVlLWE4Y2EtOWE3MzE2ODM0ZTE0.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://aqmidpic.oss-cn-shanghai.aliyuncs.com/screenshot/16077032_e41f89aa-5e66-4217-9a0a-39d8d56068ec.jpg?imageview/4/0/w/320/h/240/blur/1"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_footer/pc/js/index-a11c9cf8.js?target=yycomFootEl&type=full"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_header/pc/js/shim.js?202801163253"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_header/pc/js/index-1ec4f5f9.js?202801163253"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/js/ventors-7ca03badbc.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web2.yystatic.com/project/yyplayer_deploy/home/initHomePlayer-7d8d36d23745.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/js/index-64a0a0b297.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/js/index-0e3ab178.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_footer/pc/css/index.css"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_header/pc/css/index-1ec4f5f9.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_header/pc/images/logo-dc375a3e.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/OTYyNDdmMWYtNzVlYS00NDdmLWE0OGUtM2NkY2I2YzE0YTBl.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://emyfs.bs2cdn.yy.com/NmIyMzk4YjMtMzMwMS00YTZkLThkYmYtNzdlMGY2YzMwMmRj.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom/pc/css/index-2a0cd144d1.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/images/components/w-videoModule/images/new-icon/music-6300665fa3.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom/pc/css/index-2a0cd144d1.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/images/default_load-2ee4070232.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom/pc/css/index-2a0cd144d1.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/images/components/w-videoModule/images/w-videoModule-sprite-1a68f8ed80.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom/pc/css/index-2a0cd144d1.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/images/components/w-videoModule/images/new-icon/talk-002f7f273b.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom/pc/css/index-2a0cd144d1.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/images/components/w-videoModule/images/new-icon/dance-aa7a20e9ba.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom/pc/css/index-2a0cd144d1.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom/pc/images/components/w-videoModule/images/new-icon/handGame-faff40fcab.png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.yy.com/yyweb/module/footer/links?"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.bigda.com/hiido_internal.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/passApi/js/wrapper.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://udbres.yy.com/lgn/js/oauth/udbsdk/pcweb/udb.sdk.pcweb.embed.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://hdjs.bigda.com/hiido_internal.js?_=1621071443791"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://hdjs.bigda.com/hiido_internal.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web2.yystatic.com/project/yyplayer_deploy/home/initHomePlayer-ed96a80816b2.css"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.yy.com/search/search2.json?q=s&t=-22&n=1&s=10&_=1621071443768"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.yy.com/yyweb/module/data/header"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/js/async_component/vendors~sidetool-28dfc3ca.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/css/sidetool-332df9cf.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/js/async_component/sidetool-332df9cf.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/qrcode-3ee5a91e.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=websdkprotocol&act_type=&appkey=&domain=www.yy.com&eventid=20014313&from=&guid=0.050669219852719441621071444&hostid=&hostname=&hdid=&imei=&mac=&moreinfo=%7B%22is_sid%22%3A%220%22%7D&prodid=yylive&region=1&ref=&sys=4&sid=&sdkver=2.4.0&subsid=&sub_tempid=&statis_obj=&tempid=&time=1621071444&tpid=&type=judge&uid=&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36&ui=0.05066921985271944&url=https%3A%2F%2Fwww.yy.com%2F&value=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=websdkprotocol&act_type=0&appkey=&domain=www.yy.com&eventid=20015403&from=&guid=0.050669219852719441621071444&hostid=&hostname=&hdid=&imei=&mac=&moreinfo=%7B%22position%22%3A%22index%22%7D&prodid=yylive&region=1&ref=&sys=4&sid=&sdkver=2.4.0&subsid=&sub_tempid=&statis_obj=&tempid=&time=1621071444&tpid=&type=judge&uid=&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36&ui=0.05066921985271944&url=https%3A%2F%2Fwww.yy.com%2F&value=1"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/public/global/legacyBrowser/js/legacyBrowser.js?ie=false"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/default_avatar-1aa31b0e.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/dance-aa7a20e9.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/talk-002f7f27.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/facial-4609c98c.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/outdoors-9d928035.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/honor-b01a6ecc.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/chicken-6f75237a.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://web.yystatic.com/project/yycom_index/pc/css/index-0e3ab178.css?202801163253",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web.yystatic.com/project/yycom_index/pc/images/twoSpace-8976b8ac.png"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.yy.com/u/live/online/count/54880976/54880976"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web2.yystatic.com/project/yyplayer_deploy/home/lib/StreamManagerAddon-36745ecf5986.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://stream-manager.yy.com/v3/channel/streams?uid=0&cid=54880976&sid=54880976&appid=0&sequence=1621071444325&encode=json"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/c.gif?act=webyyhb&sid=null&subsid=null&uid=null&rel=pcweb-index&ver=null&tlt=null&ref=https%3A%2F%2Fwww.yy.com%2F&dr=0&vt=null&time=1621071444&wyy=null&source=0&hiido_ui=0.05066921985271944&topmic=null&sys=4&nr_type=1&wy=0.05066921985271944&"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/c.gif?act=webyylogin&uid=null&sid=null&subsid=null&rel=https%3A%2F%2Fwww.yy.com%2F&puid=null&time=0&wyy=null&ref=0&hiido_ui=0.05066921985271944&sys=4&nr_type=1&wy=0.05066921985271944&"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.yy.com/zone/guildanchor/highQualityGuild.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.yy.com/yyweb/user/querySubscribeList?_=1621071444561"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "blob:https://www.yy.com/23052a84-889a-4b57-8f25-3d10c7e28532"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://web2.yystatic.com/project/yyplayer_deploy/home/engines/FLVEngine-c737d0053581.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "blob:https://www.yy.com/9ab7c92d-35f6-4919-b4e7-dbe037c4dc64"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/passApi/js/uni_reg_wrapper.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=webstat&ht=www.yy.com&speid=&ui=0.9605136366651095&sc=800.600&cl=24-bit&pcmb=1&os=linux%7C&bs=chrome&mb=&se=&wd=&rfh=&rf=&sns=&fl=-1&ln=es-ES&ja=0&ck=1&ot=&lt=&xy=&ext=&v=v2.13.1&pl=https%3A%2F%2Fwww.yy.com%2F&isnew=1&hsid=0.7325240012320728&io=1&ut=1621071446308&rnd=0.96051363666510951621071446308&siteid=www%40yy&time=1621071446"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.bigda.com/sdk/websdk.js"
+    },
+    {
+      "mime_type": "video/x-flv",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://aliyun-flv-ipv6.yy.com/live/15013_xv_54880976_54880976_0_0_0-15013_xa_54880976_54880976_0_0_0-0-0-1-1574575-18-1621071011815217.flv?codec=orig&appid=15013&secret=0faab59e9930e7b5ad1174b45435150b&t=1621157845&r=enter&playeruid=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://udbres.yy.com/blank.html"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://udbres.yy.com/blank.html"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://udbres.yy.com/lgn/css/oauth/udbsdk/xelogin.sdk.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://udbres.yy.com/lgn/js/oauth/udbsdk/udb.sdk.getmm.min.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071447&key=10eeb5736e910566ff977e27bf6412b9&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071446523&reqdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FHttpChannelStreamsQuery%22%2C%22reqtime%22%3A1878%2C%22ret%22%3A0%2C%22rtime%22%3A1621071446523%7D%5D&counterdata=%5B%5D&flatdata=%5B%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071447&key=10eeb5736e910566ff977e27bf6412b9&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071446525&reqdata=%5B%5D&counterdata=%5B%5D&flatdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FHttpChannelStreamsQuery%22%2C%22extra%22%3A%7B%22uid%22%3A0%2C%22cid%22%3A%2254880976%22%2C%22sid%22%3A%2254880976%22%7D%7D%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071447&key=10eeb5736e910566ff977e27bf6412b9&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071446526&reqdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FJoinChanFetchStreams%22%2C%22reqtime%22%3A1884%2C%22ret%22%3A0%2C%22rtime%22%3A1621071446526%7D%5D&counterdata=%5B%5D&flatdata=%5B%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071447&key=10eeb5736e910566ff977e27bf6412b9&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071446527&reqdata=%5B%5D&counterdata=%5B%5D&flatdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FJoinChanFetchStreams%22%2C%22extra%22%3A%7B%22uid%22%3A0%2C%22cid%22%3A%2254880976%22%2C%22sid%22%3A%2254880976%22%7D%7D%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.bigda.com/sdk/websdk.js?_=1621071443792"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://hm.baidu.com/hm.js?c493393610cdccbddc1f124d567e36ab"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=websdkprotocol&act_type=101&appkey=&domain=www.yy.com&eventid=20018031&from=&guid=0.050669219852719441621071446&hostid=&hostname=&hdid=&imei=&mac=&moreinfo=%7B%22s_type%22%3A3%2C%22ua_type%22%3A%22Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36%22%2C%22player_type%22%3A%222%22%2C%22system_type%22%3A%22linux%22%2C%22browser_type%22%3A%22chrome%22%2C%22url_protocal%22%3A%22https%22%7D&prodid=yylive&region=1&ref=&sys=4&sid=0&sdkver=2.4.1&subsid=&sub_tempid=&statis_obj=&tempid=&time=1621071446&tpid=&type=judge&uid=&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36&ui=0.05066921985271944&url=https%3A%2F%2Fwww.yy.com%2F&value=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=websdkprotocol&act_type=102&appkey=&domain=www.yy.com&eventid=20018031&from=&guid=0.050669219852719441621071446&hostid=&hostname=&hdid=&imei=&mac=&moreinfo=%7B%22s_type%22%3A3%2C%22ua_type%22%3A%22Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36%22%2C%22player_type%22%3A%222%22%2C%22system_type%22%3A%22linux%22%2C%22browser_type%22%3A%22chrome%22%2C%22url_protocal%22%3A%22https%22%7D&prodid=yylive&region=1&ref=&sys=4&sid=0&sdkver=2.4.1&subsid=&sub_tempid=&statis_obj=&tempid=&time=1621071446&tpid=&type=judge&uid=&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36&ui=0.05066921985271944&url=https%3A%2F%2Fwww.yy.com%2F&value=1"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ppui-static-pc.cdn.bcebos.com/passApi/css/loginv4_b50884d.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ppui-static-pc.cdn.bcebos.com/passApi/css/uni_reg_6562f7e.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ppui-static-pc.cdn.bcebos.com/passApi/js/reg_tangram_d17206c.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=800x600&vl=600&et=0&ja=0&ln=es-es&lo=0&rnd=975098037&si=c493393610cdccbddc1f124d567e36ab&v=1.2.80&lv=1&sn=63223&r=0&ww=800&ct=!!&u=https%3A%2F%2Fwww.yy.com%2F&tt=YY-%E5%85%A8%E6%B0%91%E5%A8%B1%E4%B9%90%E7%9A%84%E4%BA%92%E5%8A%A8%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ppui-static-pc.cdn.bcebos.com/passApi/js/loginv4_tangram_de3c089.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/c.gif?act=lpfplayerfirstaccess&appid=15013&scene=120&euid=0&url=https%3A%2F%2Faliyun-flv-ipv6.yy.com%2Flive%2F15013_xv_54880976_54880976_0_0_0-15013_xa_54880976_54880976_0_0_0-0-0-1-1574575-18-1621071011815217.flv%3Fcodec%3Dorig%26appid%3D15013%26secret%3D0faab59e9930e7b5ad1174b45435150b%26t%3D1621157845%26r%3Denter%26playeruid%3D0&cln=54880976&ver=3.1.11&appinfo=&sd=4697&setr=0&clt=3&crhs200s=2490&cdn_domain=aliyun-flv-ipv6.yy.com&lpr=0&afas=5169&anar=0&as200trffs=22&apd=59&affcs=5847023&vfvs=5169&vnvr=0&vs200trfkfs=24&vrtp=55&vptd=57&cffc=5847023&webrd=472&websmg=1895&time=1621071449&key=17ec61f9e287646f54274056a2e76b91&ctype=1&info=&nt=-1&cets=0&cugi=-1&chps=-1&cchps=-1&crhs302s=-1&ccrps=-1&chpi=&crpi=&cipst=-1&arfai=-1&vds=-1&vdtpr=-1&vprtd=-1&vrfai=-1&lsq=-1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071449&key=5c5ed2148c6ac719631a3c1b11047876&appkey=&ver=1.2.7&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071449005&reqdata=%5B%7B%22scode%22%3A50175%2C%22uri%22%3A%22yycom_index_video_time_consuming%22%2C%22reqtime%22%3A5164%2C%22ret%22%3A200%2C%22rtime%22%3A1621071449005%7D%5D&counterdata=%5B%5D&flatdata=%5B%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://ylog.bigda.com/j.gif?act=webevent&eventid=10008953&value=1&sys=3&uid=&ui=&hostid=&source=&username=&act_type=602&time=1621071449005&sid=54880976&parm1=5164"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071449&key=5c5ed2148c6ac719631a3c1b11047876&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071449015&reqdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FJoinChanFetchLineFristFrame%22%2C%22reqtime%22%3A4685%2C%22ret%22%3A0%2C%22rtime%22%3A1621071449015%7D%5D&counterdata=%5B%5D&flatdata=%5B%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071449&key=5c5ed2148c6ac719631a3c1b11047876&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071449019&reqdata=%5B%5D&counterdata=%5B%5D&flatdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FJoinChanFetchLineFristFrame%22%2C%22extra%22%3A%7B%22uid%22%3A0%2C%22cid%22%3A%2254880976%22%2C%22sid%22%3A%2254880976%22%7D%7D%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071449&key=5c5ed2148c6ac719631a3c1b11047876&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071449141&reqdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FGetStreamConfig%22%2C%22reqtime%22%3A3000%2C%22ret%22%3A7000100%2C%22rtime%22%3A1621071449141%7D%5D&counterdata=%5B%5D&flatdata=%5B%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=mmetric&time=1621071449&key=5c5ed2148c6ac719631a3c1b11047876&appkey=&ver=1.10.8&sdkver=v2.13.1&sys=linux&osver=chrome&model=&sjp=&hdid=&ntm=&imei=&mac=&net=&clienttime=1621071449143&reqdata=%5B%5D&counterdata=%5B%5D&flatdata=%5B%7B%22scode%22%3A50436%2C%22uri%22%3A%2215013%2Fweb%2FGetStreamConfig%22%2C%22extra%22%3A%7B%22uid%22%3A0%2C%22cid%22%3A%2254880976%22%2C%22sid%22%3A%2254880976%22%7D%7D%5D&siteid=www%40yy"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://wappass.baidu.com/static/waplib/moonshad.js?tt=1621071449716"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://wappass.baidu.com/static/waplib/moonshad.js?tt=1621071449977"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/static/passpc-base/js/ld.min.js?cdnversion=1621071451219"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://wappass.baidu.com/static/machine/js/api/mkd.js?cdnversion=1621071451219"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://wappass.baidu.com/static/touch/js/lib/fingerprint.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/v2/getpublickey?token=&tpl=yylive&subpro=&apiver=v3&tt=1621071451223&gid=7571275-0AB1-47C7-BA41-C1F1EF5D179A&loginversion=v4&traceid=&time=1621071451&alg=v3&sig=Zkx5eG96ak10RU55Y0tjTHVrSFg1bzk0QXRmSEtmMWVqOFREOVF4aEpvSmpkWjlVTS9Ya1V0QUdNUk1aYU5RQg%3D%3D&elapsed=75&shaOne=004deeada7a40da3327e9edc664c462ed61cf32c&callback=bd__cbs__snnlkv"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/v2/api/?getapi&token=&tpl=yylive&subpro=&apiver=v3&tt=1621071451302&class=login&gid=7571275-0AB1-47C7-BA41-C1F1EF5D179A&loginversion=v4&logintype=basicLogin&traceid=&time=1621071451&alg=v3&sig=MXFzM3lwWFYwS0JWbjkzQ2xJRTFWZG5HZW5GeEhvMEVsZDBVRE1ZN3M5MHA0Tnh4eG9rWklQNVFYMlEvNEJhMg%3D%3D&elapsed=10&shaOne=001a52a9f27f08730736daf105edefea4097ba97&callback=bd__cbs__4oppot"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/static/passpc-base/js/dv/g.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/static/passpc-base/js/ld.min.js?cdnversion=1621071451475"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://wappass.baidu.com/static/machine/js/api/mkd.js?cdnversion=1621071451475"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/v2/api/?getapi&token=&tpl=yylive&subpro=&apiver=v3&tt=1621071451485&class=regPhone&gid=AB18D06-4601-4440-BD18-423FC1FAF066&app=&traceid=&time=1621071451&alg=v3&sig=UDJObVlhZ3BXWmx2QU9zZUVPWVFaTnFWTXYvcHZxQTNaR1g1WVd0UG03RW0zbzlYOUZMZGpKSUFWWVJoTno2Rg%3D%3D&elapsed=30&shaOne=0094ec0dfa72e33a46e5ccf98991543dbb02e5b6&callback=bd__cbs__urrn6o"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://nsclick.baidu.com/v.gif?pid=111&v=1621071451478&page=pc-inside&tpl=yylive&source=pc&auto_statistic=e2V2ZW50VHlwZTpwYy1yZWdpc3Rlci1zaG93fQ==&auto_en=pc-register-show"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/img/v.gif?&url=&tpl=yylive&regtype=phone&type=regshow&_t=1621071451531"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://wappass.baidu.com/static/machine/css/api/mkd_a82945f.css"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://passport.baidu.com/viewlog?callback=jQuery1102021857955261335826_1621071454936&ak=1e3f2dd1c81f2075171a547893391274&_=1621071454937"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.yy.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://mlog.bigda.com/j.gif?act=websdkprotocol&act_type=103&appkey=&domain=www.yy.com&eventid=20018031&from=&guid=0.050669219852719441621071454&hostid=&hostname=&hdid=&imei=&mac=&moreinfo=%7B%22s_type%22%3A3%2C%22ua_type%22%3A%22Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36%22%2C%22player_type%22%3A%222%22%2C%22system_type%22%3A%22linux%22%2C%22browser_type%22%3A%22chrome%22%2C%22url_protocal%22%3A%22https%22%7D&prodid=yylive&region=1&ref=&sys=4&sid=0&sdkver=2.4.1&subsid=&sub_tempid=&statis_obj=&tempid=&time=1621071454&tpid=&type=judge&uid=&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.72%20Safari%2F537.36&ui=0.05066921985271944&url=https%3A%2F%2Fwww.yy.com%2F&value=1"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": null,
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": null,
+    "X-XSS-Protection": null
+  },
+  "session_storage": [
+    {
+      "content": "1621071448",
+      "key": "Hm_lpvt_c493393610cdccbddc1f124d567e36ab"
+    }
+  ],
+  "site_url": "https://www.yy.com\n",
+  "third_parties": {
+    "fqdns": [
+      "",
+      "aqmidpic.oss-cn-shanghai.aliyuncs.com",
+      "cdn.bigda.com",
+      "hdjs.bigda.com",
+      "hm.baidu.com",
+      "mlog.bigda.com",
+      "nsclick.baidu.com",
+      "passport.baidu.com",
+      "ppui-static-pc.cdn.bcebos.com",
+      "wappass.baidu.com",
+      "web.yystatic.com",
+      "web2.yystatic.com",
+      "ylog.bigda.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 84
+  },
+  "tracking": {
+    "num_tracker_cookies": 3,
+    "num_tracker_requests": 27,
+    "trackers": [
+      "hm.baidu.com",
+      "mlog.bigda.com",
+      "nsclick.baidu.com",
+      "passport.baidu.com",
+      "wappass.baidu.com",
+      "ylog.bigda.com"
+    ]
+  }
+}

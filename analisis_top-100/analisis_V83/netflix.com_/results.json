@@ -1,0 +1,537 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".netflix.com",
+      "expires": 1621188444.878951,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 18001.878951072693,
+      "name": "flwssn",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 42,
+      "value": "7007e801-9f37-4511-8f9e-1f0ffc6dc146"
+    },
+    {
+      "domain": ".netflix.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "clSharedContext",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 51,
+      "value": "8af91421-4726-4b0e-b1ae-adba0ec0faf8"
+    },
+    {
+      "domain": ".netflix.com",
+      "expires": 1652713644.469077,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.46907711,
+      "name": "nfvdid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 130,
+      "value": "BQFmAAEBEA2tpWNyU9gEljoQb0Q7qYtAT3eLRCndAT2Fj-EfpGH6ONGiPhYl7kFWoF2hkGGMEonRFKL1mE7yuv1LdqiyS7TKCy72d3pB7RLxLsCF11MEJQ%3D%3D"
+    },
+    {
+      "domain": ".netflix.com",
+      "expires": 1652713644.469138,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.469137907,
+      "name": "SecureNetflixId",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Strict",
+      "secure": true,
+      "session": false,
+      "size": 94,
+      "value": "v%3D2%26mac%3DAQEAEQABABSZI64wwIacTp1f0OrrgYp81Cvwzwo54gE.%26dt%3D1621177644438"
+    },
+    {
+      "domain": ".netflix.com",
+      "expires": 1652713644.469197,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.469197035,
+      "name": "NetflixId",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": true,
+      "session": false,
+      "size": 462,
+      "value": "v%3D2%26ct%3DBQAOAAEBEKMNAweQL2rhwLXQZzlyh4CBABZ7APqZtUwMHliiRrwyGaT7sSOI7-C4zzl1S_0BgcZ5B8wbXIuxlMDuojxf0NVUdBet2XZmcMfqzlCSsXXj5LDINgROYh7A3UvZi4oDXForxHTY7j4LCGes3aabtXj0qFwssj3GE4LdTVI0v9pQEmmH5-3nZ8_dPq1GP3U1RY8wz9jqTP-VlRPC7cP2mqFsirwJtKC02BmV5zN5ZnjoWvIQj3PunTeng_L1Ag9I-zyH-W2e18a51kspYY0mwYiBoT3ll--qIrSbRH6e78UtS7m5gOlOqZM_Xp2XSk6ETCUY2HQsUfkhLzMS4jYGpM1a88GdK6BT0VcXYVfdMP0XS1w.%26bt%3Ddev%26mac%3DAQEAEAABABTfqWl0G2rUzfUt5A3t9i4uUKCfZrSjuww."
+    },
+    {
+      "domain": ".netflix.com",
+      "expires": 1652713662.415552,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543219.4155519,
+      "name": "memclid",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 43,
+      "value": "7b4975bc-fc2d-436c-a7d2-3aa40f14332c"
+    },
+    {
+      "domain": ".www.netflix.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "cL",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 71,
+      "value": "1621177645609%7C162117764536970832%7C162117764529547776%7C%7C4%7Cnull"
+    },
+    {
+      "domain": ".netflix.com",
+      "expires": 1652713646,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203,
+      "name": "OptanonConsent",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 350,
+      "value": "isIABGlobal=false&datestamp=Sun+May+16+2021+17%3A07%3A26+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.6.0&consentId=428d8e84-f1c5-408d-9d66-3d3be7ab916f&interactionCount=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fes%2F&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A0&hosts=H1%3A1%2CH12%3A1%2CH13%3A1%2CH27%3A0%2CH28%3A0%2CH30%3A0"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 5,
+    "first_party_short": 3,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.netflix.com/es/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 0,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 2,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 0,
+    "window.navigator.languages": 3,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 0,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 17,
+    "window.navigator.vendor": 1,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "fd5a0192af39babb1033ca976f83f0b34b9f6b29042c930d402d911143717e46",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 Secure Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1642071600.0,
+      "not_valid_before": 1578870000.0,
+      "serial_number": 20158493414915061872756161117350999280,
+      "subject": {
+        "commonName": "www.netflix.com",
+        "countryName": "US",
+        "localityName": "Los Gatos",
+        "organizationName": "Netflix, Inc.",
+        "organizationalUnitName": "Operations",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://help.netflix.com/contactus",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.11.1"
+  },
+  "local_storage": [
+    {
+      "content": "{\"metadata\":{\"token\":null},\"maxBufferSize\":20,\"maxFlushDelay\":5000,\"eventsQueuedBeforeEnabled\":[{\"modalView\":\"nmLanding\",\"type\":\"sessionStarted\",\"category\":\"uiQOE\",\"name\":\"appSession.started\",\"sessionName\":\"appSession\",\"time\":1621177645608,\"id\":\"162117764579963613\",\"sessionId\":\"162117764536970832\"},{\"category\":\"uiQOE\",\"data\":{\"trigger\":\"appStart\",\"acceptLanguageHeader\":\"es-ES\"},\"modalView\":\"nmLanding\",\"type\":\"sessionStarted\",\"name\":\"userSession.started\",\"sessionName\":\"userSession\",\"time\":1621177645609,\"id\":\"162117764524418505\",\"sessionId\":\"162117764529547776\"},{\"category\":\"uiQOE\",\"modalView\":\"nmLanding\",\"type\":\"event\",\"name\":\"uiModalViewChanged\",\"time\":1621177645609,\"id\":\"16211776451417833\"}],\"sequence\":1,\"sequencePrefix\":\"\",\"sessionState\":{\"sessions\":{},\"sessionsList\":[]},\"queuedRequests\":[]}",
+      "key": "NFSessionData.nfNotifications"
+    },
+    {
+      "content": "1621177645609",
+      "key": "NFSessionData.nfSessionTs"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.netflix.com/",
+    "https://www.netflix.com/es/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.netflix.com/es/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v4aa198e1/js/js/bootstrap.js,common%7Cbootstrap.js/2/0c3i032V2M2X062I303h080n003j2_3d2S322Y3c2O31342Q2P0b023e/bck/true/none"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v4aa198e1/js/js/signup%7Chome%7CourStory%7Cfuji%7CfujiFrameworkClient.js/2/0c3i032V2M2X062I303h080n003j2_3d2S322Y3c2O31342Q2P0b023e/l/true/none"
+    },
+    {
+      "mime_type": null,
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": null,
+      "status_text": null,
+      "url": "https://www.netflix.com/personalization/cl2/freeform/WebsiteDetect?source=wwwhead&fetchType=css&modalView=nmLanding"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-css-v4aa198e1/css/css/less%7Ccore%7Cerror-page.less/1/ayuCwJ4HsvF9BGI/none/true/none"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-css-v4aa198e1/css/css/less%7Cpages%7Chome%7CourStory%7Cfuji%7Cfuji.less/1/ayuCwJ4HsvF9BGI/none/true/none"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/vlv3/9b1cc4b3-40f2-4bfa-9006-28f7a0aedb45/ec8aeaf2-ea59-4515-9b18-ca5622d21d1f/ES-es-20210513-popsignuptwoweeks-perspective_alpha_website_small.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/boxshot.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://occ-0-2692-360.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABYQim29IclEmfJ2BAQN0kBiMqb2WES_HzcYk8Xm6q20pg-O5B13PYEFUEXHCgw_Tx50Z3S0oAebD6o16jpExXe57dpeP.png?r=500"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.netflix.com/personalization/cl2/freeform/WebsiteDetect?source=wwwhead&fetchType=js&modalView=nmLanding"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.netflix.com/personalization/cl2/freeform/WebsiteScreen?source=wwwhead&fetchType=js&winw=800&winh=600&screenw=800&screenh=600&ratio=1"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/87b6a5c0-0104-4e96-a291-092c11350111/87b6a5c0-0104-4e96-a291-092c11350111.json"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-css-v4aa198e1/css/css/less%7Ccore%7Cerror-page.less/1/ayuCwJ4HsvF9BGI/none/true/none",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff2"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-css-v4aa198e1/css/css/less%7Cpages%7Chome%7CourStory%7Cfuji%7Cfuji.less/1/ayuCwJ4HsvF9BGI/none/true/none",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "referer": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-css-v4aa198e1/css/css/less%7Ccore%7Cerror-page.less/1/ayuCwJ4HsvF9BGI/none/true/none",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "referer": "https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-css-v4aa198e1/css/css/less%7Cpages%7Chome%7CourStory%7Cfuji%7Cfuji.less/1/ayuCwJ4HsvF9BGI/none/true/none",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://assets.nflxext.com/ffe/siteui/fonts/nf-icon-v1-93.woff"
+    },
+    {
+      "mime_type": "video/x-m4v",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "Partial Content",
+      "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-0819.m4v"
+    },
+    {
+      "mime_type": "video/x-m4v",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 206,
+      "status_text": "Partial Content",
+      "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-devices.m4v"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.netflix.com/personalization/log"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.6.0/otBannerSdk.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/consent/87b6a5c0-0104-4e96-a291-092c11350111/d8b56389-964b-4a1f-aa83-3a9db8f1b6a4/es-es.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.6.0/assets/otFlat.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.cookielaw.org/scripttemplates/6.6.0/assets/otPcTab.json"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.netflix.com/es/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.netflix.com/personalization/cl2"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000",
+      "includeSubDomains": false,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport",
+      "is_active": true,
+      "mode": "block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.netflix.com\n",
+  "third_parties": {
+    "fqdns": [
+      "assets.nflxext.com",
+      "cdn.cookielaw.org",
+      "codex.nflxext.com",
+      "geolocation.onetrust.com",
+      "occ-0-2692-360.1.nflxso.net"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 23
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 6,
+    "trackers": [
+      "cdn.cookielaw.org"
+    ]
+  }
+}

@@ -1,0 +1,1144 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": "www.naver.com",
+      "expires": 1936542236,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 315367202,
+      "name": "NM_THEME_EDIT",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 13,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": ""
+    },
+    {
+      "domain": ".naver.com",
+      "expires": 2524640400.616304,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 903465366.6163039,
+      "name": "NNB",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 16,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "MLIKDEQ4I6QWA"
+    },
+    {
+      "domain": ".shopping.naver.com",
+      "expires": 1621185837.857357,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 10803.857357025146,
+      "name": "_shopboxeventlog",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 21,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "false"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 2,
+    "first_party_short": 1,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.naver.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 2,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 4,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 4,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 12,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 8,
+    "window.navigator.vendor": 0,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 4,
+    "window.screen.pixelDepth": 0
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "f3f94d9aa14310ebb6f3447ab26dd2d4e9bfbbab443aa08a47db3c6bed2a48cc",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "GeoTrust RSA CA 2018",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1649195999.0,
+      "not_valid_before": 1617228000.0,
+      "serial_number": 3933404556301575764259695522623745944,
+      "subject": {
+        "commonName": "ssl.pstatic.net",
+        "countryName": "KR",
+        "localityName": "Seongnam-si",
+        "organizationName": "Naver Business Platform Corp.",
+        "stateOrProvinceName": "Gyeonggi-do"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-256",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://www.navercorp.com/naver/proposalGuide",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.12.4"
+  },
+  "local_storage": [],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.naver.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.naver.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/css/nmain.20210510.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/sstatic/search/pc/css/sp_autocomplete_210318.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/js/common/min/probe.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/external.529d9cb5.js?o=www"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/preload.6f271894.js?o=www"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/polyfill_async.c6f27998.js?o=www"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/vendors~search.4db2eeeb.js?o=www"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/search.5b17f175.js?o=www"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/vendors~more~nmain~sidebar_notice.93d3cdd0.js?o=www"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/vendors~nmain.49196125.js?o=www"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pm.pstatic.net/dist/js/nmain.f8e0247c.js?o=www"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-whale.pstatic.net/main/img_darkmode@2x.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/376.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/005.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/057.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/031.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/016.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/030.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/092.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/055.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/022.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/056.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/327.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/025.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/028.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/214.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/008.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/926.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/907.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/909.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/980.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/356.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/925.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/up/2020/1228/nsd1681569.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/447.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/140.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/mobile/edit/2021/0516/cropImg_728x360_63107060798072444.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/mobile/edit/2021/0516/cropImg_196x196_63107179695754627.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/mobile/edit/2021/0516/cropImg_196x196_63107447582628210.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/mobile/edit/2021/0516/cropImg_196x196_63107623089833346.jpeg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0515%2Fupload_1621058914940ITy8O.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0515%2Fupload_1621055184725G71mD.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0515%2Fupload_1621057138487h0olP.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0510%2Fupload_1620628264225Ny66k.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20210427_222%2F1619511153612Vrb5k_JPEG%2Fmovie_image.jpg%22&type=nf240_344"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20210504_148%2F1620107063299XMt1s_JPEG%2Fmovie_image.jpg%22&type=nf240_344"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20210510_287%2F16206206819509mLLg_JPEG%2Fmovie_image.jpg%22&type=nf240_344"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20210126_174%2F1611638248803840HH_JPEG%2Fmovie_image.jpg%22&type=nf240_344"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20210405_289%2F1617598543594hmu5r_JPEG%2Fmovie_image.jpg%22&type=nf240_344"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0512%2Fupload_1620795909735CfSQr.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0514%2Fupload_1620984194792KBARg.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0514%2Fupload_1620971355926J9M2k.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0514%2Fupload_1620973592879mJqCM.jpg%22&type=nf340_228"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0513%2Fupload_16208871700433e7v1.jpg%22&type=nf464_260"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0513%2Fupload_1620887194529mhEy5.jpg%22&type=nf464_260"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0512%2Fupload_1620800722660Ij99c.jpg%22&type=nf464_260"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static-whale.pstatic.net/main/sprite-20201210@2x.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://pm.pstatic.net/dist/css/nmain.20210510.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/img/uit/2021/sp_main_9e1b19.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://pm.pstatic.net/dist/css/nmain.20210510.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/img/uit/2021/sp_weather_time_5f2bbb.png"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.naver.com/include/themecast/targetAndPanels.json"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://l.www.naver.com/l?SOU&svcOnList=&act=PC.lcs&ts=1621182236295&svr=%3C!--cvweb003--%3E&EOU"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxshow?su=SU10599&nrefreshx=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxshow?su=SU10601&nrefreshx=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://castbox.shopping.naver.com/shoppingboxnew/main.nhn"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxshow?su=SU10641&nrefreshx=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxshow?su=SU10642&nrefreshx=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxshow?su=SU10640&nrefreshx=0"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxshow?su=SU10586&da_dom_id=p_main_movie_2&tb=MOVIE_1&calp=-&rui=1621182236361&main_svt=20210517012354"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxshow?su=SU10585&da_dom_id=p_main_movie_1&tb=MOVIE_1&calp=-&rui=1621182236364&main_svt=20210517012354"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.naver.com/include/newsstand/press_info_data.json"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://lcs.naver.com/m?u=https%3A%2F%2Fwww.naver.com%2F&e=&os=Linux%20x86_64&ln=es-ES&sr=800x600&pr=1&bw=785&bh=585&c=24&j=N&k=Y&i=&ect=4g&navigationStart=1621182234233&fetchStart=1621182234234&domainLookupStart=1621182234456&domainLookupEnd=1621182234476&connectStart=1621182234476&connectEnd=1621182234531&secureConnectionStart=1621182234495&requestStart=1621182234531&responseStart=1621182234917&responseEnd=1621182234954&domLoading=1621182234926&domInteractive=1621182235235&domContentLoadedEventStart=1621182236049&domContentLoadedEventEnd=1621182236049&domComplete=1621182236284&loadEventStart=1621182236284&loadEventEnd=1621182236299&first-paint=1584.820000000036&first-contentful-paint=1584.820000000036&pan=MOVIE&pid=473c73c599c346fab46a96fab8e72a97&ts=1621182236408&EOU"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10601&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/css/pc/common/min/common.min.css?20181108"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10601&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/external/js/jquery-1.8.0.min.js?20171121"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10601&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?20180423"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10640&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170222"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10640&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/1336/1336998/d20fb351647cc8c7a26b_20210429102612065.jpg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10601&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxview?eu=EU10041892&calp=-&oj=ZagUyei1lSgmJehEa3gK0umRAA4zGF5vy2Q1mqjViOahaCVhJTl8Wf6buyE6Lw6g6Qxxeo2Ve7o&ac=8312885&src=5036511&evtcd=P100&x_ti=1312&tb=&oid=&sid1=&sid2=&rk=0cc64ede6166272c919e1e46905bc35f&eltts=%2FK2%2FtHFOeOv4EsNoU33VQw%3D%3D&brs=Y&&eid=V800&dummy=0.5857756520333111"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10601&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/1332/1332827/5cbf0f169c2c1162a991_20210506165326129.png"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/css/pc/main/min/main_topic_darkmode.min.css?20200601"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10640&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/external/js/jquery-1.8.0.min.js?20170206"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10642&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170222"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10642&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/1338/1338297/fc41b0a9f28b3521971d_20210510092514117.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10641&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170222"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10641&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/1287/1287125/fbdcc408c0af48980702_20210514090422779.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10599&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/external/js/jquery-1.8.0.min.js?20171121"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10599&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?20180423"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10599&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/assets/css/pc/main/min/new_timeboard.min.css?20181108"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/1338/1338856/b32c59306f0f5278847e_20210312125225410.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://ssl.pstatic.net/tveta/libs/assets/css/pc/main/min/main_topic_darkmode.min.css?20200601",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/res/www/native/sp_main_topic_darkmode.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10642&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/external/js/jquery-1.8.0.min.js?20170206"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10599&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://siape.veta.naver.com/fxview?eu=EU10041888&calp=-&oj=A4YjrwVVtw%2F5%2Bwwx1yXMIumRAA4zGF5vy2Q1mqjViOahaCVhJTl8Wf6buyE6Lw6g6Qxxeo2Ve7o&ac=8319074&src=5029779&evtcd=P100&x_ti=1308&tb=&oid=&sid1=&sid2=&rk=d152e8d020f3c7621458d12e9e3305a2&eltts=%2FK2%2FtHFOeOv4EsNoU33VQw%3D%3D&brs=Y&&eid=V800&dummy=0.06966801203410955"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10599&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/1327/1327573/b2d218119c4320576a1d_20210503151618660.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://siape.veta.naver.com/fxshow?su=SU10641&nrefreshx=0",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ssl.pstatic.net/tveta/libs/external/js/jquery-1.8.0.min.js?20170206"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/imgshopping/static/sb/css/shopboxR0014_v6.css?v=2021051116"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/2014/blank.gif"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://s.pstatic.net/imgshopping/static/sb/css/shopboxR0014_v6.css?v=2021051116",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/static/www/img/uit/2021/sp_shop_bffdc9.png"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://castbox.shopping.naver.com/js/lazyload.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/imgshopping/static/sb/js/jquery/jquery-1.12.4.min_v1.js?v=2021051116"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210412_24/a5131c41-485e-4e72-8507-4a8002339c9b.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210510_13/a7454122-5a4d-492d-a423-49409e6ca742.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210514_10/75f6f93f-147a-48a8-8d41-50f178050ede.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210514_15/bcd9128e-c149-4e6a-ba15-59d409f0e553.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210426_18/da760898-076c-4559-9d20-8576c67fad19.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210513_29/fbdbd79c-bc73-448b-8dfc-7b6ccf0a32e8.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210513_25/a60fcf08-ac17-4c1b-aa98-908a56962230.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210514_20/4da1dce3-8994-4139-a8de-32fb0d203b15.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210222_23/4a77113a-cbdd-40d6-889b-d63ac9eecc53.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210513_7/2c196af7-6112-4b01-903f-901e16068abf.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210429_8/48e1456c-4751-4897-b703-e257af4592ec.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210510_19/0c7b009c-aeba-49e2-9d9d-ea476ed5ba26.jpg?type=f214_292"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210129_16/140d3722-11d5-4812-9dab-a719b91deb9f.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/shopping.phinf/20210514_1/06da799d-b9e2-4fb0-97d1-ddff3264559d.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/imgshopping/static/sb/js/sb/nclkS02_v1.js?v=2021051116"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://castbox.shopping.naver.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://s.pstatic.net/imgshopping/static/sb/js/sb/shopboxS04_v1.js?v=2021051116"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": "unsafe-url",
+    "Strict-Transport-Security": {
+      "header_value": "max-age=63072000; includeSubdomains",
+      "includeSubDomains": false,
+      "max-age": 63072000,
+      "preload": false
+    },
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": "DENY",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [],
+  "site_url": "https://www.naver.com\n",
+  "third_parties": {
+    "fqdns": [
+      "pm.pstatic.net",
+      "s.pstatic.net",
+      "ssl.pstatic.net",
+      "static-whale.pstatic.net"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 100
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}

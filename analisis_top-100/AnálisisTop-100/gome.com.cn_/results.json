@@ -1,0 +1,808 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".gome.com.cn",
+      "expires": 1621505659.033901,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 439202.0339009762,
+      "name": "uid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 27,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "CjozJWCfnvq9qRRWHymMAg=="
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "ctx",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "app-shangcheng|ver-v7.0.0|plt-pc|cmpid-"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": 1621115999,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 49542,
+      "name": "sajssdk_2015_cross_new_user",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 28,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": 7928273660,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 6307207203,
+      "name": "sensorsdata2015jssdkcross",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 500,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "%7B%22distinct_id%22%3A%221796f850a8537-06858fa9840a5d-172f1a0c-480000-1796f850a861bc%22%2C%22%24device_id%22%3A%221796f850a8537-06858fa9840a5d-172f1a0c-480000-1796f850a861bc%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_referrer%22%3A%22%22%2C%22%24latest_referrer_host%22%3A%22%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%7D%7D"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "_idusin",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 18,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "86279381070"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "atgregion",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 162,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "11010200%7C%E5%8C%97%E4%BA%AC%E5%8C%97%E4%BA%AC%E5%B8%82%E6%9C%9D%E9%98%B3%E5%8C%BA%E6%9C%9D%E5%A4%96%E8%A1%97%E9%81%93%7C11010000%7C11000000%7C110102002"
+    },
+    {
+      "domain": "ss.gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "route",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 37,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "d86132cb6f7852b9b5df36abc55e443a"
+    },
+    {
+      "domain": "www.gome.com.cn",
+      "expires": 1621080860,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 14403,
+      "name": "_index_code",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 12,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": 1621678460,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 612003,
+      "name": "cartnum",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 14,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "0_0-1_0"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "s_cc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 8,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "true"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": 1621075460,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9003,
+      "name": "gpv_pn",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 24,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "%E9%A6%96%E9%A1%B5"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": 1621075460,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9003,
+      "name": "gpv_p22",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 17,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "no%20value"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": 1652609660,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543203,
+      "name": "s_getNewRepeat",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 31,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1621073660824-New"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "s_sq",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 17,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "%5B%5BB%5D%5D"
+    },
+    {
+      "domain": ".gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "DSESSIONID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "caa397afd77848d29aca4a6cce89d12e"
+    },
+    {
+      "domain": "www.gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "gradeId",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 9,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "-1"
+    },
+    {
+      "domain": "report.gome.com.cn",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "route",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 37,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "cffc1f8857a5c4b151dae373ad2f5fb5"
+    },
+    {
+      "domain": "www.gome.com.cn",
+      "expires": 1621084466,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 18009,
+      "name": "_index_ad_layer",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 16,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 4,
+    "first_party_short": 14,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.gome.com.cn/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 1,
+    "window.appVersion": 3,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 0,
+    "window.mimeTypes": 0,
+    "window.platform": 0,
+    "window.plugins": 1,
+    "window.screen.colorDepth": 0,
+    "window.screen.pixelDepth": 1,
+    "window.useragent": 15
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "6c46ea1eaba56246f498c7c2ce3dd328768fc10e9c68acde3c4c05604130659e",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "Secure Site CA G2",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1638442800.0,
+      "not_valid_before": 1567461600.0,
+      "serial_number": 12673542258335627880385360497036666547,
+      "subject": {
+        "commonName": "www.gome.com.cn",
+        "countryName": "CN",
+        "localityName": "Beijing",
+        "organizationName": "Gome Online E-Commerce CO., LTD.",
+        "organizationalUnitName": "Technical Centre",
+        "stateOrProvinceName": "Beijing"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_128_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "ECDHE_RSA",
+    "key_exchange_group": "P-256",
+    "mac": null,
+    "protocol": "TLS 1.2",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": null,
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "1.7.1"
+  },
+  "local_storage": [
+    {
+      "content": "{\"time\":\"9a671e8c-9dfa-45ed-bf0e-ae271c546688\",\"data\":\"<div class=\\\"ct temp0\\\">\\r\\n    <div class=\\\"mt\\\" style=\\\"border-bottom:1px solid #719ef7\\\">\\r\\n        <div class=\\\"mtTop\\\"><span class=\\\"h2_text\\\">1F</span><h2>\u624b\u673a\u901a\u8baf</h2></div>\\r\\n        <ul class=\\\"tab\\\" floor-info=\\\"1\\\" Hcolor=\\\"#719ef7\\\">\\r\\n            <li class=\\\"cur\\\"><a style=\\\"background: #719ef7;\\\" href=\\\"javascript:void(0)\\\" modelid=\\\"1000060860\\\">\u6d3b\u52a8\u7cbe\u9009</a></li>\\r\\n                    <li key=\\\"/floor/floor1and11_1/tab_1\\\" modelid=\\\"1000060877\\\"><a href=\\\"javascript:void(0);\\\">\u65b0\u54c1\u901f\u9012</a></li>\\r\\n                    <li key=\\\"/floor/floor1and11_1/tab_3\\\" modelid=\\\"1000060913\\\"><a href=\\\"javascript:void(0);\\\">\u70ed\u9500\u63a8\u8350</a></li>\\r\\n                    <li key=\\\"/floor/floor1and11_1/tab_4\\\" modelid=\\\"1000060949\\\"><a href=\\\"javascript:void(0);\\\">\u7545\u4eab\u4f4e\u4ef7</a></li>\\r\\n        </ul>\\r\\n    </div>\\r\\n    <div class=\\\"mc\\\">\\r\\n        <div class=\\\"mc_l\\\" style=\\\"background: #719ef7\\\">\\r\\n                <a class=\\\"mc_l_img edit-mode\\\" href=\\\"//prom.gome.com.cn/html/prodhtml/topics/201708/22/8345780541.html\\\" data-code=\\\"1000060861\\\" target=\\\"_blank\\\" modelId=\\\"1000060861\\\" modelType=\\\"2\\\">\\r\\n                    <img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs6.gomein.net.cn/wireless/T1RAV7BgCv1RCvBVdK_220_278.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u534e\u4e3a\\\" title=\\\"\\\" width=\\\"220\\\" height=\\\"278\\\"/></a>\\r\\n                <div class=\\\"keyAll\\\">\\r\\n                    <div class=\\\"channelbg\\\">\\r\\n                        <div class=\\\"channel\\\" style=\\\"background: #6294f6\\\">\\r\\n                                <ul class=\\\"channel_inner\\\">\\r\\n                                        <li class='edit-mode' modelId=\\\"1000060863\\\" modelType=\\\"2\\\">\\r\\n                                                    <a href=\\\"//tongxun.gome.com.cn\\\" target=\\\"_blank\\\" data-code=\\\"1000060863-1\\\">\u624b\u673a</a><span>/</span>\\r\\n                                                    <a href=\\\"//wt.gome.com.cn/recharge\\\" target=\\\"_blank\\\" data-code=\\\"1000060863-2\\\">\u5145\u503c</a><span>/</span>\\r\\n                                                    <a href=\\\"https://jiadian.gome.com.cn/\\\" target=\\\"_blank\\\" data-code=\\\"1000060863-3\\\">\u7535\u5668\u57ce</a>\\r\\n                                        </li>\\r\\n                                </ul>\\r\\n                        </div>\\r\\n                    </div>\\r\\n                    <div class=\\\"keywords edit-mode\\\" style=\\\"background: url()\\\" modelId=\\\"1000060869\\\" modelType=\\\"2\\\">\\r\\n                                    <ul class=\\\"w55\\\">\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//honor.gome.com.cn/?intcmp=sy-1000060869-6\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-1\\\">\u8363\u8000</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"https://search.gome.com.cn/search?question=iQOO&searchType=goods&search_mode=normal&reWrite=true&instock=1\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-2\\\">iQOO</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//huawei.gome.com.cn/\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-3\\\">\u534e\u4e3a</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//list.gome.com.cn/cat10000070-00-0-48-1-0-0-0-1-0-0-1-0-0-0-0-0-0.html\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-4\\\">\u70ed\u9500\u63a8\u8350</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//yjhx.gome.com.cn/\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-5\\\">\u4ee5\u65e7\u6362\u65b0</a></li>\\r\\n                                    </ul>\\r\\n                                    <ul class=\\\"w43\\\">\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//3c.gome.com.cn\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-6\\\">\u6f6e3C</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//peijian.gome.com.cn\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-7\\\">\u914d\u4ef6</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"https://list.gome.com.cn/cat10000070-00-0-48-1-0-0-0-1-2lqg-0-1-10-0-0-0-0-0.html\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-8\\\">\u5168\u9762\u5c4f</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//list.gome.com.cn/cat10000089-00-0-48-1-0-0-0-1-0-0-1-10-0-0-0-0-0.html\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-9\\\">\u4fdd\u62a4\u5957</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//mi.gome.com.cn\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-10\\\">\u5c0f\u7c73</a></li>\\r\\n                                    </ul>\\r\\n                                    <ul class=\\\"w62\\\">\\r\\n                                        <li class=\\\"\\\"><a href=\\\"https://prom.gome.com.cn/html/prodhtml/topics/201808/31/4889195497.html\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-11\\\">iPhone 12</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"//tao.gome.com.cn/\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-12\\\">\u6dd8\u5b9e\u60e0</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"https://mall.gome.com.cn/80017364/2-0-1-0.html?intcmp=sy-1000060872-10&question=%E9%A3%9E%E5%88%A9%E6%B5%A6\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-13\\\">\u98de\u5229\u6d66</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"https://mall.gome.com.cn/80015337/2-B00344206-1-0.html\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-14\\\">\u4e2d\u5174</a></li>\\r\\n                                        <li class=\\\"\\\"><a href=\\\"https://mall.gome.com.cn/80017264/2-B00355940-1-0.html\\\" target=\\\"_blank\\\" data-code=\\\"1000060869-15\\\">\u8bfa\u57fa\u4e9a</a></li>\\r\\n                                    </ul>\\r\\n                    </div>\\r\\n                </div>\\r\\n        </div>\\r\\n        <div class=\\\"main_warp\\\">\\r\\n            <div class=\\\"main\\\" style=\\\"display: block\\\" tab-data-load=\\\"0\\\">\\r\\n                    <div class=\\\"mc_c \\\" >\\r\\n                            <ul class=\\\"slider edit-mode\\\" modelId=\\\"1000060871\\\" modelType=\\\"2\\\">\\r\\n                                    <li style=\\\"display: block\\\" ><a href=\\\"//prom.gome.com.cn/html/prodhtml/topics/202009/1/3199024520.html\\\" data-code=\\\"1000060871-1\\\" target=\\\"_blank\\\"><img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs8.gomein.net.cn/wireless/T1gVhlBX_T1RCvBVdK_389_470.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\\\" title=\\\"\\\" width=\\\"389\\\"  height=\\\"470\\\" /></a></li>\\r\\n                            </ul>\\r\\n                            <ol class=\\\"nav\\\">\\r\\n                                    <li class=\\\"cur\\\" ><a></a></li>\\r\\n                            </ol>\\r\\n                            <div class=\\\"slider_page\\\">\\r\\n                                <p class=\\\"slider_up\\\" onselectstart=\\\"return false\\\" style=\\\"-moz-user-select:none;\\\"><a href=\\\"javascript:void(0)\\\" class=\\\"slider_prev\\\"></a><span class=\\\"prev\\\"></span></p>\\r\\n                                <p class=\\\"slider_down\\\" onselectstart=\\\"return false\\\" style=\\\"-moz-user-select:none;\\\"><a href=\\\"javascript:void(0)\\\" class=\\\"slider_next\\\"></a><span class=\\\"next\\\"></span></p>\\r\\n                            </div>\\r\\n                        <div class=\\\"brand_slider edit-mode\\\" modelId=\\\"1000060872\\\" modelType=\\\"2\\\">\\r\\n                                <ul style=\\\"display:block\\\">\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://pinpai.gome.com.cn/100001138/index.html\\\" data-code=\\\"1000060872-1\\\" target=\\\"_blank\\\" title=\\\"Apple\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs11.gomein.net.cn/T1yobTB4_v1RCvBVdK.jpeg\\\" data-lazy-img=\\\"0\\\" alt=\\\"Apple\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://search.gome.com.cn/search?question=iQOO&searchType=goods&search_mode=normal&reWrite=true&instock=1\\\" data-code=\\\"1000060872-2\\\" target=\\\"_blank\\\" title=\\\"iQOO\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs12.gomein.net.cn/T1NIb4BQCv1RCvBVdK.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"iQOO\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"//huawei.gome.com.cn\\\" data-code=\\\"1000060872-3\\\" target=\\\"_blank\\\" title=\\\"\u534e\u4e3a\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs10.gomein.net.cn/T1DDJQB5LT1RCvBVdK.png\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u534e\u4e3a\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"//mi.gome.com.cn\\\" data-code=\\\"1000060872-4\\\" target=\\\"_blank\\\" title=\\\"\u5c0f\u7c73\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs10.gomein.net.cn/T1BMDsBTZg1RCvBVdK.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u5c0f\u7c73\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"//honor.gome.com.cn/?intcmp=sy-1000060869-6\\\" data-code=\\\"1000060872-5\\\" target=\\\"_blank\\\" title=\\\"\u8363\u8000\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs12.gomein.net.cn/T1pELjBsWT1RCvBVdK.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u8363\u8000\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://list.gome.com.cn/cat10000070-00-0-48-1-0-0-0-1-1581-0-0-10-0-0-0-0-0.html?intcmp=list-9000000200-6\\\" data-code=\\\"1000060872-6\\\" target=\\\"_blank\\\" title=\\\"vivo\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs11.gomein.net.cn/T1.pVgBgYv1RCvBVdK.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"vivo\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            </ul><ul>\\r\\n                                        <li><a href=\\\"//search.gome.com.cn/search?question=OPPO&searchType=goods&search_mode=normal&reWrite=true&instock=1\\\" data-code=\\\"1000060872-7\\\" target=\\\"_blank\\\" title=\\\"OPPO\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs10.gomein.net.cn/T1k7JyB7_v1RCvBVdK.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"OPPO\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://wt.gome.com.cn/recharge/\\\" data-code=\\\"1000060872-8\\\" target=\\\"_blank\\\" title=\\\"\u624b\u673a\u5145\u503c\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs13.gomein.net.cn/T1TrVgBsbT1RCvBVdK.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u624b\u673a\u5145\u503c\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://mall.gome.com.cn/80017264/2-B00356183-1-0.html\\\" data-code=\\\"1000060872-9\\\" target=\\\"_blank\\\" title=\\\"\u9886\u5238\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs13.gomein.net.cn/T1xeWsBgxT1RCvBVdK.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u9b45\u65cf\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://mall.gome.com.cn/80017364/2-0-1-0.html?question=%E9%A3%9E%E5%88%A9%E6%B5%A6\\\" data-code=\\\"1000060872-10\\\" target=\\\"_blank\\\" title=\\\"\u98de\u5229\u6d66\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs10.gomein.net.cn/T1tRJyBCCT1RCvBVdK.png\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u98de\u5229\u6d66\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://mall.gome.com.cn/80015337/2-B00344206-1-0.html\\\" data-code=\\\"1000060872-11\\\" target=\\\"_blank\\\" title=\\\"\u4e2d\u5174\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs12.gomein.net.cn/T1VtEyBmxT1RCvBVdK.png\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u4e2d\u5174\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                            \\r\\n                                        <li><a href=\\\"https://mall.gome.com.cn/80017264/2-B00355940-1-0.html\\\" data-code=\\\"1000060872-12\\\" target=\\\"_blank\\\" title=\\\"\u8bfa\u57fa\u4e9a\\\"><img src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs10.gomein.net.cn/T1vWYXB_Kv1RCvBVdK.png\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u8bfa\u57fa\u4e9a\\\" width=\\\"100\\\" height=\\\"30\\\"/></a></li>\\r\\n                                </ul>\\r\\n                        </div>\\r\\n                    </div>\\r\\n                <div class=\\\"mc_r\\\">\\r\\n                    <ul class=\\\"mc_r_inner edit-mode\\\" modelId=\\\"1000060873\\\" modelType=\\\"2\\\">\\r\\n                                <li ><a href=\\\"https://prom.gome.com.cn/html/prodhtml/topics/201709/18/7456103420.html\\\" data-code=\\\"1000060873-1\\\" target=\\\"_blank\\\"><img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs5.gomein.net.cn/wireless/T1fzKnBgbT1RCvBVdK_199_234.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u5c0f\u7c73\\\" title=\\\"\\\" width=\\\"199\\\" height=\\\"234\\\" /></a></li>\\r\\n                                <li ><a href=\\\"//prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html\\\" data-code=\\\"1000060873-2\\\" target=\\\"_blank\\\"><img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs7.gomein.net.cn/wireless/T1CWLLB7KT1RCvBVdK_199_234.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u8363\u8000\\\" title=\\\"\\\" width=\\\"199\\\" height=\\\"234\\\" /></a></li>\\r\\n                                <li ><a href=\\\"https://prom.gome.com.cn/html/prodhtml/topics/201705/25/4539970158.html\\\" data-code=\\\"1000060873-3\\\" target=\\\"_blank\\\"><img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs9.gomein.net.cn/wireless/T1lQELBKJT1RCvBVdK_199_234.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"oppo\\\" title=\\\"\\\" width=\\\"199\\\" height=\\\"234\\\" /></a></li>\\r\\n                                <li ><a href=\\\"//prom.gome.com.cn/html/prodhtml/topics/201705/27/7758737965.html\\\" data-code=\\\"1000060873-4\\\" target=\\\"_blank\\\"><img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs8.gomein.net.cn/wireless/T1VfJLBCKT1RCvBVdK_199_234.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"vivo\\\" title=\\\"\\\" width=\\\"199\\\" height=\\\"234\\\" /></a></li>\\r\\n                                <li ><a href=\\\"https://prom.gome.com.cn/html/prodhtml/topics/201808/31/4889195497.html\\\" data-code=\\\"1000060873-5\\\" target=\\\"_blank\\\"><img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs5.gomein.net.cn/wireless/T1dbd7BjJT1RCvBVdK_199_234.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"apple\\\" title=\\\"\\\" width=\\\"199\\\" height=\\\"234\\\" /></a></li>\\r\\n                                <li ><a href=\\\"//prom.gome.com.cn/html/prodhtml/topics/201911/26/4511545298.html\\\" data-code=\\\"1000060873-6\\\" target=\\\"_blank\\\"><img class=\\\"lazyloading\\\" src=\\\"//app.gomein.net.cn/images/grey.gif\\\" data-lazy-init=\\\"//gfs8.gomein.net.cn/wireless/T1vvb4B_Yv1RCvBVdK_199_234.jpg\\\" data-lazy-img=\\\"0\\\" alt=\\\"\u534e\u4e3a\u667a\u80fd\\\" title=\\\"\\\" width=\\\"199\\\" height=\\\"234\\\" /></a></li>\\r\\n                    </ul>\\r\\n                </div>\\r\\n            </div>\\r\\n                    <div class=\\\"main\\\" tab-data-load=\\\"0\\\"></div>\\r\\n                    <div class=\\\"main\\\" tab-data-load=\\\"0\\\"></div>\\r\\n                    <div class=\\\"main\\\" tab-data-load=\\\"0\\\"></div>\\r\\n            <div class=\\\"page_slider\\\">\\r\\n                <p class=\\\"page_down\\\" onselectstart=\\\"return false\\\" style=\\\"-moz-user-select:none;\\\"><a href=\\\"javascript:void(0)\\\" class=\\\"slider_next\\\"></a><span class=\\\"next\\\"></span></p>\\r\\n            </div>\\r\\n        </div>\\r\\n    </div>\\r\\n</div>\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\"}",
+      "key": "floor1_floor"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.gome.com.cn/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gome.com.cn/"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.gomein.net.cn/plus/js/public/ctx_v3.min.js?2105140950"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://css.gomein.net.cn/??gmlib/reset/1.1.0/reset.css,gmpro/1.0.0/public/1.0.0/css/category.min.css,gmpro/1.0.0/public/1.0.0/css/top-poster.min.css,gmpro/1.0.0/public/1.0.0/css/top.min.css,gmpro/1.0.0/public/1.0.0/css/pate.min.css,gmpro/1.0.0/cart/1.0.0/css/pate-cart.min.css,gmpro/1.0.0/public/1.0.0/css/foot.min.css,gmpro/1.0.0/public/1.0.0/css/aside.min.css?v=202105140950,gmlib/unit/sticknav/1.0.0/sticknav.css"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs12.gomein.net.cn/T1vVhCBTLT1RCvBVdK.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs5.gomein.net.cn/wireless/T1PZJPBbYT1RCvBVdK_40_40.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs6.gomein.net.cn/wireless/T1PVWnBj_T1RCvBVdK_240_252.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://app.gomein.net.cn/images/grey.gif"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs5.gomein.net.cn/wireless/T1KpAPBTbv1RCvBVdK_90_90.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.gomein.net.cn/??gmlib/jq/1.7.1/jquery.js,gmlib/ui/json3/3.3.2/json3.js,gmlib/ui/arttemplate/2.0.4/template.min.js,gmlib/ui/arttemplate/2.0.4/template-simple.min.js,gmpro/1.0.0/public/1.0.0/js/category.min.js,gmlib/ui/gscroll/1.0.0/gscroll.min.js,gmlib/ui/dropdown/1.0.0/dropdown.min.js,gmpro/1.0.0/public/1.0.0/js/top-poster.min.js,sitemonitor/sa-sdk/sa.js,gmlib/cookie/1.0.0/cookie.js,gmpro/1.0.0/public/1.0.0/js/signtop.min.js,gmlib/unit/bigcode/1.0.0/bigcode.min.js,gmlib/unit/serviceEntrance/1.0.0/serviceEntrance.min.js,gmpro/1.0.0/public/1.0.0/js/autopoint.min.js,gmpro/1.0.0/public/1.0.0/js/search.min.js,gmpro/1.0.0/cart/1.0.0/js/head-cart/mCart.min.js,gmpro/1.0.0/cart/1.0.0/js/head-cart/cart.min.js,gmpro/1.0.0/public/1.0.0/js/foot.min.js,/gmlib/unit/g/1.0.0/g.min.js,gmpro/1.0.0/public/1.0.0/js/aside.min.js?v=202105140950,gmlib/sea/seajs/3.0.0/sea.js,gmlib/sea/seajs-combo/1.0.0/seajs-combo.js,gmpro/2.0.0/channel/newindex/8.6.1/js/index-gscroll.js,gmpro/2.0.0/channel/newindex/8.6.1/js/index.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://css.gomein.net.cn/??gmlib/reset/1.1.0/reset.css,gmpro/1.0.0/public/1.0.0/css/category.min.css,gmpro/1.0.0/public/1.0.0/css/top-poster.min.css,gmpro/1.0.0/public/1.0.0/css/top.min.css,gmpro/1.0.0/public/1.0.0/css/pate.min.css,gmpro/1.0.0/cart/1.0.0/css/pate-cart.min.css,gmpro/1.0.0/public/1.0.0/css/foot.min.css,gmpro/1.0.0/public/1.0.0/css/aside.min.css?v=202105140950,gmlib/unit/sticknav/1.0.0/sticknav.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://css.gomein.net.cn/gmpro/1.0.0/public/1.0.0/css/i/ui.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://css.gomein.net.cn/??gmlib/reset/1.1.0/reset.css,gmpro/1.0.0/public/1.0.0/css/category.min.css,gmpro/1.0.0/public/1.0.0/css/top-poster.min.css,gmpro/1.0.0/public/1.0.0/css/top.min.css,gmpro/1.0.0/public/1.0.0/css/pate.min.css,gmpro/1.0.0/cart/1.0.0/css/pate-cart.min.css,gmpro/1.0.0/public/1.0.0/css/foot.min.css,gmpro/1.0.0/public/1.0.0/css/aside.min.css?v=202105140950,gmlib/unit/sticknav/1.0.0/sticknav.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://css.gomein.net.cn/gmpro/1.0.0/public/1.0.0/css/i/logo.png"
+    },
+    {
+      "mime_type": "application/font-woff",
+      "referer": "https://css.gomein.net.cn/??gmlib/reset/1.1.0/reset.css,gmpro/1.0.0/public/1.0.0/css/category.min.css,gmpro/1.0.0/public/1.0.0/css/top-poster.min.css,gmpro/1.0.0/public/1.0.0/css/top.min.css,gmpro/1.0.0/public/1.0.0/css/pate.min.css,gmpro/1.0.0/cart/1.0.0/css/pate-cart.min.css,gmpro/1.0.0/public/1.0.0/css/foot.min.css,gmpro/1.0.0/public/1.0.0/css/aside.min.css?v=202105140950,gmlib/unit/sticknav/1.0.0/sticknav.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://css.gomein.net.cn/gmlib/ui/iconfont/1.0.0/iconfont.woff"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://app.gomein.net.cn/gmpro/2.0.0/channel/newindex/8.6.1/css/i/ui.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://app.gomein.net.cn/gmlib/ui/loading/3.0.0/loading-sm.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://app.gomein.net.cn/gmlib/ui/loading/3.0.0/loading.gif"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.gomein.net.cn/sitemonitor/tjs/sensorsdata/sensorsdata.min.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ss.gome.com.cn/item/v1/cookie/atgregion/flag/public/ipWrite?callback=ipWrite&_=1621073660262"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.gomein.net.cn/??gmpro/2.0.0/channel/newindex/8.6.1/js/lazyLoad.js,gmpro/2.0.0/channel/newindex/8.6.1/js/slider.js,gmpro/2.0.0/channel/newindex/8.6.1/js/jquery.delayHover.js,gmpro/2.0.0/channel/newindex/8.6.1/js/gload.js,gmpro/2.0.0/channel/newindex/8.6.1/js/tab.js,gmpro/2.0.0/channel/newindex/8.6.1/js/guess_you.js,gmpro/2.0.0/channel/newindex/8.6.1/js/unit.js,gmpro/2.0.0/channel/newindex/8.6.1/js/localstorage.js,gmpro/2.0.0/channel/newindex/8.6.1/js/easing.js,gmpro/2.0.0/channel/newindex/8.6.1/js/fixable.js,gmpro/2.0.0/channel/newindex/8.6.1/js/smartkey.js,gmpro/2.0.0/channel/newindex/8.6.1/js/elevator.js,gmpro/2.0.0/channel/newindex/8.6.1/js/ele_start.js,gmpro/2.0.0/channel/newindex/8.6.1/js/floatlogo.js,gmlib/unit/sticknav/1.0.0/sticknav.min.js,gmlib/unit/gtime/1.0.0/gtime.min.js,gmlib/unit/gomelib/1.0.0/gomelib.min.js,gmlib/ui/getajaxprice/1.0.0/getajaxprice.min.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.meixincdn.com/m/pc/dist/js/sdk/resource-niche.js?_=1621073660279"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cart.gome.com.cn/home/api/cart/getCartItemCount?callback=jQuery17109628275876460466_1621073660249&_=1621073660309"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://css.gomein.net.cn/??gmlib/reset/1.1.0/reset.css,gmpro/1.0.0/public/1.0.0/css/category.min.css,gmpro/1.0.0/public/1.0.0/css/top-poster.min.css,gmpro/1.0.0/public/1.0.0/css/top.min.css,gmpro/1.0.0/public/1.0.0/css/pate.min.css,gmpro/1.0.0/cart/1.0.0/css/pate-cart.min.css,gmpro/1.0.0/public/1.0.0/css/foot.min.css,gmpro/1.0.0/public/1.0.0/css/aside.min.css?v=202105140950,gmlib/unit/sticknav/1.0.0/sticknav.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://css.gomein.net.cn/gmpro/1.0.0/public/1.0.0/css/i/uiline.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs11.gomein.net.cn/T1llK5Bv_T1RCvBVdK.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs11.gomein.net.cn/T1VgdeBjAv1RCvBVdK.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://report.gome.com.cn/sa.gif?project=production&data=eyJkaXN0aW5jdF9pZCI6IjE3OTZmODUwYTg1MzctMDY4NThmYTk4NDBhNWQtMTcyZjFhMGMtNDgwMDAwLTE3OTZmODUwYTg2MWJjIiwibGliIjp7IiRsaWIiOiJqcyIsIiRsaWJfbWV0aG9kIjoiY29kZSIsIiRsaWJfdmVyc2lvbiI6IjEuMTEuOSJ9LCJwcm9wZXJ0aWVzIjp7IiRmaXJzdF92aXNpdF90aW1lIjoiMjAyMS0wNS0xNSAxMjoxNDoyMC41NjIiLCIkZmlyc3RfcmVmZXJyZXIiOiIiLCIkZmlyc3RfYnJvd3Nlcl9sYW5ndWFnZSI6ImVzLUVTIiwiJGZpcnN0X2Jyb3dzZXJfY2hhcnNldCI6IlVURi04IiwiJGZpcnN0X3JlZmVycmVyX2hvc3QiOiIiLCIkZmlyc3RfdHJhZmZpY19zb3VyY2VfdHlwZSI6IuebtOaOpea1gemHjyIsIiRmaXJzdF9zZWFyY2hfa2V5d29yZCI6IuacquWPluWIsOWAvF%2Fnm7TmjqXmiZPlvIAifSwidHlwZSI6InByb2ZpbGVfc2V0X29uY2UiLCJfbm9jYWNoZSI6IjczNzE5OTQ2MzExODIifQ%3D%3D&ext=crc%3D-1538728173"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.gomein.net.cn/??gmlib/unit/scode/1.0.0/scode.min.js,gmlib/unit/bigdata/1.0.0/bigdata.min.js,gmpro/1.0.0/index/1.0.0/js/sCodeCommon_2015.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.gomein.net.cn/gmpro/2.0.0/channel/newindex/8.6.1/js/index-adver.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prom.mobile.gome.com.cn/wap/portrait/notify.jsp?callback=getnoticeStatus&distinctId=%7B%22distinct_id%22%3A%221796f850a8537-06858fa9840a5d-172f1a0c-480000-1796f850a861bc%22%2C%22%24device_id%22%3A%221796f850a8537-06858fa9840a5d-172f1a0c-480000-1796f850a861bc%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_referrer%22%3A%22%22%2C%22%24latest_referrer_host%22%3A%22%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%7D%7D&_=1621073660642"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://ss.gome.com.cn/item/v1/price/promogen/1130788483,pop8012964311/11010000/flag/channel/callback0?callback=callback0&_=1621073660666"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://member.gome.com.cn/gome/index/loginStyle?callback=logintop&type=2&_=1621073660680"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://js.gomein.net.cn/gmlib/ui/gpop/1.0.0/gpop.js?_=1621073660804"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs5.gomein.net.cn/wireless/T1fZblBmVv1RCvBVdK_900_460.png"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 503,
+      "status_text": "Service Unavailable",
+      "url": "https://beacon.gomeplus.com/om_log/b/ss/gome-prd/1/H.23.3/s99121259086180?AQB=1&ndh=1&t=15%2F4%2F2021%2012%3A14%3A20%206%20-120&ce=UTF-8&ns=gome&cdp=3&pageName=%E9%A6%96%E9%A1%B5&g=https%3A%2F%2Fwww.gome.com.cn%2F&cc=CNY&ch=%E9%A6%96%E9%A1%B5&c1=%E9%A6%96%E9%A1%B5&c2=%E9%A6%96%E9%A1%B5&c3=%E9%A6%96%E9%A1%B5&v3=%E9%A6%96%E9%A1%B5%E6%8E%A8%E8%8D%90&c4=%E9%A6%96%E9%A1%B5&c8=New&v8=New&c9=6%3A00PM&v9=6%3A00PM&c10=Saturday&v10=Saturday&v30=%E9%A6%96%E9%A1%B5%E6%8E%A8%E8%8D%90&v31=%E9%A6%96%E9%A1%B5&v41=%E9%A6%96%E9%A1%B5A&v42=%E5%85%A8%E5%9B%BD%3A%E9%A6%96%E9%A1%B5&s=800x600&c=24&j=1.6&v=N&k=Y&bw=800&bh=600&AQE=1"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://prom.mobile.gome.com.cn/wap/promotion/promscms/pchomeRA5OQWzpCIs.jsp?callback=dynamicActiveTemplets&_=1621073660846"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs9.gomein.net.cn/wireless/T1DHYPBmY_1RCvBVdK_140_180.png"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://report.gome.com.cn/sa.gif?project=production&data=eyJkaXN0aW5jdF9pZCI6IjE3OTZmODUwYTg1MzctMDY4NThmYTk4NDBhNWQtMTcyZjFhMGMtNDgwMDAwLTE3OTZmODUwYTg2MWJjIiwibGliIjp7IiRsaWIiOiJqcyIsIiRsaWJfbWV0aG9kIjoiY29kZSIsIiRsaWJfdmVyc2lvbiI6IjEuMTEuOSJ9LCJwcm9wZXJ0aWVzIjp7IiRzY3JlZW5faGVpZ2h0Ijo2MDAsIiRzY3JlZW5fd2lkdGgiOjgwMCwiJGxpYiI6ImpzIiwiJGxpYl92ZXJzaW9uIjoiMS4xMS45IiwiJGxhdGVzdF90cmFmZmljX3NvdXJjZV90eXBlIjoi55u05o6l5rWB6YePIiwiJGxhdGVzdF9yZWZlcnJlciI6IiIsIiRsYXRlc3RfcmVmZXJyZXJfaG9zdCI6IiIsIiRsYXRlc3Rfc2VhcmNoX2tleXdvcmQiOiLmnKrlj5bliLDlgLxf55u05o6l5omT5byAIiwidGlkIjoiZGMtMSIsIiR1cmwiOiJodHRwczovL3d3dy5nb21lLmNvbS5jbi8iLCIkcmVmZXJyZXIiOiIiLCJjbXBpZCI6IiIsImFwcCI6InNoYW5nY2hlbmciLCJ2ZXIiOiJ2Ny4wLjAiLCJwbHQiOiJwYyIsImFjdGl2aXR5SWQiOiJhcHAtc2hhbmdjaGVuZ3x2ZXItdjcuMC4wfHBsdC1wY3xjbXBpZC0iLCJncm91cElkIjoiYXBwLXNoYW5nY2hlbmd8dmVyLXY3LjAuMHxwbHQtcGN8Y21waWQtIiwiJHJlZmVycmVyX2hvc3QiOiIiLCIkdXJsX3BhdGgiOiIvIiwiJHRpdGxlIjoi55yf5b%2Br5LmQLee7vOWQiOe9kei0reWVhuWfju%2B8jOato%2BWTgeS9juS7t%2BOAgeWTgei0qOS%2FnemanOOAgeW%2Fq%2BmAn%2BmAgei%2BvuOAgeWuieW%2Fg%2BacjeWKoe%2B8gSIsIiRpc19maXJzdF9kYXkiOnRydWUsIiRpc19maXJzdF90aW1lIjp0cnVlfSwidHlwZSI6InRyYWNrIiwiZXZlbnQiOiIkcGFnZXZpZXciLCJfbm9jYWNoZSI6Ijc5Nzc2OTU1MjQ0ODIifQ%3D%3D&ext=crc%3D-1253190637"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://report.gome.com.cn/sa.gif?project=production&data=eyJkaXN0aW5jdF9pZCI6IjE3OTZmODUwYTg1MzctMDY4NThmYTk4NDBhNWQtMTcyZjFhMGMtNDgwMDAwLTE3OTZmODUwYTg2MWJjIiwibGliIjp7IiRsaWIiOiJqcyIsIiRsaWJfbWV0aG9kIjoiY29kZSIsIiRsaWJfdmVyc2lvbiI6IjEuMTEuOSJ9LCJwcm9wZXJ0aWVzIjp7Il9sYXRlc3RfY21waWQiOiIifSwidHlwZSI6InByb2ZpbGVfc2V0IiwiX25vY2FjaGUiOiIzNTUzMDkxNzQ5ODc4In0%3D&ext=crc%3D1411272149"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gome.com.cn/floor1.html?_=1621073662233"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gome.com.cn/"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs6.gomein.net.cn/wireless/T1eVVlB7dv1RCvBVdK_750_450.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs7.gomein.net.cn/wireless/T1lEblB7Kv1RCvBVdK_750_450.jpg"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.gome.com.cn/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://gfs6.gomein.net.cn/wireless/T1GkClB4ZT1RCvBVdK_750_450.jpg"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": null,
+    "X-Content-Type-Options": null,
+    "X-Frame-Options": null,
+    "X-XSS-Protection": null
+  },
+  "session_storage": [],
+  "site_url": "https://www.gome.com.cn\n",
+  "third_parties": {
+    "fqdns": [
+      "app.gomein.net.cn",
+      "beacon.gomeplus.com",
+      "css.gomein.net.cn",
+      "gfs11.gomein.net.cn",
+      "gfs12.gomein.net.cn",
+      "gfs5.gomein.net.cn",
+      "gfs6.gomein.net.cn",
+      "gfs7.gomein.net.cn",
+      "gfs9.gomein.net.cn",
+      "js.gomein.net.cn",
+      "js.meixincdn.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 29
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 6,
+    "trackers": [
+      "beacon.gomeplus.com",
+      "js.gomein.net.cn"
+    ]
+  }
+}

@@ -1,0 +1,851 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".apple.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "geo",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 5,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "ES"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "at_check",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 12,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "true"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": 1652718408.390881,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.39088106,
+      "name": "dssid2",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "d9329410-b70c-4200-a8ed-0374ec73a1ce"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": 1652718408.390988,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543201.39098811,
+      "name": "dssf",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 5,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "as_pcts",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 84,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "3atdTw_xrTDEAkuTWW6Kf3ES-4x9aDn3wK4HHpoQwWbAE99EjwqQgIbFQK9-w3LYEgmRW2PSwB-zb"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": 1621184208.391044,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9001.391043901443,
+      "name": "as_dc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 7,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "nc"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": 1621184208,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9001,
+      "name": "s_fid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 38,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "7A950625E167EA8C-2FE50FBCD3CC0B1B"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "s_cc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 8,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "true"
+    },
+    {
+      "domain": "www.apple.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "pt-dm",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Strict",
+      "secure": true,
+      "session": true,
+      "size": 43,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "v1~x~n52h0bzr~n~apple - index/tab (us)"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "mk_epub",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": true,
+      "size": 78,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "%7B%22btuid%22%3A%22lbuh5k%22%2C%22prop57%22%3A%22www.us.homepage%22%7D"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": 1621184209.598862,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9002.598861932755,
+      "name": "s_vi",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 48,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "[CS]v1|3050A3E4A28543C1-60001414CB8E30A3[CE]"
+    },
+    {
+      "domain": ".apple.com",
+      "expires": 1621184268,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9061,
+      "name": "mbox",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 107,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "session#bad987e7006e4c77826cc651986f0040#1621184268|PC#bad987e7006e4c77826cc651986f0040.35_0#1621184210"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 2,
+    "first_party_short": 10,
+    "third_party_long": 0,
+    "third_party_short": 0,
+    "trackers": []
+  },
+  "facebook_pixel": {
+    "event": [],
+    "facebook_pixel": null
+  },
+  "failed_requests": [],
+  "final_url": "https://www.apple.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": [
+        {
+          "arguments": [
+            "WEBGL_debug_renderer_info"
+          ],
+          "method": "WebGLRenderingContext.getExtension"
+        }
+      ],
+      "have_webGL": true
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.navigator.appName": 2,
+    "window.navigator.appVersion": 0,
+    "window.navigator.buildID": 0,
+    "window.navigator.cookieEnable": 0,
+    "window.navigator.cpuclass": 0,
+    "window.navigator.doNotTrack": 0,
+    "window.navigator.indexDB": 0,
+    "window.navigator.language": 1,
+    "window.navigator.languages": 0,
+    "window.navigator.mimeTypes": 0,
+    "window.navigator.onLine": 0,
+    "window.navigator.oscpu": 0,
+    "window.navigator.platform": 11,
+    "window.navigator.plugins": 0,
+    "window.navigator.product": 0,
+    "window.navigator.productSub": 0,
+    "window.navigator.userAgent": 30,
+    "window.navigator.vendor": 12,
+    "window.navigator.vendorSub": 0,
+    "window.screen.colorDepth": 1,
+    "window.screen.pixelDepth": 2
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "85621efb211f9411a51427e2e492f64c86c65630bfbc25554a3e11851b8432d2",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 Extended Validation Server CA-3",
+        "countryName": "US",
+        "organizationName": "DigiCert, Inc.",
+        "organizationalUnitName": "www.digicert.com"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1633687200.0,
+      "not_valid_before": 1602021600.0,
+      "serial_number": 4726280454167807475122854493554488747,
+      "subject": {
+        "businessCategory": "Private Organization",
+        "commonName": "www.apple.com",
+        "countryName": "US",
+        "jurisdictionCountryName": "US",
+        "jurisdictionStateOrProvinceName": "California",
+        "localityName": "Cupertino",
+        "organizationName": "Apple Inc.",
+        "serialNumber": "C0806592",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "missing-preload",
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://www.apple.com/contact/",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": null
+  },
+  "local_storage": [
+    {
+      "content": "{\"e\":3818,\"v\":{\"ttl\":1621182588177,\"items\":0,\"cn\":null,\"api\":{\"flyout\":\"/%5Bstorefront%5D/shop/bag/flyout\",\"addToBag\":\"/%5Bstorefront%5D/shop/bag/add?product=%5Bpart%5D\"},\"key\":\"SFX9YPYY9PPXCU9KH\",\"sfLoc\":\"us\"}}",
+      "key": "ac-storage-ac-store-cache"
+    },
+    {
+      "content": "{\"e\":3818,\"v\":{\"dismissals\":0}}",
+      "key": "ls-opt-out"
+    },
+    {
+      "content": "1621189608758",
+      "key": "mk_epub_expiry"
+    },
+    {
+      "content": "{\"deferredBeacon\":{\"prop57\":\"www.us.homepage\",\"btuid\":\"lbuh5k\"}}",
+      "key": "mk_epub"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.apple.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/localnav/5/styles/ac-localnav.built.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalfooter/6/en_US/styles/ac-globalfooter.built.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/metrics/ac-target/latest/ac-target.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/built/styles/main.built.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/built/scripts/head.built.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/scripts/ac-globalnav.built.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/metrics/ac-analytics/2.13.0/scripts/ac-analytics.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalfooter/6/en_US/scripts/ac-globalfooter.built.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/localeswitcher/3/en_US/scripts/localeswitcher.built.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/built/scripts/main.built.js"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/ac-films/6.7.0/styles/modal.css"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/ac-films/6.7.0/scripts/autofilms.built.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/metrics/data-relay/1.1.4/scripts/data-relay.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/metrics/data-relay/1.1.4/scripts/auto-relay.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/shop/experience-meta"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_apple_image__cxwwnrj0urau_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_links_mac_image__fv4ktb435mum_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_links_ipad_image__fefum478f4uq_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_links_iphone_image__dhepc4hn14cy_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_links_watch_image__dfo5u4bhooqe_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_links_tv_image__dtzdy60o3imq_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_links_music_image__bewxrazzig02_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_links_support_image__b24reo1n4fbm_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_search_image__fca9mfoh8a2q_large.svg"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/globalnav/6/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_bag_image__bmix8075eg4i_large.svg"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/us/shop/bag/status?apikey=SFX9YPYY9PPXCU9KH"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/logos/watch-series-6/promo_logo_watch_series_6_lte__el1kwqt2v52e_medium.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/logos/apple-tv-4k/tv4k_logo__bwn2kbgd6ixe_large.png"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/promos/trade-in-event-may/promo_tradein_nonoffer_us__75jysj4lcuqe_medium.jpg"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/logos/apple-card/logo__dcojfwkzna2q_medium.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/logos/apple-fitness-plus/logo__dcojfwkzna2q_medium.png"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_regular.woff2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/localeswitcher/3/es_ES/content/localeswitcher.json"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/search-services/suggestions/defaultlinks/?src=globalnav&locale=en_US"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/heroes/ipad-pro/hero_ipad_pro__gl982dtu49im_medium.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/heroes/iphone-12/iphone_12_updated__jepm2xpxncuy_medium.jpg"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/ac/localeswitcher/3/es_ES/styles/localeswitcher.built.css"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securemetrics.apple.com/b/ss/appleglobal,applestoreww/1/JS-2.22.0/s9560995078343?AQB=1&ndh=1&pf=1&t=16%2F4%2F2021%2018%3A26%3A48%200%20-120&fid=7A950625E167EA8C-2FE50FBCD3CC0B1B&ce=UTF-8&cdp=2&cl=1800&pageName=apple%20-%20index%2Ftab%20%28us%29&g=https%3A%2F%2Fwww.apple.com%2F&cc=USD&ch=www.us.homepage&server=ac-2.13.0&h1=www.us.homepage&v3=aos%3A%20us&l3=D%3Das_tex&c4=D%3Dg&v4=D%3DpageName&v14=en-us&c19=aos%3A%20us%3A%20apple%20-%20index%2Ftab%20%28us%29&c20=aos%3A%20us&v54=D%3Dg&v97=s.t-p&s=800x600&c=24&j=1.6&v=N&k=Y&bw=800&bh=600&AQE=1"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securemvt.apple.com/rest/v1/delivery?client=apple&sessionId=bad987e7006e4c77826cc651986f0040&version=2.3.2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.woff2"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.apple.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://securemetrics.apple.com/b/ss/appleglobal,applestoreww/1/JS-2.22.0/s9560995078343?AQB=1&pccr=true&vidn=3050A3E4A28543C1-60001414CB8E30A3&ndh=1&pf=1&t=16%2F4%2F2021%2018%3A26%3A48%200%20-120&fid=7A950625E167EA8C-2FE50FBCD3CC0B1B&ce=UTF-8&cdp=2&cl=1800&pageName=apple%20-%20index%2Ftab%20%28us%29&g=https%3A%2F%2Fwww.apple.com%2F&cc=USD&ch=www.us.homepage&server=ac-2.13.0&h1=www.us.homepage&v3=aos%3A%20us&l3=D%3Das_tex&c4=D%3Dg&v4=D%3DpageName&v14=en-us&c19=aos%3A%20us%3A%20apple%20-%20index%2Ftab%20%28us%29&c20=aos%3A%20us&v54=D%3Dg&v97=s.t-p&s=800x600&c=24&j=1.6&v=N&k=Y&bw=800&bh=600&AQE=1"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.apple.com/v/home/z/built/styles/main.built.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.apple.com/v/home/z/images/heroes/imac/hero_imac_avail__zbofyl96mzmm_medium.jpg"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": {
+      "child-src": [
+        "blob:",
+        "embed.music.apple.com",
+        "www.apple.com",
+        "www.instagram.com",
+        "www.youtube-nocookie.com"
+      ],
+      "default-src": [
+        "'self'",
+        "blob:",
+        "*.akamaized.net",
+        "*.apple.com",
+        "*.apple-mapkit.com",
+        "*.cdn-apple.com",
+        "*.organicfruitapps.com"
+      ],
+      "header_value": "default-src 'self' blob: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: embed.music.apple.com www.apple.com www.instagram.com www.youtube-nocookie.com; img-src 'unsafe-inline' data: blob: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com; style-src 'unsafe-inline' *.apple.com",
+      "img-src": [
+        "'unsafe-inline'",
+        "data:",
+        "blob:",
+        "*.apple.com",
+        "*.apple-mapkit.com",
+        "*.cdn-apple.com",
+        "*.mzstatic.com"
+      ],
+      "script-src": [
+        "'unsafe-inline'",
+        "'unsafe-eval'",
+        "blob:",
+        "*.apple.com",
+        "*.apple-mapkit.com",
+        "www.instagram.com"
+      ],
+      "style-src": [
+        "'unsafe-inline'",
+        "*.apple.com"
+      ]
+    },
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000; includeSubdomains",
+      "includeSubDomains": false,
+      "max-age": 31536000,
+      "preload": false
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "v1~x~n52h0bzr~n~apple - index/tab (us)",
+      "key": "pt-dm"
+    },
+    {
+      "content": "apple - index/tab (us),17,14,749",
+      "key": "s_ppv"
+    }
+  ],
+  "site_url": "https://www.apple.com\n",
+  "third_parties": {
+    "fqdns": [],
+    "num_http_requests": 0,
+    "num_https_requests": 0
+  },
+  "tracking": {
+    "num_tracker_cookies": 0,
+    "num_tracker_requests": 0,
+    "trackers": []
+  }
+}

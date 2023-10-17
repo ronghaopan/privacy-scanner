@@ -1,0 +1,2161 @@
+{
+  "chrome_error": null,
+  "cookies": [
+    {
+      "domain": ".intuit.com",
+      "expires": 1621077226.984904,
+      "httpOnly": true,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 10800.984904050827,
+      "name": "AKA_A2",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": true,
+      "session": false,
+      "size": 7,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "A"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "akid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 69,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "gip184.25.39.236_gsip2.16.8.78_clip2.59.233.173_rclip2.59.233.173"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1652177627,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31111201,
+      "name": "ccpa",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 7,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1|1"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1778840030,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 157773604,
+      "name": "ivid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 40,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "54e56f60-0914-4e28-841e-1d9607c0e0c1"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "pageProperties",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 49,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "$$$$$cmo|mktg|corp|icom|us|homepage"
+    },
+    {
+      "domain": ".youtube.com",
+      "expires": -1,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "YSC",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 14,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "qR2swoRrc9E"
+    },
+    {
+      "domain": ".youtube.com",
+      "expires": 1636625628.371436,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559202.37143612,
+      "name": "VISITOR_INFO1_LIVE",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 29,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "EfnU0TEU3s4"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1652609630,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543204,
+      "name": "ajs_anonymous_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "Lax",
+      "secure": false,
+      "session": false,
+      "size": 58,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "%2254e56f60-0914-4e28-841e-1d9607c0e0c1%22"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1621075429,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9003,
+      "name": "gpv_pn",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 31,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "icom%7Cmktg%7Cwww%7Cindex"
+    },
+    {
+      "domain": "www.intuit.com",
+      "expires": 1621075429,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9003,
+      "name": "52340",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 7,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "no"
+    },
+    {
+      "domain": ".demdex.net",
+      "expires": 1636625632.239126,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559206.239125967,
+      "name": "demdex",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 44,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "62806188666424728842776170248421446571"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1684145629,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079203,
+      "name": "s_fid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 38,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "78BE54A0F11C9660-19073FCF65701764"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "s_cc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 8,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "true"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": -1,
+      "name": "AMCVS_969430F0543F253D0A4C98C6%40AdobeOrg",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": true,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1684145629.764578,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079203.764578104,
+      "name": "s_ecid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 52,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "MCMID%7C62972683984129155532795514407647297406"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1684145629.897044,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079203.89704394,
+      "name": "s_vi",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 48,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "[CS]v1|304FCF6E9C0A8488-400012FF87C783CC[CE]"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623665629.80089,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599203.800889969,
+      "name": "UserMatchHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 94,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AQLvqqhlzQXHlgAAAXlvhJItdfyvqHuK9D1m6WAxUiOKkdX7xU0WqrvOWbRINcpSmuUHPoTRcTWvog"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1623665629.800953,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599203.8009529114,
+      "name": "AnalyticsSyncHistory",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 106,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AQLHt2i6y5NXXgAAAXlvhJIt28JvjFqwee56GzP0BwLlTiE67AvZtR0u43_3oSFU3-b9z0XysF0421beELSQog"
+    },
+    {
+      "domain": ".ads.linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "v=2&lang=en-us"
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1684187481.801009,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121055.80100894,
+      "name": "bcookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 49,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"v=2&f9b48333-57b3-495a-8606-bbc62ef5e152\""
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": 1621160029.801135,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 93603.80113506317,
+      "name": "lidc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 108,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"b=VGST05:s=V:r=V:a=V:p=V:g=2202:u=1:i=1621073629:t=1621160029:v=2:sig=AQGlxM_RjhAVFgCSuIENg9cbxhXGa2aw\""
+    },
+    {
+      "domain": ".linkedin.com",
+      "expires": -1,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": -1,
+      "name": "lang",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": true,
+      "size": 18,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "v=2&lang=es-es"
+    },
+    {
+      "domain": ".www.linkedin.com",
+      "expires": 1684187482.027964,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63121056.027964115,
+      "name": "bscookie",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 96,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"v=1&20210515101349063aee5a-301c-4146-8d02-1ea866253fb2AQHLACHGoZB7Rs4REGyxgHsH7uu9R2mX\""
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1684145630,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 63079204,
+      "name": "AMCV_969430F0543F253D0A4C98C6%40AdobeOrg",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 308,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "359503849%7CMCIDTS%7C18763%7CMCMID%7C62972683984129155532795514407647297406%7CMCAAMLH-1621678430%7C6%7CMCAAMB-1621678430%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1621080830s%7CNONE%7CMCAID%7C304FCF6ECD9014F6-40001DCF87C25B72%7CvVersion%7C5.0.1"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "expires": 1654769630.140598,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703204.14059806,
+      "name": "IDE",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 67,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "AHWqTUl0TeiEeW8gWI02_9ZyU4LP7WK_brxVjy74vsbfWh0pODl0j1L7zZuAZJpF"
+    },
+    {
+      "domain": ".ispot.tv",
+      "expires": 1684145630.568024,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079204.56802392,
+      "name": "pt",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 134,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "v2:4527fe1be58e484e324e50e3ab828fd3b4b6c29f92edcc0cc850a38d7f40c25e|3187d8dfdcbf945169ea44f40956df73f624e4b838b9f82f31424b64e867256a"
+    },
+    {
+      "domain": ".twitter.com",
+      "expires": 1684145630.724109,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 63079204.724108934,
+      "name": "personalization_id",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 47,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "\"v1_5YSvbG4PQ+2OwvnBOZDdSg==\""
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1628849630,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783204,
+      "name": "_gcl_au",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 32,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "1.1.1461112765.1621073631"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1621074830,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 8404,
+      "name": "websdk_swiper_flags",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 45,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "first_sc_hit%2Cwait_for_sc"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1778840030,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 157773604,
+      "name": "ivid_b",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 42,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "f709cc1e-0437-4380-9945-34cb32e12c5c"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1628849631,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 7783205,
+      "name": "_fbp",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 33,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "fb.1.1621073631006.2057684605"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1621075431.063204,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9005.063204050064,
+      "name": "da_sid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 46,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "6A7535EB8E33AEBD7F5BAA134D39FC8510|4|0|0"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1652609631.065162,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 31543205.065161943,
+      "name": "da_lid",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 46,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "594606D89A73EA26EA0ABB990F3BB68EA3|0|0|0"
+    },
+    {
+      "domain": ".intuit.com",
+      "expires": 1621075431.066792,
+      "httpOnly": false,
+      "is_thirdparty": false,
+      "is_tracker": false,
+      "lifetime": 9005.066792011261,
+      "name": "da_intState",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "secure": false,
+      "session": false,
+      "size": 11,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": ""
+    },
+    {
+      "domain": ".rlcdn.com",
+      "expires": 1652609631.77978,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.77977991,
+      "name": "rlas3",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 49,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "fJHUtDtPVCexA3fvbaJ98KUnZkE/cA79kLBvRhtVIp8="
+    },
+    {
+      "domain": ".dpm.demdex.net",
+      "expires": 1636625632.239008,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559206.23900795,
+      "name": "dpm",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 41,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "62806188666424728842776170248421446571"
+    },
+    {
+      "domain": ".rlcdn.com",
+      "expires": 1626257631.780091,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 5191205.780091047,
+      "name": "pxrc",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 32,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "CN+9/oQGEgUI6AcQABIGCPHrARAA"
+    },
+    {
+      "domain": ".w55c.net",
+      "expires": 1655288031.983003,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 34221605.9830029,
+      "name": "wfivefivec",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 25,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "jBHKxdzV1LHRiT5"
+    },
+    {
+      "domain": ".adsrvr.org",
+      "expires": 1652609631.922288,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.92228794,
+      "name": "TDID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 40,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "279afe28-2446-4f33-b0fd-927cde83d8f9"
+    },
+    {
+      "domain": ".adsrvr.org",
+      "expires": 1652609631.92238,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31543205.92237997,
+      "name": "TDCPM",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 65,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "CAESEgoDYWFtEgsIpNCevYXlyzkQBRgFIAEoAjILCOy10-mb5cs5EAU4AQ.."
+    },
+    {
+      "domain": ".bing.com",
+      "expires": 1654769631.981416,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 33703205.98141599,
+      "name": "MUID",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 36,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "06DD9640E0C6615F17B08678E1ED604D"
+    },
+    {
+      "domain": ".w55c.net",
+      "expires": 1623665631.983145,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 2599205.9831449986,
+      "name": "matchdmx",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 9,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "5"
+    },
+    {
+      "domain": ".demdex.net",
+      "expires": 1636625632,
+      "httpOnly": false,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 15559206,
+      "name": "dextp",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 149,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "359-1-1621073631319|477-1-1621073631448|771-1-1621073631582|903-1-1621073631716|1957-1-1621073631849|30646-1-1621073631983|57282-1-1621073632121"
+    },
+    {
+      "domain": ".yahoo.com",
+      "expires": 1652631232.149157,
+      "httpOnly": true,
+      "is_thirdparty": true,
+      "is_tracker": true,
+      "lifetime": 31564806.149157047,
+      "name": "A3",
+      "path": "/",
+      "priority": "Medium",
+      "sameParty": false,
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 69,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "d=AQABBOCen2ACECT9x0j8aybUYyNRMB7K89Y&S=AQAAAvf5o4o-gnfIARZtNpCBwWs"
+    }
+  ],
+  "cookiestats": {
+    "first_party_long": 11,
+    "first_party_short": 10,
+    "third_party_long": 20,
+    "third_party_short": 3,
+    "trackers": [
+      "adsrvr.org",
+      "bing.com",
+      "demdex.net",
+      "doubleclick.net",
+      "ispot.tv",
+      "linkedin.com",
+      "rlcdn.com",
+      "twitter.com",
+      "w55c.net",
+      "yahoo.com",
+      "youtube.com"
+    ]
+  },
+  "facebook_pixel": {
+    "event": [
+      "ev=PageView"
+    ],
+    "facebook_pixel": true
+  },
+  "failed_requests": [],
+  "final_url": "https://www.intuit.com/",
+  "fingerprinting": {
+    "canvas": {
+      "calls": [],
+      "is_fingerprinting": false
+    },
+    "webGL": {
+      "calls": []
+    },
+    "webRTC": {
+      "calls": []
+    }
+  },
+  "fingerprinting_window": {
+    "window.AudioContext": 0,
+    "window.appCodeName": 0,
+    "window.appName": 4,
+    "window.appVersion": 4,
+    "window.cpuclass": 0,
+    "window.doNotTrack": 0,
+    "window.indexDB": 0,
+    "window.language": 29,
+    "window.mimeTypes": 2,
+    "window.platform": 2,
+    "window.plugins": 29,
+    "window.screen.colorDepth": 24,
+    "window.screen.pixelDepth": 2,
+    "window.useragent": 215
+  },
+  "google_analytics": {
+    "has_trackers": null,
+    "trackers_id": []
+  },
+  "https": {
+    "certificate": {
+      "fingerprint_sha256": "75a99c92a54cdd7f9a9b719274b896f1b5f24c83726ab49d8e3857ce11aad0c3",
+      "is_expired": false,
+      "issuer": {
+        "commonName": "DigiCert SHA2 Secure Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc"
+      },
+      "key": {
+        "size": 2048,
+        "type": "RSA"
+      },
+      "not_valid_after": 1622757599.0,
+      "not_valid_before": 1616108400.0,
+      "serial_number": 3716277028942359683495449440740062002,
+      "subject": {
+        "commonName": "mktg.intuit.com",
+        "countryName": "US",
+        "localityName": "San Diego",
+        "organizationName": "Intuit Inc.",
+        "stateOrProvinceName": "California"
+      },
+      "version": "v3"
+    },
+    "cipher": "AES_256_GCM",
+    "has_tls": true,
+    "hsts_preload": {
+      "fail_reasons": [
+        "no-include-subdomains"
+      ],
+      "is_preloaded": false,
+      "is_ready": false
+    },
+    "key_exchange": "",
+    "key_exchange_group": "X25519",
+    "mac": null,
+    "protocol": "TLS 1.3",
+    "redirects_insecure": false,
+    "redirects_secure": null,
+    "same_content": null,
+    "same_content_score": null
+  },
+  "imprint_url": "https://www.intuit.com/company/contact",
+  "insecure_content": {
+    "contained_mixed_form": false,
+    "displayed_content_with_cert_errors": false,
+    "displayed_mixed_content": false,
+    "has_cert_errors": false,
+    "has_mixed_content": false,
+    "ran_content_with_cert_errors": false,
+    "ran_mixed_content": false
+  },
+  "javascript_libraries": {
+    "AngularJS": null,
+    "React": null,
+    "jQuery": "2.2.2"
+  },
+  "local_storage": [
+    {
+      "content": "{\"expires\":1621075429379,\"value\":\"no\"}",
+      "key": "52340"
+    },
+    {
+      "content": "\"54e56f60-0914-4e28-841e-1d9607c0e0c1\"",
+      "key": "ajs_anonymous_id"
+    },
+    {
+      "content": "null",
+      "key": "segmentio.6a2f03d3-ff79-415e-98ac-729a9b8e641e.reclaimStart"
+    },
+    {
+      "content": "null",
+      "key": "ajs_group_id"
+    },
+    {
+      "content": "{\"ver\":\"4.4.3.717\",\"id\":\"4f4587d5_391a_38c4_848d_d73792ba8fea\"}",
+      "key": "ADRUM_AGENT_INFO"
+    },
+    {
+      "content": "null",
+      "key": "ajs_user_id"
+    },
+    {
+      "content": "1621073648833",
+      "key": "segmentio.6a2f03d3-ff79-415e-98ac-729a9b8e641e.ack"
+    },
+    {
+      "content": "[]",
+      "key": "segmentio.6a2f03d3-ff79-415e-98ac-729a9b8e641e.queue"
+    },
+    {
+      "content": "{}",
+      "key": "ajs_group_properties"
+    },
+    {
+      "content": "{}",
+      "key": "ajs_user_traits"
+    },
+    {
+      "content": "{\"seqId\":8,\"clientId\":\"4f4587d5_391a_38c4_848d_d73792ba8fea\",\"agentId\":\"4f4587d5_391a_38c4_848d_d73792ba8fea\"}",
+      "key": "ADRUM_CLIENTINFO"
+    },
+    {
+      "content": "54e56f60-0914-4e28-841e-1d9607c0e0c1",
+      "key": "ividEchoed"
+    },
+    {
+      "content": "null",
+      "key": "segmentio.6a2f03d3-ff79-415e-98ac-729a9b8e641e.reclaimEnd"
+    },
+    {
+      "content": "undefined",
+      "key": "debug"
+    },
+    {
+      "content": "{}",
+      "key": "segmentio.6a2f03d3-ff79-415e-98ac-729a9b8e641e.inProgress"
+    }
+  ],
+  "reachable": true,
+  "redirect_chain": [
+    "https://www.intuit.com/"
+  ],
+  "requests": [
+    {
+      "mime_type": "text/html",
+      "referer": "",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/common.css"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/bundle.css"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/intuit/us_sbg_prod/Bootstrap.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://quickbooks.intuit.com/analytics-core/track-event-lib-init.min.js"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2019/11/icom-intuit-nav-logo-small.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/10/icom-hp-areawehire-turbotax-logo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/10/icom-hp-areawehire-quickbooks-logo.png"
+    },
+    {
+      "mime_type": "image/png",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2021/01/icom-hp-areawehire-mint-logo.png"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://privacy-policy.truste.com/privacy-seal/seal?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/common.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/bundle.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/themes/platinum/resources/assets/lib/jquery.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/themes/platinum/resources/assets/dist/adrum.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://uxfabric.intuitcdn.net/gdpr-util/2.2.0/gdprUtilBundle.js"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/common.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/font/avenir-400.ca8c2af.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/common.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/font/avenir-500.433d4bc.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/common.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/font/avenir-600.7c02781.woff2"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/common.css",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/wp-content/plugins/vc_intuit_com/asset/font/avenir-700.b801fdd.woff2"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/serverComponent.php?r=401873.9967916567&namespace=Bootstrapper&staticJsPath=nexus.ensighten.com/intuit/us_sbg_prod/code/&publishedOn=Tue%20Apr%2013%2021:49:55%20GMT%202021&ClientID=203&PageID=https%3A%2F%2Fwww.intuit.com%2F"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/privacy/v1/b/1.gif?n=0&c=203&i=5tba1e&p=us_sbg_prod&s=362&d=8Ex7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNDI1IiwiY2xpZW50SWQiOjIwMywicHVibGlzaFBhdGgiOiJ1c19zYmdfcHJvZCIsImluc3RhbmNlLQDwEyI1dGJhMWUiLCJwYWNrZXQiOjAsIm1vZGUiOiJlbmZvcmMcAPALY29va2llcyI6eyJNT0RBTF9WSUVXRUQiOiKPAGpCQU5ORVIUAGFMT0NBTEUhAPAFfSwiZW52aXJvbm1lbnQiOiJub25VAPIGcmVxdWVzdHMiOlt7ImRlc3RpbmF06QBgIiwidHlwhADwD2JpbGxpbmciLCJzdGFydCI6MTYyMTA3MzYyNzYyNVoAoGQiOi0xLCJzb3WsACI6IisAQXR1cyIMAGByZWFzb25lANNdLCJkYXRhUGF0dGVyEgDAImxpc3QiOltdfV19"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://segment.intuitcdn.net/v1/projects/JkqkEqRmy39m2X5IB4albZRjCQHMiKTA/settings"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://uxfabric.intuitcdn.net/analytics/202104142250/track-event-lib.min.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://uxfabric.intuitcdn.net/analytics/202104142250/track-event-lib-performance.min.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/iframe_api"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/10/icom-hp-textasset-turbotax-product-gif-2.gif"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2021/04/grey-gradient-banner-icom-en-mobile-768x965.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/10/icom-cr-report-hero-mobile-2.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://uxfabric.intuitcdn.net/gdpr-widget/2.1.4/ccpa-widget-en.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/2b4481b875a76cfe8116c6f505ed25a4.js?conditionId0=422800"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/fdc2b659c99428f4330d4325bdd9e159.js?conditionId0=4884820"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/eed603da0e60c943f74b15a7d6aae41c.js?conditionId0=244919"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/f1d3dd19f47a29bd5e404bbe4bc73c89.js?conditionId0=1217320"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/aa19574f47b589500f5e602ad5061cdd.js?conditionId0=365238"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/cef4d4683cd7a4bb4827ed40d782b1a2.js?conditionId0=4835081"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/b77123e125144d1f485467226ec4f183.js?conditionId0=422800"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/s/player/b2ff0586/www-widgetapi.vflset/www-widgetapi.js"
+    },
+    {
+      "mime_type": "",
+      "referer": "",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://intuitvisitorid.api.intuit.com/v1/?ivid=54e56f60-0914-4e28-841e-1d9607c0e0c1"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://intuitvisitorid.api.intuit.com/v1/?ivid=54e56f60-0914-4e28-841e-1d9607c0e0c1"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 202,
+      "status_text": "",
+      "url": "https://eventbus.intuit.com/v2/segment/intuit-general-clickstream/p"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": true,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://insight.adsrvr.org/track/pxl/?adv=k572t27&ct=0:4o7vc7v&fmt=3"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.ads-twitter.com/uwt.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/id?d_visid_ver=5.0.1&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=969430F0543F253D0A4C98C6%40AdobeOrg&d_nsid=5&ts=1621073629107"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=71656&time=1621073629389&url=https%3A%2F%2Fwww.intuit.com%2F"
+    },
+    {
+      "mime_type": "text/css",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/s/player/b2ff0586/www-player-webp.css"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/s/player/b2ff0586/www-embed-player.vflset/www-embed-player.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/s/player/b2ff0586/player_ias.vflset/es_ES/base.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/s/player/b2ff0586/fetch-polyfill.vflset/fetch-polyfill.js"
+    },
+    {
+      "mime_type": "font/woff2",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/id/rd?d_visid_ver=5.0.1&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=969430F0543F253D0A4C98C6%40AdobeOrg&d_nsid=5&ts=1621073629107"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://t.co/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=o34yb&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.intuit.com%2F"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://quickbooks.intuit.com/cas/dam/IMAGE/A2T6NMEQp/Intuit-Blue.Intuit-RGB-Blue.svg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sci.intuit.com/b/ss/intuitsbgprod,intuiticomprod/1/JS-2.22.0/s93150770524809?AQB=1&ndh=1&pf=1&t=15%2F4%2F2021%2012%3A13%3A49%206%20-120&fid=78BE54A0F11C9660-19073FCF65701764&ce=UTF-8&ns=intuitinc&pageName=icom%7Cmktg%7Cwww%7Cindex&g=https%3A%2F%2Fwww.intuit.com%2F&cc=USD&ch=icom%7Cmktg&server=www.intuit.com&c1=D%3Dv1&v1=icom%7Cmktg%7Cwww&c2=D%3DpageName&h2=D%3DpageName&c16=Lookers&c26=D%3Dv26&v26=%28no%20cookie%29&c27=D%3Dg&v27=D%3Dg&c30=page%7Cwa.track%20%28page%20load%29&c33=intuitsbgprod%2Cintuiticomprod&c36=2.22.0%3Awa2%7C2021%7C4%7C13%7Cus_sbg_prod&c49=D%3DpageName&v54=54e56f60-0914-4e28-841e-1d9607c0e0c1&c60=D%3Dv60&v60=us&c64=D%3Dv64&v64=icom&c67=D%3Dv67&v67=2021-05-15%2002%3A13%3A49&c73=D%3Dv73&v73=1834&s=800x600&c=24&j=1.6&v=N&k=Y&bw=800&bh=600&AQE=1"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sci.intuit.com/id?d_visid_ver=5.0.1&d_fieldgroup=A&mcorgid=969430F0543F253D0A4C98C6%40AdobeOrg&mid=62972683984129155532795514407647297406&ts=1621073629549"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/id"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://static.doubleclick.net/instream/ad_status.js"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/id?d_visid_ver=5.0.1&d_fieldgroup=AAM&d_rtbd=json&d_ver=2&d_orgid=969430F0543F253D0A4C98C6%40AdobeOrg&d_nsid=5&d_mid=62972683984129155532795514407647297406&d_blob=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&d_cid_ic=AVID%01304FCF6ECD9014F6-40001DCF87C25B72&ts=1621073629830"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://sci.intuit.com/b/ss/intuitsbgprod,intuiticomprod/1/JS-2.22.0/s93150770524809?AQB=1&pccr=true&vidn=304FCF6E9C0A8488-400012FF87C783CC&ndh=1&pf=1&t=15%2F4%2F2021%2012%3A13%3A49%206%20-120&fid=78BE54A0F11C9660-19073FCF65701764&ce=UTF-8&ns=intuitinc&pageName=icom%7Cmktg%7Cwww%7Cindex&g=https%3A%2F%2Fwww.intuit.com%2F&cc=USD&ch=icom%7Cmktg&server=www.intuit.com&c1=D%3Dv1&v1=icom%7Cmktg%7Cwww&c2=D%3DpageName&h2=D%3DpageName&c16=Lookers&c26=D%3Dv26&v26=%28no%20cookie%29&c27=D%3Dg&v27=D%3Dg&c30=page%7Cwa.track%20%28page%20load%29&c33=intuitsbgprod%2Cintuiticomprod&c36=2.22.0%3Awa2%7C2021%7C4%7C13%7Cus_sbg_prod&c49=D%3DpageName&v54=54e56f60-0914-4e28-841e-1d9607c0e0c1&c60=D%3Dv60&v60=us&c64=D%3Dv64&v64=icom&c67=D%3Dv67&v67=2021-05-15%2002%3A13%3A49&c73=D%3Dv73&v73=1834&s=800x600&c=24&j=1.6&v=N&k=Y&bw=800&bh=600&AQE=1"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D71656%26time%3D1621073629389%26url%3Dhttps%253A%252F%252Fwww.intuit.com%252F%26liSync%3Dtrue"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/s/player/b2ff0586/player_ias.vflset/es_ES/remote.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/js/th/AUGvlSuEtHOcWRQLUt13huJM0vW_5kL1XylCO744oBE.js"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/s/player/b2ff0586/player_ias.vflset/es_ES/embed.js"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://yt3.ggpht.com/ytc/AAUvwni9SNOvy4EtemEbfU1XmZKMCfNwGbdoS-ObQvwPKA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "mime_type": "image/webp",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i.ytimg.com/vi_webp/esI-RAuOL8o/sddefault.webp"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=71656&time=1621073629389&url=https%3A%2F%2Fwww.intuit.com%2F&liSync=true"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://www.youtube.com/generate_204?0DQqLw"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/privacy/v1/b/1.gif?n=1&c=203&i=5tba1e&p=us_sbg_prod&s=1632&d=8Ex7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNDI1IiwiY2xpZW50SWQiOjIwMywicHVibGlzaFBhdGgiOiJ1c19zYmdfcHJvZCIsImluc3RhbmNlLQDwEyI1dGJhMWUiLCJwYWNrZXQiOjEsIm1vZGUiOiJlbmZvcmMcAPALY29va2llcyI6eyJNT0RBTF9WSUVXRUQiOiKPAGpCQU5ORVIUAGFMT0NBTEUhAPAFfSwiZW52aXJvbm1lbnQiOiJub25VAPIGcmVxdWVzdHMiOlt7ImRlc3RpbmF06QD6Xmh0dHBzOi8vaW5zaWdodC5hZHNydnIub3JnL3RyYWNrL3B4bC8_YWR2PWs1NzJ0MjcmY3Q9MDo0bzd2Yzd2JmZtdD0zIiwidHlwZSI6ImltZyIsInN0YXJ0IjoxNjIxMDczNjI4OTM3LCJlbmQUAGA4LCJzb3X3APIJOiJIVE1MSW1hZ2VfU0VUQVRUUklCVVRFTADAdHVzIjoiYWxsb3dlVQFgcmVhc29uzQDUXSwiZGF0YVBhdHRlchIAymxpc3QiOltdLCJpZHEAPzd9LP8AZBA5mQEIjgBHOTM3Mv8AMW11dJEBmE9ic2VydmVyQfoAP2xvYfcAKh859wAHEHN3ABBj9QFALXR3aUYBxS5jb20vdXd0LmpzItcBYnNjcmlwdJQAC9oBLjYx2wAnODbbALBpbnNlcnRCZWZvcosCAHIAAdABD9YALC82MdYASh801gAMD7EBSS82NNsACJFuYXAubGljZG6pAfUBbGkubG1zLWFuYWx5dGljc8cDP21pbsIBEz85MDXCAQAYOZ0CD8IBQgB4AA_nAFseM9MBCecAD9MBQsAwNzM2MjkwNTN9XX0"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.youtube.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://i1.ytimg.com/vi/esI-RAuOL8o/hqdefault.jpg"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.websdk.intuit.com/js/cdc_lib_min_1.10.12.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=DC-8344993"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-710954691"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;u10=US;ord=1;num=7793285269648?"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pt.ispot.tv/v2/TC-3346-1.gif?type=visit_intuit"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://pt.ispot.tv/v2/TC-3346-1.gif?type=visit_allbrands"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://turbotax.demdex.net/dest5.html?d_nsid=5"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=1.1.1&p_id=Twitter&p_user_id=0&txn_id=o34yb&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.intuit.com%2F"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.decibelinsight.net/i/13878/256560/di.js"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect.facebook.net/en_US/fbevents.js"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://cdn.appdynamics.com/adrum-ext.99c2fcc5ccc30ea4d38a1a74eeb7a6a6.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 202,
+      "status_text": "",
+      "url": "https://eventbus.intuit.com/v2/segment/intuit-general-clickstream/t"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/etc/designs/websdk/assets/sbm-config.js"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://1996823.fls.doubleclick.net/activityi;dc_pre=CLaun--5y_ACFUnJ3god9u8Nlw;src=1996823;type=fmsco864;cat=intui399;u10=US;ord=1;num=7793285269648?"
+    },
+    {
+      "mime_type": "application/x-javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://connect.facebook.net/signals/config/1827482914219447?v=2.9.39&r=stable"
+    },
+    {
+      "mime_type": "application/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googletagmanager.com/gtag/js?id=DC-8344993&l=dataLayer&cx=c"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://8344993.fls.doubleclick.net/activityi;src=8344993;type=int_00;cat=intui006;ord=2837290220340;gtm=2od5c1;auiddc=1461112765.1621073631;~oref=https%3A%2F%2Fwww.intuit.com%2F?"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://trinity.platform.intuit.com/trinity/v1/intuit-clickstream"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "about:blank",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://8344993.fls.doubleclick.net/activityi;dc_pre=CPfNsO-5y_ACFQyehQod1iYC7Q;src=8344993;type=int_00;cat=intui006;ord=2837290220340;gtm=2od5c1;auiddc=1461112765.1621073631;~oref=https%3A%2F%2Fwww.intuit.com%2F?"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://collection.decibelinsight.net/i/13878/256560/c.json"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/10/icom-hp-textasset-quickbooks-product-1.jpg"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://1996823.fls.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleadservices.com/pagead/conversion.js"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://1996823.fls.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CLaun--5y_ACFUnJ3god9u8Nlw;src=1996823;type=fmsco864;cat=intui399;u10=US;ord=1;num=7793285269648"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/710954691/?random=1621073630956&cv=9&fst=1621073630956&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.intuit.com%2F&tiba=Intuit%C2%AE%3A%20Complete%20Financial%20Confidence&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.facebook.com/tr/?id=1827482914219447&ev=PageView&dl=https%3A%2F%2Fwww.intuit.com%2F&rl=&if=false&ts=1621073631014&sw=800&sh=600&v=2.9.39&r=stable&a=tmensighten&ec=0&o=29&fbp=fb.1.1621073631006.2057684605&it=1621073630630&coo=false&dpo=LDU&dpoco=0&dpost=0&exp=l0&rqm=GET"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/1p-user-list/710954691/?random=1621073630956&cv=9&fst=1621072800000&num=1&bg=ffffff&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.intuit.com%2F&tiba=Intuit%C2%AE%3A%20Complete%20Financial%20Confidence&async=1&fmt=3&is_vtc=1&random=3470500083&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/pagead/1p-user-list/710954691/?random=1621073630956&cv=9&fst=1621072800000&num=1&bg=ffffff&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa5c1&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.intuit.com%2F&tiba=Intuit%C2%AE%3A%20Complete%20Financial%20Confidence&async=1&fmt=3&is_vtc=1&random=3470500083&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
+    },
+    {
+      "mime_type": "text/javascript",
+      "referer": "https://1996823.fls.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.googleadservices.com/pagead/conversion/1060272494/?random=1621073631095&cv=9&fst=1621073631095&num=1&value=0&label=mwfVCMb13AEQ7vLJ-QM&bg=666666&hl=en&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&sendb=1&ig=1&frm=2&url=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCLaun--5y_ACFUnJ3god9u8Nlw%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bu10%3DUS%3Bord%3D1%3Bnum%3D7793285269648%3F&ref=https%3A%2F%2Fwww.intuit.com%2F&hn=www.googleadservices.com&rfmt=3&fmt=4"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://8344993.fls.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CPfNsO-5y_ACFQyehQod1iYC7Q;src=8344993;type=int_00;cat=intui006;ord=2837290220340;gtm=2od5c1;auiddc=*;~oref=https%3A%2F%2Fwww.intuit.com%2F"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://1996823.fls.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1060272494/?random=1300950582&cv=9&fst=1621073631095&num=1&value=0&label=mwfVCMb13AEQ7vLJ-QM&bg=666666&hl=en&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&sendb=1&ig=1&frm=2&url=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCLaun--5y_ACFUnJ3god9u8Nlw%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bu10%3DUS%3Bord%3D1%3Bnum%3D7793285269648%3F&ref=https%3A%2F%2Fwww.intuit.com%2F&hn=www.googleadservices.com&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=356fYOfmB4SD2fcP6qeJ-A8&sscte=1&crd="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://1996823.fls.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.com/pagead/1p-user-list/1060272494/?random=1300950582&cv=9&fst=1621072800000&num=1&value=0&label=mwfVCMb13AEQ7vLJ-QM&bg=666666&hl=en&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCLaun--5y_ACFUnJ3god9u8Nlw%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bu10%3DUS%3Bord%3D1%3Bnum%3D7793285269648%3F&ref=https%3A%2F%2Fwww.intuit.com%2F&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&is_vtc=1&random=2725775933&resp=GooglemKTybQhCsO"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://1996823.fls.doubleclick.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.google.es/pagead/1p-user-list/1060272494/?random=1300950582&cv=9&fst=1621072800000&num=1&value=0&label=mwfVCMb13AEQ7vLJ-QM&bg=666666&hl=en&guid=ON&eid=2505059650&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=120&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCLaun--5y_ACFUnJ3god9u8Nlw%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bu10%3DUS%3Bord%3D1%3Bnum%3D7793285269648%3F&ref=https%3A%2F%2Fwww.intuit.com%2F&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&is_vtc=1&random=2725775933&resp=GooglemKTybQhCsO&ipr=y"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://pm.w55c.net/ping_match.gif?st=dmx&rurl=https%3A%2F%2Fdpm.demdex.net%2Fibs%3Adpid%3D359%26dpuuid%3D_wfivefivec_"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2021/01/icom-hp-textasset-mint-product.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://idsync.rlcdn.com/365868.gif?partner_uid=62806188666424728842776170248421446571"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=adobe_dmp&google_cm&gdpr=0&gdpr_consent=&google_hm=NjI4MDYxODg2NjY0MjQ3Mjg4NDI3NzYxNzAyNDg0MjE0NDY1NzE="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://idsync.rlcdn.com/1000.gif?memo=CKyqFhIxCi0IARCYEhomNjI4MDYxODg2NjY0MjQ3Mjg4NDI3NzYxNzAyNDg0MjE0NDY1NzEQABoNCN-9_oQGEgUI6AcQAEIASgA"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=771&dpuuid=CAESEJVLWpCR560OwNUTLpZaLZE&google_cver=1?gdpr=0&gdpr_consent="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam&gdpr=0&gdpr_consent=&ttd_tpi=1"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=477&dpuuid=002a3f3511485e3dfbd6a5d11fdc9adbbbea41a88c52df71c7555917ddec6dbeb0da87c991749652"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://c.bing.com/c.gif?uid=62806188666424728842776170248421446571&Red3=MSAdobe_pd&gdpr=0&gdpr_consent="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://pm.w55c.net/ping_match.gif?scc=1&st=dmx&rurl=https%3A%2F%2Fdpm.demdex.net%2Fibs%3Adpid%3D359%26dpuuid%3D_wfivefivec_"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://match.adsrvr.org/track/cmb/generic?ttd_pid=aam&gdpr=0&gdpr_consent=&ttd_tpi=1"
+    },
+    {
+      "mime_type": "text/html",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://col.eum-appdynamics.com/eumcollector/beacons/browser/v1/AD-AAB-AAP-NJD/adrum"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=279afe28-2446-4f33-b0fd-927cde83d8f9"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/11/icom-legal-privacy-your-privacy-hero-desktop.jpg"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://cms.analytics.yahoo.com/cms?partner_id=ADOBE&_hosted_id=62806188666424728842776170248421446571&gdpr=0&gdpr_consent="
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=1957&dpuuid=06DD9640E0C6615F17B08678E1ED604D"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=359&dpuuid=jBHKxdzV1LHRiT5"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://ds.reson8.com/adb-ext.gif?puid=62806188666424728842776170248421446571"
+    },
+    {
+      "mime_type": "image/gif",
+      "referer": "https://turbotax.demdex.net/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "OK",
+      "url": "https://dpm.demdex.net/ibs:dpid=30646?dpuuid=y-3eiLSR9E2pEMIo9d4KURTz1VVn7bNmaze24-~A"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/11/icom-hp-innovation-mint-rocket.jpg"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.intuit.com/oicms/i_com/uploads/2020/11/icom-hp-innovation-qb-live-3.jpg"
+    },
+    {
+      "mime_type": "text/plain",
+      "referer": "https://www.intuit.com/",
+      "sets_cookie": false,
+      "status_code": 204,
+      "status_text": "",
+      "url": "https://nexus.ensighten.com/privacy/v1/b/1.gif?n=2&c=203&i=5tba1e&p=us_sbg_prod&s=3945&d=8Ex7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNDI1IiwiY2xpZW50SWQiOjIwMywicHVibGlzaFBhdGgiOiJ1c19zYmdfcHJvZCIsImluc3RhbmNlLQDwEyI1dGJhMWUiLCJwYWNrZXQiOjIsIm1vZGUiOiJlbmZvcmMcAPALY29va2llcyI6eyJNT0RBTF9WSUVXRUQiOiKPAGpCQU5ORVIUAGFMT0NBTEUhAPAFfSwiZW52aXJvbm1lbnQiOiJub25VAPIGcmVxdWVzdHMiOlt7ImRlc3RpbmF06QDwKmh0dHBzOi8vcHQuaXNwb3QudHYvdjIvVEMtMzM0Ni0xLmdpZj90eXBlPXZpc2l0X2ludHVpdCIsIhQA8A4iOiJpbWciLCJzdGFydCI6MTYyMTA3MzYzMDQxNYwAHWQUADBzb3XpAAE5APAAX0RPTUF0dHJNb2RpZmllMQHhc3RhdHVzIjoiYWxsb3cTAGByZWFzb268ANRdLCJkYXRhUGF0dGVyEgC8bGlzdCI6W10sImluAC99LO4ALZ9hbGxicmFuZHPxABAfOfEAAD85LCLxAFgfOfEAB_Yhd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM_aWQ9QVctNzEwOTU0Njkx8ABQc2NyaXDxAQ7kAS00MPMANzU5MvMAMW11dGgCkk9ic2VydmVyQSsCAuIBMGxvYfIBD98BJS80MO4AB_MbMTk5NjgyMy5mbHMuZG91YmxlY2xpY2submV0L2FjdGl2aXR5aTtzcmM9KgAQO84C4T1mbXNjbzg2NDtjYXQ96QL2FDM5OTt1MTA9VVM7b3JkPTE7bnVtPTc3OTMyODUyNjk2NDg_KgFQaWZyYW1vAw8qAQAfMSoBaR8xKgEH8gBjb25uZWN0LmZhY2Vib28jAfcBZW5fVVMvZmJldmVudHMuav4CDw4CCC02MuQANzYzNA4Cs2luc2VydEJlZm9yJgEPCQIyLzYy3wBTHzTfAAwP7QJJLzY05AAHD9sDQi4xN-4ALzg2zQFPLzE36QArpkRDLTgzNDQ5OTOYAw-0AggeMdUBPzc4MecAUA_QASwG5wAwJmw9FAevTGF5ZXImY3g9Y_gAES42OKwDPzkzOPgATi82OKwDCA_IAhEP-AAuDpYICvgAD8UDSD82ODXcAhEgYWQsB0FpY2VzoAejcGFnZWFkL2Nvbp0Kb19hc3luY5UFFC43NXkGLzk2yANPLzc1dAYIBukBD-wAOx44jwgK7AAP3QFILzc4jwgID2UHAnBzaWduYWxz2gHwFmZpZy8xODI3NDgyOTE0MjE5NDQ3P3Y9Mi45LjM5JnI9c3RhYmwzBwCmCD8iOiLRBActNjPZA08xMDI12QNPHzPZAwgP_wBZDdAFC_8ADwMCSC82M9UFCANoCg-SCncsMzbhBykxM_oGoGFwcGVuZENoaWymCwWYDQ-2CyXAMDczNjMwNDM2fV19"
+    },
+    {
+      "mime_type": "application/json",
+      "referer": "https://www.youtube.com/embed/esI-RAuOL8o?origin=https%3A%2F%2Fwww.intuit.com&controls=1&iv_load_policy=3&playsinline=1&rel=0&mute=0&loop=1&showInfo=0&autoplay=0&playlist=esI-RAuOL8o&enablejsapi=1&widgetid=1",
+      "sets_cookie": false,
+      "status_code": 200,
+      "status_text": "",
+      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
+    }
+  ],
+  "security_headers": {
+    "Access-Control-Allow-Origin": null,
+    "Content-Security-Policy": null,
+    "Expect-CT": null,
+    "Referrer-Policy": null,
+    "Strict-Transport-Security": {
+      "header_value": "max-age=31536000; preload",
+      "includeSubDomains": false,
+      "max-age": 31536000,
+      "preload": true
+    },
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN,SAMEORIGIN",
+    "X-XSS-Protection": {
+      "header_value": "1; mode=block",
+      "is_active": true,
+      "mode": "block"
+    }
+  },
+  "session_storage": [
+    {
+      "content": "54e56f60-0914-4e28-841e-1d9607c0e0c1",
+      "key": "ividEchoed"
+    },
+    {
+      "content": "8de0b3fb-1b02858",
+      "key": "di_tab_hash"
+    },
+    {
+      "content": "1",
+      "key": "di_tab_active"
+    },
+    {
+      "content": "6A7535EB8E33AEBD7F5BAA134D39FC8510",
+      "key": "_da_da_sessionId"
+    }
+  ],
+  "site_url": "https://www.intuit.com\n",
+  "third_parties": {
+    "fqdns": [
+      "1996823.fls.doubleclick.net",
+      "8344993.fls.doubleclick.net",
+      "adservice.google.com",
+      "analytics.twitter.com",
+      "c.bing.com",
+      "cdn.appdynamics.com",
+      "cdn.decibelinsight.net",
+      "cm.g.doubleclick.net",
+      "cms.analytics.yahoo.com",
+      "col.eum-appdynamics.com",
+      "collection.decibelinsight.net",
+      "connect.facebook.net",
+      "dpm.demdex.net",
+      "ds.reson8.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "i.ytimg.com",
+      "i1.ytimg.com",
+      "idsync.rlcdn.com",
+      "insight.adsrvr.org",
+      "match.adsrvr.org",
+      "nexus.ensighten.com",
+      "pm.w55c.net",
+      "privacy-policy.truste.com",
+      "pt.ispot.tv",
+      "px.ads.linkedin.com",
+      "segment.intuitcdn.net",
+      "snap.licdn.com",
+      "static.ads-twitter.com",
+      "static.doubleclick.net",
+      "t.co",
+      "turbotax.demdex.net",
+      "uxfabric.intuitcdn.net",
+      "www.facebook.com",
+      "www.google.com",
+      "www.google.es",
+      "www.googleadservices.com",
+      "www.googletagmanager.com",
+      "www.gstatic.com",
+      "www.linkedin.com",
+      "www.youtube.com",
+      "yt3.ggpht.com"
+    ],
+    "num_http_requests": 0,
+    "num_https_requests": 92
+  },
+  "tracking": {
+    "num_tracker_cookies": 23,
+    "num_tracker_requests": 71,
+    "trackers": [
+      "1996823.fls.doubleclick.net",
+      "8344993.fls.doubleclick.net",
+      "adservice.google.com",
+      "analytics.twitter.com",
+      "c.bing.com",
+      "cdn.appdynamics.com",
+      "cdn.decibelinsight.net",
+      "cm.g.doubleclick.net",
+      "cms.analytics.yahoo.com",
+      "col.eum-appdynamics.com",
+      "collection.decibelinsight.net",
+      "connect.facebook.net",
+      "dpm.demdex.net",
+      "ds.reson8.com",
+      "googleads.g.doubleclick.net",
+      "idsync.rlcdn.com",
+      "insight.adsrvr.org",
+      "match.adsrvr.org",
+      "nexus.ensighten.com",
+      "pm.w55c.net",
+      "privacy-policy.truste.com",
+      "pt.ispot.tv",
+      "px.ads.linkedin.com",
+      "snap.licdn.com",
+      "static.ads-twitter.com",
+      "static.doubleclick.net",
+      "t.co",
+      "turbotax.demdex.net",
+      "uxfabric.intuitcdn.net",
+      "www.facebook.com",
+      "www.google.com",
+      "www.googleadservices.com",
+      "www.googletagmanager.com",
+      "www.youtube.com"
+    ]
+  }
+}
